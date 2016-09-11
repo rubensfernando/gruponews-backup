@@ -3,7 +3,7 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
-author: false
+author: |
 post_date: 2014-02-04 09:00:53
 post_excerpt: ""
 layout: post

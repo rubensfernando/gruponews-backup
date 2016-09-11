@@ -1,7 +1,7 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author: false
+author: |
 post_date: 2007-09-09 22:43:18
 post_excerpt: ""
 layout: post

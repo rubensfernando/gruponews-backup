@@ -3,7 +3,7 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author: false
+author: |
 post_date: 2009-12-01 00:57:16
 post_excerpt: ""
 layout: post

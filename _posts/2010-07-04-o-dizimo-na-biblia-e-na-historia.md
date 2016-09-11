@@ -1,7 +1,7 @@
 ---
 ID: 3194
 post_title: O dízimo na Bíblia e na História
-author: false
+author: |
 post_date: 2010-07-04 17:40:48
 post_excerpt: ""
 layout: post

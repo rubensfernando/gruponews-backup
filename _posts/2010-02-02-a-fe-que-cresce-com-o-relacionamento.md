@@ -1,7 +1,7 @@
 ---
 ID: 1504
 post_title: A fé que cresce com o relacionamento
-author: false
+author: |
 post_date: 2010-02-02 00:50:26
 post_excerpt: ""
 layout: post

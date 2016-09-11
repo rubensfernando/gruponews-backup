@@ -1,7 +1,7 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
-author: false
+author: |
 post_date: 2014-02-20 00:46:48
 post_excerpt: ""
 layout: post

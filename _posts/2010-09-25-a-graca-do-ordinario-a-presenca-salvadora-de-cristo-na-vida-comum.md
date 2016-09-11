@@ -1,7 +1,7 @@
 ---
 ID: 1122
 post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
-author: false
+author: |
 post_date: 2010-09-25 23:08:32
 post_excerpt: ""
 layout: post

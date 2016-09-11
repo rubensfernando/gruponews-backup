@@ -1,7 +1,7 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-author: false
+author: |
 post_date: 2009-11-01 12:00:01
 post_excerpt: ""
 layout: post

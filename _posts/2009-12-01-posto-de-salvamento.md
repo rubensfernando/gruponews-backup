@@ -1,7 +1,7 @@
 ---
 ID: 169
 post_title: Posto de Salvamento
-author: false
+author: |
 post_date: 2009-12-01 22:05:55
 post_excerpt: ""
 layout: post

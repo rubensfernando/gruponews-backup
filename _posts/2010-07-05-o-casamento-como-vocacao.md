@@ -1,7 +1,7 @@
 ---
 ID: 3226
 post_title: O casamento como vocação
-author: false
+author: |
 post_date: 2010-07-05 15:12:52
 post_excerpt: ""
 layout: post

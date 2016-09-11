@@ -1,7 +1,7 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
-author: false
+author: |
 post_date: 2009-12-01 22:13:30
 post_excerpt: ""
 layout: post

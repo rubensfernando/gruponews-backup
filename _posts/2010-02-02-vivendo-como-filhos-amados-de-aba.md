@@ -1,7 +1,7 @@
 ---
 ID: 1482
 post_title: Vivendo como filhos amados de Aba
-author: false
+author: |
 post_date: 2010-02-02 00:25:11
 post_excerpt: ""
 layout: post

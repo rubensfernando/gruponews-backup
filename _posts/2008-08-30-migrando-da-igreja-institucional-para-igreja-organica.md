@@ -3,7 +3,7 @@ ID: 3876
 post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
-author: false
+author: |
 post_date: 2008-08-30 13:37:06
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 4256
 post_title: O divino ciumento?
-author: false
+author: |
 post_date: 2014-09-10 10:30:11
 post_excerpt: ""
 layout: post

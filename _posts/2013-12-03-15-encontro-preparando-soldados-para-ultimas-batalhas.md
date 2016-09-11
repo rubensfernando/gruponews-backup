@@ -3,7 +3,7 @@ ID: 3569
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: false
+author: |
 post_date: 2013-12-03 13:32:56
 post_excerpt: ""
 layout: post

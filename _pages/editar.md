@@ -1,7 +1,7 @@
 ---
 ID: 2119
 post_title: Editar
-author: false
+author: |
 post_date: 2012-03-04 20:28:08
 post_excerpt: ""
 layout: page

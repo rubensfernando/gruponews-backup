@@ -1,7 +1,7 @@
 ---
 ID: 133
 post_title: Simplicidade voluntária
-author: false
+author: |
 post_date: 2009-12-01 22:19:19
 post_excerpt: ""
 layout: post

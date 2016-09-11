@@ -1,7 +1,7 @@
 ---
 ID: 152
 post_title: Comunhão e Confissão
-author: false
+author: |
 post_date: 2009-12-01 21:14:20
 post_excerpt: ""
 layout: post

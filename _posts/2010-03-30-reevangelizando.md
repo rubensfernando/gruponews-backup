@@ -1,7 +1,7 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author: false
+author: |
 post_date: 2010-03-30 22:15:01
 post_excerpt: ""
 layout: post

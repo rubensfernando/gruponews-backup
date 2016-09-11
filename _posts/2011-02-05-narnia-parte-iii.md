@@ -1,7 +1,7 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
-author: false
+author: |
 post_date: 2011-02-05 22:08:21
 post_excerpt: ""
 layout: post

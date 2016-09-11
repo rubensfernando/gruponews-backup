@@ -3,7 +3,7 @@ ID: 2872
 post_title: >
   Falando mais sobre os sofrimentos da
   criança
-author: false
+author: |
 post_date: 2013-03-13 00:00:26
 post_excerpt: ""
 layout: post

@@ -3,7 +3,7 @@ ID: 3168
 post_title: >
   Muito mais humanos do que costumamos
   admitir
-author: false
+author: |
 post_date: 2010-07-01 17:15:06
 post_excerpt: ""
 layout: post

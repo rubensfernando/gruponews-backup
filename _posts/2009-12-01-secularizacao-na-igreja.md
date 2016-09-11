@@ -1,7 +1,7 @@
 ---
 ID: 129
 post_title: Secularização na igreja
-author: false
+author: |
 post_date: 2009-12-01 22:14:57
 post_excerpt: ""
 layout: post

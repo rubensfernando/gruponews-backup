@@ -1,7 +1,7 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-author: false
+author: |
 post_date: 2011-03-29 22:18:18
 post_excerpt: ""
 layout: post

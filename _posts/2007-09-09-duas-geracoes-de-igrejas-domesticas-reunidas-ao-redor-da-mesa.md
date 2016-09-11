@@ -3,7 +3,7 @@ ID: 3959
 post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
-author: false
+author: |
 post_date: 2007-09-09 22:58:48
 post_excerpt: ""
 layout: post

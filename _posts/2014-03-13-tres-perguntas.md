@@ -1,7 +1,7 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author: false
+author: |
 post_date: 2014-03-13 23:56:07
 post_excerpt: ""
 layout: post

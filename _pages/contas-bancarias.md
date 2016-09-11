@@ -1,7 +1,7 @@
 ---
 ID: 3395
 post_title: Contas bancárias
-author: false
+author: |
 post_date: 2013-08-06 21:45:57
 post_excerpt: ""
 layout: page

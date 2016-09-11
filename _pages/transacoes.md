@@ -1,7 +1,7 @@
 ---
 ID: 1996
 post_title: Transações
-author: false
+author: |
 post_date: 2011-12-03 20:08:56
 post_excerpt: ""
 layout: page

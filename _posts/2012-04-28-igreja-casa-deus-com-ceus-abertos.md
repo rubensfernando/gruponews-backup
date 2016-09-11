@@ -1,7 +1,7 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
-author: false
+author: |
 post_date: 2012-04-28 14:30:12
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1399
 post_title: Centro de Eventos Vale da Águia
-author: false
+author: |
 post_date: 2011-03-20 16:54:08
 post_excerpt: ""
 layout: page

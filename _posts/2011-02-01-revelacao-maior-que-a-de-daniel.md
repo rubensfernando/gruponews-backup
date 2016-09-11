@@ -1,7 +1,7 @@
 ---
 ID: 1379
 post_title: Revelação maior que a de Daniel
-author: false
+author: |
 post_date: 2011-02-01 01:30:18
 post_excerpt: ""
 layout: post

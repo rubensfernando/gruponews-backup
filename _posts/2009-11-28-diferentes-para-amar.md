@@ -1,7 +1,7 @@
 ---
 ID: 104
 post_title: Diferentes para Amar
-author: false
+author: |
 post_date: 2009-11-28 18:16:29
 post_excerpt: ""
 layout: post

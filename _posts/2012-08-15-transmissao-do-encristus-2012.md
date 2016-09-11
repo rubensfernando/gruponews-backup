@@ -3,7 +3,7 @@ ID: 2658
 post_title: >
   Acompanhe a transmissão online do
   ENCRISTUS aqui no site GrupoNews
-author: false
+author: |
 post_date: 2012-08-15 12:00:18
 post_excerpt: ""
 layout: post

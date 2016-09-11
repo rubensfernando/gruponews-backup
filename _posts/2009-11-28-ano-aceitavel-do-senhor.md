@@ -1,7 +1,7 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author: false
+author: |
 post_date: 2009-11-28 17:50:34
 post_excerpt: ""
 layout: post

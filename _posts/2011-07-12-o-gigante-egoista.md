@@ -1,7 +1,7 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author: false
+author: |
 post_date: 2011-07-12 18:59:02
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1061
 post_title: Investimento
-author: false
+author: |
 post_date: 2010-09-11 18:12:39
 post_excerpt: ""
 layout: page

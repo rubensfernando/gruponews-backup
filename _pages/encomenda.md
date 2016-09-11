@@ -1,7 +1,7 @@
 ---
 ID: 1266
 post_title: Encomendas
-author: false
+author: |
 post_date: 2011-01-24 12:46:13
 post_excerpt: ""
 layout: page

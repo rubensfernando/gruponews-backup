@@ -1,7 +1,7 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
-author: false
+author: |
 post_date: 2010-07-05 15:13:07
 post_excerpt: ""
 layout: post

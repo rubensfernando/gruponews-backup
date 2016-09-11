@@ -1,7 +1,7 @@
 ---
 ID: 3686
 post_title: Encontro de Evangelismo 2015
-author: false
+author: |
 post_date: 2015-05-15 10:40:36
 post_excerpt: ""
 layout: post

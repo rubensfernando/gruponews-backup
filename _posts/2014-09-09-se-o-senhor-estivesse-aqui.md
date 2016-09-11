@@ -1,7 +1,7 @@
 ---
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
-author: false
+author: |
 post_date: 2014-09-09 22:49:40
 post_excerpt: ""
 layout: post

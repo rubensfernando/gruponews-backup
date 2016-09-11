@@ -1,7 +1,7 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-author: false
+author: |
 post_date: 2010-07-01 17:31:59
 post_excerpt: ""
 layout: post

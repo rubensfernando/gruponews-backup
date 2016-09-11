@@ -1,7 +1,7 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-author: false
+author: |
 post_date: 2009-12-01 22:21:53
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1058
 post_title: Preletores
-author: false
+author: |
 post_date: 2010-09-11 18:11:49
 post_excerpt: ""
 layout: page

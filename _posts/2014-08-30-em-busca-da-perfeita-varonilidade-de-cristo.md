@@ -3,7 +3,7 @@ ID: 3893
 post_title: >
   Em busca da perfeita varonilidade de
   Cristo
-author: false
+author: |
 post_date: 2014-08-30 16:25:24
 post_excerpt: ""
 layout: post

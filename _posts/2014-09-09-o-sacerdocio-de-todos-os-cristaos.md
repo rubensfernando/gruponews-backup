@@ -1,7 +1,7 @@
 ---
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
-author: false
+author: |
 post_date: 2014-09-09 14:15:08
 post_excerpt: ""
 layout: post

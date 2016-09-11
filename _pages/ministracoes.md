@@ -1,7 +1,7 @@
 ---
 ID: 993
 post_title: Ministrações
-author: false
+author: |
 post_date: 2010-09-07 11:56:07
 post_excerpt: ""
 layout: page

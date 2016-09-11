@@ -1,7 +1,7 @@
 ---
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
-author: false
+author: |
 post_date: 2011-01-15 23:21:30
 post_excerpt: ""
 layout: post

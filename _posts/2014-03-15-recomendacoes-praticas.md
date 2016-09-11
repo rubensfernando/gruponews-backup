@@ -1,7 +1,7 @@
 ---
 ID: 3602
 post_title: Recomendações práticas
-author: false
+author: |
 post_date: 2014-03-15 08:53:26
 post_excerpt: ""
 layout: post

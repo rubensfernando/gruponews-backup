@@ -1,7 +1,7 @@
 ---
 ID: 4692
 post_title: A despessoalização de Deus
-author: false
+author: |
 post_date: 2016-07-13 11:28:26
 post_excerpt: ""
 layout: post

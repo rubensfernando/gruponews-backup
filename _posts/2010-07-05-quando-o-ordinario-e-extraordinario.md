@@ -1,7 +1,7 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-author: false
+author: |
 post_date: 2010-07-05 14:39:47
 post_excerpt: ""
 layout: post

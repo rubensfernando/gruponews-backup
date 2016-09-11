@@ -1,7 +1,7 @@
 ---
 ID: 1888
 post_title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
-author: false
+author: |
 post_date: 2011-07-12 18:57:11
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 4260
 post_title: O espírito de família
-author: false
+author: |
 post_date: 2014-09-09 14:26:11
 post_excerpt: ""
 layout: post

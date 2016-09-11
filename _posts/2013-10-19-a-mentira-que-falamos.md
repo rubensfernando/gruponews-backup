@@ -1,7 +1,7 @@
 ---
 ID: 2869
 post_title: A mentira que falamos
-author: false
+author: |
 post_date: 2013-10-19 01:22:48
 post_excerpt: ""
 layout: post

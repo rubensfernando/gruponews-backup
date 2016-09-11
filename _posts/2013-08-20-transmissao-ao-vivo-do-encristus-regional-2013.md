@@ -3,7 +3,7 @@ ID: 3420
 post_title: >
   Transmissão ao vivo do Encristus
   Regional 2013
-author: false
+author: |
 post_date: 2013-08-20 23:28:35
 post_excerpt: ""
 layout: post

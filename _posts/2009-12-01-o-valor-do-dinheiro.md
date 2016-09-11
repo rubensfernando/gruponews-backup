@@ -1,7 +1,7 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
-author: false
+author: |
 post_date: 2009-12-01 21:54:34
 post_excerpt: ""
 layout: post

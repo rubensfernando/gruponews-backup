@@ -1,7 +1,7 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
-author: false
+author: |
 post_date: 2011-04-07 23:29:26
 post_excerpt: ""
 layout: post

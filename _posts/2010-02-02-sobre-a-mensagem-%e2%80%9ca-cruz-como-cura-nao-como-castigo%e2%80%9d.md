@@ -3,7 +3,7 @@ ID: 1496
 post_title: >
   Sobre a mensagem “A cruz como cura,
   não como castigo”
-author: false
+author: |
 post_date: 2010-02-02 00:40:54
 post_excerpt: ""
 layout: post

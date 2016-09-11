@@ -1,7 +1,7 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-author: false
+author: |
 post_date: 2009-12-01 21:10:49
 post_excerpt: ""
 layout: post

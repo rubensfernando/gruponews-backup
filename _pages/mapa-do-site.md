@@ -1,7 +1,7 @@
 ---
 ID: 1216
 post_title: Mapa do Site
-author: false
+author: |
 post_date: 2010-11-14 19:34:34
 post_excerpt: ""
 layout: page

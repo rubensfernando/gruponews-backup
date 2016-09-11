@@ -3,7 +3,7 @@ ID: 3181
 post_title: >
   O milagre de caminhar com os pés no
   chão
-author: false
+author: |
 post_date: 2010-07-04 17:39:36
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author: false
+author: |
 post_date: 2009-12-01 21:34:18
 post_excerpt: ""
 layout: post

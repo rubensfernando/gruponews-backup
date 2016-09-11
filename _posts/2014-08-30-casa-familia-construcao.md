@@ -1,7 +1,7 @@
 ---
 ID: 3899
 post_title: 'Casa, Família &#038; Construção'
-author: false
+author: |
 post_date: 2014-08-30 17:12:36
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 230
 post_title: Igreja nos lares
-author: false
+author: |
 post_date: 2009-11-29 23:28:58
 post_excerpt: ""
 layout: page

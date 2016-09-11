@@ -1,7 +1,7 @@
 ---
 ID: 4315
 post_title: Como não ser vítima do divórcio
-author: false
+author: |
 post_date: 2015-02-17 12:56:22
 post_excerpt: ""
 layout: post

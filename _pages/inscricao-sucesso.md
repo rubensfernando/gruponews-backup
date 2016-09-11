@@ -1,7 +1,7 @@
 ---
 ID: 841
 post_title: Inscrição enviada com sucesso
-author: false
+author: |
 post_date: 2010-06-06 13:53:46
 post_excerpt: ""
 layout: page

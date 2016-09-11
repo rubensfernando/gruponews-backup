@@ -1,7 +1,7 @@
 ---
 ID: 4414
 post_title: Transmissão ao vivo do CPPI 2015
-author: false
+author: |
 post_date: 2015-07-04 11:11:08
 post_excerpt: ""
 layout: post

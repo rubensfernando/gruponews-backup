@@ -3,7 +3,7 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
-author: false
+author: |
 post_date: 2016-07-13 11:29:39
 post_excerpt: ""
 layout: post

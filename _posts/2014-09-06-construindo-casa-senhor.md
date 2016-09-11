@@ -1,7 +1,7 @@
 ---
 ID: 3917
 post_title: Construindo a casa do Senhor
-author: false
+author: |
 post_date: 2014-09-06 11:38:32
 post_excerpt: ""
 layout: post

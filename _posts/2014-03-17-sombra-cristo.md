@@ -1,7 +1,7 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
-author: false
+author: |
 post_date: 2014-03-17 08:53:30
 post_excerpt: ""
 layout: post

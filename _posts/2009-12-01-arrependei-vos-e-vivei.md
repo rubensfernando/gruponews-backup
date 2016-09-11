@@ -1,7 +1,7 @@
 ---
 ID: 93
 post_title: Arrependei-vos e Vivei
-author: false
+author: |
 post_date: 2009-12-01 21:05:25
 post_excerpt: ""
 layout: post

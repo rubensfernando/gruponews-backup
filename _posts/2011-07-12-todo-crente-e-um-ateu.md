@@ -1,7 +1,7 @@
 ---
 ID: 1947
 post_title: Todo crente é um ateu
-author: false
+author: |
 post_date: 2011-07-12 19:05:19
 post_excerpt: ""
 layout: post

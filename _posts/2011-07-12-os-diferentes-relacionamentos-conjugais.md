@@ -1,7 +1,7 @@
 ---
 ID: 1919
 post_title: Os diferentes relacionamentos conjugais
-author: false
+author: |
 post_date: 2011-07-12 18:52:00
 post_excerpt: ""
 layout: post

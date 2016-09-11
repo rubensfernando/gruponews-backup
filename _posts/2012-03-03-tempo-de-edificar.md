@@ -1,7 +1,7 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
-author: false
+author: |
 post_date: 2012-03-03 15:50:10
 post_excerpt: ""
 layout: post

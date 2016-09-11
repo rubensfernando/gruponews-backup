@@ -1,7 +1,7 @@
 ---
 ID: 19
 post_title: Webtv
-author: false
+author: |
 post_date: 2009-11-23 15:59:42
 post_excerpt: ""
 layout: page

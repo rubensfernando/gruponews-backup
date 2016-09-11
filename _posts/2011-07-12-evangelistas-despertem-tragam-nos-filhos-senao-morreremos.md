@@ -3,7 +3,7 @@ ID: 1915
 post_title: >
   Evangelistas, despertem! Tragam-nos
   filhos, senão morreremos
-author: false
+author: |
 post_date: 2011-07-12 18:53:13
 post_excerpt: ""
 layout: post

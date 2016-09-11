@@ -1,7 +1,7 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
-author: false
+author: |
 post_date: 2009-12-01 22:26:29
 post_excerpt: ""
 layout: post

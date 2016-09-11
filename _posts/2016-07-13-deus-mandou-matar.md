@@ -1,7 +1,7 @@
 ---
 ID: 4699
 post_title: '&#8220;Deus&#8221; mandou matar'
-author: false
+author: |
 post_date: 2016-07-13 11:41:53
 post_excerpt: ""
 layout: post

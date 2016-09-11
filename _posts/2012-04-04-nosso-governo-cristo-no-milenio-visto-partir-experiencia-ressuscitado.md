@@ -4,7 +4,7 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-author: false
+author: |
 post_date: 2012-04-04 12:00:05
 post_excerpt: ""
 layout: post

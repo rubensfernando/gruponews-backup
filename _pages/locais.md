@@ -1,7 +1,7 @@
 ---
 ID: 2207
 post_title: Locais de eventos
-author: false
+author: |
 post_date: 2012-04-08 00:29:04
 post_excerpt: ""
 layout: page

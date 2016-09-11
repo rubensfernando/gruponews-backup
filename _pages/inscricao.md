@@ -1,7 +1,7 @@
 ---
 ID: 1064
 post_title: Inscrição
-author: false
+author: |
 post_date: 2010-09-11 18:38:18
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
-author: false
+author: |
 post_date: 2014-09-09 14:11:52
 post_excerpt: ""
 layout: post

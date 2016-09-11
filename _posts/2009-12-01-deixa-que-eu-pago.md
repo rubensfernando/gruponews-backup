@@ -1,7 +1,7 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
-author: false
+author: |
 post_date: 2009-12-01 21:25:51
 post_excerpt: ""
 layout: post

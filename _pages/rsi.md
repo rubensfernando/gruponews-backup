@@ -1,7 +1,7 @@
 ---
 ID: 1040
 post_title: RSI
-author: false
+author: |
 post_date: 2010-09-11 13:52:44
 post_excerpt: ""
 layout: page

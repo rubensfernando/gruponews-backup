@@ -1,7 +1,7 @@
 ---
 ID: 2874
 post_title: Descobrindo um caminho seguro
-author: false
+author: |
 post_date: 2013-01-14 00:18:51
 post_excerpt: ""
 layout: post

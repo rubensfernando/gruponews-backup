@@ -1,7 +1,7 @@
 ---
 ID: 1177
 post_title: 'O Projeto de Reevangelização &#8211; aulas de segunda-feira'
-author: false
+author: |
 post_date: 2010-11-01 00:00:10
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 2047
 post_title: ENCRISTUS
-author: false
+author: |
 post_date: 2012-01-14 00:56:50
 post_excerpt: ""
 layout: page

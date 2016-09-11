@@ -1,7 +1,7 @@
 ---
 ID: 1006
 post_title: A última mensagem
-author: false
+author: |
 post_date: 2010-09-07 11:57:36
 post_excerpt: ""
 layout: page

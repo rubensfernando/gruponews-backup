@@ -3,7 +3,7 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
-author: false
+author: |
 post_date: 2013-06-19 00:00:32
 post_excerpt: ""
 layout: post

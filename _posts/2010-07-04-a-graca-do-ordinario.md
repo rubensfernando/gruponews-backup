@@ -1,7 +1,7 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
-author: false
+author: |
 post_date: 2010-07-04 17:39:40
 post_excerpt: ""
 layout: post

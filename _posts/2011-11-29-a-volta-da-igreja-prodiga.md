@@ -1,7 +1,7 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
-author: false
+author: |
 post_date: 2011-11-29 23:21:22
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 127
 post_title: “Quem ama e renuncia, permanece”
-author: false
+author: |
 post_date: 2009-12-01 22:11:40
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 932
 post_title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
-author: false
+author: |
 post_date: 2010-07-21 12:00:23
 post_excerpt: ""
 layout: post

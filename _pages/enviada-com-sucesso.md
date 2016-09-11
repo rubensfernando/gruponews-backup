@@ -1,7 +1,7 @@
 ---
 ID: 1068
 post_title: Inscrição enviada com sucesso
-author: false
+author: |
 post_date: 2010-09-11 19:41:30
 post_excerpt: ""
 layout: page

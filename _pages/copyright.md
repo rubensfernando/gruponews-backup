@@ -1,7 +1,7 @@
 ---
 ID: 1980
 post_title: Copyright
-author: false
+author: |
 post_date: 2011-11-13 17:40:27
 post_excerpt: ""
 layout: page

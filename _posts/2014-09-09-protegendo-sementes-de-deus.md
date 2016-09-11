@@ -1,7 +1,7 @@
 ---
 ID: 3951
 post_title: Protegendo as sementes de Deus
-author: false
+author: |
 post_date: 2014-09-09 22:31:23
 post_excerpt: ""
 layout: post

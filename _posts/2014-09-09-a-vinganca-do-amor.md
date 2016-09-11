@@ -1,7 +1,7 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-author: false
+author: |
 post_date: 2014-09-09 21:53:55
 post_excerpt: ""
 layout: post

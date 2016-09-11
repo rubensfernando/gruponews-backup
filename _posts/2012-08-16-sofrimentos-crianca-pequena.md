@@ -1,7 +1,7 @@
 ---
 ID: 2086
 post_title: Sofrimentos da criança pequena
-author: false
+author: |
 post_date: 2012-08-16 00:40:36
 post_excerpt: ""
 layout: post

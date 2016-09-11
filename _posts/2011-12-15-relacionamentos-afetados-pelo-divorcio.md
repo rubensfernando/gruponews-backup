@@ -1,7 +1,7 @@
 ---
 ID: 1972
 post_title: Relacionamentos afetados pelo divórcio
-author: false
+author: |
 post_date: 2011-12-15 00:00:20
 post_excerpt: ""
 layout: post

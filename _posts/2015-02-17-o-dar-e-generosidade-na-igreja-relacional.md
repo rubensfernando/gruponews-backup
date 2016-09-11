@@ -3,7 +3,7 @@ ID: 4316
 post_title: >
   O dar e a generosidade na igreja
   relacional
-author: false
+author: |
 post_date: 2015-02-17 12:56:28
 post_excerpt: ""
 layout: post

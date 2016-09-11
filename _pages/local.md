@@ -1,7 +1,7 @@
 ---
 ID: 1103
 post_title: Local
-author: false
+author: |
 post_date: 2010-09-16 18:09:05
 post_excerpt: ""
 layout: page

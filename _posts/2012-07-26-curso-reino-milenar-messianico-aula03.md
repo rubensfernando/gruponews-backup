@@ -1,7 +1,7 @@
 ---
 ID: 2623
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03'
-author: false
+author: |
 post_date: 2012-07-26 09:00:06
 post_excerpt: ""
 layout: post

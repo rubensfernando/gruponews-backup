@@ -1,7 +1,7 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
-author: false
+author: |
 post_date: 2013-10-20 09:00:43
 post_excerpt: ""
 layout: post

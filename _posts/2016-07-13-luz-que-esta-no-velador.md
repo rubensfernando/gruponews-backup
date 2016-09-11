@@ -1,7 +1,7 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author: false
+author: |
 post_date: 2016-07-13 11:30:51
 post_excerpt: ""
 layout: post

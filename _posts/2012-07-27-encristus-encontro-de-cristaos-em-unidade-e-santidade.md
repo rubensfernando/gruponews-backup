@@ -3,7 +3,7 @@ ID: 2076
 post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
-author: false
+author: |
 post_date: 2012-07-27 12:00:20
 post_excerpt: ""
 layout: post

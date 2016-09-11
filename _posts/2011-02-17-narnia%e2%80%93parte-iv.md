@@ -1,7 +1,7 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-author: false
+author: |
 post_date: 2011-02-17 21:29:03
 post_excerpt: ""
 layout: post

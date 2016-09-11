@@ -3,7 +3,7 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
-author: false
+author: |
 post_date: 2009-12-01 20:39:30
 post_excerpt: ""
 layout: post

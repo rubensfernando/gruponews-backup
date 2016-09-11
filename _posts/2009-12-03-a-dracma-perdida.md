@@ -1,7 +1,7 @@
 ---
 ID: 41
 post_title: A dracma perdida
-author: false
+author: |
 post_date: 2009-12-03 22:40:13
 post_excerpt: ""
 layout: post

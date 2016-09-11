@@ -1,7 +1,7 @@
 ---
 ID: 156
 post_title: Curiosidades sobre a Bíblia
-author: false
+author: |
 post_date: 2009-11-29 22:07:29
 post_excerpt: ""
 layout: post

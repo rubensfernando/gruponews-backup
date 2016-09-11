@@ -1,7 +1,7 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
-author: false
+author: |
 post_date: 2009-11-28 16:44:05
 post_excerpt: ""
 layout: post

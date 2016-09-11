@@ -3,7 +3,7 @@ ID: 1969
 post_title: >
   Deus quer de nós uma nova maneira de
   pensar
-author: false
+author: |
 post_date: 2011-12-21 22:35:24
 post_excerpt: ""
 layout: post

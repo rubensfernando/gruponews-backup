@@ -1,7 +1,7 @@
 ---
 ID: 1506
 post_title: Compartilhando a cruz no Brasil
-author: false
+author: |
 post_date: 2010-02-02 15:22:31
 post_excerpt: ""
 layout: post
