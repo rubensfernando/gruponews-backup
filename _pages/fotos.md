@@ -1,7 +1,7 @@
 ---
 ID: 12
 post_title: Fotos
-author: Fernando
+author: false
 post_date: 2009-09-19 17:07:39
 post_excerpt: ""
 layout: page

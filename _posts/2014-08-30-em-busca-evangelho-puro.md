@@ -1,7 +1,7 @@
 ---
 ID: 3882
 post_title: Em busca do evangelho puro
-author: Fernando
+author: false
 post_date: 2014-08-30 15:50:56
 post_excerpt: ""
 layout: post

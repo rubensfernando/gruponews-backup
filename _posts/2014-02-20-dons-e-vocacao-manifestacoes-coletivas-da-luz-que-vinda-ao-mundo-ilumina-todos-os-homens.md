@@ -1,7 +1,7 @@
 ---
 ID: 4239
 post_title: 'Dons e vocação: Manifestações coletivas da  Luz que, vinda ao mundo, ilumina a todos os homens'
-author: Fernando
+author: false
 post_date: 2014-02-20 15:51:43
 post_excerpt: ""
 layout: post

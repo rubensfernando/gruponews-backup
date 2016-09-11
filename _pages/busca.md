@@ -1,7 +1,7 @@
 ---
 ID: 2099
 post_title: Resultado da Busca
-author: Fernando
+author: false
 post_date: 2012-02-27 19:12:39
 post_excerpt: ""
 layout: page

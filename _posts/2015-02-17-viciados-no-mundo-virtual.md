@@ -1,7 +1,7 @@
 ---
 ID: 4337
 post_title: Viciados no mundo virtual
-author: Fernando
+author: false
 post_date: 2015-02-17 10:41:31
 post_excerpt: ""
 layout: post

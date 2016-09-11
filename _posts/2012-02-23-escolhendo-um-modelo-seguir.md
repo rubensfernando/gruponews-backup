@@ -1,7 +1,7 @@
 ---
 ID: 2104
 post_title: Escolhendo um modelo seguir
-author: Fernando
+author: false
 post_date: 2012-02-23 23:45:19
 post_excerpt: ""
 layout: post

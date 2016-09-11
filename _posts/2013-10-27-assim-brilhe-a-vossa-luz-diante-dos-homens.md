@@ -3,7 +3,7 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author: Fernando
+author: false
 post_date: 2013-10-27 09:00:14
 post_excerpt: ""
 layout: post

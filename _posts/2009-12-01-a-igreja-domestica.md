@@ -1,7 +1,7 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
-author: eduardolucas
+author: false
 post_date: 2009-12-01 20:52:45
 post_excerpt: ""
 layout: post

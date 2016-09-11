@@ -1,7 +1,7 @@
 ---
 ID: 1489
 post_title: A cruz como cura, não como castigo
-author: Fernando
+author: false
 post_date: 2010-02-02 00:35:49
 post_excerpt: ""
 layout: post

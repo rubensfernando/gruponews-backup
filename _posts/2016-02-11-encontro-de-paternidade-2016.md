@@ -1,7 +1,7 @@
 ---
 ID: 4549
 post_title: Encontro de Paternidade 2016
-author: Ademir Lucas
+author: false
 post_date: 2016-02-11 18:16:12
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
-author: Fernando
+author: false
 post_date: 2011-07-10 02:06:51
 post_excerpt: ""
 layout: post

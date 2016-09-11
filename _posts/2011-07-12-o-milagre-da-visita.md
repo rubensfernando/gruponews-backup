@@ -1,7 +1,7 @@
 ---
 ID: 1885
 post_title: O milagre da visita
-author: Fernando
+author: false
 post_date: 2011-07-12 18:58:01
 post_excerpt: ""
 layout: post

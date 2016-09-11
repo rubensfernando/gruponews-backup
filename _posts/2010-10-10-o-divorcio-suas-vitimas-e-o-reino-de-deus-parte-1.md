@@ -1,7 +1,7 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
-author: Fernando
+author: false
 post_date: 2010-10-10 16:10:20
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 3590
 post_title: O mal que faz a aparência do bem
-author: Fernando
+author: false
 post_date: 2014-03-10 09:01:20
 post_excerpt: ""
 layout: post

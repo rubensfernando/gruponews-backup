@@ -1,7 +1,7 @@
 ---
 ID: 812
 post_title: Mensagem enviada com sucesso
-author: Fernando
+author: false
 post_date: 2010-05-14 13:34:59
 post_excerpt: ""
 layout: page

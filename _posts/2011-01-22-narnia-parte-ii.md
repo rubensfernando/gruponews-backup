@@ -1,7 +1,7 @@
 ---
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
-author: Victor Glad
+author: false
 post_date: 2011-01-22 21:29:50
 post_excerpt: ""
 layout: post

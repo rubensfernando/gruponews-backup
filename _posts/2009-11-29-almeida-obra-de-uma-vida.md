@@ -1,7 +1,7 @@
 ---
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
-author: Fernando
+author: false
 post_date: 2009-11-29 21:55:58
 post_excerpt: ""
 layout: post

@@ -3,7 +3,7 @@ ID: 4261
 post_title: >
   Deus chama os capazes, mas capacitará
   os incapazes se precisar
-author: Fernando
+author: false
 post_date: 2014-09-09 14:28:00
 post_excerpt: ""
 layout: post

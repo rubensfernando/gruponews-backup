@@ -3,7 +3,7 @@ ID: 1475
 post_title: >
   Sobre o livro que inspirou a
   Conferência 2009
-author: Fernando
+author: false
 post_date: 2010-02-02 00:10:55
 post_excerpt: ""
 layout: post

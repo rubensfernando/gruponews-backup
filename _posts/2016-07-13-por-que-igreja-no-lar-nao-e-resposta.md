@@ -3,7 +3,7 @@ ID: 4697
 post_title: >
   Por que a igreja no lar não é a
   resposta?
-author: Fernando
+author: false
 post_date: 2016-07-13 11:39:20
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 55
 post_title: A Oração de Maria
-author: eduardolucas
+author: false
 post_date: 2009-12-01 20:56:11
 post_excerpt: ""
 layout: post

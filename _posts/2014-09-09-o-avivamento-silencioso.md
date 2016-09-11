@@ -1,7 +1,7 @@
 ---
 ID: 4253
 post_title: O avivamento silencioso
-author: Fernando
+author: false
 post_date: 2014-09-09 14:09:35
 post_excerpt: ""
 layout: post

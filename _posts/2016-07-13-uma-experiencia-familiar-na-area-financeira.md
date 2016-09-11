@@ -3,7 +3,7 @@ ID: 4696
 post_title: >
   Uma experiência familiar na área
   financeira
-author: Fernando
+author: false
 post_date: 2016-07-13 11:40:19
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
-author: Fernando
+author: false
 post_date: 2014-03-10 09:01:18
 post_excerpt: ""
 layout: post

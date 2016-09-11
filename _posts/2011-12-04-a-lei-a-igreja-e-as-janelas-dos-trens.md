@@ -1,7 +1,7 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author: Fernando
+author: false
 post_date: 2011-12-04 20:11:22
 post_excerpt: ""
 layout: post

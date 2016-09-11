@@ -1,7 +1,7 @@
 ---
 ID: 2
 post_title: Quem Somos
-author: eduardolucas
+author: false
 post_date: 2009-09-19 14:57:56
 post_excerpt: ""
 layout: page

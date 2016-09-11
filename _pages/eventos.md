@@ -1,7 +1,7 @@
 ---
 ID: 38
 post_title: Eventos
-author: Fernando
+author: false
 post_date: 2009-11-23 16:17:05
 post_excerpt: ""
 layout: page

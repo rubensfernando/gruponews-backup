@@ -1,7 +1,7 @@
 ---
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
-author: Fernando
+author: false
 post_date: 2010-07-05 15:13:00
 post_excerpt: ""
 layout: post

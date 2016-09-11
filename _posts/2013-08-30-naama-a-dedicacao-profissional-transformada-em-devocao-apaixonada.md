@@ -1,7 +1,7 @@
 ---
 ID: 3410
 post_title: 'Naamã: a dedicação profissional transformada em devoção apaixonada'
-author: Fernando
+author: false
 post_date: 2013-08-30 08:06:27
 post_excerpt: ""
 layout: post

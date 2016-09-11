@@ -1,7 +1,7 @@
 ---
 ID: 1287
 post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
-author: Fernando
+author: false
 post_date: 2011-01-30 12:00:05
 post_excerpt: ""
 layout: post

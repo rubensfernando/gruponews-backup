@@ -1,7 +1,7 @@
 ---
 ID: 4132
 post_title: A música profética
-author: Fernando
+author: false
 post_date: 2010-08-04 16:05:23
 post_excerpt: ""
 layout: post

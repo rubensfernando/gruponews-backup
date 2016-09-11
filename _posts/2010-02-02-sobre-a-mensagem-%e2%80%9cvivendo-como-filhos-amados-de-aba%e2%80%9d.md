@@ -3,7 +3,7 @@ ID: 1490
 post_title: >
   Sobre a mensagem “Vivendo como filhos
   amados de Aba”
-author: Fernando
+author: false
 post_date: 2010-02-02 00:30:02
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 10
 post_title: Contato
-author: Fernando
+author: false
 post_date: 2009-09-19 17:06:30
 post_excerpt: ""
 layout: page

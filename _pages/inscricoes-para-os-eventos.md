@@ -1,7 +1,7 @@
 ---
 ID: 4437
 post_title: Inscrições para os eventos
-author: Fernando
+author: false
 post_date: 2015-08-06 00:11:20
 post_excerpt: ""
 layout: page

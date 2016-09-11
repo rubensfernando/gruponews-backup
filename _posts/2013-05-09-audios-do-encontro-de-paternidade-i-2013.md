@@ -3,7 +3,7 @@ ID: 3257
 post_title: >
   Áudios do Encontro de Paternidade I
   2013
-author: Fernando
+author: false
 post_date: 2013-05-09 00:40:18
 post_excerpt: ""
 layout: post

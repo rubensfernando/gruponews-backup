@@ -1,7 +1,7 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
-author: Fernando
+author: false
 post_date: 2008-08-30 12:12:43
 post_excerpt: ""
 layout: post

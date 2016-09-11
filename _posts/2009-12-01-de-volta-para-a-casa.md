@@ -1,7 +1,7 @@
 ---
 ID: 99
 post_title: De Volta para a Casa
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:23:27
 post_excerpt: ""
 layout: post

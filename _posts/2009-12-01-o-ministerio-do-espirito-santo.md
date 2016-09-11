@@ -1,7 +1,7 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:52:37
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 3404
 post_title: O trabalho e o Reino Milenar
-author: Fernando
+author: false
 post_date: 2013-08-27 07:15:19
 post_excerpt: ""
 layout: post

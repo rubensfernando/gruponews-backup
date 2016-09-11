@@ -1,7 +1,7 @@
 ---
 ID: 2864
 post_title: Que virá a ser este menino?
-author: Fernando
+author: false
 post_date: 2013-01-20 19:22:52
 post_excerpt: ""
 layout: post

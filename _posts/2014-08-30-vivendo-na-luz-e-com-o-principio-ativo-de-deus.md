@@ -3,7 +3,7 @@ ID: 3898
 post_title: >
   Vivendo na luz e com o princípio ativo
   de Deus
-author: Fernando
+author: false
 post_date: 2014-08-30 16:56:25
 post_excerpt: ""
 layout: post

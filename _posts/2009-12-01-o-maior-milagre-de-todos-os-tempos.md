@@ -1,7 +1,7 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:49:09
 post_excerpt: ""
 layout: post

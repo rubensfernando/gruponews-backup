@@ -1,7 +1,7 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author: Fernando
+author: false
 post_date: 2014-03-21 00:04:32
 post_excerpt: ""
 layout: post

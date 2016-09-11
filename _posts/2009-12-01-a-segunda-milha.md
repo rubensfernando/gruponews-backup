@@ -1,7 +1,7 @@
 ---
 ID: 86
 post_title: A Segunda Milha
-author: eduardolucas
+author: false
 post_date: 2009-12-01 20:58:59
 post_excerpt: ""
 layout: post

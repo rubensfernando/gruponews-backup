@@ -1,7 +1,7 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-author: Fernando
+author: false
 post_date: 2014-01-23 00:24:37
 post_excerpt: ""
 layout: post

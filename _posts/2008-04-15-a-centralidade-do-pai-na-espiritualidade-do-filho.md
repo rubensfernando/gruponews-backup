@@ -3,7 +3,7 @@ ID: 568
 post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
-author: Fernando
+author: false
 post_date: 2008-04-15 00:00:40
 post_excerpt: ""
 layout: post

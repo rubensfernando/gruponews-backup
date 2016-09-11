@@ -1,7 +1,7 @@
 ---
 ID: 3633
 post_title: Em seus passos o que Jesus jamais faria?
-author: Fernando
+author: false
 post_date: 2014-02-07 15:39:40
 post_excerpt: ""
 layout: post

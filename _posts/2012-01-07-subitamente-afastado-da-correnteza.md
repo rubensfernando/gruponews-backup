@@ -1,7 +1,7 @@
 ---
 ID: 1976
 post_title: Subitamente afastado da correnteza
-author: Fernando
+author: false
 post_date: 2012-01-07 00:00:31
 post_excerpt: ""
 layout: post

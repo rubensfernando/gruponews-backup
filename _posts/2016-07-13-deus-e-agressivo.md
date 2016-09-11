@@ -1,7 +1,7 @@
 ---
 ID: 4695
 post_title: Deus é agressivo?
-author: Fernando
+author: false
 post_date: 2016-07-13 11:36:08
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 4162
 post_title: Assine o jornal GrupoNews
-author: Fernando
+author: false
 post_date: 2015-04-11 12:43:56
 post_excerpt: ""
 layout: page

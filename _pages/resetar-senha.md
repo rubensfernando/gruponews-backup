@@ -1,7 +1,7 @@
 ---
 ID: 2131
 post_title: Esqueceu a senha?
-author: Fernando
+author: false
 post_date: 2012-03-04 20:39:48
 post_excerpt: ""
 layout: page

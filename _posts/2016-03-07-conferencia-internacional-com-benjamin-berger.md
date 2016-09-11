@@ -3,7 +3,7 @@ ID: 4561
 post_title: >
   Conferência Internacional com Benjamin
   Berger
-author: Evandro Batista
+author: false
 post_date: 2016-03-07 22:02:05
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
-author: Fernando
+author: false
 post_date: 2011-07-12 18:54:18
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
-author: Fernando
+author: false
 post_date: 2010-07-10 17:40:18
 post_excerpt: ""
 layout: post

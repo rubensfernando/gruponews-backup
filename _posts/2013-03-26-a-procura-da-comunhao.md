@@ -1,7 +1,7 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author: Fernando
+author: false
 post_date: 2013-03-26 07:00:16
 post_excerpt: ""
 layout: post

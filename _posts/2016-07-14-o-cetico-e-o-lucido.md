@@ -1,7 +1,7 @@
 ---
 ID: 4700
 post_title: O cético e o lúcido
-author: Fernando
+author: false
 post_date: 2016-07-14 09:20:43
 post_excerpt: ""
 layout: post

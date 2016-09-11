@@ -3,7 +3,7 @@ ID: 1374
 post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
-author: Fernando
+author: false
 post_date: 2011-01-01 01:15:19
 post_excerpt: ""
 layout: post

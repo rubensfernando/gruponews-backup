@@ -1,7 +1,7 @@
 ---
 ID: 163
 post_title: 'Você sabia&#8230;'
-author: eduardolucas
+author: false
 post_date: 2009-12-01 22:31:45
 post_excerpt: ""
 layout: post

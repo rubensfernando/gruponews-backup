@@ -3,7 +3,7 @@ ID: 4311
 post_title: >
   O que a internet está fazendo com as
   nossas mentes
-author: Fernando
+author: false
 post_date: 2015-02-17 12:55:47
 post_excerpt: ""
 layout: post

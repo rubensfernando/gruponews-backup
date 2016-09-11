@@ -3,7 +3,7 @@ ID: 3225
 post_title: >
   A influência significativa dos que não
   estão tentando nos ensinar
-author: Fernando
+author: false
 post_date: 2010-07-05 15:12:44
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 36
 post_title: Alterar inscrição
-author: Fernando
+author: false
 post_date: 2009-11-23 16:16:12
 post_excerpt: ""
 layout: page

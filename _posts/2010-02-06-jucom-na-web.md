@@ -1,7 +1,7 @@
 ---
 ID: 543
 post_title: Jucom na Web!
-author: Victor Glad
+author: false
 post_date: 2010-02-06 13:02:17
 post_excerpt: ""
 layout: post

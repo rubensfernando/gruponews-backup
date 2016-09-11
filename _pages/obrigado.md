@@ -1,7 +1,7 @@
 ---
 ID: 3707
 post_title: Obrigado
-author: Fernando
+author: false
 post_date: 2014-06-08 18:22:12
 post_excerpt: ""
 layout: page

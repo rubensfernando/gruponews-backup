@@ -1,7 +1,7 @@
 ---
 ID: 3626
 post_title: Com que luz você foi iluminado?
-author: Fernando
+author: false
 post_date: 2014-02-07 15:54:54
 post_excerpt: ""
 layout: post

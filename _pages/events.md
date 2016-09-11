@@ -1,7 +1,7 @@
 ---
 ID: 1398
 post_title: Eventos
-author: Fernando
+author: false
 post_date: 2011-03-19 16:31:03
 post_excerpt: ""
 layout: page

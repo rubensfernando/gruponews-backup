@@ -1,7 +1,7 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-author: Fernando
+author: false
 post_date: 2016-07-13 11:37:10
 post_excerpt: ""
 layout: post

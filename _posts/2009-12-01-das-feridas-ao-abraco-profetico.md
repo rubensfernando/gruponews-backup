@@ -1,7 +1,7 @@
 ---
 ID: 97
 post_title: Das Feridas ao Abraço Profético
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:20:12
 post_excerpt: ""
 layout: post

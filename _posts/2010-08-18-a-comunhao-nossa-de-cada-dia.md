@@ -3,7 +3,7 @@ ID: 973
 post_title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
-author: Victor Glad
+author: false
 post_date: 2010-08-18 23:03:33
 post_excerpt: ""
 layout: post

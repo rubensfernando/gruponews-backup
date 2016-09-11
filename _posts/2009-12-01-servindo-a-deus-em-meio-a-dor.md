@@ -1,7 +1,7 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-author: eduardolucas
+author: false
 post_date: 2009-12-01 22:17:07
 post_excerpt: ""
 layout: post

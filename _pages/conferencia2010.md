@@ -1,7 +1,7 @@
 ---
 ID: 1055
 post_title: Conferência 2010
-author: Fernando
+author: false
 post_date: 2010-09-11 18:06:50
 post_excerpt: ""
 layout: page

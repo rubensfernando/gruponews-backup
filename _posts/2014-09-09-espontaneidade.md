@@ -1,7 +1,7 @@
 ---
 ID: 3949
 post_title: Espontaneidade
-author: Fernando
+author: false
 post_date: 2014-09-09 22:21:29
 post_excerpt: ""
 layout: post

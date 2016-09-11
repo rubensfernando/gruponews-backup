@@ -1,7 +1,7 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author: eduardolucas
+author: false
 post_date: 2009-12-01 20:42:53
 post_excerpt: ""
 layout: post

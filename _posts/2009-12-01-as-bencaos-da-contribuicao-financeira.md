@@ -3,7 +3,7 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:07:58
 post_excerpt: ""
 layout: post

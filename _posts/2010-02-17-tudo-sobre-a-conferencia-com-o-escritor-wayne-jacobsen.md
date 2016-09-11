@@ -3,7 +3,7 @@ ID: 519
 post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
-author: Fernando
+author: false
 post_date: 2010-02-17 00:00:08
 post_excerpt: ""
 layout: post

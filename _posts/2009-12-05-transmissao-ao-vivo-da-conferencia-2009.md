@@ -1,7 +1,7 @@
 ---
 ID: 441
 post_title: 'Conferência 2009 &#8211; Transmissão AO VIVO'
-author: Fernando
+author: false
 post_date: 2009-12-05 00:22:34
 post_excerpt: ""
 layout: post

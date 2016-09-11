@@ -1,7 +1,7 @@
 ---
 ID: 2689
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04'
-author: Fernando
+author: false
 post_date: 2012-08-20 21:29:58
 post_excerpt: ""
 layout: post

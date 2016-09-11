@@ -3,7 +3,7 @@ ID: 1366
 post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
-author: Fernando
+author: false
 post_date: 2011-02-01 00:45:02
 post_excerpt: ""
 layout: post

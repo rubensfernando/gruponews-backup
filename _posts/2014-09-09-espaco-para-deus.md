@@ -1,7 +1,7 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
-author: Fernando
+author: false
 post_date: 2014-09-09 21:36:08
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
-author: Fernando
+author: false
 post_date: 2009-12-05 01:44:05
 post_excerpt: ""
 layout: post

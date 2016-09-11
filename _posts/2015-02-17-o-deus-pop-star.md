@@ -1,7 +1,7 @@
 ---
 ID: 4313
 post_title: O Deus pop star?
-author: Fernando
+author: false
 post_date: 2015-02-17 12:56:02
 post_excerpt: ""
 layout: post

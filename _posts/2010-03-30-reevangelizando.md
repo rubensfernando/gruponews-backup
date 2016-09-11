@@ -1,7 +1,7 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author: Fernando
+author: false
 post_date: 2010-03-30 22:15:01
 post_excerpt: ""
 layout: post

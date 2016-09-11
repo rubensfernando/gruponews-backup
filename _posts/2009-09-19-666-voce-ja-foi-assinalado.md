@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author: eduardolucas
+author: false
 post_date: 2009-09-19 14:57:56
 post_excerpt: ""
 layout: post

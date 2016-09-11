@@ -3,7 +3,7 @@ ID: 125
 post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
-author: eduardolucas
+author: false
 post_date: 2009-12-01 22:09:23
 post_excerpt: ""
 layout: post

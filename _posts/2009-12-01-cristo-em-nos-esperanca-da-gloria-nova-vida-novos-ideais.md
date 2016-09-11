@@ -3,7 +3,7 @@ ID: 95
 post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:16:09
 post_excerpt: ""
 layout: post

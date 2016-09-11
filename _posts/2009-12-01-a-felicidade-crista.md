@@ -1,7 +1,7 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
-author: eduardolucas
+author: false
 post_date: 2009-12-01 20:49:47
 post_excerpt: ""
 layout: post

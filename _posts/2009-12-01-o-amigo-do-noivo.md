@@ -1,7 +1,7 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author: eduardolucas
+author: false
 post_date: 2009-12-01 21:44:37
 post_excerpt: ""
 layout: post

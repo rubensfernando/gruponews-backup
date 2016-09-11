@@ -1,7 +1,7 @@
 ---
 ID: 1003
 post_title: Depoimentos
-author: Fernando
+author: false
 post_date: 2010-09-07 11:55:56
 post_excerpt: ""
 layout: page

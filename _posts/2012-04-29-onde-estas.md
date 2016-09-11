@@ -3,7 +3,7 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
-author: Victor Glad
+author: false
 post_date: 2012-04-29 19:51:20
 post_excerpt: ""
 layout: post

@@ -4,7 +4,7 @@ post_title: >
   As muitas maneiras de Deus reunir sua
   família e o significado de “não
   deixemos de congregar-nos”
-author: Fernando
+author: false
 post_date: 2014-02-07 15:43:17
 post_excerpt: ""
 layout: post

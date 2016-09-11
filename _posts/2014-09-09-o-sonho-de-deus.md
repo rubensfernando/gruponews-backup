@@ -1,7 +1,7 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
-author: Fernando
+author: false
 post_date: 2014-09-09 22:41:41
 post_excerpt: ""
 layout: post

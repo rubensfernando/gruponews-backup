@@ -3,7 +3,7 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-author: Fernando
+author: false
 post_date: 2014-09-09 22:54:40
 post_excerpt: ""
 layout: post

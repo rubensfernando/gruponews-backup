@@ -3,7 +3,7 @@ ID: 2865
 post_title: >
   Uma nova versão para a parábola do
   filho pródigo
-author: Fernando
+author: false
 post_date: 2013-03-14 00:08:23
 post_excerpt: ""
 layout: post

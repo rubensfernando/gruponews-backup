@@ -1,7 +1,7 @@
 ---
 ID: 3937
 post_title: Conferências
-author: Fernando
+author: false
 post_date: 2014-09-09 22:05:42
 post_excerpt: ""
 layout: page

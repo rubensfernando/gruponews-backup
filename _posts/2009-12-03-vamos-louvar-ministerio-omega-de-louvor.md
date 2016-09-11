@@ -1,7 +1,7 @@
 ---
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
-author: Victor Glad
+author: false
 post_date: 2009-12-03 01:30:20
 post_excerpt: ""
 layout: post

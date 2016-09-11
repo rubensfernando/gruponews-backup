@@ -1,7 +1,7 @@
 ---
 ID: 3408
 post_title: Os sofrimentos dos filhos jovens
-author: Fernando
+author: false
 post_date: 2013-10-29 07:00:16
 post_excerpt: ""
 layout: post

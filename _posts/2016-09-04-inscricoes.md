@@ -1,7 +1,7 @@
 ---
 ID: 4730
 post_title: Inscrição para o Encontro de Mulheres
-author: Evandro Batista
+author: false
 post_date: 2016-09-04 23:42:13
 post_excerpt: ""
 layout: post

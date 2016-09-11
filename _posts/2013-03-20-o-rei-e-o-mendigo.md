@@ -1,7 +1,7 @@
 ---
 ID: 2876
 post_title: O rei e o mendigo
-author: Fernando
+author: false
 post_date: 2013-03-20 00:15:20
 post_excerpt: ""
 layout: post

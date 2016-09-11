@@ -1,7 +1,7 @@
 ---
 ID: 1408
 post_title: 'Cobertura da Conferência &#8220;Cristo o Reino e a Igreja&#8221;'
-author: Fernando
+author: false
 post_date: 2011-02-03 00:20:06
 post_excerpt: ""
 layout: post

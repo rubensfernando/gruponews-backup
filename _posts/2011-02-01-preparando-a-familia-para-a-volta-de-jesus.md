@@ -3,7 +3,7 @@ ID: 1369
 post_title: >
   Preparando a família para a volta de
   Jesus
-author: Fernando
+author: false
 post_date: 2011-02-01 01:00:09
 post_excerpt: ""
 layout: post

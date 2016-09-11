@@ -1,7 +1,7 @@
 ---
 ID: 701
 post_title: A necessidade da igreja como família
-author: Fernando
+author: false
 post_date: 2010-05-01 12:00:13
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
-author: Fernando
+author: false
 post_date: 2012-03-20 00:00:45
 post_excerpt: ""
 layout: post

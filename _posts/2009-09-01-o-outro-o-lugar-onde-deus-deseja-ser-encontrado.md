@@ -1,7 +1,7 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
-author: Fernando
+author: false
 post_date: 2009-09-01 00:00:51
 post_excerpt: ""
 layout: post

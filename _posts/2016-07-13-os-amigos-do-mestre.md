@@ -1,7 +1,7 @@
 ---
 ID: 4691
 post_title: Os amigos do mestre
-author: Fernando
+author: false
 post_date: 2016-07-13 11:27:09
 post_excerpt: ""
 layout: post

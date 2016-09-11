@@ -1,7 +1,7 @@
 ---
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
-author: Fernando
+author: false
 post_date: 2011-07-12 18:58:51
 post_excerpt: ""
 layout: post

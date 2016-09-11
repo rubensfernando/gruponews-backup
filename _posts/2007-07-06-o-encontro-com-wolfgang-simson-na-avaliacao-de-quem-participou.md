@@ -3,7 +3,7 @@ ID: 3922
 post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
-author: Fernando
+author: false
 post_date: 2007-07-06 11:38:25
 post_excerpt: ""
 layout: post

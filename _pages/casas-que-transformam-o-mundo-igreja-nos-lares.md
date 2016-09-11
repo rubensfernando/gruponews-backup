@@ -3,7 +3,7 @@ ID: 4021
 post_title: >
   Conferência “Casas que Transformam o
   Mundo – Igreja nos lares”
-author: Fernando
+author: false
 post_date: 2014-10-16 00:18:44
 post_excerpt: ""
 layout: page

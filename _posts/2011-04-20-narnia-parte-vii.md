@@ -1,7 +1,7 @@
 ---
 ID: 1539
 post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
-author: Victor Glad
+author: false
 post_date: 2011-04-20 22:51:26
 post_excerpt: ""
 layout: post
