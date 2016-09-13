@@ -9,11 +9,9 @@ permalink: >
   http://www.gruponews.com.br/geral/cadastro-geral-gruponews
 published: true
 instant_articles_submission_id:
-  - "1645370079108531"
+  - "1752533965008127"
 dsq_thread_id:
   - "5139882457"
-dsq_needs_sync:
-  - "1"
 wpcf-gn_post_destaques:
   - destaque_novidade
 ---
