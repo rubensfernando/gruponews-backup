@@ -11,9 +11,7 @@ published: true
 dsq_thread_id:
   - "5173041116"
 instant_articles_submission_id:
-  - "576758149192060"
-dsq_needs_sync:
-  - "1"
+  - "1314918911875001"
 wpcf-gn_post_destaques:
   - destaque_novidade
 ---
@@ -33,4 +31,4 @@ Turma B: 30/10
 O Curso das <strong>9 divisões da bíblia</strong> será online.
 Após a inscrição, você poderá retirar os livros no escritório do grupo em Barueri.
 
-Insvreva-se atráves do link: https://goo.gl/srQxwf
+<a href="https://goo.gl/srQxwf">Insvreva-se atráves do link: https://goo.gl/srQxwf</a>
