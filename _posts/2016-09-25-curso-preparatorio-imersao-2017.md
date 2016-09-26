@@ -11,7 +11,11 @@ published: true
 dsq_thread_id:
   - "5173041116"
 instant_articles_submission_id:
-  - "110134362783823"
+  - "576758149192060"
+dsq_needs_sync:
+  - "1"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 ---
 Dos dias 07 a 15 de Janeiro de 2017, será realizado o Imersão de Verão. Para participar do encontro é obrigatória a participação nos cursos preparatórios.
 Este ano teremos dois cursos preparatórios:
