@@ -3,12 +3,12 @@ ID: 2658
 post_title: >
   Acompanhe a transmissão online do
   ENCRISTUS aqui no site GrupoNews
-author: |
+author: Fernando
 post_date: 2012-08-15 12:00:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/transmissao-do-encristus-2012
+  https:/noticias/transmissao-do-encristus-2012
 published: true
 aktt_notify_twitter:
   - 'yes'

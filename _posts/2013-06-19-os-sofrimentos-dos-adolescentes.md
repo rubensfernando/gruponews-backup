@@ -1,12 +1,12 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
-author: |
+author: Fernando
 post_date: 2013-06-19 00:03:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/os-sofrimentos-dos-adolescentes
+  https:/artigos/os-sofrimentos-dos-adolescentes
 published: true
 wpcf-gn_post_autor:
   - ""

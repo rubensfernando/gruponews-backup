@@ -1,12 +1,11 @@
 ---
 ID: 4751
 post_title: Cadastro Geral GrupoNews
-author: false
+author: Evandro Batista
 post_date: 2016-09-12 22:58:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/geral/cadastro-geral-gruponews
+permalink: https:/geral/cadastro-geral-gruponews
 published: true
 instant_articles_submission_id:
   - "1752533965008127"

@@ -1,11 +1,11 @@
 ---
 ID: 19
 post_title: Webtv
-author: |
+author: Evandro Batista
 post_date: 2009-11-23 15:59:42
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/webtv
+permalink: https:/webtv
 published: true
 post_autor:
   - ""
@@ -22,4 +22,6 @@ wpcf-gn_webtv_sistema:
 wpcf-gn_webtv_url_youtube:
   - >
     https://www.youtube.com/watch?v=dMGV0VnEBsc
+dsq_thread_id:
+  - "2802288479"
 ---

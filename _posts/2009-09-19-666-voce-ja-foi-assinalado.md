@@ -1,18 +1,18 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author: |
+author: eduardolucas
 post_date: 2009-09-19 14:57:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/666-voce-ja-foi-assinalado
+  https:/bases-cristas/666-voce-ja-foi-assinalado
 published: true
 post_autor:
   - Mauricio Bronzatto
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
 post_destaques:
   - Nao
 aktt_notify_twitter:

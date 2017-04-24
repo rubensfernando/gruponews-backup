@@ -1,11 +1,11 @@
 ---
 ID: 1266
 post_title: Encomendas
-author: |
+author: Fernando
 post_date: 2011-01-24 12:46:13
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/encomenda
+permalink: https:/encomenda
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -1,12 +1,12 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
-author: |
+author: eduardolucas
 post_date: 2009-12-01 22:26:29
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/vida-abundante-uma-vida-comprometida-com-deus
+  https:/artigos/vida-abundante-uma-vida-comprometida-com-deus
 published: true
 post_autor:
   - Ailton Jacob de Oliveira
@@ -14,7 +14,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/vida_abundante.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/vida_abundante.jpg
 wpcf-gn_post_autor:
   - Ailton Jacob de Oliveira
 wpcf-gn_post_imagem_credito:

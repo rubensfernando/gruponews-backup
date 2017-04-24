@@ -1,12 +1,12 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
-author: |
+author: Fernando
 post_date: 2010-10-10 16:10:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
+  https:/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,7 +16,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/10/banner_divorcio.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/10/banner_divorcio.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

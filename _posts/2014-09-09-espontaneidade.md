@@ -1,12 +1,11 @@
 ---
 ID: 3949
 post_title: Espontaneidade
-author: |
+author: Fernando
 post_date: 2014-09-09 22:21:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/espontaneidade
+permalink: https:/bases-cristas/espontaneidade
 published: true
 dsq_thread_id:
   - "3005465724"

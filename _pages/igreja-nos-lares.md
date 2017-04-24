@@ -1,12 +1,11 @@
 ---
 ID: 230
 post_title: Igreja nos lares
-author: |
+author: Fernando
 post_date: 2009-11-29 23:28:58
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/igreja-nos-lares
+permalink: https:/igreja-nos-lares
 published: true
 post_autor:
   - Equipe da Comunicação
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/11/backlight_igrejanoslares.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/11/backlight_igrejanoslares.jpg
 aktt_notify_twitter:
   - 'yes'
 dsq_thread_id:

@@ -3,12 +3,12 @@ ID: 1601
 post_title: >
   A “lei do Espírito da vida” contra
   o aborto
-author: |
+author: Fernando
 post_date: 2011-07-12 19:00:40
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-lei-do-espirito-da-vida-contra-o-aborto
+  https:/artigos/a-lei-do-espirito-da-vida-contra-o-aborto
 published: true
 aktt_notify_twitter:
   - 'no'

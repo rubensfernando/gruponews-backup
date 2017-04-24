@@ -3,18 +3,17 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
-author: |
+author: Victor Glad
 post_date: 2012-04-29 19:51:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/vida/onde-estas
+permalink: https:/bases-cristas/vida/onde-estas
 published: true
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_ondeestas.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_ondeestas.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

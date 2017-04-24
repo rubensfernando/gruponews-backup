@@ -1,11 +1,11 @@
 ---
 ID: 38
 post_title: Eventos
-author: |
+author: Fernando
 post_date: 2009-11-23 16:17:05
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/eventos
+permalink: https:/eventos
 published: true
 post_autor:
   - ""
@@ -16,3 +16,4 @@ aktt_notify_twitter:
 sharing_disabled:
   - "1"
 ---
+Os eventos podem sofrer alterações sem aviso prévio

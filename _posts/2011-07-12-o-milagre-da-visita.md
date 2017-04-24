@@ -1,12 +1,11 @@
 ---
 ID: 1885
 post_title: O milagre da visita
-author: |
+author: Fernando
 post_date: 2011-07-12 18:58:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-milagre-da-visita
+permalink: https:/artigos/o-milagre-da-visita
 published: true
 aktt_notify_twitter:
   - 'no'

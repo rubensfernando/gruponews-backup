@@ -1,12 +1,11 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
-author: |
+author: eduardolucas
 post_date: 2009-12-01 22:13:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/removendo-barreiras
+permalink: https:/artigos/removendo-barreiras
 published: true
 post_autor:
   - Paulo Silva
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/removendo_barreiras.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/removendo_barreiras.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:

@@ -1,12 +1,11 @@
 ---
 ID: 36
 post_title: Alterar inscrição
-author: |
+author: Fernando
 post_date: 2009-11-23 16:16:12
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/usuario/alterar-inscricao
+permalink: https:/usuario/alterar-inscricao
 published: true
 post_autor:
   - ""

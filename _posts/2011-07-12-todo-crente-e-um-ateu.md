@@ -1,12 +1,11 @@
 ---
 ID: 1947
 post_title: Todo crente é um ateu
-author: |
+author: Fernando
 post_date: 2011-07-12 19:05:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/todo-crente-e-um-ateu
+permalink: https:/artigos/todo-crente-e-um-ateu
 published: true
 aktt_notify_twitter:
   - 'yes'

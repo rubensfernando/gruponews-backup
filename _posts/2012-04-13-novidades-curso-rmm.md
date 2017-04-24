@@ -1,12 +1,11 @@
 ---
 ID: 2265
 post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
-author: |
+author: Victor Glad
 post_date: 2012-04-13 20:53:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/noticias/novidades-curso-rmm
+permalink: https:/noticias/novidades-curso-rmm
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,14 +15,14 @@ post_destaques:
   - Destaque
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:
   - Equipe GrupoNews
 wpcf-gn_post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
 wpcf-gn_post_imagem_credito:
   - ""
 wpcf-gn_post_destaques:

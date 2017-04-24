@@ -1,12 +1,12 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-author: |
+author: Fernando
 post_date: 2010-07-05 14:39:47
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/quando-o-ordinario-e-extraordinario
+  https:/artigos/quando-o-ordinario-e-extraordinario
 published: true
 wpcf-gn_post_autor:
   - Daniel Rocha

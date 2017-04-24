@@ -1,12 +1,11 @@
 ---
 ID: 3937
 post_title: Conferências
-author: |
+author: Fernando
 post_date: 2014-09-09 22:05:42
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/eventos/conferencias
+permalink: https:/eventos/conferencias
 published: true
 dsq_thread_id:
   - "4052095247"

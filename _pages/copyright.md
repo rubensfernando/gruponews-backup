@@ -1,11 +1,11 @@
 ---
 ID: 1980
 post_title: Copyright
-author: |
+author: Fernando
 post_date: 2011-11-13 17:40:27
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/copyright
+permalink: https:/copyright
 published: true
 aktt_notify_twitter:
   - 'yes'

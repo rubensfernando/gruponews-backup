@@ -1,12 +1,11 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author: |
+author: Fernando
 post_date: 2014-03-13 23:56:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/tres-perguntas
+permalink: https:/bases-cristas/tres-perguntas
 published: true
 wpcf-gn_post_autor:
   - ""

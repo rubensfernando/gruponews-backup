@@ -1,12 +1,11 @@
 ---
 ID: 86
 post_title: A Segunda Milha
-author: |
+author: eduardolucas
 post_date: 2009-12-01 20:58:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/igreja/a-segunda-milha
+permalink: https:/igreja/a-segunda-milha
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,13 +13,13 @@ post_destaques:
   - Destaque
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_segunda_milha.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_segunda_milha.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:
   - Pedro Arruda
 dsq_thread_id:
-  - "2804274697"
+  - "5705992393"
 wpcf-gn_post_destaques:
   - nao_destaque
 ---
@@ -48,10 +47,12 @@ Precisamos de arrependimento de nosso egoísmo e buscar a santificação com out
 
 Sob o enfoque da segunda milha, o que podemos reconsiderar sobre o nosso conceito de vida cristã, quanto a:
 
-- Sofrimento?
-- Oração?
-- Contribuição financeira?
-- Tempo para as coisas de Deus?
-- Tempo para a casa de Deus?
+<ul>
+<li>Sofrimento?</li>
+<li>Oração?</li>
+<li>Contribuição financeira?</li>
+<li>Tempo para as coisas de Deus?</li>
+<li>Tempo para a casa de Deus?</li>
+</ul>
 
 Em quais conceitos ou áreas eu preciso de arrependimentos? Como podemos obter o arrependimento genuíno?

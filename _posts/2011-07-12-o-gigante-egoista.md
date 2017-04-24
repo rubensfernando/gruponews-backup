@@ -1,12 +1,11 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author: |
+author: Fernando
 post_date: 2011-07-12 18:59:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-gigante-egoista
+permalink: https:/artigos/o-gigante-egoista
 published: true
 aktt_notify_twitter:
   - 'no'

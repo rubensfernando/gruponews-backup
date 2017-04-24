@@ -1,12 +1,12 @@
 ---
 ID: 3415
 post_title: Quando depender é a única saída
-author: |
+author: Fernando
 post_date: 2014-01-25 00:29:01
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/quando-depender-e-a-unica-saida
+  https:/bases-cristas/quando-depender-e-a-unica-saida
 published: true
 wpcf-gn_post_autor:
   - ""

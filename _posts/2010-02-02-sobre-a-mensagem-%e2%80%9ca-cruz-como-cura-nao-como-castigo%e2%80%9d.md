@@ -3,12 +3,11 @@ ID: 1496
 post_title: >
   Sobre a mensagem “A cruz como cura,
   não como castigo”
-author: |
+author: Fernando
 post_date: 2010-02-02 00:40:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d
+permalink: 'https:/artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d'
 published: true
 aktt_notify_twitter:
   - 'yes'

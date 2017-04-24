@@ -1,12 +1,11 @@
 ---
 ID: 1006
 post_title: A última mensagem
-author: |
+author: Fernando
 post_date: 2010-09-07 11:57:36
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/conferencia2008/a-ultima-mensagem
+permalink: https:/conferencia2008/a-ultima-mensagem
 published: true
 aktt_notify_twitter:
   - 'yes'

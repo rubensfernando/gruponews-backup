@@ -1,12 +1,11 @@
 ---
 ID: 93
 post_title: Arrependei-vos e Vivei
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:05:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/arrependei-vos-e-vivei
+permalink: https:/artigos/arrependei-vos-e-vivei
 published: true
 post_autor:
   - Maurício Pontello
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/arrependei-vos_e_vivei.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/arrependei-vos_e_vivei.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

@@ -1,12 +1,12 @@
 ---
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
-author: |
+author: Fernando
 post_date: 2010-07-05 15:13:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito
+  https:/artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito
 published: true
 wpcf-gn_post_autor:
   - Ezequiel Netto

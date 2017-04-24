@@ -1,12 +1,11 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
-author: |
+author: Fernando
 post_date: 2010-07-04 17:39:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/a-graca-do-ordinario
+permalink: https:/artigos/a-graca-do-ordinario
 published: true
 wpcf-gn_post_autor:
   - Ricardo Barbosa de Sousa

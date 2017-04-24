@@ -3,12 +3,12 @@ ID: 2076
 post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
-author: |
+author: Fernando
 post_date: 2012-07-27 12:00:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade
+  https:/noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -20,7 +20,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/anuncio-encristus.gif
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/anuncio-encristus.gif
 wpcf-gn_post_autor:
   - Pedro Arruda
 wpcf-gn_post_imagem_credito:

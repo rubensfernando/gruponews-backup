@@ -1,12 +1,11 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:10:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/cidadaos-do-ceu
+permalink: https:/artigos/cidadaos-do-ceu
 published: true
 post_autor:
   - Valmir Mathiazi
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/cidadaos_do_ceu.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/cidadaos_do_ceu.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

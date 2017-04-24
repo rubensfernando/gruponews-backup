@@ -1,12 +1,12 @@
 ---
 ID: 2623
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03'
-author: |
+author: Fernando
 post_date: 2012-07-26 09:00:06
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/curso-reino-milenar-messianico-aula03
+  https:/noticias/curso-reino-milenar-messianico-aula03
 published: true
 aktt_notify_twitter:
   - 'yes'

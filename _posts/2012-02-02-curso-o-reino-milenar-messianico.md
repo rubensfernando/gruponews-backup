@@ -1,12 +1,12 @@
 ---
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
-author: |
+author: Victor Glad
 post_date: 2012-02-02 11:20:38
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/curso-o-reino-milenar-messianico
+  https:/noticias/curso-o-reino-milenar-messianico
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,12 +18,12 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_rmm.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/banner_rmm.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/banner_rmm.jpg
 wpcf-gn_post_autor:
   - Equipe GrupoNews
 wpcf-gn_post_destaques:

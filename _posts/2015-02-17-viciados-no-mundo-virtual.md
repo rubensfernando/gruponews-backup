@@ -1,18 +1,18 @@
 ---
 ID: 4337
 post_title: Viciados no mundo virtual
-author: |
+author: Fernando
 post_date: 2015-02-17 10:41:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/publicacoes/jornal/viciados-no-mundo-virtual
+  https:/publicacoes/jornal/viciados-no-mundo-virtual
 published: true
 dsq_thread_id:
   - "3690547395"
 jornal_capa:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2015/04/gruponews-fevereiro-2015-1.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2015/04/gruponews-fevereiro-2015-1.jpg
 wpcf-gn_post_destaques:
   - destaque_novidade
 ---

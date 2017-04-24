@@ -1,12 +1,12 @@
 ---
 ID: 3602
 post_title: Recomendações práticas
-author: |
+author: Fernando
 post_date: 2014-03-15 08:53:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
+  https:/espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
 published: true
 wpcf-gn_post_autor:
   - ""

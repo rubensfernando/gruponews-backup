@@ -3,12 +3,12 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-author: |
+author: Fernando
 post_date: 2010-02-02 00:00:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
+  https:/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
 published: true
 aktt_notify_twitter:
   - 'yes'

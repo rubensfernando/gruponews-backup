@@ -1,12 +1,11 @@
 ---
 ID: 2876
 post_title: O rei e o mendigo
-author: |
+author: Fernando
 post_date: 2013-03-20 00:15:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-rei-e-o-mendigo
+permalink: https:/artigos/o-rei-e-o-mendigo
 published: true
 wpcf-gn_post_autor:
   - >

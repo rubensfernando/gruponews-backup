@@ -1,12 +1,12 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-author: |
+author: eduardolucas
 post_date: 2009-12-01 22:21:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/um-mesmo-coracao-para-pais-e-filhos
+  https:/artigos/um-mesmo-coracao-para-pais-e-filhos
 published: true
 post_autor:
   - Juarez Gomes
@@ -14,7 +14,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 wpcf-gn_post_autor:
   - Juarez Gomes
 wpcf-gn_post_imagem_credito:

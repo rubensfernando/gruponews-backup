@@ -1,12 +1,11 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
-author: |
+author: Fernando
 post_date: 2012-03-03 15:50:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/tempo-de-edificar
+permalink: https:/artigos/tempo-de-edificar
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,7 +17,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/multidao.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/multidao.jpg
 wpcf-gn_post_autor:
   - Willian Diego Pereira
 wpcf-gn_post_imagem_credito:

@@ -1,11 +1,11 @@
 ---
 ID: 1398
 post_title: Eventos
-author: |
+author: Fernando
 post_date: 2011-03-19 16:31:03
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/events
+permalink: https:/events
 published: true
 aktt_notify_twitter:
   - 'yes'

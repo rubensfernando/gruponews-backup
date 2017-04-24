@@ -1,12 +1,12 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author: |
+author: eduardolucas
 post_date: 2009-11-28 17:50:34
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/ano-aceitavel-do-senhor
+  https:/bases-cristas/ano-aceitavel-do-senhor
 published: true
 post_autor:
   - Cristina Juliani
@@ -14,7 +14,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

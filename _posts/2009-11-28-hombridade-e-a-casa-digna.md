@@ -1,12 +1,12 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
-author: |
+author: eduardolucas
 post_date: 2009-11-28 16:44:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/familia-materias/hombridade-e-a-casa-digna
+  https:/familia-materias/hombridade-e-a-casa-digna
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,13 +14,13 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/hombridade_e_a_casa_digna.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:
   - Pedro Arruda
 dsq_thread_id:
-  - "2831092649"
+  - "5670093466"
 wpcf-gn_post_destaques:
   - nao_destaque
 ---

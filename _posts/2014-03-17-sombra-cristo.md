@@ -1,12 +1,11 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
-author: |
+author: Fernando
 post_date: 2014-03-17 08:53:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/sombra-cristo
+permalink: https:/bases-cristas/sombra-cristo
 published: true
 wpcf-gn_post_autor:
   - ""

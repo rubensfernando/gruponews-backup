@@ -1,12 +1,12 @@
 ---
 ID: 1888
 post_title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
-author: |
+author: Fernando
 post_date: 2011-07-12 18:57:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
+  https:/artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
 published: true
 aktt_notify_twitter:
   - 'no'

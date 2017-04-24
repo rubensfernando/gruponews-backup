@@ -1,11 +1,11 @@
 ---
 ID: 3707
 post_title: Obrigado
-author: |
+author: Fernando
 post_date: 2014-06-08 18:22:12
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/obrigado
+permalink: https:/obrigado
 published: true
 dsq_thread_id:
   - ""

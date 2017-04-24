@@ -1,12 +1,11 @@
 ---
 ID: 2131
 post_title: Esqueceu a senha?
-author: |
+author: Fernando
 post_date: 2012-03-04 20:39:48
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/resetar-senha
+permalink: https:/resetar-senha
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,5 +15,7 @@ post_autor:
   - ""
 post_destaques:
   - Nao
+dsq_thread_id:
+  - "5189092494"
 ---
 <strong>[wppb-recover-password]</strong>

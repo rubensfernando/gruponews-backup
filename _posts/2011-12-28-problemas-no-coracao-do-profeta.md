@@ -1,12 +1,12 @@
 ---
 ID: 1974
 post_title: Problemas no coração do profeta
-author: |
+author: Fernando
 post_date: 2011-12-28 00:00:22
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/problemas-no-coracao-do-profeta
+  https:/artigos/problemas-no-coracao-do-profeta
 published: true
 aktt_notify_twitter:
   - 'yes'

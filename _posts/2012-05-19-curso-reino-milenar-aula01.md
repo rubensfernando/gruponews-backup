@@ -1,12 +1,12 @@
 ---
 ID: 2190
 post_title: 'Curso “O Reino Milenar Messiânico” #aula01'
-author: |
+author: Victor Glad
 post_date: 2012-05-19 00:00:58
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/curso-reino-milenar-aula01
+  https:/noticias/curso-reino-milenar-aula01
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,7 +16,7 @@ wpcf-gn_post_autor:
   - Equipe GrupoNews
 wpcf-gn_post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_rmma1.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmma1.jpg
 wpcf-gn_post_destaques:
   - nao_destaque
 post_autor:
@@ -25,7 +25,7 @@ post_destaques:
   - Destaque
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/banner_rmma1.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmma1.jpg
 wpcf-gn_post_imagem_credito:
   - ""
 aktt_tweeted:
@@ -39,8 +39,8 @@ dsq_thread_id:
 *Vale ressaltar que este módulo é essencial para o bom aproveitamento das demais aulas.
 
 <h3>Baixe o material de apoio:</h3>
-<a href="http://www.gruponews.com.br/site/wp-content/uploads/2012/05/O-REINO-E-A-IGREJA-STEPHEN-KAUNG.pdf">http://www.gruponews.com.br/site/wp-content/uploads/2012/05/O-REINO-E-A-IGREJA-STEPHEN-KAUNG.pdf</a>
-<a href="http://www.gruponews.com.br/site/wp-content/uploads/2012/05/Introducao_ao_RMM.pdf">http://www.gruponews.com.br/site/wp-content/uploads/2012/05/Introducao_ao_RMM.pdf</a>
+<a href="http://www.gruponews.com.br/wp-content/uploads/2012/05/O-REINO-E-A-IGREJA-STEPHEN-KAUNG.pdf">http://www.gruponews.com.br/wp-content/uploads/2012/05/O-REINO-E-A-IGREJA-STEPHEN-KAUNG.pdf</a>
+<a href="http://www.gruponews.com.br/wp-content/uploads/2012/05/Introducao_ao_RMM.pdf">http://www.gruponews.com.br/wp-content/uploads/2012/05/Introducao_ao_RMM.pdf</a>
 
 Horários opcionais para o acompanhamento das aulas: 08h30 às 14h30 ou 15h30 às 21h30.
 <strong>Local:</strong> Escritório do Grupo (Rua Padre Donizete Tavares de Lima, 143 - Vila São Franscisco - Barueri - São Paulo/SP - CEP: 06442-080)

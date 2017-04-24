@@ -3,12 +3,12 @@ ID: 3569
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: |
+author: Fernando
 post_date: 2013-12-03 13:32:56
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/15-encontro-preparando-soldados-para-ultimas-batalhas
+  https:/noticias/15-encontro-preparando-soldados-para-ultimas-batalhas
 published: true
 wpcf-gn_post_autor:
   - ""

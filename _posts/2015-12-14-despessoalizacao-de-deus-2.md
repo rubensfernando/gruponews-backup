@@ -1,16 +1,16 @@
 ---
 ID: 4713
 post_title: A despessoalização de Deus
-author: |
+author: Fernando
 post_date: 2015-12-14 09:16:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/publicacoes/jornal/despessoalizacao-de-deus-2
+  https:/publicacoes/jornal/despessoalizacao-de-deus-2
 published: true
 jornal_capa:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1.jpg
 wpcf-gn_post_destaques:
   - destaque_novidade
 dsq_thread_id:

@@ -3,12 +3,12 @@ ID: 3168
 post_title: >
   Muito mais humanos do que costumamos
   admitir
-author: |
+author: Fernando
 post_date: 2010-07-01 17:15:06
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/muito-mais-humanos-do-que-costumamos-admitir
+  https:/artigos/muito-mais-humanos-do-que-costumamos-admitir
 published: true
 wpcf-gn_post_autor:
   - Maurício Bronzatto

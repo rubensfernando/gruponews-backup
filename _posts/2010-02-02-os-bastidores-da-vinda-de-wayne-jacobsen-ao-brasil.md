@@ -3,12 +3,12 @@ ID: 1481
 post_title: >
   Os bastidores da vinda de Wayne Jacobsen
   ao Brasil
-author: |
+author: Fernando
 post_date: 2010-02-02 00:20:08
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil
+  https:/geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil
 published: true
 aktt_notify_twitter:
   - 'yes'

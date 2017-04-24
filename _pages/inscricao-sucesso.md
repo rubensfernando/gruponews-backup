@@ -1,12 +1,11 @@
 ---
 ID: 841
 post_title: Inscrição enviada com sucesso
-author: |
+author: Fernando
 post_date: 2010-06-06 13:53:46
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/eventos/inscricao-sucesso
+permalink: https:/eventos/inscricao-sucesso
 published: true
 aktt_notify_twitter:
   - 'yes'

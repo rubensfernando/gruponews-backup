@@ -1,12 +1,12 @@
 ---
 ID: 1489
 post_title: A cruz como cura, não como castigo
-author: |
+author: Fernando
 post_date: 2010-02-02 00:35:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-cruz-como-cura-nao-como-castigo
+  https:/artigos/a-cruz-como-cura-nao-como-castigo
 published: true
 aktt_notify_twitter:
   - 'yes'

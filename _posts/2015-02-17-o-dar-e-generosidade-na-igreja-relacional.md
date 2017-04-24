@@ -3,12 +3,12 @@ ID: 4316
 post_title: >
   O dar e a generosidade na igreja
   relacional
-author: |
+author: Fernando
 post_date: 2015-02-17 12:56:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
+  https:/igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
 published: true
 dsq_thread_id:
   - "3690516870"

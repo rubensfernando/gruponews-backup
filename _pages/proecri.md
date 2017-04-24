@@ -1,11 +1,11 @@
 ---
 ID: 2050
 post_title: PROECRI
-author: |
+author: Fernando
 post_date: 2012-01-19 00:09:48
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/proecri
+permalink: https:/proecri
 published: true
 aktt_notify_twitter:
   - 'yes'

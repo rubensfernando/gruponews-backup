@@ -1,12 +1,12 @@
 ---
 ID: 1919
 post_title: Os diferentes relacionamentos conjugais
-author: |
+author: Fernando
 post_date: 2011-07-12 18:52:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/os-diferentes-relacionamentos-conjugais
+  https:/artigos/os-diferentes-relacionamentos-conjugais
 published: true
 aktt_notify_twitter:
   - 'no'

@@ -1,12 +1,12 @@
 ---
 ID: 3410
 post_title: 'Naamã: a dedicação profissional transformada em devoção apaixonada'
-author: |
+author: Fernando
 post_date: 2013-08-30 08:06:27
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/naama-a-dedicacao-profissional-transformada-em-devocao-apaixonada
+  https:/artigos/naama-a-dedicacao-profissional-transformada-em-devocao-apaixonada
 published: true
 wpcf-gn_post_autor:
   - ""

@@ -1,12 +1,12 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-author: |
+author: eduardolucas
 post_date: 2009-12-01 20:46:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/familia-materias/criacao-de-filhos
+  https:/familia-materias/criacao-de-filhos
 published: true
 post_autor:
   - Afonso e Claudia Porto
@@ -14,10 +14,10 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/criacao_de_filhos.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/criacao_de_filhos.jpg
 post_linkPDF:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf
 wpcf-gn_post_autor:
   - Afonso Porto e Claudia Porto
 dsq_thread_id:
@@ -33,4 +33,4 @@ Caso haja excesso na atitude do pai no momento de disciplinar o filho, a mulher 
 
 É necessário que haja colaboração entre marido e mulher. Há mães que não exercem autoridade sobre os filhos e só sabem dizer: “você vai ver quando seu pai chegar”. Ela tira toda sua responsabilidade e joga sobre o marido, imprimindo na cabeça da criança a constatação de que realmente não exerce nenhuma autoridade sobre ela. Caso seja necessário resolver junto com o pai determinada situação, a mãe deve deixar claro para a criança que, nas medidas que serão tomadas, haverá participação de ambos, fazendo-a entender que não faltou autoridade da parte dela.
 
-<a href="http://www.gruponews.com.br/site/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf">Baixe o estudo completo</a>
+<a href="http://www.gruponews.com.br/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf">Baixe o estudo completo</a>

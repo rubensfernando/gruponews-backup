@@ -1,12 +1,11 @@
 ---
 ID: 163
 post_title: 'Você sabia&#8230;'
-author: |
+author: eduardolucas
 post_date: 2009-12-01 22:31:45
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/voce-sabia
+permalink: https:/bases-cristas/voce-sabia
 published: true
 post_autor:
   - Equipe Comunicação
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/voce_sabia.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/voce_sabia.jpg
 wpcf-gn_post_autor:
   - Equipe GrupoNews
 dsq_thread_id:
@@ -107,11 +106,13 @@ Que o termo prosélito se aplica aos pagãos convertidos aos judaísmo? Provavel
 Que Davi, indo lutar com o gigante Golias, passou pelo ribeiro e apanhou cinco pedras, porque a Bíblia menciona entre os filisteus 5 gigantes?
 
 Que nos dias de Jesus havia vários tipos de cruzes que se dividiam em duas classes? A primeira era simples, era uma só estaca, a segunda eram cruzes composta que se chamavam:
+
 <ol>
-	<li>DECUSSATA era a cruz em forma de X, depois chamada cruz de Santo André;</li>
-	<li>COMISSA era a cruz em forma de T, depois chamada de cruz de Santo Antônio;</li>
-	<li>IMMISSA, também chamada de “Cruz Latina”, tinha a forma de punhal ( é a conhecia “Cruz Romana”). Esse tipo de cruz foi provavelmente que crucificaram Jesus, por ser o único tipo que dá condições de colocar inscrições sobre a cabeça do crucificado. A parte horizontal chamava-se PATIBULUM e pesava cerca de 45 kg. A parte vertical chamava-se STIPES CRUCIS e pesava cerca de 75 kg</li>
+    <li>DECUSSATA era a cruz em forma de X, depois chamada cruz de Santo André;</li>
+    <li>COMISSA era a cruz em forma de T, depois chamada de cruz de Santo Antônio;</li>
+    <li>IMMISSA, também chamada de “Cruz Latina”, tinha a forma de punhal ( é a conhecia “Cruz Romana”). Esse tipo de cruz foi provavelmente que crucificaram Jesus, por ser o único tipo que dá condições de colocar inscrições sobre a cabeça do crucificado. A parte horizontal chamava-se PATIBULUM e pesava cerca de 45 kg. A parte vertical chamava-se STIPES CRUCIS e pesava cerca de 75 kg</li>
 </ol>
+
 Que o castigo por açoites, segundo a lei Mosaica, era de 40 açoites e não podia exceder, e para que o executor não quebrasse a lei, aplicava-se sempre 39 açoites? Entre os romanos o instrumento de açoites era o azorrague, feito de tiras de couro, guarnecido de pedaços de chumbo, bronze ou ainda lascas de ossos, com o fim de tornar o castigo mais cruel.
 
 Que estudiosos orçaram a riqueza do templo de Salomão em torno de 50 bilhões de dólares?

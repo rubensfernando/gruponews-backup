@@ -3,12 +3,12 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
-author: |
+author: Fernando
 post_date: 2014-02-04 09:00:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
+  https:/bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
 published: true
 dsq_thread_id:
   - "3486459951"

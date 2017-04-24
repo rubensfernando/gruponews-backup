@@ -1,12 +1,11 @@
 ---
 ID: 543
 post_title: Jucom na Web!
-author: |
+author: Victor Glad
 post_date: 2010-02-06 13:02:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/noticias/jucom-na-web
+permalink: https:/noticias/jucom-na-web
 published: true
 aktt_notify_twitter:
   - 'no'
@@ -16,7 +15,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/02/back_jucomnaweb.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/02/back_jucomnaweb.jpg
 dsq_thread_id:
   - "2964932275"
 ---

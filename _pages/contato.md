@@ -1,17 +1,17 @@
 ---
 ID: 10
 post_title: Contato
-author: |
+author: Fernando
 post_date: 2009-09-19 17:06:30
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/contato
+permalink: https:/contato
 published: true
 post_autor:
   - ""
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/04/backlight_contato.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/backlight_contato.jpg
 post_destaques:
   - Nao
 aktt_notify_twitter:

@@ -3,12 +3,12 @@ ID: 1922
 post_title: >
   O eloquente silêncio de Jesus sobre a
   verdade
-author: |
+author: Fernando
 post_date: 2011-07-12 18:49:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
+  https:/artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
 published: true
 aktt_notify_twitter:
   - 'no'

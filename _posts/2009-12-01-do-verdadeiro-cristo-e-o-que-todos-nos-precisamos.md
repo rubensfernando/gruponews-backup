@@ -3,12 +3,12 @@ ID: 110
 post_title: >
   Do verdadeiro Cristo é o que todos nós
   precisamos
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:31:34
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
+  https:/artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
 published: true
 post_autor:
   - Afonso Porto
@@ -16,7 +16,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/do_verdadeiro_cristo_e_o_que_todos_nos_precisamos.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/do_verdadeiro_cristo_e_o_que_todos_nos_precisamos.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

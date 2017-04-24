@@ -1,12 +1,12 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author: |
+author: Fernando
 post_date: 2011-12-04 20:11:22
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-lei-a-igreja-e-as-janelas-dos-trens
+  https:/artigos/a-lei-a-igreja-e-as-janelas-dos-trens
 published: true
 aktt_notify_twitter:
   - 'yes'

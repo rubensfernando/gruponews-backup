@@ -1,12 +1,12 @@
 ---
 ID: 1287
 post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
-author: |
+author: Fernando
 post_date: 2011-01-30 12:00:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes
+  https:/publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,20 +16,20 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/01/banner_jornal_setembro_2010.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/banner_jornal_setembro_2010.jpg
 jornal_linkPDF:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site.pdf
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site.pdf
 aktt_tweeted:
   - "1"
 jornal_capa:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site_Page_01.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site_Page_01.jpg
 jornal_data:
   - Setembro / Outubro de 2010
 wpcf-jornal_linkpdf:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site.pdf
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/gruponews-setembro-outubro_2010_site.pdf
 wpcf-gn_post_autor:
   - Equipe GrupoNews
 wpcf-gn_post_destaques:

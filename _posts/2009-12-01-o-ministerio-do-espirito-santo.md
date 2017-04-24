@@ -1,12 +1,12 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:52:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
+  https:/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,10 +14,10 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
 post_linkPDF:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:
@@ -43,5 +43,5 @@ Não obstante esse imenso desejo, mas ainda havia o empecilho do pecado ao qual 
 
 Se é certo dizer que homem tem saudades e desejo de retornar ao paraíso de onde fora expulso e também de retomar a comunhão com Deus da qual havia sido privado depois do pecado, também é certo dizer que este desejo é, primeiramente, o desejo de Deus que ficou instalado em nosso coração. Há um desejo recorrente no coração do homem de reencontrar o paraíso perdido e elementos nele contidos como, por exemplo, o elixir da juventude (árvore da vida), retratado em muitas ficções, história, lendas etc. Muito já se falou e especulou sobre uma sociedade perfeita, ideal, num ambiente paradisíaco, quer seja por um sonho de criança ou através de um tratado filosófico. Isto apenas mostra o inconformismo com este mundo e a crença que ele poderia ser diferente. No fundo tudo isso são fragmentos do relato do Gênesis. Por outro lado encontramos na própria Bíblia o lamento de Deus pelo ocorrido e seu desejo latente de recuperar novamente a condição original de relacionamento com a criação, especialmente como o homem.
 
-<strong><a href="http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf" target="_blank">Baixe o estudo completo</a><a href="http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf">
+<strong><a href="http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf" target="_blank">Baixe o estudo completo</a><a href="http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf">
 </a></strong>

@@ -1,12 +1,12 @@
 ---
 ID: 1972
 post_title: Relacionamentos afetados pelo divórcio
-author: |
+author: Fernando
 post_date: 2011-12-15 00:00:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/relacionamentos-afetados-pelo-divorcio
+  https:/artigos/relacionamentos-afetados-pelo-divorcio
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -1,12 +1,12 @@
 ---
 ID: 1506
 post_title: Compartilhando a cruz no Brasil
-author: |
+author: Fernando
 post_date: 2010-02-02 15:22:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/compartilhando-a-cruz-no-brasil
+  https:/artigos/compartilhando-a-cruz-no-brasil
 published: true
 aktt_notify_twitter:
   - 'yes'

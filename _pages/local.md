@@ -1,12 +1,11 @@
 ---
 ID: 1103
 post_title: Local
-author: |
+author: Fernando
 post_date: 2010-09-16 18:09:05
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/conferencia2010/local
+permalink: https:/conferencia2010/local
 published: true
 aktt_notify_twitter:
   - 'yes'

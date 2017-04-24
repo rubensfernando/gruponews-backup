@@ -1,12 +1,11 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
-author: |
+author: Fernando
 post_date: 2013-10-20 09:00:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-deus-explosivo
+permalink: https:/artigos/o-deus-explosivo
 published: true
 wpcf-gn_post_autor:
   - ""

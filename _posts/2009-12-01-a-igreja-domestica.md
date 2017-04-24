@@ -1,12 +1,11 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
-author: |
+author: eduardolucas
 post_date: 2009-12-01 20:52:45
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/igreja/a-igreja-domestica
+permalink: https:/igreja/a-igreja-domestica
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,14 +13,14 @@ post_destaques:
   - Destaque2
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_igreja_domestica.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_igreja_domestica.jpg
 post_linkPDF:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_igreja_domestica.pdf
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_igreja_domestica.pdf
 wpcf-gn_post_autor:
   - Pedro Arruda
 dsq_thread_id:
-  - "2802545954"
+  - "5544248000"
 wpcf-gn_post_destaques:
   - nao_destaque
 ---
@@ -47,4 +46,4 @@ Resumindo, o arrependimento profetizado por Malaquias se dá em três níveis: O
 
 Em 1932 foi descoberto o edifício da primeira igreja cristã na antiga guarnição romana de Dura Europos, atual fronteira oriental da Síria. Era basicamente uma casa particular usada como igreja, datada do século III e, portanto, bem posterior ao período neotestamentário. No período referido pelo Novo testamento não havia ainda os templos e as basílicas, que passaram a ser construídas a partir do século IV, em 314, quando surge a primeira basílica. Portanto, os escritos de Paulo tornam-se mais compreensíveis se vistos do ponto de vista da família.
 
-<a href="http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_igreja_domestica.pdf">Baixe o estudo completo</a>
+<a href="http://www.gruponews.com.br/wp-content/uploads/2009/12/a_igreja_domestica.pdf">Baixe o estudo completo</a>

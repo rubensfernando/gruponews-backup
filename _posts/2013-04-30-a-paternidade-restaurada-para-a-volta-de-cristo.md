@@ -3,12 +3,12 @@ ID: 2867
 post_title: >
   A paternidade restaurada para a volta de
   Cristo
-author: |
+author: Fernando
 post_date: 2013-04-30 08:00:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-paternidade-restaurada-para-a-volta-de-cristo
+  https:/artigos/a-paternidade-restaurada-para-a-volta-de-cristo
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

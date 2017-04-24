@@ -1,11 +1,11 @@
 ---
 ID: 1216
 post_title: Mapa do Site
-author: |
+author: Fernando
 post_date: 2010-11-14 19:34:34
 post_excerpt: ""
 layout: page
-permalink: http://www.gruponews.com.br/mapa-do-site
+permalink: https:/mapa-do-site
 published: true
 aktt_notify_twitter:
   - 'yes'

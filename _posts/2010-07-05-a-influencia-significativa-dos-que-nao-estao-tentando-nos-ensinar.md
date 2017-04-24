@@ -3,12 +3,12 @@ ID: 3225
 post_title: >
   A influência significativa dos que não
   estão tentando nos ensinar
-author: |
+author: Fernando
 post_date: 2010-07-05 15:12:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar
+  https:/artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar
 published: true
 wpcf-gn_post_autor:
   - Moacir Alves Faria

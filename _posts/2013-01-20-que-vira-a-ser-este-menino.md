@@ -1,12 +1,12 @@
 ---
 ID: 2864
 post_title: Que virá a ser este menino?
-author: |
+author: Fernando
 post_date: 2013-01-20 19:22:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/que-vira-a-ser-este-menino
+  https:/artigos/que-vira-a-ser-este-menino
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

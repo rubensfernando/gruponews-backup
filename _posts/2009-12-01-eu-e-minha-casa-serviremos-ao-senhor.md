@@ -1,12 +1,12 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:34:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/eu-e-minha-casa-serviremos-ao-senhor
+  https:/artigos/eu-e-minha-casa-serviremos-ao-senhor
 published: true
 post_autor:
   - Mauricio Bronzatto
@@ -14,7 +14,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/eu_e_minha_casa_serviremos_a_Deus.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/eu_e_minha_casa_serviremos_a_Deus.jpg
 dsq_thread_id:
   - "2805894590"
 wpcf-gn_post_imagem_credito:

@@ -1,12 +1,12 @@
 ---
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
-author: |
+author: Victor Glad
 post_date: 2011-01-30 22:38:33
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
+  https:/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,7 +16,7 @@ post_destaques:
   - Destaque
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/03/banner_divorcio_parte2.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2011/03/banner_divorcio_parte2.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

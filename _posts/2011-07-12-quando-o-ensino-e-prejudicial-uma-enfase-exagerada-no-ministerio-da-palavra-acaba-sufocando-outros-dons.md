@@ -1,12 +1,12 @@
 ---
 ID: 1892
 post_title: 'Quando o ensino é prejudicial: uma ênfase exagerada no ministério da Palavra acaba sufocando outros dons'
-author: |
+author: Fernando
 post_date: 2011-07-12 18:55:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
+  https:/artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
 published: true
 aktt_notify_twitter:
   - 'no'

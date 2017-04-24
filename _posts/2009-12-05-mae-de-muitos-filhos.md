@@ -1,12 +1,11 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
-author: |
+author: Fernando
 post_date: 2009-12-05 01:44:05
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/publicacoes/mae-de-muitos-filhos
+permalink: https:/publicacoes/mae-de-muitos-filhos
 published: true
 post_autor:
   - Equipe da Comunicação
@@ -14,10 +13,10 @@ post_destaques:
   - Nao
 publicacoes_capa:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:

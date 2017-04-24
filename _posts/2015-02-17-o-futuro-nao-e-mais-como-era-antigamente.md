@@ -3,12 +3,12 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
-author: |
+author: Fernando
 post_date: 2015-02-17 12:55:25
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
+  https:/bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

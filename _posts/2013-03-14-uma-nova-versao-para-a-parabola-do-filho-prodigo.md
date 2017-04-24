@@ -3,12 +3,12 @@ ID: 2865
 post_title: >
   Uma nova versão para a parábola do
   filho pródigo
-author: |
+author: Fernando
 post_date: 2013-03-14 00:08:23
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
+  https:/artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

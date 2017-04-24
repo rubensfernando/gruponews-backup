@@ -1,12 +1,12 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
-author: |
+author: Fernando
 post_date: 2011-07-10 02:06:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-caminho-mais-excelente-da-santidade
+  https:/artigos/o-caminho-mais-excelente-da-santidade
 published: true
 aktt_notify_twitter:
   - 'no'
@@ -18,7 +18,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/07/editorial-copy.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/editorial-copy.jpg
 wpcf-gn_post_autor:
   - Maurício Bronzatto
 dsq_thread_id:

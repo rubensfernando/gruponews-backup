@@ -1,12 +1,12 @@
 ---
 ID: 1474
 post_title: Sobre a coautoria em “A Cabana”
-author: |
+author: Fernando
 post_date: 2010-02-02 00:15:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/geral/sobre-a-coautoria-em-a-cabana
+  https:/geral/sobre-a-coautoria-em-a-cabana
 published: true
 aktt_notify_twitter:
   - 'yes'

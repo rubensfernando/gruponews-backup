@@ -3,12 +3,12 @@ ID: 1475
 post_title: >
   Sobre o livro que inspirou a
   Conferência 2009
-author: |
+author: Fernando
 post_date: 2010-02-02 00:10:55
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/geral/sobre-o-livro-que-inspirou-a-conferencia-2009
+  https:/geral/sobre-o-livro-que-inspirou-a-conferencia-2009
 published: true
 aktt_notify_twitter:
   - 'no'

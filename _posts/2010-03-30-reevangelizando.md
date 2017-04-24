@@ -1,15 +1,13 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author: |
+author: Fernando
 post_date: 2010-03-30 22:15:01
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/noticias/reevangelizando
+permalink: https:/noticias/reevangelizando
 published: true
 aktt_notify_twitter:
-  - 'yes'
   - 'yes'
 post_autor:
   - Equipe da Comunicação
@@ -17,7 +15,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/04/back_reevangelizando.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/back_reevangelizando.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

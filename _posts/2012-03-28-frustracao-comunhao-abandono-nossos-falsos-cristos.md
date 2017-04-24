@@ -3,12 +3,12 @@ ID: 2069
 post_title: >
   Da frustração à comunhão e ao
   abandono de nossos falsos cristos
-author: |
+author: Fernando
 post_date: 2012-03-28 12:00:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
+  https:/artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
 published: true
 aktt_notify_twitter:
   - 'yes'

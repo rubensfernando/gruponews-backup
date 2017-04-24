@@ -1,12 +1,11 @@
 ---
 ID: 4437
 post_title: Inscrições para os eventos
-author: |
+author: Fernando
 post_date: 2015-08-06 00:11:20
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/inscricoes-para-os-eventos
+permalink: https:/inscricoes-para-os-eventos
 published: true
 dsq_thread_id:
   - "4029456306"

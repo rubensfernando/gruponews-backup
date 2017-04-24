@@ -1,12 +1,11 @@
 ---
 ID: 55
 post_title: A Oração de Maria
-author: |
+author: eduardolucas
 post_date: 2009-12-01 20:56:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/a-oracao-de-maria
+permalink: https:/bases-cristas/a-oracao-de-maria
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_oracao_de_maria.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_oracao_de_maria.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:

@@ -1,12 +1,12 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
-author: |
+author: Fernando
 post_date: 2011-07-12 18:54:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
+  https:/artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
 published: true
 aktt_notify_twitter:
   - 'no'

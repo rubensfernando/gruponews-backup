@@ -3,12 +3,12 @@ ID: 3593
 post_title: >
   A igreja como expressão familiar da
   vida da trindade
-author: |
+author: Fernando
 post_date: 2014-03-10 09:01:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/geral/igreja-como-expressao-familiar-da-vida-da-trindade
+  https:/geral/igreja-como-expressao-familiar-da-vida-da-trindade
 published: true
 wpcf-gn_post_autor:
   - ""

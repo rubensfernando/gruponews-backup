@@ -1,12 +1,11 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:44:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-amigo-do-noivo
+permalink: https:/artigos/o-amigo-do-noivo
 published: true
 post_autor:
   - Clélia Arruda
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_amigo_do_noivo.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_amigo_do_noivo.jpg
 wpcf-gn_post_autor:
   - ""
 wpcf-gn_post_imagem_credito:

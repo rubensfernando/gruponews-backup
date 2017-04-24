@@ -1,12 +1,11 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:25:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/bases-cristas/deixa-que-eu-pago
+permalink: https:/bases-cristas/deixa-que-eu-pago
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/deixa_que_eu_pago.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/deixa_que_eu_pago.jpg
 wpcf-gn_post_autor:
   - ""
 dsq_thread_id:

@@ -1,12 +1,12 @@
 ---
 ID: 2086
 post_title: Sofrimentos da criança pequena
-author: |
+author: Fernando
 post_date: 2012-08-16 00:40:36
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/sofrimentos-crianca-pequena
+  https:/artigos/sofrimentos-crianca-pequena
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,7 +18,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/crianca.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/crianca.jpg
 wpcf-gn_post_autor:
   - Juarez Gomes e Maria de Carvalho Gomes
 wpcf-gn_post_destaques:

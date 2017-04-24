@@ -1,12 +1,11 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
-author: |
+author: eduardolucas
 post_date: 2009-12-01 21:54:34
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-valor-do-dinheiro
+permalink: https:/artigos/o-valor-do-dinheiro
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/o_valor_do_dinheiro.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_valor_do_dinheiro.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

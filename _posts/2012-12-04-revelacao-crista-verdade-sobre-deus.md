@@ -3,12 +3,12 @@ ID: 2107
 post_title: >
   A revelação cristã e a verdade sobre
   Deus
-author: |
+author: Fernando
 post_date: 2012-12-04 23:47:16
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/revelacao-crista-verdade-sobre-deus
+  https:/artigos/revelacao-crista-verdade-sobre-deus
 published: true
 aktt_notify_twitter:
   - 'yes'

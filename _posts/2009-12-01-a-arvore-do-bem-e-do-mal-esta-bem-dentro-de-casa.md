@@ -3,12 +3,12 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author: |
+author: eduardolucas
 post_date: 2009-12-01 00:57:16
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+  https:/familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
 published: true
 post_autor:
   - Ivonete Camargo Pegnolazzo
@@ -16,7 +16,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:

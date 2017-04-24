@@ -1,12 +1,12 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
-author: |
+author: Fernando
 post_date: 2010-07-05 15:13:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/aprendendo-a-exultar-na-monotonia
+  https:/artigos/aprendendo-a-exultar-na-monotonia
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

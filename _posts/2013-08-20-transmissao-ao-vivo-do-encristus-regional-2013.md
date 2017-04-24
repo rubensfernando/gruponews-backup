@@ -3,12 +3,12 @@ ID: 3420
 post_title: >
   Transmissão ao vivo do Encristus
   Regional 2013
-author: |
+author: Fernando
 post_date: 2013-08-20 23:28:35
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/transmissao-ao-vivo-do-encristus-regional-2013
+  https:/noticias/transmissao-ao-vivo-do-encristus-regional-2013
 published: true
 wpcf-gn_post_destaques:
   - destaque_maior

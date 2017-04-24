@@ -1,12 +1,11 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author: |
+author: Fernando
 post_date: 2007-09-09 22:43:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/geral/deus-cuida-de-mim
+permalink: https:/geral/deus-cuida-de-mim
 published: true
 dsq_thread_id:
   - "3003800352"

@@ -1,12 +1,11 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author: |
+author: Fernando
 post_date: 2013-03-26 07:00:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/a-procura-da-comunhao
+permalink: https:/artigos/a-procura-da-comunhao
 published: true
 wpcf-gn_post_autor:
   - Cléucio Macedo

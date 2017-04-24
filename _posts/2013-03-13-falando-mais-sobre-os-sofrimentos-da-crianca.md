@@ -3,12 +3,12 @@ ID: 2872
 post_title: >
   Falando mais sobre os sofrimentos da
   criança
-author: |
+author: Fernando
 post_date: 2013-03-13 00:00:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
+  https:/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
 published: true
 wpcf-gn_post_autor:
   - Juarez Gomes e Maria de Carvalho Gomes

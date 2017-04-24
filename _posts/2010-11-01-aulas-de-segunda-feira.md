@@ -1,12 +1,11 @@
 ---
 ID: 1177
 post_title: 'O Projeto de Reevangelização &#8211; aulas de segunda-feira'
-author: |
+author: Victor Glad
 post_date: 2010-11-01 00:00:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/geral/aulas-de-segunda-feira
+permalink: https:/geral/aulas-de-segunda-feira
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -16,7 +15,7 @@ post_destaques:
   - Destaque
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/11/back_aulas.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/11/back_aulas.jpg
 aktt_tweeted:
   - "1"
 ---

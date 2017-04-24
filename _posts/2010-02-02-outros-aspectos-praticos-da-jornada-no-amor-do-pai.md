@@ -3,12 +3,12 @@ ID: 1498
 post_title: >
   Outros aspectos práticos da jornada no
   amor do Pai
-author: |
+author: Fernando
 post_date: 2010-02-02 00:45:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
+  https:/artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
 published: true
 aktt_notify_twitter:
   - 'yes'

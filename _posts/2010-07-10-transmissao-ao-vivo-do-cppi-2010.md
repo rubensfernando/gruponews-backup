@@ -1,15 +1,14 @@
 ---
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
-author: |
+author: Fernando
 post_date: 2010-07-10 17:40:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/noticias/transmissao-ao-vivo-do-cppi-2010
+  https:/noticias/transmissao-ao-vivo-do-cppi-2010
 published: true
 aktt_notify_twitter:
-  - 'yes'
   - 'yes'
 post_autor:
   - Equipe GrupoNews
@@ -17,7 +16,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/07/bannergrupo.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/07/bannergrupo.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

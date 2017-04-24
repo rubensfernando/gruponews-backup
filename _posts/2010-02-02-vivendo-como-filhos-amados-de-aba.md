@@ -1,12 +1,12 @@
 ---
 ID: 1482
 post_title: Vivendo como filhos amados de Aba
-author: |
+author: Fernando
 post_date: 2010-02-02 00:25:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/vivendo-como-filhos-amados-de-aba
+  https:/artigos/vivendo-como-filhos-amados-de-aba
 published: true
 aktt_notify_twitter:
   - 'yes'

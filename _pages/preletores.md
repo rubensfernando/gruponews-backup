@@ -1,12 +1,11 @@
 ---
 ID: 1058
 post_title: Preletores
-author: |
+author: Fernando
 post_date: 2010-09-11 18:11:49
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/conferencia2010/preletores
+permalink: https:/conferencia2010/preletores
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -14,6 +13,8 @@ post_autor:
   - ""
 post_destaques:
   - Nao
+dsq_thread_id:
+  - "5274504719"
 ---
 <strong>Gino Iafrancesco Villegas </strong>
 

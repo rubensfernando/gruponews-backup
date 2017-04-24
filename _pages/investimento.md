@@ -1,12 +1,11 @@
 ---
 ID: 1061
 post_title: Investimento
-author: |
+author: Fernando
 post_date: 2010-09-11 18:12:39
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/conferencia2010/investimento
+permalink: https:/conferencia2010/investimento
 published: true
 aktt_notify_twitter:
   - 'yes'

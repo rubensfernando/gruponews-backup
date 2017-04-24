@@ -1,12 +1,12 @@
 ---
 ID: 3628
 post_title: Lidando com o próprio veneno
-author: |
+author: Fernando
 post_date: 2014-02-07 15:41:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/vida/lidando-com-o-proprio-veneno
+  https:/bases-cristas/vida/lidando-com-o-proprio-veneno
 published: true
 wpcf-gn_post_autor:
   - ""

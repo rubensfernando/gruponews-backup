@@ -1,12 +1,12 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-author: |
+author: Fernando
 post_date: 2014-01-23 00:24:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/geral/uma-historia-para-se-identificar
+  https:/geral/uma-historia-para-se-identificar
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

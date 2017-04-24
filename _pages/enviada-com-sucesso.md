@@ -1,12 +1,12 @@
 ---
 ID: 1068
 post_title: Inscrição enviada com sucesso
-author: |
+author: Fernando
 post_date: 2010-09-11 19:41:30
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.gruponews.com.br/conferencia2010/inscricao/enviada-com-sucesso
+  https:/conferencia2010/inscricao/enviada-com-sucesso
 published: true
 aktt_notify_twitter:
   - 'yes'

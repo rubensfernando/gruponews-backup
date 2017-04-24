@@ -1,12 +1,11 @@
 ---
 ID: 990
 post_title: Conferência 2008
-author: |
+author: Fernando
 post_date: 2010-09-07 11:41:20
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/conferencia2008
+permalink: https:/conferencia2008
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -1,12 +1,11 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-author: |
+author: Fernando
 post_date: 2010-07-01 17:31:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/o-meu-calice-transborda
+permalink: https:/artigos/o-meu-calice-transborda
 published: true
 wpcf-gn_post_autor:
   - Max Lucado

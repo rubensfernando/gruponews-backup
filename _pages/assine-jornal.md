@@ -1,12 +1,11 @@
 ---
 ID: 4162
 post_title: Assine o jornal GrupoNews
-author: |
+author: Fernando
 post_date: 2015-04-11 12:43:56
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.gruponews.com.br/assine-jornal
+permalink: https:/assine-jornal
 published: true
 dsq_thread_id:
   - "4502331196"

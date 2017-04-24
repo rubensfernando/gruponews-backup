@@ -1,12 +1,11 @@
 ---
 ID: 104
 post_title: Diferentes para Amar
-author: |
+author: eduardolucas
 post_date: 2009-11-28 18:16:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/igreja/diferentes-para-amar
+permalink: https:/igreja/diferentes-para-amar
 published: true
 post_autor:
   - Pedro Arruda
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/diferentes_para_amar.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/diferentes_para_amar.jpg
 aktt_notify_twitter:
   - 'no'
 wpcf-gn_post_autor:

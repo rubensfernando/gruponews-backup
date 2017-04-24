@@ -1,12 +1,12 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author: |
+author: Fernando
 post_date: 2014-03-21 00:04:32
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/celebracao-de-uma-presenca
+  https:/bases-cristas/celebracao-de-uma-presenca
 published: true
 wpcf-gn_post_autor:
   - ""

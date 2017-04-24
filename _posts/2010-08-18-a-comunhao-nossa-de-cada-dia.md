@@ -3,12 +3,12 @@ ID: 973
 post_title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
-author: |
+author: Victor Glad
 post_date: 2010-08-18 23:03:33
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/publicacoes/a-comunhao-nossa-de-cada-dia
+  https:/publicacoes/a-comunhao-nossa-de-cada-dia
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,10 +18,10 @@ post_destaques:
   - Destaque2
 publicacoes_capa:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/08/capa_comunhao1.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/08/capa_comunhao1.jpg
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2010/08/back_comunhao.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2010/08/back_comunhao.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

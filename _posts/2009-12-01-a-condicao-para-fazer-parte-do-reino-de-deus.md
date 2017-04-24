@@ -3,12 +3,12 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
-author: |
+author: eduardolucas
 post_date: 2009-12-01 20:39:30
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/igreja/a-condicao-para-fazer-parte-do-reino-de-deus
+  https:/igreja/a-condicao-para-fazer-parte-do-reino-de-deus
 published: true
 post_autor:
   - Valter Severino
@@ -16,7 +16,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
 aktt_notify_twitter:
   - 'yes'
 wpcf-gn_post_autor:

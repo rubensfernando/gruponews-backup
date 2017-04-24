@@ -3,12 +3,12 @@ ID: 3181
 post_title: >
   O milagre de caminhar com os pés no
   chão
-author: |
+author: Fernando
 post_date: 2010-07-04 17:39:36
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
+  https:/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
 published: true
 wpcf-gn_post_autor:
   - >

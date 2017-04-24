@@ -4,12 +4,12 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-author: |
+author: Fernando
 post_date: 2012-04-04 12:00:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
+  https:/artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -21,14 +21,14 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/pescador.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/pescador.jpg
 wpcf-gn_post_autor:
   - Pedro Arruda
 aktt_tweeted:
   - "1"
 wpcf-gn_post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/pescador.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/pescador.jpg
 wpcf-gn_post_destaques:
   - destaque_novidade
 dsq_thread_id:

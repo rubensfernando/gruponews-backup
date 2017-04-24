@@ -1,12 +1,11 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
-author: |
+author: Fernando
 post_date: 2011-11-29 23:21:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/a-volta-da-igreja-prodiga
+permalink: https:/artigos/a-volta-da-igreja-prodiga
 published: true
 aktt_notify_twitter:
   - 'yes'

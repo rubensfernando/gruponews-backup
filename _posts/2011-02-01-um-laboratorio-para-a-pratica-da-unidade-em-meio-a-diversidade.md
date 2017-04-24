@@ -3,12 +3,12 @@ ID: 1366
 post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
-author: |
+author: Fernando
 post_date: 2011-02-01 00:45:02
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade
+  https:/igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,7 +18,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2011/02/editorial.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/editorial.jpg
 aktt_tweeted:
   - "1"
 wpcf-gn_post_autor:

@@ -1,12 +1,12 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
-author: |
+author: Fernando
 post_date: 2012-04-28 14:30:12
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/igreja-casa-deus-com-ceus-abertos
+  https:/artigos/igreja-casa-deus-com-ceus-abertos
 published: true
 aktt_notify_twitter:
   - 'yes'
@@ -18,7 +18,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2012/02/jaco.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/jaco.jpg
 wpcf-gn_post_imagem:
   - ""
 aktt_tweeted:

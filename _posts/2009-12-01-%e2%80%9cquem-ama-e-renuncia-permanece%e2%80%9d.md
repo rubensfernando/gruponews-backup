@@ -1,12 +1,11 @@
 ---
 ID: 127
 post_title: “Quem ama e renuncia, permanece”
-author: |
+author: eduardolucas
 post_date: 2009-12-01 22:11:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.gruponews.com.br/artigos/%e2%80%9cquem-ama-e-renuncia-permanece%e2%80%9d
+permalink: 'https:/artigos/%e2%80%9cquem-ama-e-renuncia-permanece%e2%80%9d'
 published: true
 post_autor:
   - Maurício Bronzatto
@@ -14,7 +13,7 @@ post_destaques:
   - Nao
 post_imagem:
   - >
-    http://www.gruponews.com.br/site/wp-content/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
 wpcf-gn_post_autor:
   - Maurício Bronzatto
 wpcf-gn_post_imagem_credito:

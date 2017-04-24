@@ -1,12 +1,12 @@
 ---
 ID: 3590
 post_title: O mal que faz a aparência do bem
-author: |
+author: Fernando
 post_date: 2014-03-10 09:01:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/bases-cristas/o-mal-que-faz-aparencia-bem
+  https:/bases-cristas/o-mal-que-faz-aparencia-bem
 published: true
 wpcf-gn_post_autor:
   - ""

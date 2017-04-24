@@ -1,12 +1,12 @@
 ---
 ID: 3404
 post_title: O trabalho e o Reino Milenar
-author: |
+author: Fernando
 post_date: 2013-08-27 07:15:19
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.gruponews.com.br/artigos/o-trabalho-e-o-reino-milenar
+  https:/artigos/o-trabalho-e-o-reino-milenar
 published: true
 wpcf-gn_post_autor:
   - Ricardo Oliveira
