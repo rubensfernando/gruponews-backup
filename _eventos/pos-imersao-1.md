@@ -8,8 +8,8 @@ layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/pos-imersao-1
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 ---
