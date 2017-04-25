@@ -1,12 +1,12 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author: eduardolucas
+published_by: eduardolucas
 post_date: 2009-09-19 14:57:56
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/bases-cristas/666-voce-ja-foi-assinalado
+  https://www.gruponews.com.br/bases-cristas/666-voce-ja-foi-assinalado
 published: true
 post_autor:
   - Mauricio Bronzatto
@@ -21,11 +21,17 @@ wpcf-gn_post_autor:
   - Maurício Bronzatto
 dsq_thread_id:
   - "2802545636"
+slide_template:
+  - default
+yst_is_cornerstone:
+  - ""
 wpcf-gn_post_destaques:
   - nao_destaque
+image: >
+  /wp-content/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+format: false
 ---
-“A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)
-
+<blockquote>“A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)</blockquote>
 A missão de Jesus, o Cordeiro histórico que padeceu na Palestina, encontra significado lá na eternidade onde ele é conhecido como “o Cordeiro que foi morto desde a fundação do mundo” (Ap 13:8). Essa marca fala-nos sobre o seu caráter. Ele deixou essa marca na História porque essa é a sua marca na eternidade (na trans-História).
 
 Com a marca da besta acontece algo semelhante, às avessas: sua marca na história  dos homens apenas testemunha um caráter consumado na eternidade. Jesus disse que o diabo é homicida desde o princípio e que nele não há verdade (Jo 8:44). Logo, toda a manifestação da besta na história sempre repetirá esse caráter, ainda que tais desempenhos se camuflem das formas as mais variadas.
