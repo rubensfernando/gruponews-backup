@@ -6,7 +6,7 @@ post_date: 2016-09-25 14:02:00
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/geral/curso-preparatorio-imersao-2017
+  https://www.gruponews.com.br/geral/curso-preparatorio-imersao-2017
 published: true
 dsq_thread_id:
   - "5173041116"
@@ -14,12 +14,16 @@ instant_articles_submission_id:
   - "323442141380866"
 slide_template:
   - default
+yst_is_cornerstone:
+  - ""
 wpcf-gn_post_destaques:
   - destaque_medio
+image: >
+  /wp-content/uploads/2016/09/banner_curso_site.jpg
 ---
 Dos dias 07 a 15 de Janeiro de 2017, será realizado o Imersão de Verão. Para participar do encontro é obrigatória a participação nos cursos preparatórios.
 
-Este ano teremos dois cursos preparatórios:
+Este ano teremos dois cursos preparatórios
 
 <strong>"Amigos do Mestre"</strong>
 Para quem já participou de algum imersão.
