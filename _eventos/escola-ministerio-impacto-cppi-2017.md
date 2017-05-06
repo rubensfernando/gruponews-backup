@@ -11,6 +11,8 @@ published: true
 tags: null
 wpcf-gn_post_destaques:
   - nao_destaque
+slide_template:
+  - default
 image: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2-256x256.png
 ---
