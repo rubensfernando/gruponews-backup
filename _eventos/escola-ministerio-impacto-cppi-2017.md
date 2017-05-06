@@ -5,9 +5,12 @@ published_by: Fernando
 post_date: 2017-04-06 20:17:32
 post_excerpt: ""
 layout: event
-permalink: 'https://www.gruponews.com.br/?post_type=event&p=4891'
-published: false
+permalink: >
+  https://www.gruponews.com.br/eventos/escola-ministerio-impacto-cppi-2017
+published: true
 tags: null
+wpcf-gn_post_destaques:
+  - nao_destaque
 image: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2-256x256.png
 ---
