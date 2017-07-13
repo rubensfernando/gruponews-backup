@@ -3,8 +3,14 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal-720x600.jpg
 post_excerpt: ""
 layout: post
 permalink: >

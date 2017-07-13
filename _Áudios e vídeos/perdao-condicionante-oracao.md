@@ -1,7 +1,10 @@
 ---
 ID: 3461
 post_title: 'Encristus 2013 &#8211; Perdão como condicionante da oração'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

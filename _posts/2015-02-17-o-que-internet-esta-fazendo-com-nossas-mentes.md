@@ -3,7 +3,10 @@ ID: 4311
 post_title: >
   O que a internet está fazendo com as
   nossas mentes
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

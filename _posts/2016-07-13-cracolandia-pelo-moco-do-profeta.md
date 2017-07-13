@@ -1,7 +1,10 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

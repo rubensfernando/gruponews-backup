@@ -3,7 +3,10 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 2208
 post_title: Event Categorias
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

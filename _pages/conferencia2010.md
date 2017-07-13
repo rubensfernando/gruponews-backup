@@ -1,7 +1,10 @@
 ---
 ID: 1055
 post_title: Conferência 2010
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

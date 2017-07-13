@@ -1,7 +1,10 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

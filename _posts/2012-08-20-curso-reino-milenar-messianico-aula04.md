@@ -1,8 +1,14 @@
 ---
 ID: 2689
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04'
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma41.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma41.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma41.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma41-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >

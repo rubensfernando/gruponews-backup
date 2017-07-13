@@ -3,7 +3,10 @@ ID: 1601
 post_title: >
   A “lei do Espírito da vida” contra
   o aborto
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

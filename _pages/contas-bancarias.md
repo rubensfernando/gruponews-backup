@@ -1,7 +1,10 @@
 ---
 ID: 3395
 post_title: Contas bancárias
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

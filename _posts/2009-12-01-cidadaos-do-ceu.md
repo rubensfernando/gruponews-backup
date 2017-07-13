@@ -1,7 +1,10 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

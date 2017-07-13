@@ -1,7 +1,10 @@
 ---
 ID: 3460
 post_title: 'Encristus 2013 &#8211; Testemunhos'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

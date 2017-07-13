@@ -1,7 +1,10 @@
 ---
 ID: 4862
 post_title: Conferência
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

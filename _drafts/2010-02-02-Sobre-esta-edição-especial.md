@@ -1,7 +1,10 @@
 ---
 ID: 1472
 post_title: Sobre esta edição especial
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=1472

@@ -1,7 +1,10 @@
 ---
 ID: 441
 post_title: 'Conferência 2009 &#8211; Transmissão AO VIVO'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,8 +3,14 @@ ID: 2312
 post_title: >
   Curso “O Reino Milenar Messiânico”
   Aula 1 – Vespertino
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: >

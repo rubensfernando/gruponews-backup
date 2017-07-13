@@ -1,7 +1,10 @@
 ---
 ID: 4860
 post_title: Encontro Geral da Juventude
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 1972
 post_title: Relacionamentos afetados pelo divórcio
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

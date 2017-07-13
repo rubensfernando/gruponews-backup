@@ -1,7 +1,10 @@
 ---
 ID: 93
 post_title: Arrependei-vos e Vivei
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

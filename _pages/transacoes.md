@@ -1,7 +1,10 @@
 ---
 ID: 1996
 post_title: Transações
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

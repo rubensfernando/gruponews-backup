@@ -1,7 +1,10 @@
 ---
 ID: 3424
 post_title: Testemunhos
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

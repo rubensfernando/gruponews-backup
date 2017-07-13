@@ -1,7 +1,10 @@
 ---
 ID: 1474
 post_title: Sobre a coautoria em “A Cabana”
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

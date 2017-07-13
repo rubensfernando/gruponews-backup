@@ -1,7 +1,10 @@
 ---
 ID: 2015
 post_title: Curta nossa página no Facebook
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 4861
 post_title: 'Encontro da Melhor  Idade -MID'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

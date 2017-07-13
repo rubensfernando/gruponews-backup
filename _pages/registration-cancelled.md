@@ -1,7 +1,10 @@
 ---
 ID: 3708
 post_title: Inscrição cancelada
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

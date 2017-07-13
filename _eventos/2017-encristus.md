@@ -1,8 +1,14 @@
 ---
 ID: 4844
 post_title: Encristus
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1920x1080.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1280x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1280x1153.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-720x720.jpg
 post_excerpt: ""
 layout: event
 permalink: >

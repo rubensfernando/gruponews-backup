@@ -1,7 +1,10 @@
 ---
 ID: 2104
 post_title: Escolhendo um modelo seguir
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

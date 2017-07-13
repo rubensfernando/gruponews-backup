@@ -1,7 +1,10 @@
 ---
 ID: 1892
 post_title: 'Quando o ensino é prejudicial: uma ênfase exagerada no ministério da Palavra acaba sufocando outros dons'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 1398
 post_title: Eventos
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/events

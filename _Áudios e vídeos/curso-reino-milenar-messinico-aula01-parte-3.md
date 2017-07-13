@@ -1,8 +1,14 @@
 ---
 ID: 2509
 post_title: 'Vídeo da #aula01 &#8211; Parte 3 do Curso “O Reino Milenar Messiânico”'
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt3.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt3.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt3.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt3-720x320.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

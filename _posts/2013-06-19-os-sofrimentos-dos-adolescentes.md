@@ -1,7 +1,10 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

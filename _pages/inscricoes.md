@@ -1,7 +1,10 @@
 ---
 ID: 2209
 post_title: Minhas Inscrições
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

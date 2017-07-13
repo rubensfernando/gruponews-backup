@@ -1,7 +1,10 @@
 ---
 ID: 4540
 post_title: 'Curso Bíblico Preparatório 2015 &#8211; Aulas 1 e 2'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

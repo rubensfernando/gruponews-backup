@@ -3,7 +3,10 @@ ID: 4696
 post_title: >
   Uma experiência familiar na área
   financeira
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

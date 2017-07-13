@@ -1,7 +1,10 @@
 ---
 ID: 2987
 post_title: Encristus 2013
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

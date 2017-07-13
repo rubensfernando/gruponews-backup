@@ -1,8 +1,14 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: event
 permalink: >

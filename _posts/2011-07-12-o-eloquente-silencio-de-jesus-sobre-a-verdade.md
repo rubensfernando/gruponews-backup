@@ -3,7 +3,10 @@ ID: 1922
 post_title: >
   O eloquente silêncio de Jesus sobre a
   verdade
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

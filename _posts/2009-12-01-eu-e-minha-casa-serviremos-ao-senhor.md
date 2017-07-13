@@ -1,7 +1,10 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

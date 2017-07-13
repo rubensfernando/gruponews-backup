@@ -1,7 +1,10 @@
 ---
 ID: 3882
 post_title: Em busca do evangelho puro
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

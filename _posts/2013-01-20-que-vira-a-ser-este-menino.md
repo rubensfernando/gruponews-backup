@@ -1,7 +1,10 @@
 ---
 ID: 2864
 post_title: Que virá a ser este menino?
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

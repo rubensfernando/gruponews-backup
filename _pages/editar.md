@@ -1,7 +1,10 @@
 ---
 ID: 2119
 post_title: Editar
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

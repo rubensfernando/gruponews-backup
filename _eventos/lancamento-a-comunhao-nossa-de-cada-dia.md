@@ -1,8 +1,14 @@
 ---
 ID: 983
 post_title: 'Lançamento do Livro: A Comunhão Nossa de Cada Dia – a reforma da unidade da igreja'
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao-720x300.jpg
 post_excerpt: ""
 layout: event
 permalink: >

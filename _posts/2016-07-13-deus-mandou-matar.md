@@ -1,7 +1,10 @@
 ---
 ID: 4699
 post_title: '&#8220;Deus&#8221; mandou matar'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

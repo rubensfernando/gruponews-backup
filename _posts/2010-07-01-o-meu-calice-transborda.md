@@ -1,7 +1,10 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

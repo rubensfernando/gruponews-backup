@@ -3,7 +3,10 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,8 +3,14 @@ ID: 3420
 post_title: >
   Transmissão ao vivo do Encristus
   Regional 2013
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: >

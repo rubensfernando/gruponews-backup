@@ -1,7 +1,10 @@
 ---
 ID: 2869
 post_title: A mentira que falamos
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

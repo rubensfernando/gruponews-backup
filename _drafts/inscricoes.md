@@ -3,8 +3,14 @@ ID: 4675
 post_title: >
   Inscrição para o Encontro de Mulheres
   2016
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4675'

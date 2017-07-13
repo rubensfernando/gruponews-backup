@@ -1,7 +1,10 @@
 ---
 ID: 3951
 post_title: Protegendo as sementes de Deus
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

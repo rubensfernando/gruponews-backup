@@ -1,7 +1,10 @@
 ---
 ID: 2571
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 8 de julho'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

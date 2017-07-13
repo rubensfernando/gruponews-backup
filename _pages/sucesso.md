@@ -1,7 +1,10 @@
 ---
 ID: 812
 post_title: Mensagem enviada com sucesso
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

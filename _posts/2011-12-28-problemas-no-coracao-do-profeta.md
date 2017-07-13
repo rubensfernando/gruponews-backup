@@ -1,7 +1,10 @@
 ---
 ID: 1974
 post_title: Problemas no coração do profeta
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

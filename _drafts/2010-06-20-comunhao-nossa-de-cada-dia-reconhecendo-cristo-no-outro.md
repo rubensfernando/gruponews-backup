@@ -3,7 +3,10 @@ ID: 864
 post_title: >
   “Comunhão nossa de cada dia” –
   Reconhecendo Cristo no Outro
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=864

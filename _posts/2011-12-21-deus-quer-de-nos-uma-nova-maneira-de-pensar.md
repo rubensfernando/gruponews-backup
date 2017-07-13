@@ -3,7 +3,10 @@ ID: 1969
 post_title: >
   Deus quer de nós uma nova maneira de
   pensar
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

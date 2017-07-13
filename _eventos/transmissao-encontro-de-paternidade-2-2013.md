@@ -1,8 +1,14 @@
 ---
 ID: 3368
 post_title: 'Encontro de Paternidade 2 &#8211; 2013'
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/07/encontro-paternidade-2013-transmissao.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/07/encontro-paternidade-2013-transmissao.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/07/encontro-paternidade-2013-transmissao.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/07/encontro-paternidade-2013-transmissao-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: >

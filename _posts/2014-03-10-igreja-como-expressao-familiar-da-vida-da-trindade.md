@@ -3,7 +3,10 @@ ID: 3593
 post_title: >
   A igreja como expressão familiar da
   vida da trindade
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

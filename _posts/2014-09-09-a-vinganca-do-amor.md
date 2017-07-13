@@ -1,7 +1,10 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

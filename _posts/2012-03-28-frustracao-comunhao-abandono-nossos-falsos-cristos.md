@@ -3,7 +3,10 @@ ID: 2069
 post_title: >
   Da frustração à comunhão e ao
   abandono de nossos falsos cristos
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 4132
 post_title: A música profética
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

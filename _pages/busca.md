@@ -1,7 +1,10 @@
 ---
 ID: 2099
 post_title: Resultado da Busca
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/busca

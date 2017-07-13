@@ -1,7 +1,10 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

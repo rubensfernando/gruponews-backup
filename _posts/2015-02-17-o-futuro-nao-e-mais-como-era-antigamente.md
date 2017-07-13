@@ -3,7 +3,10 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

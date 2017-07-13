@@ -1,8 +1,14 @@
 ---
 ID: 1122
 post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa-960x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

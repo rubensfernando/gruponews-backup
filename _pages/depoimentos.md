@@ -1,7 +1,10 @@
 ---
 ID: 1003
 post_title: Depoimentos
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

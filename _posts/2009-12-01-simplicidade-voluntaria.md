@@ -1,8 +1,14 @@
 ---
 ID: 133
 post_title: Simplicidade voluntária
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 4260
 post_title: O espírito de família
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

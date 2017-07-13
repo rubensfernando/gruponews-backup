@@ -1,7 +1,10 @@
 ---
 ID: 1061
 post_title: Investimento
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

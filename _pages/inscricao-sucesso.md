@@ -1,7 +1,10 @@
 ---
 ID: 841
 post_title: Inscrição enviada com sucesso
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

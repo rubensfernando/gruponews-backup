@@ -1,7 +1,10 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

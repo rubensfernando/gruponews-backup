@@ -1,7 +1,10 @@
 ---
 ID: 99
 post_title: De Volta para a Casa
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

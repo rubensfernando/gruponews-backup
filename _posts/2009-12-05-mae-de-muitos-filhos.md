@@ -1,8 +1,14 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/livro_capa_mae_filhos-960x1080.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/livro_capa_mae_filhos-960x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/livro_capa_mae_filhos-960x1280.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/livro_capa_mae_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

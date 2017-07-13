@@ -1,7 +1,10 @@
 ---
 ID: 4857
 post_title: Encontro de Jovens
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

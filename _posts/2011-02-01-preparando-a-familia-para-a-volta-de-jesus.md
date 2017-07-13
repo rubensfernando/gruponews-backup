@@ -3,8 +3,14 @@ ID: 1369
 post_title: >
   Preparando a família para a volta de
   Jesus
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/pedro-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >

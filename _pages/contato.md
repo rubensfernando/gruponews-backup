@@ -1,7 +1,10 @@
 ---
 ID: 10
 post_title: Contato
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/contato

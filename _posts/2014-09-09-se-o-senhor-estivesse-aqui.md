@@ -1,7 +1,10 @@
 ---
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,8 +1,14 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01-960x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

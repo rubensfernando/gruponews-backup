@@ -1,7 +1,10 @@
 ---
 ID: 4855
 post_title: Jucom
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

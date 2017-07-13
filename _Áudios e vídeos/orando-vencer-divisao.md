@@ -1,7 +1,10 @@
 ---
 ID: 3462
 post_title: 'Encristus 2013 &#8211; Orando, vencer o mal da divisão'
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

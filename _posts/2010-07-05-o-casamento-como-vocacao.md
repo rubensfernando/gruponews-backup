@@ -1,7 +1,10 @@
 ---
 ID: 3226
 post_title: O casamento como vocação
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

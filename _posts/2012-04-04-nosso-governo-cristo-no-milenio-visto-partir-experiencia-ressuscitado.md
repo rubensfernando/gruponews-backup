@@ -4,8 +4,14 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-1000x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

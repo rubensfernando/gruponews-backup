@@ -1,7 +1,10 @@
 ---
 ID: 4695
 post_title: Deus é agressivo ?
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >

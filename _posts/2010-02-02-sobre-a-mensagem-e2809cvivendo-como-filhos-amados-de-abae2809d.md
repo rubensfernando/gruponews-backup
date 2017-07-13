@@ -3,7 +3,10 @@ ID: 1490
 post_title: >
   Sobre a mensagem “Vivendo como filhos
   amados de Aba”
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d'

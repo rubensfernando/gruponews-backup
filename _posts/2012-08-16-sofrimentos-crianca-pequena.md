@@ -1,8 +1,14 @@
 ---
 ID: 2086
 post_title: Sofrimentos da criança pequena
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/crianca-720x666.jpg
 post_excerpt: ""
 layout: post
 permalink: >

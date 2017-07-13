@@ -1,8 +1,14 @@
 ---
 ID: 3627
 post_title: A coletivização do dom
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-1280x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-1280x1080.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,10 @@
 ---
 ID: 1980
 post_title: Copyright
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/copyright

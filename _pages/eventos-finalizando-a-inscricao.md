@@ -1,7 +1,10 @@
 ---
 ID: 3706
 post_title: Finalizando a inscrição
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

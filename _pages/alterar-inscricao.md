@@ -1,7 +1,10 @@
 ---
 ID: 36
 post_title: Alterar inscrição
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >

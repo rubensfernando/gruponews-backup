@@ -1,8 +1,14 @@
 ---
 ID: 4651
 post_title: Conferência Internacional 2016
-image: >
+image-xl: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+image-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER-720x353.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

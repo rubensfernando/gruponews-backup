@@ -1,7 +1,10 @@
 ---
 ID: 2124
 post_title: Crie uma conta
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/cadastrar

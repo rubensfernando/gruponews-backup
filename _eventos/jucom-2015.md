@@ -1,7 +1,10 @@
 ---
 ID: 4407
 post_title: Jucom 2015
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

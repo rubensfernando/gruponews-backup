@@ -1,7 +1,10 @@
 ---
 ID: 4850
 post_title: Encontro de Adolescentes
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >

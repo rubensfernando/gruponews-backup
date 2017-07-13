@@ -1,8 +1,14 @@
 ---
 ID: 1408
 post_title: 'Cobertura da Conferência &#8220;Cristo o Reino e a Igreja&#8221;'
-image: >
+image-xl: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/capa_gruponews_janeiro_2011_grafica_valeeste-1.jpg
+image-l: >
   https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/capa_gruponews_janeiro_2011_grafica_valeeste-1-960x720.jpg
+image-sq-l: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/capa_gruponews_janeiro_2011_grafica_valeeste-1.jpg
+image-sq-m: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/capa_gruponews_janeiro_2011_grafica_valeeste-1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

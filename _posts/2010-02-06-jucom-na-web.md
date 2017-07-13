@@ -1,7 +1,10 @@
 ---
 ID: 543
 post_title: Jucom na Web!
-image: ""
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
