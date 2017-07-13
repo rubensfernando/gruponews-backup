@@ -7,34 +7,18 @@ permalink: >
   https://www.gruponews.com.br/igreja/a-estrategia-final
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
   - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Carlos Araripe
+  - Atitude
+  - Batalha
+  - Estratégia
+  - Guerra
+  - Homem
+  - Igreja
+  - Inimigo
+  - Louvor
+  - Oração
+  - Palavra
 author:
   - Carlos Araripe
 post_date: 2009-12-01 20:42:53

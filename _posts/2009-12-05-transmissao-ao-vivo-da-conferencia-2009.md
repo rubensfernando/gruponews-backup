@@ -7,33 +7,12 @@ permalink: >
   https://www.gruponews.com.br/noticias/transmissao-ao-vivo-da-conferencia-2009
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
   - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
-tags: [ ]
+tags:
+  - 'Conferência 2009 - Por que Você Não Quer Mais Ir À Igreja?'
+  - Jacobsen
+  - Wayne
+  - Wayne Jacobsen
 author: [ ]
 post_date: 2009-12-05 00:22:34
 ---

@@ -7,34 +7,12 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/a-vinganca-do-amor
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Pe. Léo
+  - edicao-49
+  - >
+    ESTAS HISTÓRIAS... TU AS INCULCARÁS A
+    TEUS FILHOS (cf. Dt 6:6-7)
 author:
   - Pe. Léo
 post_date: 2014-09-09 21:53:55

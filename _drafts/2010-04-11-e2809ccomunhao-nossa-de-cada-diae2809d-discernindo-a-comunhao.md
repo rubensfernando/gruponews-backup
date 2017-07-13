@@ -8,31 +8,9 @@ published: false
 categories:
   - Artigos
   - Bases Cristãs
-  - CDs de músicas
   - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
-tags: [ ]
+tags:
+  - Comunhão
 author: [ ]
 ---
 <blockquote><em>Este artigo é o segundo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler o anterior.</em></blockquote>

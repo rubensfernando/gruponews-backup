@@ -7,34 +7,19 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/a-felicidade-crista
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
   - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Paulo Roberto da Silva
+  - Acreditar
+  - Comparar
+  - Dificuldade
+  - Esperança
+  - Felicidade
+  - Mundo
+  - Salvação
+  - Sofrimento
+  - Trevas
+  - Vida
 author:
   - Paulo Roberto da Silva
 post_date: 2009-12-01 20:49:47

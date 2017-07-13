@@ -9,34 +9,9 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
   - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Nicholas Carr
+  - edicao-80
 author:
   - Nicholas Carr
 post_date: 2015-02-17 12:55:47

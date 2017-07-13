@@ -7,34 +7,19 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/curiosidades-sobre-a-biblia
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Sociedade Bíblica do Brasil
+  - Almeida
+  - Bíblia
+  - Capítulos
+  - Curiosidade
+  - Escreveu
+  - Inspirados
+  - Livro
+  - Palavra
+  - Testamento
+  - Tradução
+  - Versículos
 author:
   - Sociedade Bíblica do Brasil
 post_date: 2009-11-29 22:07:29

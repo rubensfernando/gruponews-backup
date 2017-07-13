@@ -8,32 +8,17 @@ published: true
 categories:
   - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Maurício Bronzatto
+  - Águas
+  - Amor
+  - Arrependimento
+  - Confessar
+  - Graça
+  - Nascer
+  - Perdão
+  - Perdida
+  - Resgate
+  - Salvação
 author:
   - Maurício Bronzatto
 post_date: 2009-12-01 22:11:40

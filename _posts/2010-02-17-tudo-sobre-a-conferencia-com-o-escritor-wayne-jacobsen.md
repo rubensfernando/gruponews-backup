@@ -9,34 +9,35 @@ permalink: >
   https://www.gruponews.com.br/publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
   - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
   - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Equipe GrupoNews
+  - a cabana
+  - abba
+  - amado
+  - Amor
+  - cabana
+  - church
+  - conferencia
+  - 'Conferência 2009 - Por que Você Não Quer Mais Ir À Igreja?'
+  - cristo
+  - cruz
+  - Cura
+  - deus
+  - edicao-64
+  - filho
+  - Igreja
+  - Jacobsen
+  - pessoa
+  - pessoas
+  - Relacionamento
+  - religião
+  - Shack
+  - "So You Don't Want to Go to Church Anymore"
+  - The Shack
+  - Vida
+  - Wayne
+  - Wayne Jacobsen
 author:
   - Equipe GrupoNews
 post_date: 2010-02-17 00:00:08

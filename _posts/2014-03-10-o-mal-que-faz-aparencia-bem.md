@@ -7,34 +7,13 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/o-mal-que-faz-aparencia-bem
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Maurício Bronzatto
+  - bem e mal
+  - edicao-75
+  - inocência
+  - intergridade
+  - paternidade
 author:
   - Maurício Bronzatto
 post_date: 2014-03-10 09:01:20

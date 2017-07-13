@@ -6,35 +6,9 @@ layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
 published: true
-categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
+categories: [ ]
 tags:
-  - Afonso Porto
+  - paternidade
 author:
   - Afonso Porto
 post_date: 2014-04-10 16:13:48

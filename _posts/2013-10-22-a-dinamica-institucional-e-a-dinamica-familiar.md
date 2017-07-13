@@ -9,34 +9,13 @@ permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
   - Vivendo como igreja relacional
 tags:
-  - Wayne Jacobsen
+  - edicao-76
+  - Família
+  - Igreja
+  - igreja organica
+  - Vida
 author:
   - Wayne Jacobsen
 post_date: 2013-10-22 07:00:11

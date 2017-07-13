@@ -7,33 +7,13 @@ permalink: >
   https://www.gruponews.com.br/publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
   - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
   - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
-tags: [ ]
+tags:
+  - cristo
+  - edicao-69
+  - Igreja
+  - Reino
 author: [ ]
 post_date: 2011-02-03 00:20:06
 ---

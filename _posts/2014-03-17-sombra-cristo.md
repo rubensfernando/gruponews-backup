@@ -7,34 +7,12 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/sombra-cristo
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Luiz Lourenço Gonçalves
+  - edicao-75
+  - Mentira
+  - Pecado
+  - presença
 author:
   - Luiz Lourenço Gonçalves
 post_date: 2014-03-17 08:53:30

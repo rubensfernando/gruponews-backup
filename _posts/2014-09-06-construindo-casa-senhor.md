@@ -7,34 +7,9 @@ permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/construindo-casa-senhor
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
   - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Rosane Faria
+  - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
 author:
   - Rosane Faria
 post_date: 2014-09-06 11:38:32

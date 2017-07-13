@@ -9,34 +9,18 @@ permalink: >
   https://www.gruponews.com.br/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
 published: true
 categories:
-  - Artigos
-  - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
   - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
   - >
     Por que Você Não Quer Mais Ir À
     Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Ezequiel Netto
+  - casas
+  - Desigrejados
+  - edicao-64
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - sem igreja
 author:
   - Ezequiel Netto
 post_date: 2010-02-02 00:00:11

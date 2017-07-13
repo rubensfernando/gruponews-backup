@@ -7,34 +7,18 @@ permalink: >
   https://www.gruponews.com.br/bases-cristas/ano-aceitavel-do-senhor
 published: true
 categories:
-  - Artigos
   - Bases Cristãs
-  - CDs de músicas
-  - Comunhão
-  - Desenvolvendo os dons proféticos
-  - Espírito Santo
-  - Família
-  - Geral
-  - Igreja
-  - Igreja nos lares
-  - Jornal GrupoNews
-  - Livros
-  - Notícias
-  - O Deus mal compreendido
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-  - O Ministério do Espírito Santo
-  - >
-    Por que Você Não Quer Mais Ir À
-    Igreja?
-  - Publicações
-  - Um lugar chamado Nárnia
-  - Unidade
-  - Vida
-  - Vivendo como igreja relacional
 tags:
-  - Cristina Juliani
+  - Aceitar
+  - Acreditar
+  - Desanimado
+  - Esperança
+  - Graça
+  - Misericórdia
+  - Perdão
+  - Restauração
+  - Salvação
+  - Transformação
 author:
   - Cristina Juliani
 post_date: 2009-11-28 17:50:34
