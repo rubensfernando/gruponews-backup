@@ -1,13 +1,38 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
-author: ' <a href="https://www.gruponews.com.br/autor/gary-fray" rel="tag">Gary Fray</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2008-a-igreja-do-nosso-tempo" rel="tag">Conferência "A igreja do nosso tempo"</a>'
+author:
+  - 
+    term_id: 908
+    name: Gary Fray
+    slug: gary-fray
+    term_group: 0
+    term_taxonomy_id: 923
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 910
+    name: Conferência "A igreja do nosso tempo"
+    slug: conferencia-2008-a-igreja-do-nosso-tempo
+    term_group: 0
+    term_taxonomy_id: 925
+    taxonomy: post_tag
+    description: |
+      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
+      
+      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/segundo-jesus-o-que-precisamos-mudar
-categories: categories
+categories: ""
 published: true
 post_date: 2008-08-30 12:12:43
 ---

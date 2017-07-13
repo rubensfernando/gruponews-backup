@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-reino-milenar-messianico-aula03
-categories: categories
+categories: ""
 published: true
 post_date: 2012-07-26 09:00:06
 ---

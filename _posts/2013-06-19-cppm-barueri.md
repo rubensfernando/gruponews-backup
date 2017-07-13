@@ -3,13 +3,101 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aulas" rel="tag">aulas</a>, <a href="https://www.gruponews.com.br/tag/barueri" rel="tag">Barueri</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/evangelho" rel="tag">Evangelho</a>, <a href="https://www.gruponews.com.br/tag/profecia" rel="tag">profecia</a>, <a href="https://www.gruponews.com.br/tag/profetico" rel="tag">profético</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 786
+    name: aulas
+    slug: aulas
+    term_group: 0
+    term_taxonomy_id: 797
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 381
+    name: Barueri
+    slug: barueri
+    term_group: 0
+    term_taxonomy_id: 385
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 370
+    name: Curso
+    slug: curso
+    term_group: 0
+    term_taxonomy_id: 374
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 261
+    name: Evangelho
+    slug: evangelho
+    term_group: 0
+    term_taxonomy_id: 264
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 862
+    name: profecia
+    slug: profecia
+    term_group: 0
+    term_taxonomy_id: 876
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 464
+    name: profético
+    slug: profetico
+    term_group: 0
+    term_taxonomy_id: 471
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/cppm-barueri
-categories: categories
+categories: ""
 published: true
 post_date: 2013-06-19 00:00:32
 ---

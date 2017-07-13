@@ -1,12 +1,111 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cslewis" rel="tag">C.S. Lewis</a>, <a href="https://www.gruponews.com.br/tag/caspian" rel="tag">caspian</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/principe" rel="tag">principe</a>, <a href="https://www.gruponews.com.br/tag/principe-caspian" rel="tag">Príncipe Caspian</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 575
+    name: aslam
+    slug: aslam
+    term_group: 0
+    term_taxonomy_id: 582
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 574
+    name: C.S. Lewis
+    slug: cslewis
+    term_group: 0
+    term_taxonomy_id: 581
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 590
+    name: caspian
+    slug: caspian
+    term_group: 0
+    term_taxonomy_id: 597
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 576
+    name: cronicas
+    slug: cronicas
+    term_group: 0
+    term_taxonomy_id: 583
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 577
+    name: filme
+    slug: filme
+    term_group: 0
+    term_taxonomy_id: 584
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 307
+    name: narnia
+    slug: narnia
+    term_group: 0
+    term_taxonomy_id: 310
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 591
+    name: principe
+    slug: principe
+    term_group: 0
+    term_taxonomy_id: 598
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 933
+    name: Príncipe Caspian
+    slug: principe-caspian
+    term_group: 0
+    term_taxonomy_id: 948
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
-categories: categories
+categories: ""
 published: true
 post_date: 2011-02-17 21:29:03
 ---

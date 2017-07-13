@@ -1,13 +1,46 @@
 ---
 ID: 3626
 post_title: Com que luz você foi iluminado?
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/editorial" rel="tag">editorial</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 986
+    name: editorial
+    slug: editorial
+    term_group: 0
+    term_taxonomy_id: 1004
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/com-que-luz-voce-foi-iluminado
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-07 15:54:54
 ---

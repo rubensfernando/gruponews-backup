@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=4776
-categories: categories
+categories: ""
 published: false
 ---
 &nbsp;

@@ -1,13 +1,134 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/credibilidade" rel="tag">Credibilidade</a>, <a href="https://www.gruponews.com.br/tag/digna" rel="tag">Digna</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/hombridade" rel="tag">Hombridade</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/hospitaleira" rel="tag">Hospitaleira</a>, <a href="https://www.gruponews.com.br/tag/influencia" rel="tag">Influência</a>, <a href="https://www.gruponews.com.br/tag/pastoreio" rel="tag">Pastoreio</a>, <a href="https://www.gruponews.com.br/tag/prestigio" rel="tag">Prestígio</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 33
+    name: Credibilidade
+    slug: credibilidade
+    term_group: 0
+    term_taxonomy_id: 34
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 32
+    name: Digna
+    slug: digna
+    term_group: 0
+    term_taxonomy_id: 32
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 31
+    name: Hombridade
+    slug: hombridade
+    term_group: 0
+    term_taxonomy_id: 31
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 34
+    name: Homem
+    slug: homem
+    term_group: 0
+    term_taxonomy_id: 35
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 36
+    name: Hospitaleira
+    slug: hospitaleira
+    term_group: 0
+    term_taxonomy_id: 37
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 35
+    name: Influência
+    slug: influencia
+    term_group: 0
+    term_taxonomy_id: 36
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 37
+    name: Pastoreio
+    slug: pastoreio
+    term_group: 0
+    term_taxonomy_id: 38
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 38
+    name: Prestígio
+    slug: prestigio
+    term_group: 0
+    term_taxonomy_id: 39
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/hombridade-e-a-casa-digna
-categories: categories
+categories: ""
 published: true
 post_date: 2009-11-28 16:44:05
 ---

@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/usuario
-categories: categories
+categories: ""
 published: true
 post_date: 2012-03-04 20:25:27
 ---

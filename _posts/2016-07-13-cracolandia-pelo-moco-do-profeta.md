@@ -1,13 +1,35 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-author: ' <a href="https://www.gruponews.com.br/autor/carlos-eduardo-pereira-case" rel="tag">Carlos Eduardo Pereira (“Casé”)</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 1025
+    name: Carlos Eduardo Pereira (“Casé”)
+    slug: carlos-eduardo-pereira-case
+    term_group: 0
+    term_taxonomy_id: 1030
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/cracolandia-pelo-moco-do-profeta
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:37:10
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/contribuir" rel="tag">Contribuir</a>, <a href="https://www.gruponews.com.br/tag/dar" rel="tag">Dar</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/escravidao" rel="tag">Escravidão</a>, <a href="https://www.gruponews.com.br/tag/moeda" rel="tag">Moeda</a>, <a href="https://www.gruponews.com.br/tag/receber" rel="tag">Receber</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/riqueza" rel="tag">Riqueza</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/tudo" rel="tag">Tudo</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 47
+    name: Contribuir
+    slug: contribuir
+    term_group: 0
+    term_taxonomy_id: 48
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 40
+    name: Dar
+    slug: dar
+    term_group: 0
+    term_taxonomy_id: 41
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 39
+    name: Dinheiro
+    slug: dinheiro
+    term_group: 0
+    term_taxonomy_id: 40
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 43
+    name: Escravidão
+    slug: escravidao
+    term_group: 0
+    term_taxonomy_id: 44
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 44
+    name: Moeda
+    slug: moeda
+    term_group: 0
+    term_taxonomy_id: 45
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 41
+    name: Receber
+    slug: receber
+    term_group: 0
+    term_taxonomy_id: 42
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
+  - 
+    term_id: 46
+    name: Riqueza
+    slug: riqueza
+    term_group: 0
+    term_taxonomy_id: 47
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 42
+    name: Servir
+    slug: servir
+    term_group: 0
+    term_taxonomy_id: 43
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 45
+    name: Tudo
+    slug: tudo
+    term_group: 0
+    term_taxonomy_id: 46
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-valor-do-dinheiro
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:54:34
 ---

@@ -1,13 +1,79 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
-author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/paciencia" rel="tag">paciência</a>, <a href="https://www.gruponews.com.br/tag/perfil" rel="tag">perfil</a>'
+author:
+  - 
+    term_id: 679
+    name: Darin Hufford
+    slug: darin-hufford
+    term_group: 0
+    term_taxonomy_id: 690
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 981
+    name: paciência
+    slug: paciencia
+    term_group: 0
+    term_taxonomy_id: 999
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 980
+    name: perfil
+    slug: perfil
+    term_group: 0
+    term_taxonomy_id: 998
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-10 09:01:18
 ---

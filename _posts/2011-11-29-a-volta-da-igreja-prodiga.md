@@ -1,13 +1,46 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 903
+    name: edicao-71
+    slug: edicao-71
+    term_group: 0
+    term_taxonomy_id: 918
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-volta-da-igreja-prodiga
-categories: categories
+categories: ""
 published: true
 post_date: 2011-11-29 23:21:22
 ---

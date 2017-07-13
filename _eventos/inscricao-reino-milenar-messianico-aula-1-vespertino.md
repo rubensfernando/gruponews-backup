@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-15 22:18:19
 ---

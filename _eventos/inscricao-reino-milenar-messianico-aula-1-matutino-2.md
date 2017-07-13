@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-15 21:58:48
 ---

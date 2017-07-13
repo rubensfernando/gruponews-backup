@@ -1,13 +1,24 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
-author: ' <a href="https://www.gruponews.com.br/autor/willian-diego-pereira" rel="tag">Willian Diego Pereira</a>'
+author:
+  - 
+    term_id: 655
+    name: Willian Diego Pereira
+    slug: willian-diego-pereira
+    term_group: 0
+    term_taxonomy_id: 665
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/tempo-de-edificar
-categories: categories
+categories: ""
 published: true
 post_date: 2012-03-03 15:50:10
 ---

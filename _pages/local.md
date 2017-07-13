@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2010/local
-categories: categories
+categories: ""
 published: true
 post_date: 2010-09-16 18:09:05
 ---

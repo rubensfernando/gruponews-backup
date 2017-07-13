@@ -1,13 +1,134 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
-author: ' <a href="https://www.gruponews.com.br/autor/paulo-silva" rel="tag">Paulo Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/barreira" rel="tag">Barreira</a>, <a href="https://www.gruponews.com.br/tag/evangelismo" rel="tag">Evangelismo</a>, <a href="https://www.gruponews.com.br/tag/fe" rel="tag">Fé</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/incredulidade" rel="tag">Incredulidade</a>, <a href="https://www.gruponews.com.br/tag/liberdade" rel="tag">Liberdade</a>, <a href="https://www.gruponews.com.br/tag/preconceito" rel="tag">Preconceito</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 719
+    name: Paulo Silva
+    slug: paulo-silva
+    term_group: 0
+    term_taxonomy_id: 730
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 280
+    name: Barreira
+    slug: barreira
+    term_group: 0
+    term_taxonomy_id: 283
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 284
+    name: Evangelismo
+    slug: evangelismo
+    term_group: 0
+    term_taxonomy_id: 287
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 285
+    name: Fé
+    slug: fe
+    term_group: 0
+    term_taxonomy_id: 288
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 281
+    name: Incredulidade
+    slug: incredulidade
+    term_group: 0
+    term_taxonomy_id: 284
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 283
+    name: Liberdade
+    slug: liberdade
+    term_group: 0
+    term_taxonomy_id: 286
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 282
+    name: Preconceito
+    slug: preconceito
+    term_group: 0
+    term_taxonomy_id: 285
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/removendo-barreiras
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:13:30
 ---

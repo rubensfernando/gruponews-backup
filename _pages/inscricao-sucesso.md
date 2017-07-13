@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/eventos/inscricao-sucesso
-categories: categories
+categories: ""
 published: true
 post_date: 2010-06-06 13:53:46
 ---

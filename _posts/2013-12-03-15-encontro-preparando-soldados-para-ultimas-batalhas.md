@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/15-encontro-preparando-soldados-para-ultimas-batalhas
-categories: categories
+categories: ""
 published: true
 post_date: 2013-12-03 13:32:56
 ---

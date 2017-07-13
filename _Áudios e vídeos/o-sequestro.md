@@ -1,13 +1,134 @@
 ---
 ID: 1225
 post_title: O sequestro
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-da-juventude" rel="tag">Equipe da Juventude</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/adolescente" rel="tag">adolescente</a>, <a href="https://www.gruponews.com.br/tag/fuca" rel="tag">FUCA</a>, <a href="https://www.gruponews.com.br/tag/jovens" rel="tag">jovens</a>, <a href="https://www.gruponews.com.br/tag/juventude" rel="tag">juventude</a>, <a href="https://www.gruponews.com.br/tag/louvor" rel="tag">Louvor</a>, <a href="https://www.gruponews.com.br/tag/louvorzao" rel="tag">louvorzão</a>, <a href="https://www.gruponews.com.br/tag/pre-adolescente" rel="tag">pré-adolescente</a>, <a href="https://www.gruponews.com.br/tag/pre-adolescentes" rel="tag">pré-adolescentes</a>, <a href="https://www.gruponews.com.br/tag/sequestro" rel="tag">sequestro</a>, <a href="https://www.gruponews.com.br/tag/teatro" rel="tag">teatro</a>'
+author:
+  - 
+    term_id: 638
+    name: Equipe da Juventude
+    slug: equipe-da-juventude
+    term_group: 0
+    term_taxonomy_id: 647
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 357
+    name: adolescente
+    slug: adolescente
+    term_group: 0
+    term_taxonomy_id: 360
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 566
+    name: FUCA
+    slug: fuca
+    term_group: 0
+    term_taxonomy_id: 573
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 356
+    name: jovens
+    slug: jovens
+    term_group: 0
+    term_taxonomy_id: 359
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 354
+    name: juventude
+    slug: juventude
+    term_group: 0
+    term_taxonomy_id: 357
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 100
+    name: Louvor
+    slug: louvor
+    term_group: 0
+    term_taxonomy_id: 102
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 568
+    name: louvorzão
+    slug: louvorzao
+    term_group: 0
+    term_taxonomy_id: 575
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 571
+    name: pré-adolescente
+    slug: pre-adolescente
+    term_group: 0
+    term_taxonomy_id: 578
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 570
+    name: pré-adolescentes
+    slug: pre-adolescentes
+    term_group: 0
+    term_taxonomy_id: 577
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 567
+    name: sequestro
+    slug: sequestro
+    term_group: 0
+    term_taxonomy_id: 574
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 565
+    name: teatro
+    slug: teatro
+    term_group: 0
+    term_taxonomy_id: 572
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/o-sequestro
-categories: categories
+categories: ""
 published: true
 post_date: 2010-11-24 10:04:06
 ---

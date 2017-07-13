@@ -3,13 +3,24 @@ ID: 2983
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2013
-categories: categories
+categories: ""
 published: true
 post_date: 2013-02-04 20:34:21
 ---

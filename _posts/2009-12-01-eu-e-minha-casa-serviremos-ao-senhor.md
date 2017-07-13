@@ -1,13 +1,134 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/pai" rel="tag">Pai</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/unidade" rel="tag">Unidade</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 168
+    name: Conversão
+    slug: conversao
+    term_group: 0
+    term_taxonomy_id: 171
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 172
+    name: Pai
+    slug: pai
+    term_group: 0
+    term_taxonomy_id: 175
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 42
+    name: Servir
+    slug: servir
+    term_group: 0
+    term_taxonomy_id: 43
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 141
+    name: Unidade
+    slug: unidade
+    term_group: 0
+    term_taxonomy_id: 144
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 139
+    name: Visão
+    slug: visao
+    term_group: 0
+    term_taxonomy_id: 142
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 146
+    name: Vontade
+    slug: vontade
+    term_group: 0
+    term_taxonomy_id: 149
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/eu-e-minha-casa-serviremos-ao-senhor
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:34:18
 ---

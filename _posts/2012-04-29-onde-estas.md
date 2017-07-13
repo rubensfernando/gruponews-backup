@@ -3,13 +3,79 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
-author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/cordas" rel="tag">cordas</a>, <a href="https://www.gruponews.com.br/tag/eddo" rel="tag">eddo</a>, <a href="https://www.gruponews.com.br/tag/onde-est" rel="tag">onde est</a>, <a href="https://www.gruponews.com.br/tag/princ" rel="tag">princ</a>, <a href="https://www.gruponews.com.br/tag/trindade" rel="tag">trindade</a>'
+author:
+  - 
+    term_id: 858
+    name: Marina Venuto Silva
+    slug: marina-venuto-silva
+    term_group: 0
+    term_taxonomy_id: 872
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 837
+    name: cordas
+    slug: cordas
+    term_group: 0
+    term_taxonomy_id: 850
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 839
+    name: eddo
+    slug: eddo
+    term_group: 0
+    term_taxonomy_id: 852
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 832
+    name: onde est
+    slug: onde-est
+    term_group: 0
+    term_taxonomy_id: 845
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 836
+    name: princ
+    slug: princ
+    term_group: 0
+    term_taxonomy_id: 849
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 838
+    name: trindade
+    slug: trindade
+    term_group: 0
+    term_taxonomy_id: 851
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/onde-estas
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-29 19:51:20
 ---

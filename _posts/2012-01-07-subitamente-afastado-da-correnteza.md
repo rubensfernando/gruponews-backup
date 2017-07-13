@@ -1,13 +1,35 @@
 ---
 ID: 1976
 post_title: Subitamente afastado da correnteza
-author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>'
+author:
+  - 
+    term_id: 632
+    name: Paulo Roberto da Silva
+    slug: paulo-roberto-da-silva
+    term_group: 0
+    term_taxonomy_id: 640
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+tags:
+  - 
+    term_id: 903
+    name: edicao-71
+    slug: edicao-71
+    term_group: 0
+    term_taxonomy_id: 918
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/subitamente-afastado-da-correnteza
-categories: categories
+categories: ""
 published: true
 post_date: 2012-01-07 00:00:31
 ---

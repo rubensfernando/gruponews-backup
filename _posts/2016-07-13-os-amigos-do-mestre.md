@@ -1,13 +1,35 @@
 ---
 ID: 4691
 post_title: Os amigos do mestre
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/os-amigos-do-mestre
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:27:09
 ---

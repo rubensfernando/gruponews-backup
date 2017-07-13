@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/assine-jornal
-categories: categories
+categories: ""
 published: true
 post_date: 2015-04-11 12:43:56
 ---

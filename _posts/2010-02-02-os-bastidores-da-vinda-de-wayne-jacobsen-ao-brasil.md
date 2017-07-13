@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:20:08
 ---

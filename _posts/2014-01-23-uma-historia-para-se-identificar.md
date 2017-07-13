@@ -1,13 +1,35 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/uma-historia-para-se-identificar
-categories: categories
+categories: ""
 published: true
 post_date: 2014-01-23 00:24:37
 ---

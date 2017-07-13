@@ -3,13 +3,134 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author: ' <a href="https://www.gruponews.com.br/autor/ivonete-camargo-pegnolazzo" rel="tag">Ivonete Camargo Pegnolazzo</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/arvore" rel="tag">Arvore</a>, <a href="https://www.gruponews.com.br/tag/bem" rel="tag">Bem</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conhecimento" rel="tag">Conhecimento</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/internet" rel="tag">Internet</a>, <a href="https://www.gruponews.com.br/tag/mal" rel="tag">Mal</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/televisao" rel="tag">Televisão</a>'
+author:
+  - 
+    term_id: 633
+    name: Ivonete Camargo Pegnolazzo
+    slug: ivonete-camargo-pegnolazzo
+    term_group: 0
+    term_taxonomy_id: 641
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 80
+    name: Arvore
+    slug: arvore
+    term_group: 0
+    term_taxonomy_id: 81
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 83
+    name: Bem
+    slug: bem
+    term_group: 0
+    term_taxonomy_id: 84
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 85
+    name: Conhecimento
+    slug: conhecimento
+    term_group: 0
+    term_taxonomy_id: 86
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 86
+    name: Curiosidade
+    slug: curiosidade
+    term_group: 0
+    term_taxonomy_id: 87
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 59
+    name: Filhos
+    slug: filhos
+    term_group: 0
+    term_taxonomy_id: 60
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 82
+    name: Internet
+    slug: internet
+    term_group: 0
+    term_taxonomy_id: 83
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 81
+    name: Mal
+    slug: mal
+    term_group: 0
+    term_taxonomy_id: 82
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 63
+    name: Pais
+    slug: pais
+    term_group: 0
+    term_taxonomy_id: 64
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 84
+    name: Televisão
+    slug: televisao
+    term_group: 0
+    term_taxonomy_id: 85
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 00:57:16
 ---

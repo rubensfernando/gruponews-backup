@@ -3,13 +3,35 @@ ID: 4696
 post_title: >
   Uma experiência familiar na área
   financeira
-author: ' <a href="https://www.gruponews.com.br/autor/elaine-gidzinski" rel="tag">Elaine Gidzinski</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 1026
+    name: Elaine Gidzinski
+    slug: elaine-gidzinski
+    term_group: 0
+    term_taxonomy_id: 1031
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/uma-experiencia-familiar-na-area-financeira
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:40:19
 ---

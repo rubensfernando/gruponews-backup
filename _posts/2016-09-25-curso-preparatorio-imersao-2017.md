@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/curso-preparatorio-imersao-2017
-categories: categories
+categories: ""
 published: true
 post_date: 2016-09-25 14:02:00
 ---

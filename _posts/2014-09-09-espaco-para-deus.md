@@ -1,13 +1,35 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
-author: ' <a href="https://www.gruponews.com.br/autor/douglas-castillero" rel="tag">Douglas Castillero</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>'
+author:
+  - 
+    term_id: 917
+    name: Douglas Castillero
+    slug: douglas-castillero
+    term_group: 0
+    term_taxonomy_id: 932
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/espaco-para-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 21:36:08
 ---

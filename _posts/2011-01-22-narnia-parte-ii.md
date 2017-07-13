@@ -1,13 +1,145 @@
 ---
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cslewis" rel="tag">C.S. Lewis</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/feiticeira" rel="tag">feiticeira</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/guarda-roupa" rel="tag">guarda-roupa</a>, <a href="https://www.gruponews.com.br/tag/leao" rel="tag">leao</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/o-leao-a-feiticeira-e-o-guarda-roupa" rel="tag">O leão a feiticeira e o guarda-roupa</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 575
+    name: aslam
+    slug: aslam
+    term_group: 0
+    term_taxonomy_id: 582
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 574
+    name: C.S. Lewis
+    slug: cslewis
+    term_group: 0
+    term_taxonomy_id: 581
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 576
+    name: cronicas
+    slug: cronicas
+    term_group: 0
+    term_taxonomy_id: 583
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 86
+    name: Curiosidade
+    slug: curiosidade
+    term_group: 0
+    term_taxonomy_id: 87
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 580
+    name: feiticeira
+    slug: feiticeira
+    term_group: 0
+    term_taxonomy_id: 587
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 577
+    name: filme
+    slug: filme
+    term_group: 0
+    term_taxonomy_id: 584
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 578
+    name: guarda-roupa
+    slug: guarda-roupa
+    term_group: 0
+    term_taxonomy_id: 585
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 579
+    name: leao
+    slug: leao
+    term_group: 0
+    term_taxonomy_id: 586
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 256
+    name: Livro
+    slug: livro
+    term_group: 0
+    term_taxonomy_id: 259
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 307
+    name: narnia
+    slug: narnia
+    term_group: 0
+    term_taxonomy_id: 310
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 932
+    name: O leão a feiticeira e o guarda-roupa
+    slug: o-leao-a-feiticeira-e-o-guarda-roupa
+    term_group: 0
+    term_taxonomy_id: 947
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
-categories: categories
+categories: ""
 published: true
 post_date: 2011-01-22 21:29:50
 ---

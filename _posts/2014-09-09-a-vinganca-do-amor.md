@@ -1,13 +1,49 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-author: ' <a href="https://www.gruponews.com.br/autor/pe-leo" rel="tag">Pe. Léo</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/estas-historias-tu-as-inculcaras-a-teus-filhos-cf-dt-66-7" rel="tag">ESTAS HISTÓRIAS... TU AS INCULCARÁS A TEUS FILHOS (cf. Dt 6:6-7)</a>'
+author:
+  - 
+    term_id: 923
+    name: Pe. Léo
+    slug: pe-leo
+    term_group: 0
+    term_taxonomy_id: 938
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+  - 
+    term_id: 922
+    name: >
+      ESTAS HISTÓRIAS... TU AS INCULCARÁS A
+      TEUS FILHOS (cf. Dt 6:6-7)
+    slug: >
+      estas-historias-tu-as-inculcaras-a-teus-filhos-cf-dt-66-7
+    term_group: 0
+    term_taxonomy_id: 937
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/a-vinganca-do-amor
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 21:53:55
 ---

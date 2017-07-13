@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/eventos-finalizando-a-inscricao
-categories: categories
+categories: ""
 published: true
 post_date: 2014-06-08 18:22:10
 ---

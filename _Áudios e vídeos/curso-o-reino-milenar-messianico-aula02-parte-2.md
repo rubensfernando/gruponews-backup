@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/curso-o-reino-milenar-messianico-aula02-parte-2
-categories: categories
+categories: ""
 published: true
 post_date: 2012-07-26 15:15:49
 ---

@@ -3,13 +3,24 @@ ID: 3225
 post_title: >
   A influência significativa dos que não
   estão tentando nos ensinar
-author: ' <a href="https://www.gruponews.com.br/autor/moacir-alves-faria" rel="tag">Moacir Alves Faria</a>'
+author:
+  - 
+    term_id: 857
+    name: Moacir Alves Faria
+    slug: moacir-alves-faria
+    term_group: 0
+    term_taxonomy_id: 871
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-05 15:12:44
 ---

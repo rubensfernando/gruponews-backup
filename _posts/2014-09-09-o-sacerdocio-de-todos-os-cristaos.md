@@ -1,13 +1,79 @@
 ---
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>, <a href="https://www.gruponews.com.br/tag/levita" rel="tag">levíta</a>, <a href="https://www.gruponews.com.br/tag/melquisedeque" rel="tag">Melquisedeque</a>, <a href="https://www.gruponews.com.br/tag/sacerdocio" rel="tag">sacerdócio</a>, <a href="https://www.gruponews.com.br/tag/servico" rel="tag">serviço</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 987
+    name: edicao-79
+    slug: edicao-79
+    term_group: 0
+    term_taxonomy_id: 1005
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 993
+    name: levíta
+    slug: levita
+    term_group: 0
+    term_taxonomy_id: 1011
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 994
+    name: Melquisedeque
+    slug: melquisedeque
+    term_group: 0
+    term_taxonomy_id: 1012
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 992
+    name: sacerdócio
+    slug: sacerdocio
+    term_group: 0
+    term_taxonomy_id: 1010
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 995
+    name: serviço
+    slug: servico
+    term_group: 0
+    term_taxonomy_id: 1013
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-sacerdocio-de-todos-os-cristaos
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 14:15:08
 ---

@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
-categories: categories
+categories: ""
 published: true
 post_date: 2010-09-25 23:08:32
 ---

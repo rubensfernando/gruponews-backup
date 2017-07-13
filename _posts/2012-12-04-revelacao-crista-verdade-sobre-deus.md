@@ -3,13 +3,24 @@ ID: 2107
 post_title: >
   A revelação cristã e a verdade sobre
   Deus
-author: ' <a href="https://www.gruponews.com.br/autor/nuno-tovar-de-lemos" rel="tag">Nuno Tovar de Lemos</a>'
+author:
+  - 
+    term_id: 658
+    name: Nuno Tovar de Lemos
+    slug: nuno-tovar-de-lemos
+    term_group: 0
+    term_taxonomy_id: 669
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/revelacao-crista-verdade-sobre-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2012-12-04 23:47:16
 ---

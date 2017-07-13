@@ -1,13 +1,79 @@
 ---
 ID: 3404
 post_title: O trabalho e o Reino Milenar
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/trabalho" rel="tag">trabalho</a>'
+author:
+  - 
+    term_id: 650
+    name: Ricardo Oliveira
+    slug: ricardo-oliveira
+    term_group: 0
+    term_taxonomy_id: 660
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+tags:
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 607
+    name: milenar
+    slug: milenar
+    term_group: 0
+    term_taxonomy_id: 614
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 606
+    name: Milênio
+    slug: milenio
+    term_group: 0
+    term_taxonomy_id: 613
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
+  - 
+    term_id: 868
+    name: trabalho
+    slug: trabalho
+    term_group: 0
+    term_taxonomy_id: 882
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-trabalho-e-o-reino-milenar
-categories: categories
+categories: ""
 published: true
 post_date: 2013-08-27 07:15:19
 ---

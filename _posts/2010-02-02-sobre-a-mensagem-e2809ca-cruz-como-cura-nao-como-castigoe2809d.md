@@ -3,12 +3,23 @@ ID: 1496
 post_title: >
   Sobre a mensagem “A cruz como cura,
   não como castigo”
-author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
+author:
+  - 
+    term_id: 336
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 649
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d'
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:40:54
 ---

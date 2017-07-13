@@ -2,12 +2,34 @@
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/curiosidades" rel="tag">Curiosidades</a>, <a href="https://www.gruponews.com.br/tag/joao-ferreira-de-almeida" rel="tag">João Ferreira de Almeida</a>'
+tags:
+  - 
+    term_id: 924
+    name: Curiosidades
+    slug: curiosidades
+    term_group: 0
+    term_taxonomy_id: 939
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 925
+    name: João Ferreira de Almeida
+    slug: joao-ferreira-de-almeida
+    term_group: 0
+    term_taxonomy_id: 940
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/almeida-obra-de-uma-vida
-categories: categories
+categories: ""
 published: true
 post_date: 2009-11-29 21:55:58
 ---

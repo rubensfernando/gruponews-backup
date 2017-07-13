@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/?page_id=8
-categories: categories
+categories: ""
 published: false
 ---
 <!--cforms name="Fale Conosco"-->

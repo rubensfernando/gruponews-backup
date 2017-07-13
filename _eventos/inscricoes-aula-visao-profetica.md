@@ -3,13 +3,24 @@ ID: 3519
 post_title: >
   Inscrições para a aula Visão
   Profética
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-cpp-modular" rel="tag">Equipe CPP Modular</a>'
+author:
+  - 
+    term_id: 884
+    name: Equipe CPP Modular
+    slug: equipe-cpp-modular
+    term_group: 0
+    term_taxonomy_id: 898
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricoes-aula-visao-profetica
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-25 17:47:20
 ---

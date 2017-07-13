@@ -1,13 +1,24 @@
 ---
 ID: 1676
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de quarta-feira 13 de julho'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2011-audio-das-palestras-de-quarta-feira-13-de-julho
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-15 12:14:20
 ---

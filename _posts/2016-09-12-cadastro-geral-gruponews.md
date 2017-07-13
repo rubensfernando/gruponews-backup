@@ -2,12 +2,23 @@
 ID: 4751
 post_title: Cadastro Geral GrupoNews
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/featured" rel="tag">featured</a>'
+tags:
+  - 
+    term_id: 848
+    name: featured
+    slug: featured
+    term_group: 0
+    term_taxonomy_id: 861
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/cadastro-geral-gruponews
-categories: categories
+categories: ""
 published: true
 post_date: 2016-09-12 22:58:40
 ---

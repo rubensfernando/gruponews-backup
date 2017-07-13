@@ -1,13 +1,24 @@
 ---
 ID: 2782
 post_title: Imersão 2013
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/imersao-2013
-categories: categories
+categories: ""
 published: true
 post_date: 2012-11-27 21:57:14
 ---

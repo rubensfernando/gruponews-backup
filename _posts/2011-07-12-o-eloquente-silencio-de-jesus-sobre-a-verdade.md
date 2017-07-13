@@ -3,13 +3,24 @@ ID: 1922
 post_title: >
   O eloquente silêncio de Jesus sobre a
   verdade
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:49:48
 ---

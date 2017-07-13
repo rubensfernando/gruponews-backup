@@ -1,13 +1,46 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
-author: ' <a href="https://www.gruponews.com.br/autor/catia-marquezino-lopes" rel="tag">Cátia Marquezino Lopes</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>'
+author:
+  - 
+    term_id: 988
+    name: Cátia Marquezino Lopes
+    slug: catia-marquezino-lopes
+    term_group: 0
+    term_taxonomy_id: 1006
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 987
+    name: edicao-79
+    slug: edicao-79
+    term_group: 0
+    term_taxonomy_id: 1005
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 182
+    name: Testemunho
+    slug: testemunho
+    term_group: 0
+    term_taxonomy_id: 185
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 14:11:52
 ---

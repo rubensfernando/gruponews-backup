@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=3032'
-categories: categories
+categories: ""
 published: false
 ---
 Abertura do Encontro de Paternidade 2013 com o Ailton Jacob.

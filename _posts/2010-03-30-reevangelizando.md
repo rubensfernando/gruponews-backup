@@ -1,13 +1,101 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/evangelismo" rel="tag">Evangelismo</a>, <a href="https://www.gruponews.com.br/tag/ovelhas" rel="tag">ovelhas</a>, <a href="https://www.gruponews.com.br/tag/pedro" rel="tag">Pedro</a>, <a href="https://www.gruponews.com.br/tag/pedro-arruda" rel="tag">Pedro Arruda</a>, <a href="https://www.gruponews.com.br/tag/radio" rel="tag">radio</a>, <a href="https://www.gruponews.com.br/tag/tv" rel="tag">tv</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 370
+    name: Curso
+    slug: curso
+    term_group: 0
+    term_taxonomy_id: 374
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 284
+    name: Evangelismo
+    slug: evangelismo
+    term_group: 0
+    term_taxonomy_id: 287
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 372
+    name: ovelhas
+    slug: ovelhas
+    term_group: 0
+    term_taxonomy_id: 376
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 371
+    name: Pedro
+    slug: pedro
+    term_group: 0
+    term_taxonomy_id: 375
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1007
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 330
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 352
+    name: radio
+    slug: radio
+    term_group: 0
+    term_taxonomy_id: 355
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 359
+    name: tv
+    slug: tv
+    term_group: 0
+    term_taxonomy_id: 362
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/reevangelizando
-categories: categories
+categories: ""
 published: true
 post_date: 2010-03-30 22:15:01
 ---

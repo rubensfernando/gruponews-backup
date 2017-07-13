@@ -1,13 +1,145 @@
 ---
 ID: 41
 post_title: A dracma perdida
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/a-dracma-perdida" rel="tag">A dracma perdida</a>, <a href="https://www.gruponews.com.br/tag/acender" rel="tag">Acender</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/dracma" rel="tag">Dracma</a>, <a href="https://www.gruponews.com.br/tag/encontrar" rel="tag">Encontrar</a>, <a href="https://www.gruponews.com.br/tag/noiva" rel="tag">Noiva</a>, <a href="https://www.gruponews.com.br/tag/noivo" rel="tag">Noivo</a>, <a href="https://www.gruponews.com.br/tag/parabola" rel="tag">Parábola</a>, <a href="https://www.gruponews.com.br/tag/perdida" rel="tag">Perdida</a>, <a href="https://www.gruponews.com.br/tag/procurar" rel="tag">Procurar</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 314
+    name: A dracma perdida
+    slug: a-dracma-perdida
+    term_group: 0
+    term_taxonomy_id: 317
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 26
+    name: Acender
+    slug: acender
+    term_group: 0
+    term_taxonomy_id: 26
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 21
+    name: Dracma
+    slug: dracma
+    term_group: 0
+    term_taxonomy_id: 21
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 29
+    name: Encontrar
+    slug: encontrar
+    term_group: 0
+    term_taxonomy_id: 29
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 28
+    name: Noiva
+    slug: noiva
+    term_group: 0
+    term_taxonomy_id: 28
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 24
+    name: Noivo
+    slug: noivo
+    term_group: 0
+    term_taxonomy_id: 24
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 23
+    name: Parábola
+    slug: parabola
+    term_group: 0
+    term_taxonomy_id: 23
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 22
+    name: Perdida
+    slug: perdida
+    term_group: 0
+    term_taxonomy_id: 22
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 27
+    name: Procurar
+    slug: procurar
+    term_group: 0
+    term_taxonomy_id: 27
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/a-dracma-perdida
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-03 22:40:13
 ---

@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/quem-somos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-09-19 14:57:56
 ---

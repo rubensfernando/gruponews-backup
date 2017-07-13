@@ -1,13 +1,68 @@
 ---
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>, <a href="https://www.gruponews.com.br/tag/suas" rel="tag">suas</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 92
+    name: Governo
+    slug: governo
+    term_group: 0
+    term_taxonomy_id: 93
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 394
+    name: Nosso
+    slug: nosso
+    term_group: 0
+    term_taxonomy_id: 398
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 791
+    name: suas
+    slug: suas
+    term_group: 0
+    term_taxonomy_id: 802
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/jornal/nosso-governo-com-cristo-no-milenio
-categories: categories
+categories: ""
 published: true
 post_date: 2012-03-20 00:00:45
 ---

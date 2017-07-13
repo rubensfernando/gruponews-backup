@@ -1,13 +1,38 @@
 ---
 ID: 3896
 post_title: 'Igreja nos Lares &#8211; Não como método, mas como estilo de vida'
-author: ' <a href="https://www.gruponews.com.br/autor/joao-a-de-souza-filho" rel="tag">João A. de Souza Filho</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2008-a-igreja-do-nosso-tempo" rel="tag">Conferência "A igreja do nosso tempo"</a>'
+author:
+  - 
+    term_id: 911
+    name: João A. de Souza Filho
+    slug: joao-a-de-souza-filho
+    term_group: 0
+    term_taxonomy_id: 926
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 910
+    name: Conferência "A igreja do nosso tempo"
+    slug: conferencia-2008-a-igreja-do-nosso-tempo
+    term_group: 0
+    term_taxonomy_id: 925
+    taxonomy: post_tag
+    description: |
+      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
+      
+      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida
-categories: categories
+categories: ""
 published: true
 post_date: 2014-08-30 16:40:05
 ---

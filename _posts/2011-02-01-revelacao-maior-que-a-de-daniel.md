@@ -1,13 +1,129 @@
 ---
 ID: 1379
 post_title: Revelação maior que a de Daniel
-author: ' <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/anglicanos" rel="tag">anglicanos</a>, <a href="https://www.gruponews.com.br/tag/conferencia-cristo" rel="tag">Conferência "Cristo</a>, <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/livro-de-daniel" rel="tag">Livro de Daniel</a>, <a href="https://www.gruponews.com.br/tag/o-reino-e-a-igreja" rel="tag">o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+author:
+  - 
+    term_id: 643
+    name: Harold Walker
+    slug: harold-walker
+    term_group: 0
+    term_taxonomy_id: 653
+    taxonomy: autor
+    description: >
+      é conferencista e um dos fundadores da
+      Escola Cristã de Jundiaí SP,
+      articulista e membro do Conselho
+      Editorial da Revista Impacto. É também
+      um dos idealizadores do Curso de
+      Preparação Profética (CPP) e do
+      encontro anual de jovens “Preparando
+      Soldados para as Últimas Batalhas”.
+      Junto com outros irmãos, está
+      atualmente empenhado na constituição
+      da “Escola de Teologia Viva”, uma
+      alternativa à academia sistemática que
+      monopolizou o ensino da teologia. É
+      casado com Ester e tem três filhos.
+      Reside em Jundiaí, SP.
+    parent: 0
+    count: 5
+    filter: raw
+tags:
+  - 
+    term_id: 714
+    name: anglicanos
+    slug: anglicanos
+    term_group: 0
+    term_taxonomy_id: 725
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 949
+    name: Conferência "Cristo
+    slug: conferencia-cristo
+    term_group: 0
+    term_taxonomy_id: 967
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 592
+    name: >
+      Conferência "Cristo, o Reino e a
+      Igreja"
+    slug: conferencia-2010
+    term_group: 0
+    term_taxonomy_id: 599
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 968
+    name: Livro de Daniel
+    slug: livro-de-daniel
+    term_group: 0
+    term_taxonomy_id: 986
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 950
+    name: o Reino e a Igreja"
+    slug: o-reino-e-a-igreja
+    term_group: 0
+    term_taxonomy_id: 968
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/revelacao-maior-que-a-de-daniel
-categories: categories
+categories: ""
 published: true
 post_date: 2011-02-01 01:30:18
 ---

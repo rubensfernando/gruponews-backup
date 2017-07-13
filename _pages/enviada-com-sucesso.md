@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2010/inscricao/enviada-com-sucesso
-categories: categories
+categories: ""
 published: true
 post_date: 2010-09-11 19:41:30
 ---

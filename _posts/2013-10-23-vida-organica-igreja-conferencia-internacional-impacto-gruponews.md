@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/vida-organica-igreja-conferencia-internacional-impacto-gruponews
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-23 00:38:53
 ---

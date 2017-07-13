@@ -3,13 +3,35 @@ ID: 4261
 post_title: >
   Deus chama os capazes, mas capacitará
   os incapazes se precisar
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>'
+author:
+  - 
+    term_id: 650
+    name: Ricardo Oliveira
+    slug: ricardo-oliveira
+    term_group: 0
+    term_taxonomy_id: 660
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+tags:
+  - 
+    term_id: 987
+    name: edicao-79
+    slug: edicao-79
+    term_group: 0
+    term_taxonomy_id: 1005
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 14:28:00
 ---

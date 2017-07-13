@@ -1,13 +1,24 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/igreja-casa-deus-com-ceus-abertos
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-28 14:30:12
 ---

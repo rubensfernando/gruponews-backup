@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2011-audios-da-palestra-de-sexta-22-de-julho
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-26 18:04:42
 ---

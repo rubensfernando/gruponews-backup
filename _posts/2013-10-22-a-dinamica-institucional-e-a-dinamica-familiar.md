@@ -3,13 +3,79 @@ ID: 3413
 post_title: >
   A dinâmica institucional e a dinâmica
   familiar
-author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/igreja-organica" rel="tag">igreja organica</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 336
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 649
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+tags:
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 946
+    name: igreja organica
+    slug: igreja-organica
+    term_group: 0
+    term_taxonomy_id: 964
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-22 07:00:11
 ---

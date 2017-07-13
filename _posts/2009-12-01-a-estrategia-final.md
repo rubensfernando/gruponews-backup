@@ -1,13 +1,134 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author: ' <a href="https://www.gruponews.com.br/autor/carlos-araripe" rel="tag">Carlos Araripe</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/batalha" rel="tag">Batalha</a>, <a href="https://www.gruponews.com.br/tag/estrategia" rel="tag">Estratégia</a>, <a href="https://www.gruponews.com.br/tag/guerra" rel="tag">Guerra</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/inimigo" rel="tag">Inimigo</a>, <a href="https://www.gruponews.com.br/tag/louvor" rel="tag">Louvor</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
+author:
+  - 
+    term_id: 631
+    name: Carlos Araripe
+    slug: carlos-araripe
+    term_group: 0
+    term_taxonomy_id: 639
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 101
+    name: Atitude
+    slug: atitude
+    term_group: 0
+    term_taxonomy_id: 103
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 97
+    name: Batalha
+    slug: batalha
+    term_group: 0
+    term_taxonomy_id: 98
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 96
+    name: Estratégia
+    slug: estrategia
+    term_group: 0
+    term_taxonomy_id: 97
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 99
+    name: Guerra
+    slug: guerra
+    term_group: 0
+    term_taxonomy_id: 101
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 34
+    name: Homem
+    slug: homem
+    term_group: 0
+    term_taxonomy_id: 35
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 98
+    name: Inimigo
+    slug: inimigo
+    term_group: 0
+    term_taxonomy_id: 99
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 100
+    name: Louvor
+    slug: louvor
+    term_group: 0
+    term_taxonomy_id: 102
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 57
+    name: Palavra
+    slug: palavra
+    term_group: 0
+    term_taxonomy_id: 58
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-estrategia-final
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:42:53
 ---

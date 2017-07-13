@@ -3,13 +3,81 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/casas" rel="tag">casas</a>, <a href="https://www.gruponews.com.br/tag/desigrejados" rel="tag">Desigrejados</a>, <a href="https://www.gruponews.com.br/tag/edicao-64" rel="tag">edicao-64</a>, <a href="https://www.gruponews.com.br/tag/por-que-voce-nao-quer-mais-ir-a-igreja" rel="tag">Por que Você Não Quer Mais Ir À Igreja?</a>, <a href="https://www.gruponews.com.br/tag/sem-igreja" rel="tag">sem igreja</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 937
+    name: casas
+    slug: casas
+    term_group: 0
+    term_taxonomy_id: 954
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 935
+    name: Desigrejados
+    slug: desigrejados
+    term_group: 0
+    term_taxonomy_id: 951
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 938
+    name: edicao-64
+    slug: edicao-64
+    term_group: 0
+    term_taxonomy_id: 955
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1013
+    name: >
+      Por que Você Não Quer Mais Ir À
+      Igreja?
+    slug: por-que-voce-nao-quer-mais-ir-a-igreja
+    term_group: 0
+    term_taxonomy_id: 953
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 936
+    name: sem igreja
+    slug: sem-igreja
+    term_group: 0
+    term_taxonomy_id: 952
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:00:11
 ---

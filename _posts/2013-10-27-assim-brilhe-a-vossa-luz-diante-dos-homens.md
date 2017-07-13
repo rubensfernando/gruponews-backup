@@ -3,13 +3,79 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/revelacao" rel="tag">revelação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 242
+    name: Luz
+    slug: luz
+    term_group: 0
+    term_taxonomy_id: 245
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 979
+    name: revelação
+    slug: revelacao
+    term_group: 0
+    term_taxonomy_id: 997
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-27 09:00:14
 ---

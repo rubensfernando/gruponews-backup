@@ -2,12 +2,78 @@
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/messianico" rel="tag">messianico</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/online" rel="tag">online</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+tags:
+  - 
+    term_id: 370
+    name: Curso
+    slug: curso
+    term_group: 0
+    term_taxonomy_id: 374
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 615
+    name: messianico
+    slug: messianico
+    term_group: 0
+    term_taxonomy_id: 622
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 607
+    name: milenar
+    slug: milenar
+    term_group: 0
+    term_taxonomy_id: 614
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 606
+    name: Milênio
+    slug: milenio
+    term_group: 0
+    term_taxonomy_id: 613
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 616
+    name: online
+    slug: online
+    term_group: 0
+    term_taxonomy_id: 623
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-o-reino-milenar-messianico
-categories: categories
+categories: ""
 published: true
 post_date: 2012-02-02 11:20:38
 ---

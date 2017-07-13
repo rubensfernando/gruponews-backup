@@ -1,13 +1,24 @@
 ---
 ID: 3221
 post_title: A irrelevância como vocação
-author: ' <a href="https://www.gruponews.com.br/autor/henri-nouwen" rel="tag">Henri Nouwen</a>'
+author:
+  - 
+    term_id: 856
+    name: Henri Nouwen
+    slug: henri-nouwen
+    term_group: 0
+    term_taxonomy_id: 870
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/a-irrelevancia-como-vocacao
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-05 15:07:18
 ---

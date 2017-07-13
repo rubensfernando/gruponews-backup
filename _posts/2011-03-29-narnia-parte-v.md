@@ -1,13 +1,123 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/a-viagem-do-peregrino-da-alvorada" rel="tag">A Viagem do Peregrino da Alvorada</a>, <a href="https://www.gruponews.com.br/tag/alvorada" rel="tag">alvorada</a>, <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/peregrino" rel="tag">peregrino</a>, <a href="https://www.gruponews.com.br/tag/viagem" rel="tag">viagem</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 930
+    name: A Viagem do Peregrino da Alvorada
+    slug: a-viagem-do-peregrino-da-alvorada
+    term_group: 0
+    term_taxonomy_id: 945
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 594
+    name: alvorada
+    slug: alvorada
+    term_group: 0
+    term_taxonomy_id: 601
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 575
+    name: aslam
+    slug: aslam
+    term_group: 0
+    term_taxonomy_id: 582
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 576
+    name: cronicas
+    slug: cronicas
+    term_group: 0
+    term_taxonomy_id: 583
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 577
+    name: filme
+    slug: filme
+    term_group: 0
+    term_taxonomy_id: 584
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 256
+    name: Livro
+    slug: livro
+    term_group: 0
+    term_taxonomy_id: 259
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 307
+    name: narnia
+    slug: narnia
+    term_group: 0
+    term_taxonomy_id: 310
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 593
+    name: peregrino
+    slug: peregrino
+    term_group: 0
+    term_taxonomy_id: 600
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 595
+    name: viagem
+    slug: viagem
+    term_group: 0
+    term_taxonomy_id: 602
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-v
-categories: categories
+categories: ""
 published: true
 post_date: 2011-03-29 22:18:18
 ---

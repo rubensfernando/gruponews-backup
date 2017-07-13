@@ -1,13 +1,68 @@
 ---
 ID: 3633
 post_title: Em seus passos o que Jesus jamais faria?
-author: ' <a href="https://www.gruponews.com.br/autor/pablo-massolar" rel="tag">Pablo Massolar</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/errado" rel="tag">errado</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/passos" rel="tag">passos</a>'
+author:
+  - 
+    term_id: 984
+    name: Pablo Massolar
+    slug: pablo-massolar
+    term_group: 0
+    term_taxonomy_id: 1002
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 983
+    name: errado
+    slug: errado
+    term_group: 0
+    term_taxonomy_id: 1001
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 513
+    name: Jesus
+    slug: jesus
+    term_group: 0
+    term_taxonomy_id: 520
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 982
+    name: passos
+    slug: passos
+    term_group: 0
+    term_taxonomy_id: 1000
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/em-seus-passos-o-que-jesus-jamais-faria
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-07 15:39:40
 ---

@@ -1,13 +1,35 @@
 ---
 ID: 3949
 post_title: Espontaneidade
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-alexandre-de-oliveira" rel="tag">Ricardo Alexandre de Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>'
+author:
+  - 
+    term_id: 918
+    name: Ricardo Alexandre de Oliveira
+    slug: ricardo-alexandre-de-oliveira
+    term_group: 0
+    term_taxonomy_id: 933
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/espontaneidade
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 22:21:29
 ---

@@ -3,13 +3,134 @@ ID: 110
 post_title: >
   Do verdadeiro Cristo é o que todos nós
   precisamos
-author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/conhecimento" rel="tag">Conhecimento</a>, <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/discernir" rel="tag">Discernir</a>, <a href="https://www.gruponews.com.br/tag/enganar" rel="tag">Enganar</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/falso" rel="tag">Falso</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>, <a href="https://www.gruponews.com.br/tag/olhar" rel="tag">Olhar</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>'
+author:
+  - 
+    term_id: 656
+    name: Afonso Porto
+    slug: afonso-porto
+    term_group: 0
+    term_taxonomy_id: 667
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+tags:
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 85
+    name: Conhecimento
+    slug: conhecimento
+    term_group: 0
+    term_taxonomy_id: 86
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 168
+    name: Conversão
+    slug: conversao
+    term_group: 0
+    term_taxonomy_id: 171
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 171
+    name: Discernir
+    slug: discernir
+    term_group: 0
+    term_taxonomy_id: 174
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 170
+    name: Enganar
+    slug: enganar
+    term_group: 0
+    term_taxonomy_id: 173
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 103
+    name: Esperança
+    slug: esperanca
+    term_group: 0
+    term_taxonomy_id: 105
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 165
+    name: Falso
+    slug: falso
+    term_group: 0
+    term_taxonomy_id: 168
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 75
+    name: Mentira
+    slug: mentira
+    term_group: 0
+    term_taxonomy_id: 76
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 169
+    name: Olhar
+    slug: olhar
+    term_group: 0
+    term_taxonomy_id: 172
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:31:34
 ---

@@ -1,13 +1,57 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deste" rel="tag">deste</a>, <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 788
+    name: deste
+    slug: deste
+    term_group: 0
+    term_taxonomy_id: 799
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 394
+    name: Nosso
+    slug: nosso
+    term_group: 0
+    term_taxonomy_id: 398
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 547
+    name: volta
+    slug: volta
+    term_group: 0
+    term_taxonomy_id: 554
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/o-projeto-de-reevangelizacao
-categories: categories
+categories: ""
 published: true
 post_date: 2010-06-06 17:31:14
 ---

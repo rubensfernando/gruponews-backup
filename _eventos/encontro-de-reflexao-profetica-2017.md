@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-de-reflexao-profetica-2017
-categories: categories
+categories: ""
 published: true
 post_date: 2017-01-05 16:53:08
 ---

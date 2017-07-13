@@ -5,11 +5,55 @@ post_title: >
   Comunhão e oração como resposta à
   vontade de Deus
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/monologo" rel="tag">Monólogo</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>'
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 55
+    name: Monólogo
+    slug: monologo
+    term_group: 0
+    term_taxonomy_id: 56
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 477
+    name: reino de Deus
+    slug: reino-de-deus
+    term_group: 0
+    term_taxonomy_id: 484
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=869
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o nono de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>

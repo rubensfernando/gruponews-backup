@@ -1,13 +1,134 @@
 ---
 ID: 133
 post_title: Simplicidade voluntária
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-camargo" rel="tag">Ricardo Camargo</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/consumo" rel="tag">Consumo</a>, <a href="https://www.gruponews.com.br/tag/cotidiano" rel="tag">Cotidiano</a>, <a href="https://www.gruponews.com.br/tag/humildade" rel="tag">Humildade</a>, <a href="https://www.gruponews.com.br/tag/ilusao" rel="tag">Ilusão</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/simplicidade" rel="tag">Simplicidade</a>, <a href="https://www.gruponews.com.br/tag/superficial" rel="tag">Superficial</a>, <a href="https://www.gruponews.com.br/tag/televisao" rel="tag">Televisão</a>, <a href="https://www.gruponews.com.br/tag/tempo" rel="tag">Tempo</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 881
+    name: Ricardo Camargo
+    slug: ricardo-camargo
+    term_group: 0
+    term_taxonomy_id: 895
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 156
+    name: Consumo
+    slug: consumo
+    term_group: 0
+    term_taxonomy_id: 159
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 207
+    name: Cotidiano
+    slug: cotidiano
+    term_group: 0
+    term_taxonomy_id: 210
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 211
+    name: Humildade
+    slug: humildade
+    term_group: 0
+    term_taxonomy_id: 214
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 212
+    name: Ilusão
+    slug: ilusao
+    term_group: 0
+    term_taxonomy_id: 215
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 210
+    name: Simplicidade
+    slug: simplicidade
+    term_group: 0
+    term_taxonomy_id: 213
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 209
+    name: Superficial
+    slug: superficial
+    term_group: 0
+    term_taxonomy_id: 212
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 84
+    name: Televisão
+    slug: televisao
+    term_group: 0
+    term_taxonomy_id: 85
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 208
+    name: Tempo
+    slug: tempo
+    term_group: 0
+    term_taxonomy_id: 211
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/simplicidade-voluntaria
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:19:19
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/consumo" rel="tag">Consumo</a>, <a href="https://www.gruponews.com.br/tag/contribuicao" rel="tag">Contribuição</a>, <a href="https://www.gruponews.com.br/tag/coracao" rel="tag">Coração</a>, <a href="https://www.gruponews.com.br/tag/dar" rel="tag">Dar</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/dizimo" rel="tag">Dízimo</a>, <a href="https://www.gruponews.com.br/tag/financas" rel="tag">Finanças</a>, <a href="https://www.gruponews.com.br/tag/regular" rel="tag">Regular</a>, <a href="https://www.gruponews.com.br/tag/voluntario" rel="tag">Voluntário</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 155
+    name: Alegria
+    slug: alegria
+    term_group: 0
+    term_taxonomy_id: 158
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 156
+    name: Consumo
+    slug: consumo
+    term_group: 0
+    term_taxonomy_id: 159
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 151
+    name: Contribuição
+    slug: contribuicao
+    term_group: 0
+    term_taxonomy_id: 154
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 157
+    name: Coração
+    slug: coracao
+    term_group: 0
+    term_taxonomy_id: 160
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 40
+    name: Dar
+    slug: dar
+    term_group: 0
+    term_taxonomy_id: 41
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 39
+    name: Dinheiro
+    slug: dinheiro
+    term_group: 0
+    term_taxonomy_id: 40
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 153
+    name: Dízimo
+    slug: dizimo
+    term_group: 0
+    term_taxonomy_id: 156
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 152
+    name: Finanças
+    slug: financas
+    term_group: 0
+    term_taxonomy_id: 155
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 154
+    name: Regular
+    slug: regular
+    term_group: 0
+    term_taxonomy_id: 157
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 158
+    name: Voluntário
+    slug: voluntario
+    term_group: 0
+    term_taxonomy_id: 161
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/deixa-que-eu-pago
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:25:51
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 152
 post_title: Comunhão e Confissão
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acolher" rel="tag">Acolher</a>, <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/confidencial" rel="tag">Confidencial</a>, <a href="https://www.gruponews.com.br/tag/confissao" rel="tag">Confissão</a>, <a href="https://www.gruponews.com.br/tag/forte" rel="tag">Forte</a>, <a href="https://www.gruponews.com.br/tag/fraqueza" rel="tag">Fraqueza</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/segredo" rel="tag">Segredo</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 241
+    name: Acolher
+    slug: acolher
+    term_group: 0
+    term_taxonomy_id: 244
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 89
+    name: Arrependimento
+    slug: arrependimento
+    term_group: 0
+    term_taxonomy_id: 90
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 243
+    name: Confidencial
+    slug: confidencial
+    term_group: 0
+    term_taxonomy_id: 246
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 240
+    name: Confissão
+    slug: confissao
+    term_group: 0
+    term_taxonomy_id: 243
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 238
+    name: Forte
+    slug: forte
+    term_group: 0
+    term_taxonomy_id: 241
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 237
+    name: Fraqueza
+    slug: fraqueza
+    term_group: 0
+    term_taxonomy_id: 240
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 242
+    name: Luz
+    slug: luz
+    term_group: 0
+    term_taxonomy_id: 245
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 121
+    name: Perdão
+    slug: perdao
+    term_group: 0
+    term_taxonomy_id: 124
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 239
+    name: Segredo
+    slug: segredo
+    term_group: 0
+    term_taxonomy_id: 242
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/comunhao-e-confissao
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:14:20
 ---

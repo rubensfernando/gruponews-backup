@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2011-audios-das-palestras-de-domingo-17-jul
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-20 21:04:47
 ---

@@ -3,13 +3,57 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/profissao" rel="tag">profissão</a>, <a href="https://www.gruponews.com.br/tag/vida-profissional" rel="tag">vida profissional</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 966
+    name: profissão
+    slug: profissao
+    term_group: 0
+    term_taxonomy_id: 984
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 967
+    name: vida profissional
+    slug: vida-profissional
+    term_group: 0
+    term_taxonomy_id: 985
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-04 09:00:53
 ---

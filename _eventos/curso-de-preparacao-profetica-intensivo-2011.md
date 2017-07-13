@@ -3,13 +3,46 @@ ID: 1587
 post_title: >
   Curso de Preparação Profética
   Intensivo 2011
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/clique-aqui" rel="tag">clique aqui</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 736
+    name: clique aqui
+    slug: clique-aqui
+    term_group: 0
+    term_taxonomy_id: 747
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 547
+    name: volta
+    slug: volta
+    term_group: 0
+    term_taxonomy_id: 554
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2011
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-10 00:46:26
 ---

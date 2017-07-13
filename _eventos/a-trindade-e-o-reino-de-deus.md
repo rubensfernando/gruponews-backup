@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/a-trindade-e-o-reino-de-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2012-09-18 00:00:48
 ---

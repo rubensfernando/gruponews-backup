@@ -8,7 +8,7 @@ tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=864
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o oitavo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>

@@ -3,13 +3,35 @@ ID: 2865
 post_title: >
   Uma nova versão para a parábola do
   filho pródigo
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-73" rel="tag">edicao-73</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 905
+    name: edicao-73
+    slug: edicao-73
+    term_group: 0
+    term_taxonomy_id: 920
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
-categories: categories
+categories: ""
 published: true
 post_date: 2013-03-14 00:08:23
 ---

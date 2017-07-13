@@ -1,13 +1,46 @@
 ---
 ID: 2874
 post_title: Descobrindo um caminho seguro
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/mensagem" rel="tag">mensagem</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 531
+    name: mensagem
+    slug: mensagem
+    term_group: 0
+    term_taxonomy_id: 538
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/descobrindo-um-caminho-seguro
-categories: categories
+categories: ""
 published: true
 post_date: 2013-01-14 00:18:51
 ---

@@ -1,13 +1,79 @@
 ---
 ID: 3590
 post_title: O mal que faz a aparência do bem
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/bem-e-mal" rel="tag">bem e mal</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/inocencia" rel="tag">inocência</a>, <a href="https://www.gruponews.com.br/tag/intergridade" rel="tag">intergridade</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 975
+    name: bem e mal
+    slug: bem-e-mal
+    term_group: 0
+    term_taxonomy_id: 993
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 977
+    name: inocência
+    slug: inocencia
+    term_group: 0
+    term_taxonomy_id: 995
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 976
+    name: intergridade
+    slug: intergridade
+    term_group: 0
+    term_taxonomy_id: 994
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 367
+    name: paternidade
+    slug: paternidade
+    term_group: 0
+    term_taxonomy_id: 371
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-mal-que-faz-aparencia-bem
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-10 09:01:20
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/ateu" rel="tag">ateu</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/dons" rel="tag">Dons</a>, <a href="https://www.gruponews.com.br/tag/encontrar" rel="tag">Encontrar</a>, <a href="https://www.gruponews.com.br/tag/legado" rel="tag">legado</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/novo" rel="tag">novo</a>, <a href="https://www.gruponews.com.br/tag/o-outro" rel="tag">o outro</a>, <a href="https://www.gruponews.com.br/tag/profeticos" rel="tag">Proféticos</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 310
+    name: ateu
+    slug: ateu
+    term_group: 0
+    term_taxonomy_id: 313
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 302
+    name: Dons
+    slug: dons
+    term_group: 0
+    term_taxonomy_id: 305
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 29
+    name: Encontrar
+    slug: encontrar
+    term_group: 0
+    term_taxonomy_id: 29
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 306
+    name: legado
+    slug: legado
+    term_group: 0
+    term_taxonomy_id: 309
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 307
+    name: narnia
+    slug: narnia
+    term_group: 0
+    term_taxonomy_id: 310
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 309
+    name: novo
+    slug: novo
+    term_group: 0
+    term_taxonomy_id: 312
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 304
+    name: o outro
+    slug: o-outro
+    term_group: 0
+    term_taxonomy_id: 307
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 303
+    name: Proféticos
+    slug: profeticos
+    term_group: 0
+    term_taxonomy_id: 306
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
-categories: categories
+categories: ""
 published: true
 post_date: 2009-09-01 00:00:51
 ---

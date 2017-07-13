@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/events
-categories: categories
+categories: ""
 published: true
 post_date: 2011-03-19 16:31:03
 ---

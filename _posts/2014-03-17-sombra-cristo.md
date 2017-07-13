@@ -1,13 +1,68 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
-author: ' <a href="https://www.gruponews.com.br/autor/luiz-lourenco-goncalves" rel="tag">Luiz Lourenço Gonçalves</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>, <a href="https://www.gruponews.com.br/tag/pecado" rel="tag">Pecado</a>, <a href="https://www.gruponews.com.br/tag/presenca" rel="tag">presença</a>'
+author:
+  - 
+    term_id: 892
+    name: Luiz Lourenço Gonçalves
+    slug: luiz-lourenco-goncalves
+    term_group: 0
+    term_taxonomy_id: 906
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 75
+    name: Mentira
+    slug: mentira
+    term_group: 0
+    term_taxonomy_id: 76
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 129
+    name: Pecado
+    slug: pecado
+    term_group: 0
+    term_taxonomy_id: 132
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 321
+    name: presença
+    slug: presenca
+    term_group: 0
+    term_taxonomy_id: 324
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/sombra-cristo
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-17 08:53:30
 ---

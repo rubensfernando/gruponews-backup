@@ -1,13 +1,79 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/contrastes" rel="tag">contrastes</a>, <a href="https://www.gruponews.com.br/tag/irrepreensivel" rel="tag">irrepreensível</a>, <a href="https://www.gruponews.com.br/tag/pessoas" rel="tag">pessoas</a>, <a href="https://www.gruponews.com.br/tag/santidade" rel="tag">Santidade</a>, <a href="https://www.gruponews.com.br/tag/santo" rel="tag">santo</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 601
+    name: contrastes
+    slug: contrastes
+    term_group: 0
+    term_taxonomy_id: 608
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 602
+    name: irrepreensível
+    slug: irrepreensivel
+    term_group: 0
+    term_taxonomy_id: 609
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 335
+    name: pessoas
+    slug: pessoas
+    term_group: 0
+    term_taxonomy_id: 338
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 127
+    name: Santidade
+    slug: santidade
+    term_group: 0
+    term_taxonomy_id: 130
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 600
+    name: santo
+    slug: santo
+    term_group: 0
+    term_taxonomy_id: 607
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:54:18
 ---

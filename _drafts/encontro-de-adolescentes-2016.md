@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4583'
-categories: categories
+categories: ""
 published: false
 ---
 <strong>Próxima Reunião do encontro de Adolescentes:</strong>

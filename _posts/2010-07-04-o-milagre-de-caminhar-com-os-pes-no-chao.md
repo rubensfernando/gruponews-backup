@@ -3,13 +3,46 @@ ID: 3181
 post_title: >
   O milagre de caminhar com os pés no
   chão
-author: ' <a href="https://www.gruponews.com.br/autor/donald-p-mcneill" rel="tag">Donald P. McNeill</a>, <a href="https://www.gruponews.com.br/autor/douglas-a-morrison" rel="tag">Douglas A. Morrison</a>, <a href="https://www.gruponews.com.br/autor/henri-j-m-nouwen" rel="tag">Henri J. M. Nouwen</a>'
+author:
+  - 
+    term_id: 851
+    name: Donald P. McNeill
+    slug: donald-p-mcneill
+    term_group: 0
+    term_taxonomy_id: 864
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 852
+    name: Douglas A. Morrison
+    slug: douglas-a-morrison
+    term_group: 0
+    term_taxonomy_id: 865
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 850
+    name: Henri J. M. Nouwen
+    slug: henri-j-m-nouwen
+    term_group: 0
+    term_taxonomy_id: 863
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-04 17:39:36
 ---

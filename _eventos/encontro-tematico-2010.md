@@ -1,13 +1,46 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/tudo" rel="tag">Tudo</a>, <a href="https://www.gruponews.com.br/tag/viver" rel="tag">Viver</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 45
+    name: Tudo
+    slug: tudo
+    term_group: 0
+    term_taxonomy_id: 46
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 125
+    name: Viver
+    slug: viver
+    term_group: 0
+    term_taxonomy_id: 128
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-tematico-2010
-categories: categories
+categories: ""
 published: true
 post_date: 2010-05-23 13:24:12
 ---

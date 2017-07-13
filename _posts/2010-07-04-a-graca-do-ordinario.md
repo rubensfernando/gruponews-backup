@@ -1,13 +1,24 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-barbosa-de-sousa" rel="tag">Ricardo Barbosa de Sousa</a>'
+author:
+  - 
+    term_id: 854
+    name: Ricardo Barbosa de Sousa
+    slug: ricardo-barbosa-de-sousa
+    term_group: 0
+    term_taxonomy_id: 868
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-graca-do-ordinario
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-04 17:39:40
 ---

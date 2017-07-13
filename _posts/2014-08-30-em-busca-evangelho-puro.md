@@ -1,13 +1,64 @@
 ---
 ID: 3882
 post_title: Em busca do evangelho puro
-author: ' <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2008-a-igreja-do-nosso-tempo" rel="tag">Conferência "A igreja do nosso tempo"</a>, <a href="https://www.gruponews.com.br/tag/evangelho" rel="tag">Evangelho</a>'
+author:
+  - 
+    term_id: 643
+    name: Harold Walker
+    slug: harold-walker
+    term_group: 0
+    term_taxonomy_id: 653
+    taxonomy: autor
+    description: >
+      é conferencista e um dos fundadores da
+      Escola Cristã de Jundiaí SP,
+      articulista e membro do Conselho
+      Editorial da Revista Impacto. É também
+      um dos idealizadores do Curso de
+      Preparação Profética (CPP) e do
+      encontro anual de jovens “Preparando
+      Soldados para as Últimas Batalhas”.
+      Junto com outros irmãos, está
+      atualmente empenhado na constituição
+      da “Escola de Teologia Viva”, uma
+      alternativa à academia sistemática que
+      monopolizou o ensino da teologia. É
+      casado com Ester e tem três filhos.
+      Reside em Jundiaí, SP.
+    parent: 0
+    count: 5
+    filter: raw
+tags:
+  - 
+    term_id: 910
+    name: Conferência "A igreja do nosso tempo"
+    slug: conferencia-2008-a-igreja-do-nosso-tempo
+    term_group: 0
+    term_taxonomy_id: 925
+    taxonomy: post_tag
+    description: |
+      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
+      
+      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 261
+    name: Evangelho
+    slug: evangelho
+    term_group: 0
+    term_taxonomy_id: 264
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/em-busca-evangelho-puro
-categories: categories
+categories: ""
 published: true
 post_date: 2014-08-30 15:50:56
 ---

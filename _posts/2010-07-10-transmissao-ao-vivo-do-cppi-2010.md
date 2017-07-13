@@ -1,13 +1,79 @@
 ---
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/cppi" rel="tag">CPPI</a>, <a href="https://www.gruponews.com.br/tag/profeticos" rel="tag">Proféticos</a>, <a href="https://www.gruponews.com.br/tag/transmissao" rel="tag">Transmissão</a>, <a href="https://www.gruponews.com.br/tag/tv" rel="tag">tv</a>, <a href="https://www.gruponews.com.br/tag/veja" rel="tag">veja</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 1010
+    name: CPPI
+    slug: cppi
+    term_group: 0
+    term_taxonomy_id: 527
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 303
+    name: Proféticos
+    slug: profeticos
+    term_group: 0
+    term_taxonomy_id: 306
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 521
+    name: Transmissão
+    slug: transmissao
+    term_group: 0
+    term_taxonomy_id: 528
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 359
+    name: tv
+    slug: tv
+    term_group: 0
+    term_taxonomy_id: 362
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 767
+    name: veja
+    slug: veja
+    term_group: 0
+    term_taxonomy_id: 778
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/transmissao-ao-vivo-do-cppi-2010
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-10 17:40:18
 ---

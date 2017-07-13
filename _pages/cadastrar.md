@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/cadastrar
-categories: categories
+categories: ""
 published: true
 post_date: 2012-03-04 20:33:53
 ---

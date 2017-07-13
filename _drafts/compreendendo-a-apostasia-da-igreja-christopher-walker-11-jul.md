@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=1745'
-categories: categories
+categories: ""
 published: false
 ---
 <p>Parte B</p>

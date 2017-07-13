@@ -1,13 +1,24 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-author: ' <a href="https://www.gruponews.com.br/autor/max-lucado" rel="tag">Max Lucado</a>'
+author:
+  - 
+    term_id: 849
+    name: Max Lucado
+    slug: max-lucado
+    term_group: 0
+    term_taxonomy_id: 862
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-meu-calice-transborda
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-01 17:31:59
 ---

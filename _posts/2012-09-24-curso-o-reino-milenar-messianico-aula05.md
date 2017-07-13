@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-o-reino-milenar-messianico-aula05
-categories: categories
+categories: ""
 published: true
 post_date: 2012-09-24 00:36:14
 ---

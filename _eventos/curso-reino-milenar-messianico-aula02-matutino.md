@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/curso-reino-milenar-messianico-aula02-matutino
-categories: categories
+categories: ""
 published: true
 post_date: 2012-05-23 23:36:12
 ---

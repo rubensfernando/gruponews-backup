@@ -1,13 +1,35 @@
 ---
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 1009
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 339
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
-categories: categories
+categories: ""
 published: true
 post_date: 2009-10-01 00:00:05
 ---

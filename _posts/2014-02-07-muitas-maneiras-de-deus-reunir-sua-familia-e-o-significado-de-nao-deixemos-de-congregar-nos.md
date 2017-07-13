@@ -5,12 +5,23 @@ post_title: >
   família e o significado de “não
   deixemos de congregar-nos”
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
+tags:
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-07 15:43:17
 ---

@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/eventos/centro-de-eventos-vale-da-aguia
-categories: categories
+categories: ""
 published: true
 post_date: 2011-03-20 16:54:08
 ---

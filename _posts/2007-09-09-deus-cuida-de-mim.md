@@ -1,13 +1,46 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author: ' <a href="https://www.gruponews.com.br/autor/adriana-marques" rel="tag">Adriana Marques</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/testemunhos" rel="tag">testemunhos</a>'
+author:
+  - 
+    term_id: 921
+    name: Adriana Marques
+    slug: adriana-marques
+    term_group: 0
+    term_taxonomy_id: 936
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+  - 
+    term_id: 915
+    name: testemunhos
+    slug: testemunhos
+    term_group: 0
+    term_taxonomy_id: 930
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/deus-cuida-de-mim
-categories: categories
+categories: ""
 published: true
 post_date: 2007-09-09 22:43:18
 ---

@@ -1,13 +1,24 @@
 ---
 ID: 2385
 post_title: I Encontro de Adoração
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-adoracao
-categories: categories
+categories: ""
 published: true
 post_date: 2012-05-02 12:00:10
 ---

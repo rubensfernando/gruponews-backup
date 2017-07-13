@@ -1,13 +1,145 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/desquite" rel="tag">Desquite</a>, <a href="https://www.gruponews.com.br/tag/divorcio" rel="tag">Divórcio</a>, <a href="https://www.gruponews.com.br/tag/ex-conjuges" rel="tag">Ex-cônjuges</a>, <a href="https://www.gruponews.com.br/tag/familiares" rel="tag">Familiares</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>, <a href="https://www.gruponews.com.br/tag/separacao" rel="tag">Separação</a>, <a href="https://www.gruponews.com.br/tag/uniao" rel="tag">União</a>, <a href="https://www.gruponews.com.br/tag/vitima" rel="tag">Vítima</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 626
+    name: Maria de Carvalho Gomes
+    slug: maria-carvalho-gomes
+    term_group: 0
+    term_taxonomy_id: 634
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+tags:
+  - 
+    term_id: 554
+    name: Desquite
+    slug: desquite
+    term_group: 0
+    term_taxonomy_id: 561
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 550
+    name: Divórcio
+    slug: divorcio
+    term_group: 0
+    term_taxonomy_id: 557
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 555
+    name: Ex-cônjuges
+    slug: ex-conjuges
+    term_group: 0
+    term_taxonomy_id: 562
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 551
+    name: Familiares
+    slug: familiares
+    term_group: 0
+    term_taxonomy_id: 558
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 59
+    name: Filhos
+    slug: filhos
+    term_group: 0
+    term_taxonomy_id: 60
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 477
+    name: reino de Deus
+    slug: reino-de-deus
+    term_group: 0
+    term_taxonomy_id: 484
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 553
+    name: Separação
+    slug: separacao
+    term_group: 0
+    term_taxonomy_id: 560
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 556
+    name: União
+    slug: uniao
+    term_group: 0
+    term_taxonomy_id: 563
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 552
+    name: Vítima
+    slug: vitima
+    term_group: 0
+    term_taxonomy_id: 559
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 146
+    name: Vontade
+    slug: vontade
+    term_group: 0
+    term_taxonomy_id: 149
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
-categories: categories
+categories: ""
 published: true
 post_date: 2010-10-10 16:10:20
 ---

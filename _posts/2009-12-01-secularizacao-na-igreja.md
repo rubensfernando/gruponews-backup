@@ -1,13 +1,134 @@
 ---
 ID: 129
 post_title: Secularização na igreja
-author: ' <a href="https://www.gruponews.com.br/autor/wailton-de-carvalho" rel="tag">Wailton de Carvalho</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aceitar" rel="tag">Aceitar</a>, <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/discernir" rel="tag">Discernir</a>, <a href="https://www.gruponews.com.br/tag/historia" rel="tag">História</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/religiosa" rel="tag">Religiosa</a>, <a href="https://www.gruponews.com.br/tag/secularizacao" rel="tag">Secularização</a>, <a href="https://www.gruponews.com.br/tag/valores" rel="tag">Valores</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 717
+    name: Wailton de Carvalho
+    slug: wailton-de-carvalho
+    term_group: 0
+    term_taxonomy_id: 728
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 163
+    name: Aceitar
+    slug: aceitar
+    term_group: 0
+    term_taxonomy_id: 166
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 89
+    name: Arrependimento
+    slug: arrependimento
+    term_group: 0
+    term_taxonomy_id: 90
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 171
+    name: Discernir
+    slug: discernir
+    term_group: 0
+    term_taxonomy_id: 174
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 200
+    name: História
+    slug: historia
+    term_group: 0
+    term_taxonomy_id: 203
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 126
+    name: Mudança
+    slug: mudanca
+    term_group: 0
+    term_taxonomy_id: 129
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 198
+    name: Religiosa
+    slug: religiosa
+    term_group: 0
+    term_taxonomy_id: 201
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 199
+    name: Secularização
+    slug: secularizacao
+    term_group: 0
+    term_taxonomy_id: 202
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 197
+    name: Valores
+    slug: valores
+    term_group: 0
+    term_taxonomy_id: 200
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/secularizacao-na-igreja
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:14:57
 ---

@@ -3,13 +3,35 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
-author: ' <a href="https://www.gruponews.com.br/autor/jose-carlos-marion" rel="tag">José Carlos Marion</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 647
+    name: José Carlos Marion
+    slug: jose-carlos-marion
+    term_group: 0
+    term_taxonomy_id: 657
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:29:39
 ---

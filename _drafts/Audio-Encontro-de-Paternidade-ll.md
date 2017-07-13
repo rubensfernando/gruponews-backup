@@ -6,6 +6,6 @@ tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=4363'
-categories: categories
+categories: ""
 published: false
 ---

@@ -1,13 +1,46 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 626
+    name: Maria de Carvalho Gomes
+    slug: maria-carvalho-gomes
+    term_group: 0
+    term_taxonomy_id: 634
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+tags:
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/os-sofrimentos-dos-adolescentes
-categories: categories
+categories: ""
 published: true
 post_date: 2013-06-19 00:03:28
 ---

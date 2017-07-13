@@ -1,13 +1,24 @@
 ---
 ID: 1888
 post_title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:57:11
 ---

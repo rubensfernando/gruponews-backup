@@ -3,13 +3,135 @@ ID: 413
 post_title: >
   15 teses sobre a reencarnação da
   igreja
-author: ' <a href="https://www.gruponews.com.br/autor/wolfgang-simson" rel="tag">Wolfgang Simson</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/lar" rel="tag">Lar</a>, <a href="https://www.gruponews.com.br/tag/lares" rel="tag">Lares</a>, <a href="https://www.gruponews.com.br/tag/reencarnacao" rel="tag">reencarnação</a>, <a href="https://www.gruponews.com.br/tag/reencarnar" rel="tag">reencarnar</a>, <a href="https://www.gruponews.com.br/tag/simson" rel="tag">Simson</a>, <a href="https://www.gruponews.com.br/tag/wolfgang" rel="tag">Wolfgang</a>, <a href="https://www.gruponews.com.br/tag/wolfgang-simson" rel="tag">Wolfgang Simson</a>'
+author:
+  - 
+    term_id: 331
+    name: Wolfgang Simson
+    slug: wolfgang-simson
+    term_group: 0
+    term_taxonomy_id: 666
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 913
+    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+    slug: >
+      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
+    term_group: 0
+    term_taxonomy_id: 928
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 328
+    name: Lar
+    slug: lar
+    term_group: 0
+    term_taxonomy_id: 331
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 226
+    name: Lares
+    slug: lares
+    term_group: 0
+    term_taxonomy_id: 229
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 334
+    name: reencarnação
+    slug: reencarnacao
+    term_group: 0
+    term_taxonomy_id: 337
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 333
+    name: reencarnar
+    slug: reencarnar
+    term_group: 0
+    term_taxonomy_id: 336
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 330
+    name: Simson
+    slug: simson
+    term_group: 0
+    term_taxonomy_id: 333
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 329
+    name: Wolfgang
+    slug: wolfgang
+    term_group: 0
+    term_taxonomy_id: 332
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1008
+    name: Wolfgang Simson
+    slug: wolfgang-simson
+    term_group: 0
+    term_taxonomy_id: 334
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-04 23:40:39
 ---

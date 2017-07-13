@@ -5,12 +5,67 @@ post_title: >
   visto a partir da experiência do
   Ressuscitado
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/retorno" rel="tag">retorno</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
+tags:
+  - 
+    term_id: 513
+    name: Jesus
+    slug: jesus
+    term_group: 0
+    term_taxonomy_id: 520
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 607
+    name: milenar
+    slug: milenar
+    term_group: 0
+    term_taxonomy_id: 614
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 606
+    name: Milênio
+    slug: milenio
+    term_group: 0
+    term_taxonomy_id: 613
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 548
+    name: retorno
+    slug: retorno
+    term_group: 0
+    term_taxonomy_id: 555
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 547
+    name: volta
+    slug: volta
+    term_group: 0
+    term_taxonomy_id: 554
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-04 12:00:05
 ---

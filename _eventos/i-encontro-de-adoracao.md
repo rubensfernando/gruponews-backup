@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/i-encontro-de-adoracao
-categories: categories
+categories: ""
 published: true
 post_date: 2012-05-02 11:59:00
 ---

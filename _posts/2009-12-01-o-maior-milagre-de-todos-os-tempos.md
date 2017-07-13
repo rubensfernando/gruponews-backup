@@ -1,13 +1,134 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
-author: ' <a href="https://www.gruponews.com.br/autor/carlos-augusto" rel="tag">Carlos Augusto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/alma" rel="tag">Alma</a>, <a href="https://www.gruponews.com.br/tag/corpo" rel="tag">Corpo</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/milagre" rel="tag">Milagre</a>, <a href="https://www.gruponews.com.br/tag/nascer" rel="tag">Nascer</a>, <a href="https://www.gruponews.com.br/tag/nova" rel="tag">Nova</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 876
+    name: Carlos Augusto
+    slug: carlos-augusto
+    term_group: 0
+    term_taxonomy_id: 890
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 188
+    name: Alma
+    slug: alma
+    term_group: 0
+    term_taxonomy_id: 191
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 187
+    name: Corpo
+    slug: corpo
+    term_group: 0
+    term_taxonomy_id: 190
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 143
+    name: Cura
+    slug: cura
+    term_group: 0
+    term_taxonomy_id: 146
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 185
+    name: Milagre
+    slug: milagre
+    term_group: 0
+    term_taxonomy_id: 188
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 186
+    name: Nascer
+    slug: nascer
+    term_group: 0
+    term_taxonomy_id: 189
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 133
+    name: Nova
+    slug: nova
+    term_group: 0
+    term_taxonomy_id: 136
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 121
+    name: Perdão
+    slug: perdao
+    term_group: 0
+    term_taxonomy_id: 124
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 124
+    name: Restauração
+    slug: restauracao
+    term_group: 0
+    term_taxonomy_id: 127
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-maior-milagre-de-todos-os-tempos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:49:09
 ---

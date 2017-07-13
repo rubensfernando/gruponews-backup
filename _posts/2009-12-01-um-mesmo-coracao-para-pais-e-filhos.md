@@ -1,13 +1,134 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/familias" rel="tag">Famílias</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/inimigo" rel="tag">Inimigo</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+tags:
+  - 
+    term_id: 168
+    name: Conversão
+    slug: conversao
+    term_group: 0
+    term_taxonomy_id: 171
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 213
+    name: Famílias
+    slug: familias
+    term_group: 0
+    term_taxonomy_id: 216
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 59
+    name: Filhos
+    slug: filhos
+    term_group: 0
+    term_taxonomy_id: 60
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 98
+    name: Inimigo
+    slug: inimigo
+    term_group: 0
+    term_taxonomy_id: 99
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 126
+    name: Mudança
+    slug: mudanca
+    term_group: 0
+    term_taxonomy_id: 129
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 63
+    name: Pais
+    slug: pais
+    term_group: 0
+    term_taxonomy_id: 64
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 124
+    name: Restauração
+    slug: restauracao
+    term_group: 0
+    term_taxonomy_id: 127
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 146
+    name: Vontade
+    slug: vontade
+    term_group: 0
+    term_taxonomy_id: 149
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/um-mesmo-coracao-para-pais-e-filhos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:21:53
 ---

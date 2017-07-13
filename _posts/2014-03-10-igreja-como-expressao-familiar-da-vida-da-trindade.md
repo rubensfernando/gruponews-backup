@@ -3,13 +3,35 @@ ID: 3593
 post_title: >
   A igreja como expressão familiar da
   vida da trindade
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/igreja-como-expressao-familiar-da-vida-da-trindade
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-10 09:01:20
 ---

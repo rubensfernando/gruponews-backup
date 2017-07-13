@@ -3,13 +3,24 @@ ID: 3567
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
-categories: categories
+categories: ""
 published: true
 post_date: 2013-12-03 13:31:02
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-author: ' <a href="https://www.gruponews.com.br/autor/leticia-franca" rel="tag">Letícia França</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/dor" rel="tag">Dor</a>, <a href="https://www.gruponews.com.br/tag/envergonhado" rel="tag">Envergonhado</a>, <a href="https://www.gruponews.com.br/tag/obedecer" rel="tag">Obedecer</a>, <a href="https://www.gruponews.com.br/tag/pecado" rel="tag">Pecado</a>, <a href="https://www.gruponews.com.br/tag/provacao" rel="tag">Provação</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/suportar" rel="tag">Suportar</a>, <a href="https://www.gruponews.com.br/tag/tristeza" rel="tag">Tristeza</a>'
+author:
+  - 
+    term_id: 706
+    name: Letícia França
+    slug: leticia-franca
+    term_group: 0
+    term_taxonomy_id: 717
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 155
+    name: Alegria
+    slug: alegria
+    term_group: 0
+    term_taxonomy_id: 158
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 201
+    name: Dor
+    slug: dor
+    term_group: 0
+    term_taxonomy_id: 204
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 205
+    name: Envergonhado
+    slug: envergonhado
+    term_group: 0
+    term_taxonomy_id: 208
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 203
+    name: Obedecer
+    slug: obedecer
+    term_group: 0
+    term_taxonomy_id: 206
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 129
+    name: Pecado
+    slug: pecado
+    term_group: 0
+    term_taxonomy_id: 132
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 204
+    name: Provação
+    slug: provacao
+    term_group: 0
+    term_taxonomy_id: 207
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 42
+    name: Servir
+    slug: servir
+    term_group: 0
+    term_taxonomy_id: 43
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 202
+    name: Suportar
+    slug: suportar
+    term_group: 0
+    term_taxonomy_id: 205
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 206
+    name: Tristeza
+    slug: tristeza
+    term_group: 0
+    term_taxonomy_id: 209
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/servindo-a-deus-em-meio-a-dor
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:17:07
 ---

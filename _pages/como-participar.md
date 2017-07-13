@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/rsi/como-participar
-categories: categories
+categories: ""
 published: true
 post_date: 2010-09-11 13:54:13
 ---

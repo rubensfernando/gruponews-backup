@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/curso-o-reino-milenar-messianico-aula05-virtual
-categories: categories
+categories: ""
 published: true
 post_date: 2012-09-23 23:45:02
 ---

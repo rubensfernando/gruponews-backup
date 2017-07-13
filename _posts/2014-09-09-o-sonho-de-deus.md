@@ -1,13 +1,57 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
-author: ' <a href="https://www.gruponews.com.br/autor/moacir-alves-faria" rel="tag">Moacir Alves Faria</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/sonho-de-deus" rel="tag">sonho de Deus</a>'
+author:
+  - 
+    term_id: 857
+    name: Moacir Alves Faria
+    slug: moacir-alves-faria
+    term_group: 0
+    term_taxonomy_id: 871
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+  - 
+    term_id: 928
+    name: sonho de Deus
+    slug: sonho-de-deus
+    term_group: 0
+    term_taxonomy_id: 943
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-sonho-de-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 22:41:41
 ---

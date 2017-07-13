@@ -1,13 +1,134 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
-author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/comparar" rel="tag">Comparar</a>, <a href="https://www.gruponews.com.br/tag/dificuldade" rel="tag">Dificuldade</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/felicidade" rel="tag">Felicidade</a>, <a href="https://www.gruponews.com.br/tag/mundo" rel="tag">Mundo</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/sofrimento" rel="tag">Sofrimento</a>, <a href="https://www.gruponews.com.br/tag/trevas" rel="tag">Trevas</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 632
+    name: Paulo Roberto da Silva
+    slug: paulo-roberto-da-silva
+    term_group: 0
+    term_taxonomy_id: 640
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+tags:
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 109
+    name: Comparar
+    slug: comparar
+    term_group: 0
+    term_taxonomy_id: 112
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 110
+    name: Dificuldade
+    slug: dificuldade
+    term_group: 0
+    term_taxonomy_id: 113
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 103
+    name: Esperança
+    slug: esperanca
+    term_group: 0
+    term_taxonomy_id: 105
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 102
+    name: Felicidade
+    slug: felicidade
+    term_group: 0
+    term_taxonomy_id: 104
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 107
+    name: Mundo
+    slug: mundo
+    term_group: 0
+    term_taxonomy_id: 110
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 105
+    name: Sofrimento
+    slug: sofrimento
+    term_group: 0
+    term_taxonomy_id: 108
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 108
+    name: Trevas
+    slug: trevas
+    term_group: 0
+    term_taxonomy_id: 111
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/a-felicidade-crista
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:49:47
 ---

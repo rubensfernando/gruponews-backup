@@ -1,13 +1,72 @@
 ---
 ID: 2548
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 7 de julho'
-author: ' <a href="https://www.gruponews.com.br/autor/abnerio-cabral" rel="tag">Abnério Cabral</a>, <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>, <a href="https://www.gruponews.com.br/autor/jonatas-walker" rel="tag">Jônatas Walker</a>'
+author:
+  - 
+    term_id: 641
+    name: Abnério Cabral
+    slug: abnerio-cabral
+    term_group: 0
+    term_taxonomy_id: 651
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 640
+    name: Christopher Walker
+    slug: christopher-walker
+    term_group: 0
+    term_taxonomy_id: 650
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 643
+    name: Harold Walker
+    slug: harold-walker
+    term_group: 0
+    term_taxonomy_id: 653
+    taxonomy: autor
+    description: >
+      é conferencista e um dos fundadores da
+      Escola Cristã de Jundiaí SP,
+      articulista e membro do Conselho
+      Editorial da Revista Impacto. É também
+      um dos idealizadores do Curso de
+      Preparação Profética (CPP) e do
+      encontro anual de jovens “Preparando
+      Soldados para as Últimas Batalhas”.
+      Junto com outros irmãos, está
+      atualmente empenhado na constituição
+      da “Escola de Teologia Viva”, uma
+      alternativa à academia sistemática que
+      monopolizou o ensino da teologia. É
+      casado com Ester e tem três filhos.
+      Reside em Jundiaí, SP.
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 642
+    name: Jônatas Walker
+    slug: jonatas-walker
+    term_group: 0
+    term_taxonomy_id: 652
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2012-1-modulo-7-de-julho
-categories: categories
+categories: ""
 published: true
 post_date: 2012-07-09 12:30:08
 ---

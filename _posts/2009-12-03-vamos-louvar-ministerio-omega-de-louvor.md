@@ -1,13 +1,145 @@
 ---
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
-author: ' <a href="https://www.gruponews.com.br/autor/ministerio-omega-de-louvor" rel="tag">Ministério Ômega de Louvor</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/cd" rel="tag">cd</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/fruto" rel="tag">Fruto</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/louvar" rel="tag">Louvar</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/musica" rel="tag">Musica</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/presenca" rel="tag">presença</a>, <a href="https://www.gruponews.com.br/tag/seguro" rel="tag">Seguro</a>, <a href="https://www.gruponews.com.br/tag/vamos" rel="tag">Vamos</a>'
+author:
+  - 
+    term_id: 847
+    name: Ministério Ômega de Louvor
+    slug: ministerio-omega-de-louvor
+    term_group: 0
+    term_taxonomy_id: 860
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 316
+    name: cd
+    slug: cd
+    term_group: 0
+    term_taxonomy_id: 319
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 138
+    name: Espírito
+    slug: espirito
+    term_group: 0
+    term_taxonomy_id: 141
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 318
+    name: Fruto
+    slug: fruto
+    term_group: 0
+    term_taxonomy_id: 321
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 34
+    name: Homem
+    slug: homem
+    term_group: 0
+    term_taxonomy_id: 35
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 319
+    name: Louvar
+    slug: louvar
+    term_group: 0
+    term_taxonomy_id: 322
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 242
+    name: Luz
+    slug: luz
+    term_group: 0
+    term_taxonomy_id: 245
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 315
+    name: Musica
+    slug: musica
+    term_group: 0
+    term_taxonomy_id: 318
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 321
+    name: presença
+    slug: presenca
+    term_group: 0
+    term_taxonomy_id: 324
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 317
+    name: Seguro
+    slug: seguro
+    term_group: 0
+    term_taxonomy_id: 320
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 320
+    name: Vamos
+    slug: vamos
+    term_group: 0
+    term_taxonomy_id: 323
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/vamos-louvar-ministerio-omega-de-louvor
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-03 01:30:20
 ---

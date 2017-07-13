@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/cppi-2013-o-ministerio-de-elias-christopher-walker
-categories: categories
+categories: ""
 published: true
 post_date: 2013-05-19 23:21:38
 ---

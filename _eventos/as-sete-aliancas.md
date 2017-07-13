@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/as-sete-aliancas
-categories: categories
+categories: ""
 published: true
 post_date: 2013-07-09 23:20:38
 ---

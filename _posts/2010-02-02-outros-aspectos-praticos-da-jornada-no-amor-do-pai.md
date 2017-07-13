@@ -3,13 +3,24 @@ ID: 1498
 post_title: >
   Outros aspectos práticos da jornada no
   amor do Pai
-author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
+author:
+  - 
+    term_id: 336
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 649
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:45:05
 ---

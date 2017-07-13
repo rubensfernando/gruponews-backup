@@ -3,13 +3,46 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>, <a href="https://www.gruponews.com.br/tag/editorial" rel="tag">editorial</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 996
+    name: edicao-80
+    slug: edicao-80
+    term_group: 0
+    term_taxonomy_id: 1014
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 986
+    name: editorial
+    slug: editorial
+    term_group: 0
+    term_taxonomy_id: 1004
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
-categories: categories
+categories: ""
 published: true
 post_date: 2015-02-17 12:55:25
 ---

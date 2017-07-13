@@ -1,13 +1,90 @@
 ---
 ID: 3408
 post_title: Os sofrimentos dos filhos jovens
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/divorcio" rel="tag">Divórcio</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/jovem" rel="tag">jovem</a>, <a href="https://www.gruponews.com.br/tag/problemas" rel="tag">problemas</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 626
+    name: Maria de Carvalho Gomes
+    slug: maria-carvalho-gomes
+    term_group: 0
+    term_taxonomy_id: 634
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+tags:
+  - 
+    term_id: 550
+    name: Divórcio
+    slug: divorcio
+    term_group: 0
+    term_taxonomy_id: 557
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 355
+    name: jovem
+    slug: jovem
+    term_group: 0
+    term_taxonomy_id: 358
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 974
+    name: problemas
+    slug: problemas
+    term_group: 0
+    term_taxonomy_id: 992
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/os-sofrimentos-dos-filhos-jovens
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-29 07:00:16
 ---

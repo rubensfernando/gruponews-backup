@@ -4,12 +4,46 @@ post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>, <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/testemunhos" rel="tag">testemunhos</a>'
+tags:
+  - 
+    term_id: 913
+    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+    slug: >
+      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
+    term_group: 0
+    term_taxonomy_id: 928
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+  - 
+    term_id: 915
+    name: testemunhos
+    slug: testemunhos
+    term_group: 0
+    term_taxonomy_id: 930
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
-categories: categories
+categories: ""
 published: true
 post_date: 2007-07-06 11:38:25
 ---

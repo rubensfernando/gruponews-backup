@@ -1,13 +1,134 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-author: ' <a href="https://www.gruponews.com.br/autor/valmir-mathiazi" rel="tag">Valmir Mathiazi</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/carne" rel="tag">Carne</a>, <a href="https://www.gruponews.com.br/tag/cotidiano" rel="tag">Cotidiano</a>, <a href="https://www.gruponews.com.br/tag/cristaos" rel="tag">Cristãos</a>, <a href="https://www.gruponews.com.br/tag/diferente" rel="tag">Diferente</a>, <a href="https://www.gruponews.com.br/tag/discernimento" rel="tag">Discernimento</a>, <a href="https://www.gruponews.com.br/tag/mundo" rel="tag">Mundo</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>, <a href="https://www.gruponews.com.br/tag/valores" rel="tag">Valores</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 878
+    name: Valmir Mathiazi
+    slug: valmir-mathiazi
+    term_group: 0
+    term_taxonomy_id: 892
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 220
+    name: Carne
+    slug: carne
+    term_group: 0
+    term_taxonomy_id: 223
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 207
+    name: Cotidiano
+    slug: cotidiano
+    term_group: 0
+    term_taxonomy_id: 210
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 222
+    name: Cristãos
+    slug: cristaos
+    term_group: 0
+    term_taxonomy_id: 225
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 219
+    name: Diferente
+    slug: diferente
+    term_group: 0
+    term_taxonomy_id: 222
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 221
+    name: Discernimento
+    slug: discernimento
+    term_group: 0
+    term_taxonomy_id: 224
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 107
+    name: Mundo
+    slug: mundo
+    term_group: 0
+    term_taxonomy_id: 110
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 182
+    name: Testemunho
+    slug: testemunho
+    term_group: 0
+    term_taxonomy_id: 185
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 197
+    name: Valores
+    slug: valores
+    term_group: 0
+    term_taxonomy_id: 200
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/cidadaos-do-ceu
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:10:49
 ---

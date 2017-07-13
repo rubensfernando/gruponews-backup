@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=3913'
-categories: categories
+categories: ""
 published: false
 ---
 <h1 style="text-align: left;"><strong><em>Dar-vos-ei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne</em></strong></h1>

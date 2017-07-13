@@ -5,12 +5,23 @@ post_title: >
   tecnológicas limitam acesso de seus
   filhos a eletrônicos
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
+tags:
+  - 
+    term_id: 996
+    name: edicao-80
+    slug: edicao-80
+    term_group: 0
+    term_taxonomy_id: 1014
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos
-categories: categories
+categories: ""
 published: true
 post_date: 2015-02-17 12:55:56
 ---

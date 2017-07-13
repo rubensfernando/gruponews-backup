@@ -3,13 +3,134 @@ ID: 95
 post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
-author: ' <a href="https://www.gruponews.com.br/autor/rosane-faria" rel="tag">Rosane Faria</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/gloria" rel="tag">Glória</a>, <a href="https://www.gruponews.com.br/tag/habitar" rel="tag">Habitar</a>, <a href="https://www.gruponews.com.br/tag/interior" rel="tag">Interior</a>, <a href="https://www.gruponews.com.br/tag/morar" rel="tag">Morar</a>, <a href="https://www.gruponews.com.br/tag/nova" rel="tag">Nova</a>, <a href="https://www.gruponews.com.br/tag/transformar" rel="tag">Transformar</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 879
+    name: Rosane Faria
+    slug: rosane-faria
+    term_group: 0
+    term_taxonomy_id: 893
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 101
+    name: Atitude
+    slug: atitude
+    term_group: 0
+    term_taxonomy_id: 103
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 103
+    name: Esperança
+    slug: esperanca
+    term_group: 0
+    term_taxonomy_id: 105
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 138
+    name: Espírito
+    slug: espirito
+    term_group: 0
+    term_taxonomy_id: 141
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 136
+    name: Glória
+    slug: gloria
+    term_group: 0
+    term_taxonomy_id: 139
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 135
+    name: Habitar
+    slug: habitar
+    term_group: 0
+    term_taxonomy_id: 138
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 134
+    name: Interior
+    slug: interior
+    term_group: 0
+    term_taxonomy_id: 137
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 132
+    name: Morar
+    slug: morar
+    term_group: 0
+    term_taxonomy_id: 135
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 133
+    name: Nova
+    slug: nova
+    term_group: 0
+    term_taxonomy_id: 136
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 137
+    name: Transformar
+    slug: transformar
+    term_group: 0
+    term_taxonomy_id: 140
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:16:09
 ---

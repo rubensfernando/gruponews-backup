@@ -1,13 +1,35 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author: ' <a href="https://www.gruponews.com.br/autor/rosana-coelho-correa-de-oliveira" rel="tag">Rosana Coelho Correa de Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 1024
+    name: Rosana Coelho Correa de Oliveira
+    slug: rosana-coelho-correa-de-oliveira
+    term_group: 0
+    term_taxonomy_id: 1029
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/luz-que-esta-no-velador
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:30:51
 ---

@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/curso-biblico-preparatorio-2015-aulas-3-e-4
-categories: categories
+categories: ""
 published: true
 post_date: 2015-11-18 19:01:03
 ---

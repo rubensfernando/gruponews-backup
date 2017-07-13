@@ -1,13 +1,79 @@
 ---
 ID: 639
 post_title: 'Conferência 2008 &#8211; A Igreja do nosso tempo &#8211; Chamada'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/dias" rel="tag">dias</a>, <a href="https://www.gruponews.com.br/tag/dois" rel="tag">dois</a>, <a href="https://www.gruponews.com.br/tag/em-2008" rel="tag">em 2008</a>, <a href="https://www.gruponews.com.br/tag/nessa" rel="tag">nessa</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 816
+    name: dias
+    slug: dias
+    term_group: 0
+    term_taxonomy_id: 827
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 815
+    name: dois
+    slug: dois
+    term_group: 0
+    term_taxonomy_id: 826
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 813
+    name: em 2008
+    slug: em-2008
+    term_group: 0
+    term_taxonomy_id: 824
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 812
+    name: nessa
+    slug: nessa
+    term_group: 0
+    term_taxonomy_id: 823
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/conferencia-2008-chamada
-categories: categories
+categories: ""
 published: true
 post_date: 2010-04-01 12:00:18
 ---

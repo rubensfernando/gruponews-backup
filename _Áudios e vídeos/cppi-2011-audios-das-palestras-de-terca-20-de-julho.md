@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2011-audios-das-palestras-de-terca-20-de-julho
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-25 19:35:36
 ---

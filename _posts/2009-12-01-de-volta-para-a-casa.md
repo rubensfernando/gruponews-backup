@@ -1,13 +1,134 @@
 ---
 ID: 99
 post_title: De Volta para a Casa
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/lugar" rel="tag">Lugar</a>, <a href="https://www.gruponews.com.br/tag/movimento" rel="tag">Movimento</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/reuniao" rel="tag">Reunião</a>, <a href="https://www.gruponews.com.br/tag/templo" rel="tag">Templo</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 30
+    name: Casa
+    slug: casa
+    term_group: 0
+    term_taxonomy_id: 30
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 148
+    name: Lugar
+    slug: lugar
+    term_group: 0
+    term_taxonomy_id: 151
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 150
+    name: Movimento
+    slug: movimento
+    term_group: 0
+    term_taxonomy_id: 153
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 126
+    name: Mudança
+    slug: mudanca
+    term_group: 0
+    term_taxonomy_id: 129
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 124
+    name: Restauração
+    slug: restauracao
+    term_group: 0
+    term_taxonomy_id: 127
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 147
+    name: Reunião
+    slug: reuniao
+    term_group: 0
+    term_taxonomy_id: 150
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 149
+    name: Templo
+    slug: templo
+    term_group: 0
+    term_taxonomy_id: 152
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 139
+    name: Visão
+    slug: visao
+    term_group: 0
+    term_taxonomy_id: 142
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 146
+    name: Vontade
+    slug: vontade
+    term_group: 0
+    term_taxonomy_id: 149
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/de-volta-para-a-casa
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:23:27
 ---

@@ -3,13 +3,35 @@ ID: 2872
 post_title: >
   Falando mais sobre os sofrimentos da
   criança
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 626
+    name: Maria de Carvalho Gomes
+    slug: maria-carvalho-gomes
+    term_group: 0
+    term_taxonomy_id: 634
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
-categories: categories
+categories: ""
 published: true
 post_date: 2013-03-13 00:00:26
 ---

@@ -1,13 +1,35 @@
 ---
 ID: 1974
 post_title: Problemas no coração do profeta
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 903
+    name: edicao-71
+    slug: edicao-71
+    term_group: 0
+    term_taxonomy_id: 918
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/problemas-no-coracao-do-profeta
-categories: categories
+categories: ""
 published: true
 post_date: 2011-12-28 00:00:22
 ---

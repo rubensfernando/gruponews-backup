@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/conferencia-2013
-categories: categories
+categories: ""
 published: true
 post_date: 2013-02-04 20:57:08
 ---

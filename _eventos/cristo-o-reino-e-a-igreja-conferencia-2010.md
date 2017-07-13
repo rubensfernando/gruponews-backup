@@ -1,13 +1,200 @@
 ---
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/arruda" rel="tag">Arruda</a>, <a href="https://www.gruponews.com.br/tag/brasil" rel="tag">Brasil</a>, <a href="https://www.gruponews.com.br/tag/conferencia" rel="tag">conferencia</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/gino" rel="tag">Gino</a>, <a href="https://www.gruponews.com.br/tag/iafrancesco" rel="tag">Iafrancesco</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/macaneiro" rel="tag">Maçaneiro</a>, <a href="https://www.gruponews.com.br/tag/marcial" rel="tag">Marcial</a>, <a href="https://www.gruponews.com.br/tag/outubro" rel="tag">Outubro</a>, <a href="https://www.gruponews.com.br/tag/pedro" rel="tag">Pedro</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/retorno" rel="tag">retorno</a>, <a href="https://www.gruponews.com.br/tag/villegas" rel="tag">Villegas</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 401
+    name: Arruda
+    slug: arruda
+    term_group: 0
+    term_taxonomy_id: 407
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 539
+    name: Brasil
+    slug: brasil
+    term_group: 0
+    term_taxonomy_id: 546
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 311
+    name: conferencia
+    slug: conferencia
+    term_group: 0
+    term_taxonomy_id: 314
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 541
+    name: Gino
+    slug: gino
+    term_group: 0
+    term_taxonomy_id: 548
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 542
+    name: Iafrancesco
+    slug: iafrancesco
+    term_group: 0
+    term_taxonomy_id: 549
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 513
+    name: Jesus
+    slug: jesus
+    term_group: 0
+    term_taxonomy_id: 520
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 546
+    name: Maçaneiro
+    slug: macaneiro
+    term_group: 0
+    term_taxonomy_id: 553
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 545
+    name: Marcial
+    slug: marcial
+    term_group: 0
+    term_taxonomy_id: 552
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 540
+    name: Outubro
+    slug: outubro
+    term_group: 0
+    term_taxonomy_id: 547
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 371
+    name: Pedro
+    slug: pedro
+    term_group: 0
+    term_taxonomy_id: 375
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
+  - 
+    term_id: 548
+    name: retorno
+    slug: retorno
+    term_group: 0
+    term_taxonomy_id: 555
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 543
+    name: Villegas
+    slug: villegas
+    term_group: 0
+    term_taxonomy_id: 550
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 547
+    name: volta
+    slug: volta
+    term_group: 0
+    term_taxonomy_id: 554
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/cristo-o-reino-e-a-igreja-conferencia-2010
-categories: categories
+categories: ""
 published: true
 post_date: 2010-10-20 14:26:35
 ---

@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/contas-bancarias
-categories: categories
+categories: ""
 published: true
 post_date: 2013-08-06 21:45:57
 ---

@@ -3,13 +3,134 @@ ID: 125
 post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/arvore" rel="tag">Arvore</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/doenca" rel="tag">Doença</a>, <a href="https://www.gruponews.com.br/tag/enfermo" rel="tag">Enfermo</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/poder" rel="tag">Poder</a>, <a href="https://www.gruponews.com.br/tag/resposta" rel="tag">Resposta</a>, <a href="https://www.gruponews.com.br/tag/sombra" rel="tag">Sombra</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 80
+    name: Arvore
+    slug: arvore
+    term_group: 0
+    term_taxonomy_id: 81
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 143
+    name: Cura
+    slug: cura
+    term_group: 0
+    term_taxonomy_id: 146
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 190
+    name: Doença
+    slug: doenca
+    term_group: 0
+    term_taxonomy_id: 193
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 191
+    name: Enfermo
+    slug: enfermo
+    term_group: 0
+    term_taxonomy_id: 194
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 94
+    name: Misericórdia
+    slug: misericordia
+    term_group: 0
+    term_taxonomy_id: 95
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 193
+    name: Poder
+    slug: poder
+    term_group: 0
+    term_taxonomy_id: 196
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 192
+    name: Resposta
+    slug: resposta
+    term_group: 0
+    term_taxonomy_id: 195
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 189
+    name: Sombra
+    slug: sombra
+    term_group: 0
+    term_taxonomy_id: 192
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:09:23
 ---

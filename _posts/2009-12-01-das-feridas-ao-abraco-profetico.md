@@ -1,13 +1,134 @@
 ---
 ID: 97
 post_title: Das Feridas ao Abraço Profético
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/conviver" rel="tag">Conviver</a>, <a href="https://www.gruponews.com.br/tag/coragem" rel="tag">Coragem</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/ferida" rel="tag">Ferida</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/situacoes" rel="tag">Situações</a>, <a href="https://www.gruponews.com.br/tag/unidade" rel="tag">Unidade</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 101
+    name: Atitude
+    slug: atitude
+    term_group: 0
+    term_taxonomy_id: 103
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 145
+    name: Conviver
+    slug: conviver
+    term_group: 0
+    term_taxonomy_id: 148
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 140
+    name: Coragem
+    slug: coragem
+    term_group: 0
+    term_taxonomy_id: 143
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 143
+    name: Cura
+    slug: cura
+    term_group: 0
+    term_taxonomy_id: 146
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 142
+    name: Ferida
+    slug: ferida
+    term_group: 0
+    term_taxonomy_id: 145
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 124
+    name: Restauração
+    slug: restauracao
+    term_group: 0
+    term_taxonomy_id: 127
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 144
+    name: Situações
+    slug: situacoes
+    term_group: 0
+    term_taxonomy_id: 147
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 141
+    name: Unidade
+    slug: unidade
+    term_group: 0
+    term_taxonomy_id: 144
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 139
+    name: Visão
+    slug: visao
+    term_group: 0
+    term_taxonomy_id: 142
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/das-feridas-ao-abraco-profetico
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:20:12
 ---

@@ -1,13 +1,200 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/coletivo" rel="tag">Coletivo</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/converter" rel="tag">Converter</a>, <a href="https://www.gruponews.com.br/tag/coracao" rel="tag">Coração</a>, <a href="https://www.gruponews.com.br/tag/corpo" rel="tag">Corpo</a>, <a href="https://www.gruponews.com.br/tag/derramar" rel="tag">Derramar</a>, <a href="https://www.gruponews.com.br/tag/diariamente" rel="tag">Diariamente</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/habitar" rel="tag">Habitar</a>, <a href="https://www.gruponews.com.br/tag/individual" rel="tag">Individual</a>, <a href="https://www.gruponews.com.br/tag/ministerio" rel="tag">Ministério</a>, <a href="https://www.gruponews.com.br/tag/plural" rel="tag">Plural</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/templo" rel="tag">Templo</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 245
+    name: Coletivo
+    slug: coletivo
+    term_group: 0
+    term_taxonomy_id: 248
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 244
+    name: Converter
+    slug: converter
+    term_group: 0
+    term_taxonomy_id: 247
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 157
+    name: Coração
+    slug: coracao
+    term_group: 0
+    term_taxonomy_id: 160
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 187
+    name: Corpo
+    slug: corpo
+    term_group: 0
+    term_taxonomy_id: 190
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 246
+    name: Derramar
+    slug: derramar
+    term_group: 0
+    term_taxonomy_id: 249
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 249
+    name: Diariamente
+    slug: diariamente
+    term_group: 0
+    term_taxonomy_id: 252
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 138
+    name: Espírito
+    slug: espirito
+    term_group: 0
+    term_taxonomy_id: 141
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 971
+    name: Estudos
+    slug: estudos
+    term_group: 0
+    term_taxonomy_id: 989
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 135
+    name: Habitar
+    slug: habitar
+    term_group: 0
+    term_taxonomy_id: 138
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 247
+    name: Individual
+    slug: individual
+    term_group: 0
+    term_taxonomy_id: 250
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 177
+    name: Ministério
+    slug: ministerio
+    term_group: 0
+    term_taxonomy_id: 180
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 248
+    name: Plural
+    slug: plural
+    term_group: 0
+    term_taxonomy_id: 251
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 149
+    name: Templo
+    slug: templo
+    term_group: 0
+    term_taxonomy_id: 152
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:52:37
 ---

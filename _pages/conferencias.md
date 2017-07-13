@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/eventos/conferencias
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 22:05:42
 ---

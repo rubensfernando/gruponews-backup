@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/aulas-de-segunda-feira
-categories: categories
+categories: ""
 published: true
 post_date: 2010-11-01 00:00:10
 ---

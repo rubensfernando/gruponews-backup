@@ -1,13 +1,36 @@
 ---
 ID: 3917
 post_title: Construindo a casa do Senhor
-author: ' <a href="https://www.gruponews.com.br/autor/rosane-faria" rel="tag">Rosane Faria</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>'
+author:
+  - 
+    term_id: 879
+    name: Rosane Faria
+    slug: rosane-faria
+    term_group: 0
+    term_taxonomy_id: 893
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 913
+    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+    slug: >
+      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
+    term_group: 0
+    term_taxonomy_id: 928
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/construindo-casa-senhor
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-06 11:38:32
 ---

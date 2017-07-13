@@ -1,12 +1,133 @@
 ---
 ID: 127
 post_title: “Quem ama e renuncia, permanece”
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aguas" rel="tag">Águas</a>, <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/confessar" rel="tag">Confessar</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/nascer" rel="tag">Nascer</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/perdida" rel="tag">Perdida</a>, <a href="https://www.gruponews.com.br/tag/resgate" rel="tag">Resgate</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 196
+    name: Águas
+    slug: aguas
+    term_group: 0
+    term_taxonomy_id: 199
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 89
+    name: Arrependimento
+    slug: arrependimento
+    term_group: 0
+    term_taxonomy_id: 90
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 195
+    name: Confessar
+    slug: confessar
+    term_group: 0
+    term_taxonomy_id: 198
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 186
+    name: Nascer
+    slug: nascer
+    term_group: 0
+    term_taxonomy_id: 189
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 121
+    name: Perdão
+    slug: perdao
+    term_group: 0
+    term_taxonomy_id: 124
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 22
+    name: Perdida
+    slug: perdida
+    term_group: 0
+    term_taxonomy_id: 22
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 194
+    name: Resgate
+    slug: resgate
+    term_group: 0
+    term_taxonomy_id: 197
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/artigos/%e2%80%9cquem-ama-e-renuncia-permanece%e2%80%9d'
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:11:40
 ---

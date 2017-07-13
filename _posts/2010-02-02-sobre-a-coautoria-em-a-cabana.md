@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/sobre-a-coautoria-em-a-cabana
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:15:52
 ---

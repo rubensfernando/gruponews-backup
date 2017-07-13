@@ -1,13 +1,134 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/chamado" rel="tag">chamado</a>, <a href="https://www.gruponews.com.br/tag/comeco" rel="tag">Começo</a>, <a href="https://www.gruponews.com.br/tag/elza" rel="tag">Elza</a>, <a href="https://www.gruponews.com.br/tag/franco" rel="tag">Franco</a>, <a href="https://www.gruponews.com.br/tag/grupo" rel="tag">Grupo</a>, <a href="https://www.gruponews.com.br/tag/historia" rel="tag">História</a>, <a href="https://www.gruponews.com.br/tag/inicio" rel="tag">inicio</a>, <a href="https://www.gruponews.com.br/tag/mae" rel="tag">Mae</a>, <a href="https://www.gruponews.com.br/tag/principio" rel="tag">principio</a>, <a href="https://www.gruponews.com.br/tag/senhor" rel="tag">Senhor</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 373
+    name: chamado
+    slug: chamado
+    term_group: 0
+    term_taxonomy_id: 377
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 291
+    name: Começo
+    slug: comeco
+    term_group: 0
+    term_taxonomy_id: 294
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 293
+    name: Elza
+    slug: elza
+    term_group: 0
+    term_taxonomy_id: 296
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 292
+    name: Franco
+    slug: franco
+    term_group: 0
+    term_taxonomy_id: 295
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 289
+    name: Grupo
+    slug: grupo
+    term_group: 0
+    term_taxonomy_id: 292
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 200
+    name: História
+    slug: historia
+    term_group: 0
+    term_taxonomy_id: 203
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 375
+    name: inicio
+    slug: inicio
+    term_group: 0
+    term_taxonomy_id: 379
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 288
+    name: Mae
+    slug: mae
+    term_group: 0
+    term_taxonomy_id: 291
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 374
+    name: principio
+    slug: principio
+    term_group: 0
+    term_taxonomy_id: 378
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 294
+    name: Senhor
+    slug: senhor
+    term_group: 0
+    term_taxonomy_id: 297
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/mae-de-muitos-filhos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-05 01:44:05
 ---

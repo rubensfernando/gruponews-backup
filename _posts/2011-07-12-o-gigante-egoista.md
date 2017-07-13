@@ -1,13 +1,24 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author: ' <a href="https://www.gruponews.com.br/autor/oscar-wilde" rel="tag">Oscar Wilde</a>'
+author:
+  - 
+    term_id: 883
+    name: Oscar Wilde
+    slug: oscar-wilde
+    term_group: 0
+    term_taxonomy_id: 897
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-gigante-egoista
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:59:02
 ---

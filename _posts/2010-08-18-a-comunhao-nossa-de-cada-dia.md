@@ -3,13 +3,24 @@ ID: 973
 post_title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/a-comunhao-nossa-de-cada-dia
-categories: categories
+categories: ""
 published: true
 post_date: 2010-08-18 23:03:33
 ---

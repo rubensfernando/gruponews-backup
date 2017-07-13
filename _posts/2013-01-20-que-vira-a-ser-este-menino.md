@@ -1,13 +1,35 @@
 ---
 ID: 2864
 post_title: Que virá a ser este menino?
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-73" rel="tag">edicao-73</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 905
+    name: edicao-73
+    slug: edicao-73
+    term_group: 0
+    term_taxonomy_id: 920
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/que-vira-a-ser-este-menino
-categories: categories
+categories: ""
 published: true
 post_date: 2013-01-20 19:22:52
 ---

@@ -3,13 +3,134 @@ ID: 120
 post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
-author: ' <a href="https://www.gruponews.com.br/autor/offini-franco" rel="tag">Offini Franco</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/buscar" rel="tag">Buscar</a>, <a href="https://www.gruponews.com.br/tag/caminho" rel="tag">Caminho</a>, <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/desobedecer" rel="tag">Desobedecer</a>, <a href="https://www.gruponews.com.br/tag/estreito" rel="tag">Estreito</a>, <a href="https://www.gruponews.com.br/tag/exortacao" rel="tag">Exortação</a>, <a href="https://www.gruponews.com.br/tag/impio" rel="tag">Ímpio</a>, <a href="https://www.gruponews.com.br/tag/largo" rel="tag">Largo</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
+author:
+  - 
+    term_id: 877
+    name: Offini Franco
+    slug: offini-franco
+    term_group: 0
+    term_taxonomy_id: 891
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 88
+    name: Buscar
+    slug: buscar
+    term_group: 0
+    term_taxonomy_id: 89
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 180
+    name: Caminho
+    slug: caminho
+    term_group: 0
+    term_taxonomy_id: 183
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 168
+    name: Conversão
+    slug: conversao
+    term_group: 0
+    term_taxonomy_id: 171
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 179
+    name: Desobedecer
+    slug: desobedecer
+    term_group: 0
+    term_taxonomy_id: 182
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 181
+    name: Estreito
+    slug: estreito
+    term_group: 0
+    term_taxonomy_id: 184
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 184
+    name: Exortação
+    slug: exortacao
+    term_group: 0
+    term_taxonomy_id: 187
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 178
+    name: Ímpio
+    slug: impio
+    term_group: 0
+    term_taxonomy_id: 181
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 183
+    name: Largo
+    slug: largo
+    term_group: 0
+    term_taxonomy_id: 186
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 182
+    name: Testemunho
+    slug: testemunho
+    term_group: 0
+    term_taxonomy_id: 185
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-caminho-do-senhor-e-o-caminho-do-impio
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:46:44
 ---

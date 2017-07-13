@@ -3,13 +3,35 @@ ID: 4316
 post_title: >
   O dar e a generosidade na igreja
   relacional
-author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
+author:
+  - 
+    term_id: 336
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 649
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+tags:
+  - 
+    term_id: 996
+    name: edicao-80
+    slug: edicao-80
+    term_group: 0
+    term_taxonomy_id: 1014
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
-categories: categories
+categories: ""
 published: true
 post_date: 2015-02-17 12:56:28
 ---

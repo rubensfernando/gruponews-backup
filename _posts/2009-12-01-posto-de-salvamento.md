@@ -1,13 +1,134 @@
 ---
 ID: 169
 post_title: Posto de Salvamento
-author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-silva" rel="tag">Paulo Roberto Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/afogado" rel="tag">Afogado</a>, <a href="https://www.gruponews.com.br/tag/barco" rel="tag">Barco</a>, <a href="https://www.gruponews.com.br/tag/ilha" rel="tag">Ilha</a>, <a href="https://www.gruponews.com.br/tag/livramento" rel="tag">Livramento</a>, <a href="https://www.gruponews.com.br/tag/naufragio" rel="tag">Naufrágio</a>, <a href="https://www.gruponews.com.br/tag/posto" rel="tag">Posto</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/socorro" rel="tag">Socorro</a>, <a href="https://www.gruponews.com.br/tag/tripulacao" rel="tag">Tripulação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 718
+    name: Paulo Roberto Silva
+    slug: paulo-roberto-silva
+    term_group: 0
+    term_taxonomy_id: 729
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 274
+    name: Afogado
+    slug: afogado
+    term_group: 0
+    term_taxonomy_id: 277
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 278
+    name: Barco
+    slug: barco
+    term_group: 0
+    term_taxonomy_id: 281
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 276
+    name: Ilha
+    slug: ilha
+    term_group: 0
+    term_taxonomy_id: 279
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 275
+    name: Livramento
+    slug: livramento
+    term_group: 0
+    term_taxonomy_id: 278
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 273
+    name: Naufrágio
+    slug: naufragio
+    term_group: 0
+    term_taxonomy_id: 276
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 272
+    name: Posto
+    slug: posto
+    term_group: 0
+    term_taxonomy_id: 275
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 279
+    name: Socorro
+    slug: socorro
+    term_group: 0
+    term_taxonomy_id: 282
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 277
+    name: Tripulação
+    slug: tripulacao
+    term_group: 0
+    term_taxonomy_id: 280
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/posto-de-salvamento
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:05:55
 ---

@@ -1,13 +1,46 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author: ' <a href="https://www.gruponews.com.br/autor/leon-tolstoi" rel="tag">Leon Tolstói</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 891
+    name: Leon Tolstói
+    slug: leon-tolstoi
+    term_group: 0
+    term_taxonomy_id: 905
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/tres-perguntas
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-13 23:56:07
 ---

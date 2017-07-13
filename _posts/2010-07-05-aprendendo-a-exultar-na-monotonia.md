@@ -1,13 +1,24 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
-author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
+author:
+  - 
+    term_id: 652
+    name: Renata Ribeiro Arruda
+    slug: renata-ribeiro-arruda
+    term_group: 0
+    term_taxonomy_id: 662
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/aprendendo-a-exultar-na-monotonia
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-05 15:13:07
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/abandonar" rel="tag">abandonar</a>, <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/diferenca" rel="tag">diferença</a>, <a href="https://www.gruponews.com.br/tag/dons" rel="tag">Dons</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/irmao" rel="tag">irmão</a>, <a href="https://www.gruponews.com.br/tag/outro" rel="tag">outro</a>, <a href="https://www.gruponews.com.br/tag/profeticos" rel="tag">Proféticos</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 301
+    name: abandonar
+    slug: abandonar
+    term_group: 0
+    term_taxonomy_id: 304
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 300
+    name: diferença
+    slug: diferenca
+    term_group: 0
+    term_taxonomy_id: 303
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 302
+    name: Dons
+    slug: dons
+    term_group: 0
+    term_taxonomy_id: 305
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 297
+    name: irmão
+    slug: irmao
+    term_group: 0
+    term_taxonomy_id: 300
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 298
+    name: outro
+    slug: outro
+    term_group: 0
+    term_taxonomy_id: 301
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 303
+    name: Proféticos
+    slug: profeticos
+    term_group: 0
+    term_taxonomy_id: 306
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/de-volta-ao-amor-do-pai-esbanjador
-categories: categories
+categories: ""
 published: true
 post_date: 2009-11-01 12:00:01
 ---

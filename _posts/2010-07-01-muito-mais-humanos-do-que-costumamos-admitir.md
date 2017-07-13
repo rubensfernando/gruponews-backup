@@ -3,13 +3,24 @@ ID: 3168
 post_title: >
   Muito mais humanos do que costumamos
   admitir
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/muito-mais-humanos-do-que-costumamos-admitir
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-01 17:15:06
 ---

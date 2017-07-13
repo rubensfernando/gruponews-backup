@@ -3,13 +3,145 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
-author: ' <a href="https://www.gruponews.com.br/autor/valter-severino" rel="tag">Valter Severino</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/buscar" rel="tag">Buscar</a>, <a href="https://www.gruponews.com.br/tag/ceus" rel="tag">Céus</a>, <a href="https://www.gruponews.com.br/tag/condicao" rel="tag">Condição</a>, <a href="https://www.gruponews.com.br/tag/engano" rel="tag">Engano</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/inferno" rel="tag">Inferno</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>, <a href="https://www.gruponews.com.br/tag/resolver" rel="tag">Resolver</a>'
+author:
+  - 
+    term_id: 628
+    name: Valter Severino
+    slug: valter-severino
+    term_group: 0
+    term_taxonomy_id: 636
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 89
+    name: Arrependimento
+    slug: arrependimento
+    term_group: 0
+    term_taxonomy_id: 90
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 88
+    name: Buscar
+    slug: buscar
+    term_group: 0
+    term_taxonomy_id: 89
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 87
+    name: Céus
+    slug: ceus
+    term_group: 0
+    term_taxonomy_id: 88
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 90
+    name: Condição
+    slug: condicao
+    term_group: 0
+    term_taxonomy_id: 91
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 95
+    name: Engano
+    slug: engano
+    term_group: 0
+    term_taxonomy_id: 96
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 92
+    name: Governo
+    slug: governo
+    term_group: 0
+    term_taxonomy_id: 93
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 91
+    name: Inferno
+    slug: inferno
+    term_group: 0
+    term_taxonomy_id: 92
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 94
+    name: Misericórdia
+    slug: misericordia
+    term_group: 0
+    term_taxonomy_id: 95
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
+  - 
+    term_id: 477
+    name: reino de Deus
+    slug: reino-de-deus
+    term_group: 0
+    term_taxonomy_id: 484
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 93
+    name: Resolver
+    slug: resolver
+    term_group: 0
+    term_taxonomy_id: 94
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-condicao-para-fazer-parte-do-reino-de-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:39:30
 ---

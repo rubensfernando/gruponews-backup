@@ -2,12 +2,56 @@
 ID: 1408
 post_title: 'Cobertura da Conferência &#8220;Cristo o Reino e a Igreja&#8221;'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/edicao-69" rel="tag">edicao-69</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+tags:
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 969
+    name: edicao-69
+    slug: edicao-69
+    term_group: 0
+    term_taxonomy_id: 987
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
-categories: categories
+categories: ""
 published: true
 post_date: 2011-02-03 00:20:06
 ---

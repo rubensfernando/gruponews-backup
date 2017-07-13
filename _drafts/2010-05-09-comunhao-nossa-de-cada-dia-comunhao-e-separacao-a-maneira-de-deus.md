@@ -2,11 +2,44 @@
 ID: 805
 post_title: '“Comunhão nossa de cada dia” &#8211; Comunhão e separação à maneira de Deus'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>'
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 367
+    name: paternidade
+    slug: paternidade
+    term_group: 0
+    term_taxonomy_id: 371
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 477
+    name: reino de Deus
+    slug: reino-de-deus
+    term_group: 0
+    term_taxonomy_id: 484
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=805
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o sexto de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores</em></blockquote>

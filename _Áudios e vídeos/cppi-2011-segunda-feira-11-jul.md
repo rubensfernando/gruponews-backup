@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2011-segunda-feira-11-jul
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-14 08:00:07
 ---

@@ -1,13 +1,24 @@
 ---
 ID: 2633
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02 &#8211; Parte 3'
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-souza" rel="tag">Ricardo Souza</a>'
+author:
+  - 
+    term_id: 651
+    name: Ricardo Souza
+    slug: ricardo-souza
+    term_group: 0
+    term_taxonomy_id: 661
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/curso-o-reino-milenar-messianico-aula02-parte-3
-categories: categories
+categories: ""
 published: true
 post_date: 2012-07-26 15:30:34
 ---

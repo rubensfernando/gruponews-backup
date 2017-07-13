@@ -1,13 +1,46 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author: ' <a href="https://www.gruponews.com.br/autor/cleucio-macedo" rel="tag">Cléucio Macedo</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/paulo-roberto" rel="tag">paulo roberto</a>, <a href="https://www.gruponews.com.br/tag/quais" rel="tag">quais</a>'
+author:
+  - 
+    term_id: 701
+    name: Cléucio Macedo
+    slug: cleucio-macedo
+    term_group: 0
+    term_taxonomy_id: 712
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 704
+    name: paulo roberto
+    slug: paulo-roberto
+    term_group: 0
+    term_taxonomy_id: 715
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 703
+    name: quais
+    slug: quais
+    term_group: 0
+    term_taxonomy_id: 714
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-procura-da-comunhao
-categories: categories
+categories: ""
 published: true
 post_date: 2013-03-26 07:00:16
 ---

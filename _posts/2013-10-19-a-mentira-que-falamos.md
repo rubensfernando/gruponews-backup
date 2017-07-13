@@ -1,13 +1,46 @@
 ---
 ID: 2869
 post_title: A mentira que falamos
-author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/autom" rel="tag">autom</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>'
+author:
+  - 
+    term_id: 679
+    name: Darin Hufford
+    slug: darin-hufford
+    term_group: 0
+    term_taxonomy_id: 690
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 875
+    name: autom
+    slug: autom
+    term_group: 0
+    term_taxonomy_id: 889
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 75
+    name: Mentira
+    slug: mentira
+    term_group: 0
+    term_taxonomy_id: 76
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-19 01:22:48
 ---

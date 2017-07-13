@@ -1,13 +1,35 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
-author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
+author:
+  - 
+    term_id: 679
+    name: Darin Hufford
+    slug: darin-hufford
+    term_group: 0
+    term_taxonomy_id: 690
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-20 00:46:48
 ---

@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/sobre-o-livro-que-inspirou-a-conferencia-2009
-categories: categories
+categories: ""
 published: true
 post_date: 2010-02-02 00:10:55
 ---

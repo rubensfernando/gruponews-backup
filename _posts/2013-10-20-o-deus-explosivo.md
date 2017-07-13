@@ -1,13 +1,35 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
-author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>'
+author:
+  - 
+    term_id: 679
+    name: Darin Hufford
+    slug: darin-hufford
+    term_group: 0
+    term_taxonomy_id: 690
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-deus-explosivo
-categories: categories
+categories: ""
 published: true
 post_date: 2013-10-20 09:00:43
 ---

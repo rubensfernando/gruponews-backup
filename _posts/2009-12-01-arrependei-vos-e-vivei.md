@@ -1,13 +1,134 @@
 ---
 ID: 93
 post_title: Arrependei-vos e Vivei
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-pontello" rel="tag">Mauricio Pontello</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/pecado" rel="tag">Pecado</a>, <a href="https://www.gruponews.com.br/tag/pecar" rel="tag">Pecar</a>, <a href="https://www.gruponews.com.br/tag/santidade" rel="tag">Santidade</a>, <a href="https://www.gruponews.com.br/tag/satisfazer" rel="tag">Satisfazer</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vergonha" rel="tag">Vergonha</a>, <a href="https://www.gruponews.com.br/tag/viver" rel="tag">Viver</a>'
+author:
+  - 
+    term_id: 873
+    name: Mauricio Pontello
+    slug: mauricio-pontello
+    term_group: 0
+    term_taxonomy_id: 887
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+tags:
+  - 
+    term_id: 89
+    name: Arrependimento
+    slug: arrependimento
+    term_group: 0
+    term_taxonomy_id: 90
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 101
+    name: Atitude
+    slug: atitude
+    term_group: 0
+    term_taxonomy_id: 103
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 126
+    name: Mudança
+    slug: mudanca
+    term_group: 0
+    term_taxonomy_id: 129
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 129
+    name: Pecado
+    slug: pecado
+    term_group: 0
+    term_taxonomy_id: 132
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 130
+    name: Pecar
+    slug: pecar
+    term_group: 0
+    term_taxonomy_id: 133
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 127
+    name: Santidade
+    slug: santidade
+    term_group: 0
+    term_taxonomy_id: 130
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 131
+    name: Satisfazer
+    slug: satisfazer
+    term_group: 0
+    term_taxonomy_id: 134
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 128
+    name: Vergonha
+    slug: vergonha
+    term_group: 0
+    term_taxonomy_id: 131
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 125
+    name: Viver
+    slug: viver
+    term_group: 0
+    term_taxonomy_id: 128
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/arrependei-vos-e-vivei
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:05:25
 ---

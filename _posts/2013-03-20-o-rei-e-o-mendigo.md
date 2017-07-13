@@ -1,13 +1,38 @@
 ---
 ID: 2876
 post_title: O rei e o mendigo
-author: ' <a href="https://www.gruponews.com.br/autor/autor-desconhecido" rel="tag">Autor desconhecido</a>, <a href="https://www.gruponews.com.br/autor/recontada-por-junior-cesar-villaca-da-silva" rel="tag">Recontada por Júnior César Villaça da Silva</a>'
+author:
+  - 
+    term_id: 695
+    name: Autor desconhecido
+    slug: autor-desconhecido
+    term_group: 0
+    term_taxonomy_id: 706
+    taxonomy: autor
+    description: Teste
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 696
+    name: >
+      Recontada por Júnior César Villaça da
+      Silva
+    slug: >
+      recontada-por-junior-cesar-villaca-da-silva
+    term_group: 0
+    term_taxonomy_id: 707
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-rei-e-o-mendigo
-categories: categories
+categories: ""
 published: true
 post_date: 2013-03-20 00:15:20
 ---

@@ -1,13 +1,35 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>'
+author:
+  - 
+    term_id: 650
+    name: Ricardo Oliveira
+    slug: ricardo-oliveira
+    term_group: 0
+    term_taxonomy_id: 660
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+tags:
+  - 
+    term_id: 903
+    name: edicao-71
+    slug: edicao-71
+    term_group: 0
+    term_taxonomy_id: 918
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-lei-a-igreja-e-as-janelas-dos-trens
-categories: categories
+categories: ""
 published: true
 post_date: 2011-12-04 20:11:22
 ---

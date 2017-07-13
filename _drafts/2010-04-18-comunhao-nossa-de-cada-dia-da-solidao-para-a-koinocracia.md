@@ -2,11 +2,33 @@
 ID: 747
 post_title: '&#8220;Comunhão nossa de cada dia&#8221; &#8211; Da solidão para a koinocracia'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/comunidade" rel="tag">Comunidade</a>'
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 445
+    name: Comunidade
+    slug: comunidade
+    term_group: 0
+    term_taxonomy_id: 451
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=747
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o terceiro de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>

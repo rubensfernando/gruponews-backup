@@ -3,13 +3,46 @@ ID: 1969
 post_title: >
   Deus quer de nós uma nova maneira de
   pensar
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>, <a href="https://www.gruponews.com.br/tag/pensar" rel="tag">pensar</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 903
+    name: edicao-71
+    slug: edicao-71
+    term_group: 0
+    term_taxonomy_id: 918
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 904
+    name: pensar
+    slug: pensar
+    term_group: 0
+    term_taxonomy_id: 919
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
-categories: categories
+categories: ""
 published: true
 post_date: 2011-12-21 22:35:24
 ---

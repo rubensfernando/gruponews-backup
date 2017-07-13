@@ -1,13 +1,35 @@
 ---
 ID: 3194
 post_title: O dízimo na Bíblia e na História
-author: ' <a href="https://www.gruponews.com.br/autor/hugo" rel="tag">Hugo</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/hugo" rel="tag">Hugo</a>'
+author:
+  - 
+    term_id: 853
+    name: Hugo
+    slug: hugo
+    term_group: 0
+    term_taxonomy_id: 867
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 1011
+    name: Hugo
+    slug: hugo
+    term_group: 0
+    term_taxonomy_id: 866
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-dizimo-na-biblia-e-na-historia
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-04 17:40:48
 ---

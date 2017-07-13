@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/igreja-nos-lares
-categories: categories
+categories: ""
 published: true
 post_date: 2009-11-29 23:28:58
 ---

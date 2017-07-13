@@ -1,13 +1,35 @@
 ---
 ID: 4256
 post_title: O divino ciumento?
-author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>'
+author:
+  - 
+    term_id: 679
+    name: Darin Hufford
+    slug: darin-hufford
+    term_group: 0
+    term_taxonomy_id: 690
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 987
+    name: edicao-79
+    slug: edicao-79
+    term_group: 0
+    term_taxonomy_id: 1005
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-divino-ciumento
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-10 10:30:11
 ---

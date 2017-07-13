@@ -3,13 +3,24 @@ ID: 1601
 post_title: >
   A “lei do Espírito da vida” contra
   o aborto
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-pontello" rel="tag">Mauricio Pontello</a>'
+author:
+  - 
+    term_id: 873
+    name: Mauricio Pontello
+    slug: mauricio-pontello
+    term_group: 0
+    term_taxonomy_id: 887
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-lei-do-espirito-da-vida-contra-o-aborto
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 19:00:40
 ---

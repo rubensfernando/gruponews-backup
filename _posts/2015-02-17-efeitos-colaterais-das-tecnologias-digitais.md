@@ -4,12 +4,23 @@ post_title: >
   Efeitos colaterais das tecnologias
   digitais
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
+tags:
+  - 
+    term_id: 996
+    name: edicao-80
+    slug: edicao-80
+    term_group: 0
+    term_taxonomy_id: 1014
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais
-categories: categories
+categories: ""
 published: true
 post_date: 2015-02-17 12:55:33
 ---

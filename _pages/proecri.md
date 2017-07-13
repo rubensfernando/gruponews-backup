@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/proecri
-categories: categories
+categories: ""
 published: true
 post_date: 2012-01-19 00:09:48
 ---

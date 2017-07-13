@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/testemunhos
-categories: categories
+categories: ""
 published: true
 post_date: 2013-08-19 20:48:39
 ---

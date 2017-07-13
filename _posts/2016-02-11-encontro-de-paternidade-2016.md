@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/encontro-de-paternidade-2016
-categories: categories
+categories: ""
 published: true
 post_date: 2016-02-11 18:16:12
 ---

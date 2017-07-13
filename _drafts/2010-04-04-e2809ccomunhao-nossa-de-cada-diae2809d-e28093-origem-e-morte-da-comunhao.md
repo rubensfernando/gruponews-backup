@@ -4,11 +4,55 @@ post_title: >
   “Comunhão nossa de cada dia” –
   Origem e morte da comunhão
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
+tags:
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 146
+    name: Vontade
+    slug: vontade
+    term_group: 0
+    term_taxonomy_id: 149
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=664
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o primeiro de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilhará suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã.</em></blockquote>

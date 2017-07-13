@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/copyright
-categories: categories
+categories: ""
 published: true
 post_date: 2011-11-13 17:40:27
 ---

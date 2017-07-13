@@ -1,13 +1,134 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author: ' <a href="https://www.gruponews.com.br/autor/clelia-arruda" rel="tag">Clélia Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amigo" rel="tag">Amigo</a>, <a href="https://www.gruponews.com.br/tag/funcao" rel="tag">Função</a>, <a href="https://www.gruponews.com.br/tag/louvor" rel="tag">Louvor</a>, <a href="https://www.gruponews.com.br/tag/ministerio" rel="tag">Ministério</a>, <a href="https://www.gruponews.com.br/tag/missao" rel="tag">Missão</a>, <a href="https://www.gruponews.com.br/tag/noivo" rel="tag">Noivo</a>, <a href="https://www.gruponews.com.br/tag/obediencia" rel="tag">Obediência</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/preparar" rel="tag">Preparar</a>'
+author:
+  - 
+    term_id: 880
+    name: Clélia Arruda
+    slug: clelia-arruda
+    term_group: 0
+    term_taxonomy_id: 894
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 173
+    name: Amigo
+    slug: amigo
+    term_group: 0
+    term_taxonomy_id: 176
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 175
+    name: Função
+    slug: funcao
+    term_group: 0
+    term_taxonomy_id: 178
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 100
+    name: Louvor
+    slug: louvor
+    term_group: 0
+    term_taxonomy_id: 102
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 177
+    name: Ministério
+    slug: ministerio
+    term_group: 0
+    term_taxonomy_id: 180
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 176
+    name: Missão
+    slug: missao
+    term_group: 0
+    term_taxonomy_id: 179
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 24
+    name: Noivo
+    slug: noivo
+    term_group: 0
+    term_taxonomy_id: 24
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 64
+    name: Obediência
+    slug: obediencia
+    term_group: 0
+    term_taxonomy_id: 65
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 57
+    name: Palavra
+    slug: palavra
+    term_group: 0
+    term_taxonomy_id: 58
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 174
+    name: Preparar
+    slug: preparar
+    term_group: 0
+    term_taxonomy_id: 177
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-amigo-do-noivo
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:44:37
 ---

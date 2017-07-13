@@ -1,13 +1,24 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-author: ' <a href="https://www.gruponews.com.br/autor/daniel-rocha" rel="tag">Daniel Rocha</a>'
+author:
+  - 
+    term_id: 855
+    name: Daniel Rocha
+    slug: daniel-rocha
+    term_group: 0
+    term_taxonomy_id: 869
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/quando-o-ordinario-e-extraordinario
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-05 14:39:47
 ---

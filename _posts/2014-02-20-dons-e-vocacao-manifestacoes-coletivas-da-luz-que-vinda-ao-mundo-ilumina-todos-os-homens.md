@@ -1,13 +1,35 @@
 ---
 ID: 4239
 post_title: 'Dons e vocação: Manifestações coletivas da  Luz que, vinda ao mundo, ilumina a todos os homens'
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/dons" rel="tag">Dons</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 302
+    name: Dons
+    slug: dons
+    term_group: 0
+    term_taxonomy_id: 305
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-20 15:51:43
 ---

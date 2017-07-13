@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curta-nossa-pagina-no-facebook
-categories: categories
+categories: ""
 published: true
 post_date: 2011-05-05 00:00:25
 ---

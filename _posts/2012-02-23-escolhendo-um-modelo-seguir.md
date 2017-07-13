@@ -1,13 +1,24 @@
 ---
 ID: 2104
 post_title: Escolhendo um modelo seguir
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/escolhendo-um-modelo-seguir
-categories: categories
+categories: ""
 published: true
 post_date: 2012-02-23 23:45:19
 ---

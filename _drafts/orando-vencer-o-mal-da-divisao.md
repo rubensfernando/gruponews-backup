@@ -6,6 +6,6 @@ tags: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=3428'
-categories: categories
+categories: ""
 published: false
 ---

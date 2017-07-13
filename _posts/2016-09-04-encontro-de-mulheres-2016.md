@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/encontro-de-mulheres-2016
-categories: categories
+categories: ""
 published: true
 post_date: 2016-09-04 23:42:13
 ---

@@ -1,13 +1,79 @@
 ---
 ID: 650
 post_title: 'Conferência 2009 &#8211; Por que Você não quer mais ir à Igreja? &#8211; Chamada'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia" rel="tag">conferencia</a>, <a href="https://www.gruponews.com.br/tag/coro" rel="tag">coro</a>, <a href="https://www.gruponews.com.br/tag/fazer" rel="tag">fazer</a>, <a href="https://www.gruponews.com.br/tag/tempo" rel="tag">Tempo</a>, <a href="https://www.gruponews.com.br/tag/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 311
+    name: conferencia
+    slug: conferencia
+    term_group: 0
+    term_taxonomy_id: 314
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 809
+    name: coro
+    slug: coro
+    term_group: 0
+    term_taxonomy_id: 820
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 806
+    name: fazer
+    slug: fazer
+    term_group: 0
+    term_taxonomy_id: 817
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 208
+    name: Tempo
+    slug: tempo
+    term_group: 0
+    term_taxonomy_id: 211
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1009
+    name: Wayne Jacobsen
+    slug: wayne-jacobsen
+    term_group: 0
+    term_taxonomy_id: 339
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/conferencia-2009-chamada
-categories: categories
+categories: ""
 published: true
 post_date: 2010-04-03 12:00:49
 ---

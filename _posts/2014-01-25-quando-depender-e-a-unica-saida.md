@@ -1,13 +1,57 @@
 ---
 ID: 3415
 post_title: Quando depender é a única saída
-author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/depender" rel="tag">depender</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>'
+author:
+  - 
+    term_id: 858
+    name: Marina Venuto Silva
+    slug: marina-venuto-silva
+    term_group: 0
+    term_taxonomy_id: 872
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+tags:
+  - 
+    term_id: 978
+    name: depender
+    slug: depender
+    term_group: 0
+    term_taxonomy_id: 996
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 865
+    name: edicao-76
+    slug: edicao-76
+    term_group: 0
+    term_taxonomy_id: 879
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 182
+    name: Testemunho
+    slug: testemunho
+    term_group: 0
+    term_taxonomy_id: 185
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/quando-depender-e-a-unica-saida
-categories: categories
+categories: ""
 published: true
 post_date: 2014-01-25 00:29:01
 ---

@@ -1,13 +1,211 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>, <a href="https://www.gruponews.com.br/autor/claudia-porto" rel="tag">Claudia Porto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/adolescente" rel="tag">adolescente</a>, <a href="https://www.gruponews.com.br/tag/autoridade" rel="tag">Autoridade</a>, <a href="https://www.gruponews.com.br/tag/casal" rel="tag">Casal</a>, <a href="https://www.gruponews.com.br/tag/criacao" rel="tag">Criação</a>, <a href="https://www.gruponews.com.br/tag/desobediencia" rel="tag">Desobediência</a>, <a href="https://www.gruponews.com.br/tag/disciplina" rel="tag">Disciplina</a>, <a href="https://www.gruponews.com.br/tag/educacao" rel="tag">Educação</a>, <a href="https://www.gruponews.com.br/tag/ensinar" rel="tag">Ensinar</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/infancia" rel="tag">Infância</a>, <a href="https://www.gruponews.com.br/tag/limites" rel="tag">Limites</a>, <a href="https://www.gruponews.com.br/tag/obediencia" rel="tag">Obediência</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>'
+author:
+  - 
+    term_id: 656
+    name: Afonso Porto
+    slug: afonso-porto
+    term_group: 0
+    term_taxonomy_id: 667
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 657
+    name: Claudia Porto
+    slug: claudia-porto
+    term_group: 0
+    term_taxonomy_id: 668
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 357
+    name: adolescente
+    slug: adolescente
+    term_group: 0
+    term_taxonomy_id: 360
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 61
+    name: Autoridade
+    slug: autoridade
+    term_group: 0
+    term_taxonomy_id: 62
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 60
+    name: Casal
+    slug: casal
+    term_group: 0
+    term_taxonomy_id: 61
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 58
+    name: Criação
+    slug: criacao
+    term_group: 0
+    term_taxonomy_id: 59
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 68
+    name: Desobediência
+    slug: desobediencia
+    term_group: 0
+    term_taxonomy_id: 69
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 69
+    name: Disciplina
+    slug: disciplina
+    term_group: 0
+    term_taxonomy_id: 70
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 62
+    name: Educação
+    slug: educacao
+    term_group: 0
+    term_taxonomy_id: 63
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 52
+    name: Ensinar
+    slug: ensinar
+    term_group: 0
+    term_taxonomy_id: 53
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 971
+    name: Estudos
+    slug: estudos
+    term_group: 0
+    term_taxonomy_id: 989
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 1003
+    name: Família
+    slug: familia-materias
+    term_group: 0
+    term_taxonomy_id: 33
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 59
+    name: Filhos
+    slug: filhos
+    term_group: 0
+    term_taxonomy_id: 60
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 65
+    name: Infância
+    slug: infancia
+    term_group: 0
+    term_taxonomy_id: 66
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 66
+    name: Limites
+    slug: limites
+    term_group: 0
+    term_taxonomy_id: 67
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 64
+    name: Obediência
+    slug: obediencia
+    term_group: 0
+    term_taxonomy_id: 65
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 63
+    name: Pais
+    slug: pais
+    term_group: 0
+    term_taxonomy_id: 64
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/criacao-de-filhos
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:46:31
 ---

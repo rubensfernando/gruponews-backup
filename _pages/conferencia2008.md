@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2008
-categories: categories
+categories: ""
 published: true
 post_date: 2010-09-07 11:41:20
 ---

@@ -1,13 +1,24 @@
 ---
 ID: 3686
 post_title: Encontro de Evangelismo 2015
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/encontro-de-evangelismo-2015-2
-categories: categories
+categories: ""
 published: true
 post_date: 2015-05-15 10:40:36
 ---

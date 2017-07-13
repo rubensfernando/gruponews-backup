@@ -1,13 +1,35 @@
 ---
 ID: 4699
 post_title: '&#8220;Deus&#8221; mandou matar'
-author: ' <a href="https://www.gruponews.com.br/autor/pablo-massolar" rel="tag">Pablo Massolar</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 984
+    name: Pablo Massolar
+    slug: pablo-massolar
+    term_group: 0
+    term_taxonomy_id: 1002
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/deus-mandou-matar
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:41:53
 ---

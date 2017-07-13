@@ -3,13 +3,24 @@ ID: 1915
 post_title: >
   Evangelistas, despertem! Tragam-nos
   filhos, senão morreremos
-author: ' <a href="https://www.gruponews.com.br/autor/carlos-augusto" rel="tag">Carlos Augusto</a>'
+author:
+  - 
+    term_id: 876
+    name: Carlos Augusto
+    slug: carlos-augusto
+    term_group: 0
+    term_taxonomy_id: 890
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:53:13
 ---

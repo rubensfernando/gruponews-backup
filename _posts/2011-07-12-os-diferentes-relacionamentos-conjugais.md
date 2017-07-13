@@ -1,13 +1,35 @@
 ---
 ID: 1919
 post_title: Os diferentes relacionamentos conjugais
-author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
+author:
+  - 
+    term_id: 625
+    name: Juarez Gomes
+    slug: juarez-gomes
+    term_group: 0
+    term_taxonomy_id: 633
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 626
+    name: Maria de Carvalho Gomes
+    slug: maria-carvalho-gomes
+    term_group: 0
+    term_taxonomy_id: 634
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/os-diferentes-relacionamentos-conjugais
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:52:00
 ---

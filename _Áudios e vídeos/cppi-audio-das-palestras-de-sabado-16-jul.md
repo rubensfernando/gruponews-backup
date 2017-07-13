@@ -1,13 +1,24 @@
 ---
 ID: 1758
 post_title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-20 08:10:31
 ---

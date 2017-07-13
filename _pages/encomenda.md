@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/encomenda
-categories: categories
+categories: ""
 published: true
 post_date: 2011-01-24 12:46:13
 ---

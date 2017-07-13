@@ -1,13 +1,134 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/anticristo" rel="tag">Anticristo</a>, <a href="https://www.gruponews.com.br/tag/apocalipse" rel="tag">Apocalipse</a>, <a href="https://www.gruponews.com.br/tag/assinalar" rel="tag">Assinalar</a>, <a href="https://www.gruponews.com.br/tag/decisao" rel="tag">Decisão</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/mao" rel="tag">Mão</a>, <a href="https://www.gruponews.com.br/tag/marca-da-besta" rel="tag">Marca da besta</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>, <a href="https://www.gruponews.com.br/tag/nome" rel="tag">Nome</a>, <a href="https://www.gruponews.com.br/tag/sistema" rel="tag">Sistema</a>'
+author:
+  - 
+    term_id: 623
+    name: Maurício Bronzatto
+    slug: mauricio-bronzatto
+    term_group: 0
+    term_taxonomy_id: 631
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+tags:
+  - 
+    term_id: 74
+    name: Anticristo
+    slug: anticristo
+    term_group: 0
+    term_taxonomy_id: 75
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 939
+    name: Apocalipse
+    slug: apocalipse
+    term_group: 0
+    term_taxonomy_id: 956
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 76
+    name: Assinalar
+    slug: assinalar
+    term_group: 0
+    term_taxonomy_id: 77
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 78
+    name: Decisão
+    slug: decisao
+    term_group: 0
+    term_taxonomy_id: 79
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 39
+    name: Dinheiro
+    slug: dinheiro
+    term_group: 0
+    term_taxonomy_id: 40
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 77
+    name: Mão
+    slug: mao
+    term_group: 0
+    term_taxonomy_id: 78
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 940
+    name: Marca da besta
+    slug: marca-da-besta
+    term_group: 0
+    term_taxonomy_id: 957
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 75
+    name: Mentira
+    slug: mentira
+    term_group: 0
+    term_taxonomy_id: 76
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 73
+    name: Nome
+    slug: nome
+    term_group: 0
+    term_taxonomy_id: 74
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 79
+    name: Sistema
+    slug: sistema
+    term_group: 0
+    term_taxonomy_id: 80
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/666-voce-ja-foi-assinalado
-categories: categories
+categories: ""
 published: true
 post_date: 2009-09-19 14:57:56
 ---

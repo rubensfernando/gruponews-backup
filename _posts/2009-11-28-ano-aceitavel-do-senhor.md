@@ -1,13 +1,134 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author: ' <a href="https://www.gruponews.com.br/autor/cristina-juliani" rel="tag">Cristina Juliani</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/aceitar" rel="tag">Aceitar</a>, <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/desanimado" rel="tag">Desanimado</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
+author:
+  - 
+    term_id: 630
+    name: Cristina Juliani
+    slug: cristina-juliani
+    term_group: 0
+    term_taxonomy_id: 638
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 163
+    name: Aceitar
+    slug: aceitar
+    term_group: 0
+    term_taxonomy_id: 166
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 104
+    name: Acreditar
+    slug: acreditar
+    term_group: 0
+    term_taxonomy_id: 107
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 122
+    name: Desanimado
+    slug: desanimado
+    term_group: 0
+    term_taxonomy_id: 125
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 103
+    name: Esperança
+    slug: esperanca
+    term_group: 0
+    term_taxonomy_id: 105
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 94
+    name: Misericórdia
+    slug: misericordia
+    term_group: 0
+    term_taxonomy_id: 95
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 121
+    name: Perdão
+    slug: perdao
+    term_group: 0
+    term_taxonomy_id: 124
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 124
+    name: Restauração
+    slug: restauracao
+    term_group: 0
+    term_taxonomy_id: 127
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/ano-aceitavel-do-senhor
-categories: categories
+categories: ""
 published: true
 post_date: 2009-11-28 17:50:34
 ---

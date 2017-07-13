@@ -2,12 +2,56 @@
 ID: 3627
 post_title: A coletivização do dom
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/coletivo" rel="tag">Coletivo</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/dom" rel="tag">dom</a>, <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
+tags:
+  - 
+    term_id: 245
+    name: Coletivo
+    slug: coletivo
+    term_group: 0
+    term_taxonomy_id: 248
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 463
+    name: dom
+    slug: dom
+    term_group: 0
+    term_taxonomy_id: 470
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 893
+    name: edicao-77
+    slug: edicao-77
+    term_group: 0
+    term_taxonomy_id: 907
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/coletivizacao-dom
-categories: categories
+categories: ""
 published: true
 post_date: 2014-02-07 15:20:18
 ---

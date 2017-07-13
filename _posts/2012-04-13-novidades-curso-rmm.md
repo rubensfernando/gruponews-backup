@@ -2,12 +2,89 @@
 ID: 2265
 post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/mil" rel="tag">mil</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/reinado" rel="tag">reinado</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+tags:
+  - 
+    term_id: 370
+    name: Curso
+    slug: curso
+    term_group: 0
+    term_taxonomy_id: 374
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 92
+    name: Governo
+    slug: governo
+    term_group: 0
+    term_taxonomy_id: 93
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+  - 
+    term_id: 620
+    name: mil
+    slug: mil
+    term_group: 0
+    term_taxonomy_id: 627
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 607
+    name: milenar
+    slug: milenar
+    term_group: 0
+    term_taxonomy_id: 614
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 606
+    name: Milênio
+    slug: milenio
+    term_group: 0
+    term_taxonomy_id: 613
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 619
+    name: reinado
+    slug: reinado
+    term_group: 0
+    term_taxonomy_id: 626
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/novidades-curso-rmm
-categories: categories
+categories: ""
 published: true
 post_date: 2012-04-13 20:53:04
 ---

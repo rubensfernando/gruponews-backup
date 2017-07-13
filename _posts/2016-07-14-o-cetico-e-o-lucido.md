@@ -1,13 +1,35 @@
 ---
 ID: 4700
 post_title: O cético e o lúcido
-author: ' <a href="https://www.gruponews.com.br/autor/autor-desconhecido" rel="tag">Autor desconhecido</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+author:
+  - 
+    term_id: 695
+    name: Autor desconhecido
+    slug: autor-desconhecido
+    term_group: 0
+    term_taxonomy_id: 706
+    taxonomy: autor
+    description: Teste
+    parent: 0
+    count: 2
+    filter: raw
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-cetico-e-o-lucido
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-14 09:20:43
 ---

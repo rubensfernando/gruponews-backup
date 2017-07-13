@@ -1,13 +1,57 @@
 ---
 ID: 456
 post_title: Conferência 2008
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conter" rel="tag">conter</a>, <a href="https://www.gruponews.com.br/tag/movimento" rel="tag">Movimento</a>, <a href="https://www.gruponews.com.br/tag/suas" rel="tag">suas</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 779
+    name: conter
+    slug: conter
+    term_group: 0
+    term_taxonomy_id: 790
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 150
+    name: Movimento
+    slug: movimento
+    term_group: 0
+    term_taxonomy_id: 153
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 791
+    name: suas
+    slug: suas
+    term_group: 0
+    term_taxonomy_id: 802
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/conferencia-2008
-categories: categories
+categories: ""
 published: true
 post_date: 2008-10-01 01:18:13
 ---

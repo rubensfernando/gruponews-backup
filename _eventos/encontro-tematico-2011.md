@@ -1,13 +1,35 @@
 ---
 ID: 1565
 post_title: Encontro Temático 2011
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 59
+    name: Filhos
+    slug: filhos
+    term_group: 0
+    term_taxonomy_id: 60
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-tematico-2011
-categories: categories
+categories: ""
 published: true
 post_date: 2011-06-16 00:00:18
 ---

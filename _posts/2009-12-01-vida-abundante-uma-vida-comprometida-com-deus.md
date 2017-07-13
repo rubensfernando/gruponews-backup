@@ -1,13 +1,134 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
-author: ' <a href="https://www.gruponews.com.br/autor/ailton-jacob-de-oliveira" rel="tag">Ailton Jacob de Oliveira</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/abundante" rel="tag">Abundante</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/prosperidade" rel="tag">Prosperidade</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/simples" rel="tag">Simples</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vazio" rel="tag">Vazio</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>, <a href="https://www.gruponews.com.br/tag/voz" rel="tag">Voz</a>'
+author:
+  - 
+    term_id: 715
+    name: Ailton Jacob de Oliveira
+    slug: ailton-jacob-de-oliveira
+    term_group: 0
+    term_taxonomy_id: 726
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 215
+    name: Abundante
+    slug: abundante
+    term_group: 0
+    term_taxonomy_id: 218
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 57
+    name: Palavra
+    slug: palavra
+    term_group: 0
+    term_taxonomy_id: 58
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
+  - 
+    term_id: 216
+    name: Prosperidade
+    slug: prosperidade
+    term_group: 0
+    term_taxonomy_id: 219
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 106
+    name: Salvação
+    slug: salvacao
+    term_group: 0
+    term_taxonomy_id: 109
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 214
+    name: Simples
+    slug: simples
+    term_group: 0
+    term_taxonomy_id: 217
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 123
+    name: Transformação
+    slug: transformacao
+    term_group: 0
+    term_taxonomy_id: 126
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 218
+    name: Vazio
+    slug: vazio
+    term_group: 0
+    term_taxonomy_id: 221
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1004
+    name: Vida
+    slug: vida
+    term_group: 0
+    term_taxonomy_id: 106
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 24
+    filter: raw
+  - 
+    term_id: 217
+    name: Voz
+    slug: voz
+    term_group: 0
+    term_taxonomy_id: 220
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/vida-abundante-uma-vida-comprometida-com-deus
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 22:26:29
 ---

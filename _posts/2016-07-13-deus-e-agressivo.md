@@ -2,12 +2,23 @@
 ID: 4695
 post_title: Deus é agressivo ?
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/deus-e-agressivo
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:36:08
 ---

@@ -1,13 +1,134 @@
 ---
 ID: 86
 post_title: A Segunda Milha
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/caminhar" rel="tag">Caminhar</a>, <a href="https://www.gruponews.com.br/tag/conceito" rel="tag">Conceito</a>, <a href="https://www.gruponews.com.br/tag/ganhar" rel="tag">Ganhar</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/lei" rel="tag">Lei</a>, <a href="https://www.gruponews.com.br/tag/milha" rel="tag">Milha</a>, <a href="https://www.gruponews.com.br/tag/obrigacao" rel="tag">Obrigação</a>, <a href="https://www.gruponews.com.br/tag/perder" rel="tag">Perder</a>, <a href="https://www.gruponews.com.br/tag/praticar" rel="tag">Praticar</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 113
+    name: Caminhar
+    slug: caminhar
+    term_group: 0
+    term_taxonomy_id: 116
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 114
+    name: Conceito
+    slug: conceito
+    term_group: 0
+    term_taxonomy_id: 117
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 119
+    name: Ganhar
+    slug: ganhar
+    term_group: 0
+    term_taxonomy_id: 122
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 116
+    name: Graça
+    slug: graca
+    term_group: 0
+    term_taxonomy_id: 119
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 7
+    filter: raw
+  - 
+    term_id: 112
+    name: Lei
+    slug: lei
+    term_group: 0
+    term_taxonomy_id: 115
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 111
+    name: Milha
+    slug: milha
+    term_group: 0
+    term_taxonomy_id: 114
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 115
+    name: Obrigação
+    slug: obrigacao
+    term_group: 0
+    term_taxonomy_id: 118
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 118
+    name: Perder
+    slug: perder
+    term_group: 0
+    term_taxonomy_id: 121
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 117
+    name: Praticar
+    slug: praticar
+    term_group: 0
+    term_taxonomy_id: 120
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 67
+    name: Relacionamento
+    slug: relacionamento
+    term_group: 0
+    term_taxonomy_id: 68
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-segunda-milha
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:58:59
 ---

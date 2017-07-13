@@ -3,13 +3,156 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/contribuicao" rel="tag">Contribuição</a>, <a href="https://www.gruponews.com.br/tag/contribuir" rel="tag">Contribuir</a>, <a href="https://www.gruponews.com.br/tag/dizimo" rel="tag">Dízimo</a>, <a href="https://www.gruponews.com.br/tag/estudo" rel="tag">Estudo</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/falta" rel="tag">Falta</a>, <a href="https://www.gruponews.com.br/tag/financas" rel="tag">Finanças</a>, <a href="https://www.gruponews.com.br/tag/prosperidade" rel="tag">Prosperidade</a>, <a href="https://www.gruponews.com.br/tag/regular" rel="tag">Regular</a>, <a href="https://www.gruponews.com.br/tag/sobra" rel="tag">Sobra</a>, <a href="https://www.gruponews.com.br/tag/sustentar" rel="tag">Sustentar</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 155
+    name: Alegria
+    slug: alegria
+    term_group: 0
+    term_taxonomy_id: 158
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 151
+    name: Contribuição
+    slug: contribuicao
+    term_group: 0
+    term_taxonomy_id: 154
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 47
+    name: Contribuir
+    slug: contribuir
+    term_group: 0
+    term_taxonomy_id: 48
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 153
+    name: Dízimo
+    slug: dizimo
+    term_group: 0
+    term_taxonomy_id: 156
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 972
+    name: Estudo
+    slug: estudo
+    term_group: 0
+    term_taxonomy_id: 990
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 971
+    name: Estudos
+    slug: estudos
+    term_group: 0
+    term_taxonomy_id: 989
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
+  - 
+    term_id: 224
+    name: Falta
+    slug: falta
+    term_group: 0
+    term_taxonomy_id: 227
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 152
+    name: Finanças
+    slug: financas
+    term_group: 0
+    term_taxonomy_id: 155
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 216
+    name: Prosperidade
+    slug: prosperidade
+    term_group: 0
+    term_taxonomy_id: 219
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 154
+    name: Regular
+    slug: regular
+    term_group: 0
+    term_taxonomy_id: 157
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 223
+    name: Sobra
+    slug: sobra
+    term_group: 0
+    term_taxonomy_id: 226
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 225
+    name: Sustentar
+    slug: sustentar
+    term_group: 0
+    term_taxonomy_id: 228
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/as-bencaos-da-contribuicao-financeira
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 21:07:58
 ---

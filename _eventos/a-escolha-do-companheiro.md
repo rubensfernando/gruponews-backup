@@ -1,13 +1,35 @@
 ---
 ID: 903
 post_title: A escolha do companheiro
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 394
+    name: Nosso
+    slug: nosso
+    term_group: 0
+    term_taxonomy_id: 398
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/a-escolha-do-companheiro
-categories: categories
+categories: ""
 published: true
 post_date: 2010-07-07 23:05:16
 ---

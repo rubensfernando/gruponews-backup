@@ -1,13 +1,57 @@
 ---
 ID: 2600
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 9 de julho'
-author: ' <a href="https://www.gruponews.com.br/autor/abnerio-cabral" rel="tag">Abnério Cabral</a>, <a href="https://www.gruponews.com.br/autor/eliana-walker" rel="tag">Eliana Walker</a>, <a href="https://www.gruponews.com.br/autor/eliza-walker" rel="tag">Eliza Walker</a>, <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
+author:
+  - 
+    term_id: 641
+    name: Abnério Cabral
+    slug: abnerio-cabral
+    term_group: 0
+    term_taxonomy_id: 651
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 646
+    name: Eliana Walker
+    slug: eliana-walker
+    term_group: 0
+    term_taxonomy_id: 656
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 645
+    name: Eliza Walker
+    slug: eliza-walker
+    term_group: 0
+    term_taxonomy_id: 655
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
-categories: categories
+categories: ""
 published: true
 post_date: 2012-07-14 20:38:23
 ---

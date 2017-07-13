@@ -3,13 +3,46 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-author: ' <a href="https://www.gruponews.com.br/autor/alexandre-rangel" rel="tag">Alexandre Rangel</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/quem-tem-ouvidos-para-ouvir-ouca" rel="tag">QUEM TEM OUVIDOS PARA OUVIR... OUÇA!</a>'
+author:
+  - 
+    term_id: 920
+    name: Alexandre Rangel
+    slug: alexandre-rangel
+    term_group: 0
+    term_taxonomy_id: 935
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
+  - 
+    term_id: 919
+    name: QUEM TEM OUVIDOS PARA OUVIR... OUÇA!
+    slug: quem-tem-ouvidos-para-ouvir-ouca
+    term_group: 0
+    term_taxonomy_id: 934
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 22:54:40
 ---

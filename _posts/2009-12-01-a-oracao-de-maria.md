@@ -1,13 +1,134 @@
 ---
 ID: 55
 post_title: A Oração de Maria
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/assentar-se" rel="tag">Assentar-se</a>, <a href="https://www.gruponews.com.br/tag/dialogo" rel="tag">Dialogo</a>, <a href="https://www.gruponews.com.br/tag/ensinar" rel="tag">Ensinar</a>, <a href="https://www.gruponews.com.br/tag/escolher" rel="tag">Escolher</a>, <a href="https://www.gruponews.com.br/tag/falar" rel="tag">Falar</a>, <a href="https://www.gruponews.com.br/tag/maria" rel="tag">Maria</a>, <a href="https://www.gruponews.com.br/tag/monologo" rel="tag">Monólogo</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/ouvir" rel="tag">Ouvir</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 56
+    name: Assentar-se
+    slug: assentar-se
+    term_group: 0
+    term_taxonomy_id: 57
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 51
+    name: Dialogo
+    slug: dialogo
+    term_group: 0
+    term_taxonomy_id: 52
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 52
+    name: Ensinar
+    slug: ensinar
+    term_group: 0
+    term_taxonomy_id: 53
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 49
+    name: Escolher
+    slug: escolher
+    term_group: 0
+    term_taxonomy_id: 50
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 50
+    name: Falar
+    slug: falar
+    term_group: 0
+    term_taxonomy_id: 51
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 53
+    name: Maria
+    slug: maria
+    term_group: 0
+    term_taxonomy_id: 54
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 55
+    name: Monólogo
+    slug: monologo
+    term_group: 0
+    term_taxonomy_id: 56
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 48
+    name: Oração
+    slug: oracao
+    term_group: 0
+    term_taxonomy_id: 49
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 54
+    name: Ouvir
+    slug: ouvir
+    term_group: 0
+    term_taxonomy_id: 55
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 57
+    name: Palavra
+    slug: palavra
+    term_group: 0
+    term_taxonomy_id: 58
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/a-oracao-de-maria
-categories: categories
+categories: ""
 published: true
 post_date: 2009-12-01 20:56:11
 ---

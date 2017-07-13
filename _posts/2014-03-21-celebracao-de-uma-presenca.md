@@ -1,13 +1,79 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author: ' <a href="https://www.gruponews.com.br/autor/pr-rui-luis-rodrigues" rel="tag">Pr. Rui Luis Rodrigues</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/comunidade" rel="tag">Comunidade</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/experiencia" rel="tag">experiência</a>, <a href="https://www.gruponews.com.br/tag/milagre" rel="tag">Milagre</a>, <a href="https://www.gruponews.com.br/tag/presenca" rel="tag">presença</a>'
+author:
+  - 
+    term_id: 890
+    name: Pr. Rui Luis Rodrigues
+    slug: pr-rui-luis-rodrigues
+    term_group: 0
+    term_taxonomy_id: 904
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 445
+    name: Comunidade
+    slug: comunidade
+    term_group: 0
+    term_taxonomy_id: 451
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 889
+    name: edicao-75
+    slug: edicao-75
+    term_group: 0
+    term_taxonomy_id: 903
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 973
+    name: experiência
+    slug: experiencia
+    term_group: 0
+    term_taxonomy_id: 991
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 185
+    name: Milagre
+    slug: milagre
+    term_group: 0
+    term_taxonomy_id: 188
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 321
+    name: presença
+    slug: presenca
+    term_group: 0
+    term_taxonomy_id: 324
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/celebracao-de-uma-presenca
-categories: categories
+categories: ""
 published: true
 post_date: 2014-03-21 00:04:32
 ---

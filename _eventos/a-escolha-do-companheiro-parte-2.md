@@ -1,13 +1,46 @@
 ---
 ID: 956
 post_title: A escolha do companheiro – Parte 2
-author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>, <a href="https://www.gruponews.com.br/tag/temperamento" rel="tag">temperamento</a>'
+author:
+  - 
+    term_id: 622
+    name: Ezequiel Netto
+    slug: ezequiel-netto
+    term_group: 0
+    term_taxonomy_id: 630
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
+tags:
+  - 
+    term_id: 394
+    name: Nosso
+    slug: nosso
+    term_group: 0
+    term_taxonomy_id: 398
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 764
+    name: temperamento
+    slug: temperamento
+    term_group: 0
+    term_taxonomy_id: 775
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/a-escolha-do-companheiro-parte-2
-categories: categories
+categories: ""
 published: true
 post_date: 2010-08-07 21:00:08
 ---

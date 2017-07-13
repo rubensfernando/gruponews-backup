@@ -3,13 +3,81 @@ ID: 1382
 post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
-author: ' <a href="https://www.gruponews.com.br/autor/padre-marcial-macaneiro" rel="tag">Padre Marcial Maçaneiro</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/escrituras" rel="tag">escrituras</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+author:
+  - 
+    term_id: 707
+    name: Padre Marcial Maçaneiro
+    slug: padre-marcial-macaneiro
+    term_group: 0
+    term_taxonomy_id: 718
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 592
+    name: >
+      Conferência "Cristo, o Reino e a
+      Igreja"
+    slug: conferencia-2010
+    term_group: 0
+    term_taxonomy_id: 599
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 708
+    name: escrituras
+    slug: escrituras
+    term_group: 0
+    term_taxonomy_id: 719
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
-categories: categories
+categories: ""
 published: true
 post_date: 2011-02-01 01:45:51
 ---

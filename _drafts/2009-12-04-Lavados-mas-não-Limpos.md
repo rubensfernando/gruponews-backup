@@ -6,7 +6,7 @@ tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=380
-categories: categories
+categories: ""
 published: false
 ---
 “Assisto, de vez em quando, a pessoas saindo da comunidade de que participo para outras igrejas. O motivo alegado por muitas delas é a necessidade de um ‘verdadeiro batismo’, como resposta para os mais diversos problemas.

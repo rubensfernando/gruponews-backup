@@ -3,13 +3,103 @@ ID: 1369
 post_title: >
   Preparando a família para a volta de
   Jesus
-author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-cristo" rel="tag">Conferência "Cristo</a>, <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/interlocutor" rel="tag">interlocutor</a>, <a href="https://www.gruponews.com.br/tag/o-reino-e-a-igreja" rel="tag">o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
+author:
+  - 
+    term_id: 327
+    name: Pedro Arruda
+    slug: pedro-arruda
+    term_group: 0
+    term_taxonomy_id: 629
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 39
+    filter: raw
+tags:
+  - 
+    term_id: 949
+    name: Conferência "Cristo
+    slug: conferencia-cristo
+    term_group: 0
+    term_taxonomy_id: 967
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 592
+    name: >
+      Conferência "Cristo, o Reino e a
+      Igreja"
+    slug: conferencia-2010
+    term_group: 0
+    term_taxonomy_id: 599
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 299
+    name: cristo
+    slug: cristo
+    term_group: 0
+    term_taxonomy_id: 302
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 13
+    name: Igreja
+    slug: igreja
+    term_group: 0
+    term_taxonomy_id: 100
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 25
+    filter: raw
+  - 
+    term_id: 712
+    name: interlocutor
+    slug: interlocutor
+    term_group: 0
+    term_taxonomy_id: 723
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 950
+    name: o Reino e a Igreja"
+    slug: o-reino-e-a-igreja
+    term_group: 0
+    term_taxonomy_id: 968
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 25
+    name: Reino
+    slug: reino
+    term_group: 0
+    term_taxonomy_id: 25
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 13
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/preparando-a-familia-para-a-volta-de-jesus
-categories: categories
+categories: ""
 published: true
 post_date: 2011-02-01 01:00:09
 ---

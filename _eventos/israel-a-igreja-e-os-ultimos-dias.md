@@ -1,13 +1,46 @@
 ---
 ID: 706
 post_title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/riqueza" rel="tag">Riqueza</a>, <a href="https://www.gruponews.com.br/tag/testamento" rel="tag">Testamento</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 46
+    name: Riqueza
+    slug: riqueza
+    term_group: 0
+    term_taxonomy_id: 47
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 255
+    name: Testamento
+    slug: testamento
+    term_group: 0
+    term_taxonomy_id: 258
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/israel-a-igreja-e-os-ultimos-dias
-categories: categories
+categories: ""
 published: true
 post_date: 2010-04-10 15:27:47
 ---

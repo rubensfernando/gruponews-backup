@@ -3,13 +3,24 @@ ID: 4561
 post_title: >
   Conferência Internacional com Benjamin
   Berger
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/conferencia-internacional-com-benjamin-berger
-categories: categories
+categories: ""
 published: true
 post_date: 2016-03-07 22:02:05
 ---

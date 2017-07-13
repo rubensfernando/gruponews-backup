@@ -3,13 +3,24 @@ ID: 3038
 post_title: >
   A necessidade de ter comunhão com Deus
   nos últimos dias
-author: ' <a href="https://www.gruponews.com.br/autor/ricardo-correia" rel="tag">Ricardo Correia</a>'
+author:
+  - 
+    term_id: 842
+    name: Ricardo Correia
+    slug: ricardo-correia
+    term_group: 0
+    term_taxonomy_id: 855
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/a-necessidade-de-ter-comunhao-com-deus-nos-ultimos-dias
-categories: categories
+categories: ""
 published: true
 post_date: 2013-03-23 09:00:22
 ---

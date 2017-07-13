@@ -3,13 +3,123 @@ ID: 568
 post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/centralidade" rel="tag">centralidade</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/entrega" rel="tag">entrega</a>, <a href="https://www.gruponews.com.br/tag/fraternidade" rel="tag">fraternidade</a>, <a href="https://www.gruponews.com.br/tag/jo" rel="tag">jó</a>, <a href="https://www.gruponews.com.br/tag/jornal" rel="tag">Jornal GrupoNews</a>, <a href="https://www.gruponews.com.br/tag/pai" rel="tag">Pai</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
+tags:
+  - 
+    term_id: 160
+    name: Amor
+    slug: amor
+    term_group: 0
+    term_taxonomy_id: 163
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 9
+    filter: raw
+  - 
+    term_id: 369
+    name: centralidade
+    slug: centralidade
+    term_group: 0
+    term_taxonomy_id: 373
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
+  - 
+    term_id: 366
+    name: entrega
+    slug: entrega
+    term_group: 0
+    term_taxonomy_id: 370
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 365
+    name: fraternidade
+    slug: fraternidade
+    term_group: 0
+    term_taxonomy_id: 369
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 368
+    name: jó
+    slug: jo
+    term_group: 0
+    term_taxonomy_id: 372
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 1002
+    name: Jornal GrupoNews
+    slug: jornal
+    term_group: 0
+    term_taxonomy_id: 368
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+  - 
+    term_id: 172
+    name: Pai
+    slug: pai
+    term_group: 0
+    term_taxonomy_id: 175
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 367
+    name: paternidade
+    slug: paternidade
+    term_group: 0
+    term_taxonomy_id: 371
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho
-categories: categories
+categories: ""
 published: true
 post_date: 2008-04-15 00:00:40
 ---

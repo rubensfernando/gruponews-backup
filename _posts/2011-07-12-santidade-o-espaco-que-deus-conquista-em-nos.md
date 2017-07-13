@@ -1,13 +1,24 @@
 ---
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
-author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+author:
+  - 
+    term_id: 637
+    name: Equipe GrupoNews
+    slug: equipe-gruponews
+    term_group: 0
+    term_taxonomy_id: 646
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 57
+    filter: raw
 tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
-categories: categories
+categories: ""
 published: true
 post_date: 2011-07-12 18:58:51
 ---

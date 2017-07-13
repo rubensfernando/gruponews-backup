@@ -3,13 +3,48 @@ ID: 1374
 post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
-author: ' <a href="https://www.gruponews.com.br/autor/gino-iafrancesco" rel="tag">Gino Iafrancesco</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/trindade" rel="tag">trindade</a>'
+author:
+  - 
+    term_id: 654
+    name: Gino Iafrancesco
+    slug: gino-iafrancesco
+    term_group: 0
+    term_taxonomy_id: 664
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 592
+    name: >
+      Conferência "Cristo, o Reino e a
+      Igreja"
+    slug: conferencia-2010
+    term_group: 0
+    term_taxonomy_id: 599
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 838
+    name: trindade
+    slug: trindade
+    term_group: 0
+    term_taxonomy_id: 851
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 4
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino
-categories: categories
+categories: ""
 published: true
 post_date: 2011-01-01 01:15:19
 ---

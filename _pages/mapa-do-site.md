@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/mapa-do-site
-categories: categories
+categories: ""
 published: true
 post_date: 2010-11-14 19:34:34
 ---

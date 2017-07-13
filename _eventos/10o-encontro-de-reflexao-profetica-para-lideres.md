@@ -3,13 +3,35 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
-author: ' <a href="https://www.gruponews.com.br/autor/revista-impacto" rel="tag">Revista Impacto</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>'
+author:
+  - 
+    term_id: 826
+    name: Revista Impacto
+    slug: revista-impacto
+    term_group: 0
+    term_taxonomy_id: 839
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 1
+    filter: raw
+tags:
+  - 
+    term_id: 305
+    name: deus
+    slug: deus
+    term_group: 0
+    term_taxonomy_id: 308
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 11
+    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/10o-encontro-de-reflexao-profetica-para-lideres
-categories: categories
+categories: ""
 published: true
 post_date: 2013-02-04 20:44:02
 ---

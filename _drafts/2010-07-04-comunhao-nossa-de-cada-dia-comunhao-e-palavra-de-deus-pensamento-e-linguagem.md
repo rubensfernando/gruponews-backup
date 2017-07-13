@@ -2,11 +2,55 @@
 ID: 875
 post_title: '“Comunhão nossa de cada dia” – Comunhão e Palavra de Deus: pensamento e linguagem'
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/biblia" rel="tag">Bíblia</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
+tags:
+  - 
+    term_id: 250
+    name: Bíblia
+    slug: biblia
+    term_group: 0
+    term_taxonomy_id: 253
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 2
+    filter: raw
+  - 
+    term_id: 1005
+    name: Comunhão
+    slug: comunhao
+    term_group: 0
+    term_taxonomy_id: 239
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 8
+    filter: raw
+  - 
+    term_id: 513
+    name: Jesus
+    slug: jesus
+    term_group: 0
+    term_taxonomy_id: 520
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 5
+    filter: raw
+  - 
+    term_id: 57
+    name: Palavra
+    slug: palavra
+    term_group: 0
+    term_taxonomy_id: 58
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 6
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=875
-categories: categories
+categories: ""
 published: false
 ---
 <blockquote><em>Este artigo é o décimo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>

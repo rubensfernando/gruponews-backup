@@ -4,12 +4,23 @@ post_title: >
   Por que a igreja no lar não é a
   resposta?
 author: ""
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
+tags:
+  - 
+    term_id: 1027
+    name: edicao-82
+    slug: edicao-82
+    term_group: 0
+    term_taxonomy_id: 1032
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 12
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta
-categories: categories
+categories: ""
 published: true
 post_date: 2016-07-13 11:39:20
 ---

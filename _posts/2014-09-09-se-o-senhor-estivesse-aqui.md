@@ -1,13 +1,35 @@
 ---
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
-author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
-tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>'
+author:
+  - 
+    term_id: 632
+    name: Paulo Roberto da Silva
+    slug: paulo-roberto-da-silva
+    term_group: 0
+    term_taxonomy_id: 640
+    taxonomy: autor
+    description: ""
+    parent: 0
+    count: 3
+    filter: raw
+tags:
+  - 
+    term_id: 916
+    name: edicao-49
+    slug: edicao-49
+    term_group: 0
+    term_taxonomy_id: 931
+    taxonomy: post_tag
+    description: ""
+    parent: 0
+    count: 10
+    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/se-o-senhor-estivesse-aqui
-categories: categories
+categories: ""
 published: true
 post_date: 2014-09-09 22:49:40
 ---
