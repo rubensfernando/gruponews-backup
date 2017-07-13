@@ -1,7 +1,7 @@
 ---
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

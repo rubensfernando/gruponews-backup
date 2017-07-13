@@ -1,7 +1,7 @@
 ---
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

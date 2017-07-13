@@ -1,7 +1,7 @@
 ---
 ID: 1539
 post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

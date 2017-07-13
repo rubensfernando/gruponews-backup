@@ -1,7 +1,7 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/ailton-jacob-de-oliveira" rel="tag">Ailton Jacob de Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

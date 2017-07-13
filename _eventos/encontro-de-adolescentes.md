@@ -1,7 +1,7 @@
 ---
 ID: 4850
 post_title: Encontro de Adolescentes
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1506
 post_title: Compartilhando a cruz no Brasil
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1201
 post_title: 'Reevangelização de Ovelhas &#8211; Maurício Bronzatto'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 152
 post_title: Comunhão e Confissão
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 2117
 post_title: Usuário
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/usuario

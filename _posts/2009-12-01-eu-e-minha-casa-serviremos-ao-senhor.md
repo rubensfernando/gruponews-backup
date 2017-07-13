@@ -1,7 +1,7 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

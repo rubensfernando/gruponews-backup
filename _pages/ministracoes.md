@@ -1,7 +1,7 @@
 ---
 ID: 993
 post_title: Ministrações
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

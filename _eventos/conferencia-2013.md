@@ -1,7 +1,7 @@
 ---
 ID: 2988
 post_title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

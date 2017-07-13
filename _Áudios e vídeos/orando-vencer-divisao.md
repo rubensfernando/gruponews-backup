@@ -1,7 +1,7 @@
 ---
 ID: 3462
 post_title: 'Encristus 2013 &#8211; Orando, vencer o mal da divisão'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/rui-luis-rodrigues" rel="tag">Rui Luis Rodrigues</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

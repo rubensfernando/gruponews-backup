@@ -3,7 +3,7 @@ ID: 3225
 post_title: >
   A influência significativa dos que não
   estão tentando nos ensinar
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/moacir-alves-faria" rel="tag">Moacir Alves Faria</a>'
 post_excerpt: ""
 layout: post
 permalink: >

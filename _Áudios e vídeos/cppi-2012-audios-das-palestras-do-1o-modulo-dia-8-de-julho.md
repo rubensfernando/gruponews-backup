@@ -1,7 +1,7 @@
 ---
 ID: 2571
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 8 de julho'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/eliana-walker" rel="tag">Eliana Walker</a>, <a href="https://www.gruponews.com.br/autor/eliza-walker" rel="tag">Eliza Walker</a>, <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -3,7 +3,7 @@ ID: 1498
 post_title: >
   Outros aspectos práticos da jornada no
   amor do Pai
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

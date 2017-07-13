@@ -1,7 +1,7 @@
 ---
 ID: 812
 post_title: Mensagem enviada com sucesso
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

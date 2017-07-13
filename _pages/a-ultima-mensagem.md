@@ -1,7 +1,7 @@
 ---
 ID: 1006
 post_title: A última mensagem
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

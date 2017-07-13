@@ -1,7 +1,7 @@
 ---
 ID: 2782
 post_title: Imersão 2013
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: event
 permalink: >

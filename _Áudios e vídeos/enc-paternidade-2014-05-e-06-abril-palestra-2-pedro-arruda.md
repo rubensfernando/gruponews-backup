@@ -1,7 +1,7 @@
 ---
 ID: 3661
 post_title: 'Enc.Paternidade 2014 05 e 06 Abril Palestra 2 &#8211; Pedro Arruda'
-author: Ademir Lucas
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

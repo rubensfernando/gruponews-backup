@@ -1,7 +1,7 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'

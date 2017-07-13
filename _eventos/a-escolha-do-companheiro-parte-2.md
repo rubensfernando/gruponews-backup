@@ -1,7 +1,7 @@
 ---
 ID: 956
 post_title: A escolha do companheiro – Parte 2
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: event
 permalink: >

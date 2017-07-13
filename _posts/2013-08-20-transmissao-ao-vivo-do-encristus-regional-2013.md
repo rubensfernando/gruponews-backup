@@ -3,7 +3,7 @@ ID: 3420
 post_title: >
   Transmissão ao vivo do Encristus
   Regional 2013
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

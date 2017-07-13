@@ -3,7 +3,7 @@ ID: 413
 post_title: >
   15 teses sobre a reencarnação da
   igreja
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/wolfgang-simson" rel="tag">Wolfgang Simson</a>'
 post_excerpt: ""
 layout: post
 permalink: >

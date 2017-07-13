@@ -1,7 +1,7 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

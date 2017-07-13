@@ -3,7 +3,7 @@ ID: 3252
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-grupo" rel="tag">Equipe Grupo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

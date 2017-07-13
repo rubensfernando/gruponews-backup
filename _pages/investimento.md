@@ -1,7 +1,7 @@
 ---
 ID: 1061
 post_title: Investimento
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

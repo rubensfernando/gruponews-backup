@@ -1,7 +1,7 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/luiz-lourenco-goncalves" rel="tag">Luiz Lourenço Gonçalves</a>'
 post_excerpt: ""
 layout: post
 permalink: >

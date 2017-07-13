@@ -1,7 +1,7 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/carlos-augusto" rel="tag">Carlos Augusto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

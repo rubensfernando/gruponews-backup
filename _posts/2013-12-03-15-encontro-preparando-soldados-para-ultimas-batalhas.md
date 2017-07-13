@@ -3,7 +3,7 @@ ID: 3569
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

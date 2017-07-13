@@ -1,7 +1,7 @@
 ---
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
-author: Victor Glad
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

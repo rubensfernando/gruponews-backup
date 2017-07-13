@@ -1,7 +1,7 @@
 ---
 ID: 10
 post_title: Contato
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/contato

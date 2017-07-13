@@ -1,7 +1,7 @@
 ---
 ID: 1773
 post_title: 'CPPI 2011- Áudios das palestras de domingo 17 julho'
-author: Ademir Lucas
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

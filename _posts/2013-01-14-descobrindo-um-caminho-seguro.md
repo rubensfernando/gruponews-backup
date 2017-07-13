@@ -1,7 +1,7 @@
 ---
 ID: 2874
 post_title: Descobrindo um caminho seguro
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

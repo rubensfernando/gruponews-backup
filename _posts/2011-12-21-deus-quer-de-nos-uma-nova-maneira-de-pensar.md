@@ -3,7 +3,7 @@ ID: 1969
 post_title: >
   Deus quer de nós uma nova maneira de
   pensar
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

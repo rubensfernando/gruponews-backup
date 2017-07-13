@@ -1,7 +1,7 @@
 ---
 ID: 1131
 post_title: Louvorzão da Juventude
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

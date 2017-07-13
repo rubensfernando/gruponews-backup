@@ -1,7 +1,7 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>, <a href="https://www.gruponews.com.br/autor/claudia-porto" rel="tag">Claudia Porto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

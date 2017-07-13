@@ -3,7 +3,7 @@ ID: 4311
 post_title: >
   O que a internet está fazendo com as
   nossas mentes
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/nicholas-carr" rel="tag">Nicholas Carr</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 4730
 post_title: 'Lista de Espera &#8211; Encontro de Mulheres'
-author: Evandro Batista
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

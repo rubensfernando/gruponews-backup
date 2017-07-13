@@ -3,7 +3,7 @@ ID: 1864
 post_title: >
   CPPI 2011 – Áudios da palestra de
   Sexta 22 de Julho
-author: Ademir Lucas
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 2392
 post_title: I Encontro de Adoração
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3395
 post_title: Contas bancárias
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

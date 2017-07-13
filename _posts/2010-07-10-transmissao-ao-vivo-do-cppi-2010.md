@@ -1,7 +1,7 @@
 ---
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

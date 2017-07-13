@@ -1,7 +1,7 @@
 ---
 ID: 2708
 post_title: A Trindade e o Reino de Deus
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

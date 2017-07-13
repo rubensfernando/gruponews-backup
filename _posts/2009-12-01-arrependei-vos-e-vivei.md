@@ -1,7 +1,7 @@
 ---
 ID: 93
 post_title: Arrependei-vos e Vivei
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-pontello" rel="tag">Mauricio Pontello</a>'
 post_excerpt: ""
 layout: post
 permalink: >

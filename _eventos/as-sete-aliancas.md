@@ -3,7 +3,7 @@ ID: 3356
 post_title: >
   Inscrições para a aula As Sete
   Alianças
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

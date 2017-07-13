@@ -1,7 +1,7 @@
 ---
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

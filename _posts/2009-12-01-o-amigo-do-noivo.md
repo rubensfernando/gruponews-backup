@@ -1,7 +1,7 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/clelia-arruda" rel="tag">Clélia Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

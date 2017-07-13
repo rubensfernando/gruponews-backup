@@ -1,7 +1,7 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/carlos-araripe" rel="tag">Carlos Araripe</a>'
 post_excerpt: ""
 layout: post
 permalink: >

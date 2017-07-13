@@ -1,7 +1,7 @@
 ---
 ID: 2124
 post_title: Crie uma conta
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/cadastrar

@@ -3,7 +3,7 @@ ID: 125
 post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

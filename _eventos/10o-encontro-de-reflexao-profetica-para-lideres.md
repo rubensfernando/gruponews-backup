@@ -3,7 +3,7 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/revista-impacto" rel="tag">Revista Impacto</a>'
 post_excerpt: ""
 layout: event
 permalink: >

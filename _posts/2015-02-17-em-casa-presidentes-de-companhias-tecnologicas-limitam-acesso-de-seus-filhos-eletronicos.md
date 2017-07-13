@@ -4,7 +4,7 @@ post_title: >
   Em casa, presidentes de companhias
   tecnológicas limitam acesso de seus
   filhos a eletrônicos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

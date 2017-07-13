@@ -1,7 +1,7 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ricardo-barbosa-de-sousa" rel="tag">Ricardo Barbosa de Sousa</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/douglas-castillero" rel="tag">Douglas Castillero</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 2683
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04 &#8211; Vespertino'
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

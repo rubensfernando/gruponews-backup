@@ -1,7 +1,7 @@
 ---
 ID: 3882
 post_title: Em busca do evangelho puro
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>'
 post_excerpt: ""
 layout: post
 permalink: >

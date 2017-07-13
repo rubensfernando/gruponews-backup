@@ -3,7 +3,7 @@ ID: 664
 post_title: >
   “Comunhão nossa de cada dia” –
   Origem e morte da comunhão
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=664

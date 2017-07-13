@@ -1,7 +1,7 @@
 ---
 ID: 1976
 post_title: Subitamente afastado da correnteza
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

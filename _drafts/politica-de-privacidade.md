@@ -1,7 +1,7 @@
 ---
 ID: 3273
 post_title: Política de privacidade para GrupoNews
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

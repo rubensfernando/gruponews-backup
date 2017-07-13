@@ -3,7 +3,7 @@ ID: 3893
 post_title: >
   Em busca da perfeita varonilidade de
   Cristo
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ismael-de-oliveira" rel="tag">Ismael de Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

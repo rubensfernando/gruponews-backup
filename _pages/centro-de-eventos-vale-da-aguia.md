@@ -1,7 +1,7 @@
 ---
 ID: 1399
 post_title: Centro de Eventos Vale da Águia
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

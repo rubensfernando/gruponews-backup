@@ -3,7 +3,7 @@ ID: 95
 post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/rosane-faria" rel="tag">Rosane Faria</a>'
 post_excerpt: ""
 layout: post
 permalink: >

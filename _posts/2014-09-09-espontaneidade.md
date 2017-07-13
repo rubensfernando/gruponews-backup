@@ -1,7 +1,7 @@
 ---
 ID: 3949
 post_title: Espontaneidade
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ricardo-alexandre-de-oliveira" rel="tag">Ricardo Alexandre de Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,7 +3,7 @@ ID: 4261
 post_title: >
   Deus chama os capazes, mas capacitará
   os incapazes se precisar
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

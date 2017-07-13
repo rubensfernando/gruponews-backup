@@ -1,7 +1,7 @@
 ---
 ID: 4844
 post_title: Encristus
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

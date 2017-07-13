@@ -1,7 +1,7 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/carlos-eduardo-pereira-case" rel="tag">Carlos Eduardo Pereira (“Casé”)</a>'
 post_excerpt: ""
 layout: post
 permalink: >

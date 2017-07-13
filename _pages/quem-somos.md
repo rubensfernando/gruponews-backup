@@ -1,7 +1,7 @@
 ---
 ID: 2
 post_title: Quem Somos
-author: eduardolucas
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/quem-somos

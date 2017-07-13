@@ -1,7 +1,7 @@
 ---
 ID: 4132
 post_title: A música profética
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

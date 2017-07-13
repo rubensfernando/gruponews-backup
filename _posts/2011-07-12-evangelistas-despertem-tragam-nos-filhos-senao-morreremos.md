@@ -3,7 +3,7 @@ ID: 1915
 post_title: >
   Evangelistas, despertem! Tragam-nos
   filhos, senão morreremos
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/carlos-augusto" rel="tag">Carlos Augusto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

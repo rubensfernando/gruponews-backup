@@ -1,7 +1,7 @@
 ---
 ID: 1064
 post_title: Inscrição
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

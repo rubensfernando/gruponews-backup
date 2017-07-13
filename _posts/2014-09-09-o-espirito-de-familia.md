@@ -1,7 +1,7 @@
 ---
 ID: 4260
 post_title: O espírito de família
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

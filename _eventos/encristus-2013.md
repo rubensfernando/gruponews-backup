@@ -1,7 +1,7 @@
 ---
 ID: 2987
 post_title: Encristus 2013
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

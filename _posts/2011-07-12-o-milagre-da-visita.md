@@ -1,7 +1,7 @@
 ---
 ID: 1885
 post_title: O milagre da visita
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pe-inacio-jose-do-vale" rel="tag">Pe. Inácio José do Vale</a>'
 post_excerpt: ""
 layout: post
 permalink: >

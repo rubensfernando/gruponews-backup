@@ -1,7 +1,7 @@
 ---
 ID: 3036
 post_title: A Paternidade na minha vida
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/junior-cesar" rel="tag">Junior César</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

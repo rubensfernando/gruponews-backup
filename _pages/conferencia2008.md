@@ -1,7 +1,7 @@
 ---
 ID: 990
 post_title: Conferência 2008
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -3,7 +3,7 @@ ID: 3336
 post_title: >
   Inscrições para a aula Espaço para
   Deus
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

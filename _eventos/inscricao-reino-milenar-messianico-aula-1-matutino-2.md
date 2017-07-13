@@ -1,7 +1,7 @@
 ---
 ID: 2310
 post_title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

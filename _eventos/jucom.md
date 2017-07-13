@@ -1,7 +1,7 @@
 ---
 ID: 4855
 post_title: Jucom
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

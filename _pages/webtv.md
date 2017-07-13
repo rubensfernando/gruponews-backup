@@ -1,7 +1,7 @@
 ---
 ID: 19
 post_title: Webtv
-author: Evandro Batista
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/webtv

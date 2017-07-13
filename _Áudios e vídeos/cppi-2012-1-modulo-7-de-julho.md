@@ -1,7 +1,7 @@
 ---
 ID: 2548
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 7 de julho'
-author: Ademir Lucas
+author: ' <a href="https://www.gruponews.com.br/autor/abnerio-cabral" rel="tag">Abnério Cabral</a>, <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>, <a href="https://www.gruponews.com.br/autor/jonatas-walker" rel="tag">Jônatas Walker</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

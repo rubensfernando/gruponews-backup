@@ -3,7 +3,7 @@ ID: 2076
 post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

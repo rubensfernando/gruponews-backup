@@ -1,7 +1,7 @@
 ---
 ID: 4863
 post_title: Encontro de Músicos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

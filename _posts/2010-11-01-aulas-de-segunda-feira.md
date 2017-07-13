@@ -1,7 +1,7 @@
 ---
 ID: 1177
 post_title: 'O Projeto de Reevangelização &#8211; aulas de segunda-feira'
-author: Victor Glad
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

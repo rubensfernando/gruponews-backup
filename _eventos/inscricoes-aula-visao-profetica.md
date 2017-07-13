@@ -3,7 +3,7 @@ ID: 3519
 post_title: >
   Inscrições para a aula Visão
   Profética
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-cpp-modular" rel="tag">Equipe CPP Modular</a>'
 post_excerpt: ""
 layout: event
 permalink: >

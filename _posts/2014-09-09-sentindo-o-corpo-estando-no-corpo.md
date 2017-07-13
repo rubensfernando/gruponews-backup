@@ -1,7 +1,7 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/catia-marquezino-lopes" rel="tag">Cátia Marquezino Lopes</a>'
 post_excerpt: ""
 layout: post
 permalink: >

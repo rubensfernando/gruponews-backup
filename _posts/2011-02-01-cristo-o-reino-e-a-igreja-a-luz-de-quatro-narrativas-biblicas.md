@@ -3,7 +3,7 @@ ID: 1382
 post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/padre-marcial-macaneiro" rel="tag">Padre Marcial Maçaneiro</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1996
 post_title: Transações
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

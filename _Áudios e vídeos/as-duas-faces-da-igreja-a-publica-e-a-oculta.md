@@ -1,7 +1,7 @@
 ---
 ID: 3264
 post_title: 'As duas Faces da Igreja: a pública e a oculta'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

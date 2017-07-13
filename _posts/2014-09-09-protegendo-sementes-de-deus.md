@@ -1,7 +1,7 @@
 ---
 ID: 3951
 post_title: Protegendo as sementes de Deus
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,7 +3,7 @@ ID: 2872
 post_title: >
   Falando mais sobre os sofrimentos da
   criança
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
 post_excerpt: ""
 layout: post
 permalink: >

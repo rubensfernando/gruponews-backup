@@ -3,7 +3,7 @@ ID: 4696
 post_title: >
   Uma experiência familiar na área
   financeira
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/elaine-gidzinski" rel="tag">Elaine Gidzinski</a>'
 post_excerpt: ""
 layout: post
 permalink: >

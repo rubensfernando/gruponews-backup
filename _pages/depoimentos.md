@@ -1,7 +1,7 @@
 ---
 ID: 1003
 post_title: Depoimentos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

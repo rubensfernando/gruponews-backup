@@ -1,7 +1,7 @@
 ---
 ID: 3913
 post_title: Encontro de Evangelismo 2014
-author: Ademir Lucas
+author: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=3913'

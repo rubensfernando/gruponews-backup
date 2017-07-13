@@ -1,7 +1,7 @@
 ---
 ID: 1042
 post_title: Como participar
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

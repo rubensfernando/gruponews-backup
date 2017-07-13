@@ -1,7 +1,7 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

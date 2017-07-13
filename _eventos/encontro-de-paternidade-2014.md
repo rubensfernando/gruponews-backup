@@ -1,7 +1,7 @@
 ---
 ID: 3615
 post_title: 'Encontro de Paternidade 2014 &#8211; 1 A'
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

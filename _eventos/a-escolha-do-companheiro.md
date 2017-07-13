@@ -1,7 +1,7 @@
 ---
 ID: 903
 post_title: A escolha do companheiro
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

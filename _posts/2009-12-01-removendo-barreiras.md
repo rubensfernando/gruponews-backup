@@ -1,7 +1,7 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-silva" rel="tag">Paulo Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

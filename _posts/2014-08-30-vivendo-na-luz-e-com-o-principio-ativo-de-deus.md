@@ -3,7 +3,7 @@ ID: 3898
 post_title: >
   Vivendo na luz e com o princípio ativo
   de Deus
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-manzini" rel="tag">Paulo Manzini</a>'
 post_excerpt: ""
 layout: post
 permalink: >

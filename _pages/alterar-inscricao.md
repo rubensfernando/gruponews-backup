@@ -1,7 +1,7 @@
 ---
 ID: 36
 post_title: Alterar inscrição
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

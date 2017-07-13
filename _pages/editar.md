@@ -1,7 +1,7 @@
 ---
 ID: 2119
 post_title: Editar
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

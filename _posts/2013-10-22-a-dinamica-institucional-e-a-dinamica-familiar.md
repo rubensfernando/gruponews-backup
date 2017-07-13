@@ -3,7 +3,7 @@ ID: 3413
 post_title: >
   A dinâmica institucional e a dinâmica
   familiar
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

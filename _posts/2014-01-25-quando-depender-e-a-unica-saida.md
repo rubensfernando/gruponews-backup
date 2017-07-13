@@ -1,7 +1,7 @@
 ---
 ID: 3415
 post_title: Quando depender é a única saída
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

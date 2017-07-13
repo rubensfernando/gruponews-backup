@@ -1,7 +1,7 @@
 ---
 ID: 2050
 post_title: PROECRI
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/proecri

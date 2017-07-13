@@ -1,7 +1,7 @@
 ---
 ID: 1103
 post_title: Local
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

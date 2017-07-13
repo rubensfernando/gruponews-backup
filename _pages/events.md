@@ -1,7 +1,7 @@
 ---
 ID: 1398
 post_title: Eventos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/events

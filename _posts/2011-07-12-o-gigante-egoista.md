@@ -1,7 +1,7 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/oscar-wilde" rel="tag">Oscar Wilde</a>'
 post_excerpt: ""
 layout: post
 permalink: >

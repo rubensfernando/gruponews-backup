@@ -1,7 +1,7 @@
 ---
 ID: 2623
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

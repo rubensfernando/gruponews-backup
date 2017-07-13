@@ -3,7 +3,7 @@ ID: 2865
 post_title: >
   Uma nova versão para a parábola do
   filho pródigo
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

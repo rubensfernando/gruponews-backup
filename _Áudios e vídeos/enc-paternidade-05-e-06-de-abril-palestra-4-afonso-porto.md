@@ -1,7 +1,7 @@
 ---
 ID: 3663
 post_title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 4 &#8211; Afonso Porto'
-author: Ademir Lucas
+author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

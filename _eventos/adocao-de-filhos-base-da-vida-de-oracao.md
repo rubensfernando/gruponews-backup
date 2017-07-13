@@ -3,7 +3,7 @@ ID: 3419
 post_title: >
   Adoção de filhos, base da vida de
   oração
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

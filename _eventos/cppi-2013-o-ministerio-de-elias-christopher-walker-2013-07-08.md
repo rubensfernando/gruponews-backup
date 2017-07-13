@@ -1,7 +1,7 @@
 ---
 ID: 3281
 post_title: 'CPPI 2013 &#8211; O ministério de Elias &#8211; Christopher  Walker'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

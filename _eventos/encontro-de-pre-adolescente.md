@@ -1,7 +1,7 @@
 ---
 ID: 4859
 post_title: Encontro de Pré-Adolescente
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

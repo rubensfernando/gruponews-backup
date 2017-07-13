@@ -3,7 +3,7 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

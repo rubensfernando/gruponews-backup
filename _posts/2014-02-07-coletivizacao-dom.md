@@ -1,7 +1,7 @@
 ---
 ID: 3627
 post_title: A coletivização do dom
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

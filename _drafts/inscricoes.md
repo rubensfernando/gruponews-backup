@@ -3,7 +3,7 @@ ID: 4675
 post_title: >
   Inscrição para o Encontro de Mulheres
   2016
-author: Evandro Batista
+author: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4675'

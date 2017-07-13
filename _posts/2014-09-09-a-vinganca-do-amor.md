@@ -1,7 +1,7 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pe-leo" rel="tag">Pe. Léo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

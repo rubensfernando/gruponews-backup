@@ -3,7 +3,7 @@ ID: 3876
 post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/gerson-lima" rel="tag">Gerson Lima</a>'
 post_excerpt: ""
 layout: post
 permalink: >

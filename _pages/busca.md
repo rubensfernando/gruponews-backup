@@ -1,7 +1,7 @@
 ---
 ID: 2099
 post_title: Resultado da Busca
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/busca

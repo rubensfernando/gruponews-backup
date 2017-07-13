@@ -3,7 +3,7 @@ ID: 110
 post_title: >
   Do verdadeiro Cristo é o que todos nós
   precisamos
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

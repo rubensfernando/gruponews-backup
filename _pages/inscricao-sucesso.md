@@ -1,7 +1,7 @@
 ---
 ID: 841
 post_title: Inscrição enviada com sucesso
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

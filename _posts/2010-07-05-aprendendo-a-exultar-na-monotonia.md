@@ -1,7 +1,7 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3461
 post_title: 'Encristus 2013 &#8211; Perdão como condicionante da oração'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

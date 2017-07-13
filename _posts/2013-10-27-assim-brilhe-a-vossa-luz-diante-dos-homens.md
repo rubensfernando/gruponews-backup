@@ -3,7 +3,7 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

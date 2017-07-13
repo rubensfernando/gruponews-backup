@@ -3,7 +3,7 @@ ID: 3181
 post_title: >
   O milagre de caminhar com os pés no
   chão
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/donald-p-mcneill" rel="tag">Donald P. McNeill</a>, <a href="https://www.gruponews.com.br/autor/douglas-a-morrison" rel="tag">Douglas A. Morrison</a>, <a href="https://www.gruponews.com.br/autor/henri-j-m-nouwen" rel="tag">Henri J. M. Nouwen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

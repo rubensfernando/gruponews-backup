@@ -1,7 +1,7 @@
 ---
 ID: 1055
 post_title: Conferência 2010
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

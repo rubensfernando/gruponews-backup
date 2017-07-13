@@ -3,7 +3,7 @@ ID: 4316
 post_title: >
   O dar e a generosidade na igreja
   relacional
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

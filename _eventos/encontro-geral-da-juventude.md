@@ -1,7 +1,7 @@
 ---
 ID: 4860
 post_title: Encontro Geral da Juventude
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

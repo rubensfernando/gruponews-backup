@@ -1,7 +1,7 @@
 ---
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

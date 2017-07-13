@@ -1,7 +1,7 @@
 ---
 ID: 650
 post_title: 'Conferência 2009 &#8211; Por que Você não quer mais ir à Igreja? &#8211; Chamada'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

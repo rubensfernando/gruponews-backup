@@ -1,7 +1,7 @@
 ---
 ID: 3633
 post_title: Em seus passos o que Jesus jamais faria?
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pablo-massolar" rel="tag">Pablo Massolar</a>'
 post_excerpt: ""
 layout: post
 permalink: >

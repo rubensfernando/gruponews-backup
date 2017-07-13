@@ -1,7 +1,7 @@
 ---
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

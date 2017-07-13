@@ -1,7 +1,7 @@
 ---
 ID: 2628
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02 &#8211; Parte 1'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

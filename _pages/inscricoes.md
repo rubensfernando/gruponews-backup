@@ -1,7 +1,7 @@
 ---
 ID: 2209
 post_title: Minhas Inscrições
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

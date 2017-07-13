@@ -1,7 +1,7 @@
 ---
 ID: 3459
 post_title: 'Encristus 2013 &#8211; O Reino, objeto da oração'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pe-douglas-pinheiro" rel="tag">Pe. Douglas Pinheiro</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

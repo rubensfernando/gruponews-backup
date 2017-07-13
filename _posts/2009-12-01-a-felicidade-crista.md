@@ -1,7 +1,7 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1287
 post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

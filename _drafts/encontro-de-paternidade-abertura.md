@@ -1,7 +1,7 @@
 ---
 ID: 3032
 post_title: 'Encontro de Paternidade &#8211; Abertura'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=3032'

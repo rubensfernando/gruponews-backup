@@ -3,7 +3,7 @@ ID: 1490
 post_title: >
   Sobre a mensagem “Vivendo como filhos
   amados de Aba”
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d'

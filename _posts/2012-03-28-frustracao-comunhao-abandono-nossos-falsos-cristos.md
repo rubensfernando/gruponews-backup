@@ -3,7 +3,7 @@ ID: 2069
 post_title: >
   Da frustração à comunhão e ao
   abandono de nossos falsos cristos
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1058
 post_title: Preletores
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

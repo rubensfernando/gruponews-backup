@@ -3,7 +3,7 @@ ID: 568
 post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

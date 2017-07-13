@@ -1,7 +1,7 @@
 ---
 ID: 631
 post_title: Grupo de Dança Shekina
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

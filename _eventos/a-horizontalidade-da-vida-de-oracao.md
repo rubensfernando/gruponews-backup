@@ -1,7 +1,7 @@
 ---
 ID: 3422
 post_title: A horizontalidade da vida de oração
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

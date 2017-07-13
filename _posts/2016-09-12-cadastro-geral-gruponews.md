@@ -1,7 +1,7 @@
 ---
 ID: 4751
 post_title: Cadastro Geral GrupoNews
-author: Evandro Batista
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

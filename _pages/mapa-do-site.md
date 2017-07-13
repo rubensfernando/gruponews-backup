@@ -1,7 +1,7 @@
 ---
 ID: 1216
 post_title: Mapa do Site
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

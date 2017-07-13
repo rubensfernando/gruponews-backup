@@ -1,7 +1,7 @@
 ---
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,7 +3,7 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

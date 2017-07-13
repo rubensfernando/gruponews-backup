@@ -1,7 +1,7 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/cleucio-macedo" rel="tag">Cléucio Macedo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

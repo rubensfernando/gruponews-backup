@@ -1,7 +1,7 @@
 ---
 ID: 1504
 post_title: A fé que cresce com o relacionamento
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

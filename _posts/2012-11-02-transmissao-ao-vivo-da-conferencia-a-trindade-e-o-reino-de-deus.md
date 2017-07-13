@@ -1,7 +1,7 @@
 ---
 ID: 2770
 post_title: 'Transmissão ao vivo da Conferência &#8220;A Trindade e o Reino de Deus&#8221;'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

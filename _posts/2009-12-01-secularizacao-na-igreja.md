@@ -1,7 +1,7 @@
 ---
 ID: 129
 post_title: Secularização na igreja
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/wailton-de-carvalho" rel="tag">Wailton de Carvalho</a>'
 post_excerpt: ""
 layout: post
 permalink: >

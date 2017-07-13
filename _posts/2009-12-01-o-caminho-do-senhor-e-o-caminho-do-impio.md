@@ -3,7 +3,7 @@ ID: 120
 post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/offini-franco" rel="tag">Offini Franco</a>'
 post_excerpt: ""
 layout: post
 permalink: >

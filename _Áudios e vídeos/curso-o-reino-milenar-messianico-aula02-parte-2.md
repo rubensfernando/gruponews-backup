@@ -1,7 +1,7 @@
 ---
 ID: 2629
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02 &#8211; Parte 2'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

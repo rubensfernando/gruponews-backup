@@ -3,7 +3,7 @@ ID: 1587
 post_title: >
   Curso de Preparação Profética
   Intensivo 2011
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/gary-fray" rel="tag">Gary Fray</a>'
 post_excerpt: ""
 layout: post
 permalink: >

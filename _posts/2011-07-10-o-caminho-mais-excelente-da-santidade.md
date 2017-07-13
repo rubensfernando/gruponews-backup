@@ -1,7 +1,7 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

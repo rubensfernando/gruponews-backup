@@ -1,7 +1,7 @@
 ---
 ID: 3706
 post_title: Finalizando a inscrição
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

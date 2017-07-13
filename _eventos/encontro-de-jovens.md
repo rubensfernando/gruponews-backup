@@ -1,7 +1,7 @@
 ---
 ID: 4857
 post_title: Encontro de Jovens
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

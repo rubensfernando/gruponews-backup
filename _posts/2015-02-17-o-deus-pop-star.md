@@ -1,7 +1,7 @@
 ---
 ID: 4313
 post_title: O Deus pop star?
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
 post_excerpt: ""
 layout: post
 permalink: >

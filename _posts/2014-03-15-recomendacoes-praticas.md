@@ -1,7 +1,7 @@
 ---
 ID: 3602
 post_title: Recomendações práticas
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

@@ -3,7 +3,7 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/alexandre-rangel" rel="tag">Alexandre Rangel</a>'
 post_excerpt: ""
 layout: post
 permalink: >

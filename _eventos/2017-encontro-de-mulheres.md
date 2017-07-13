@@ -1,7 +1,7 @@
 ---
 ID: 4858
 post_title: Encontro de Mulheres
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

@@ -3,7 +3,7 @@ ID: 3567
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

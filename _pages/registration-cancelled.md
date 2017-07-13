@@ -1,7 +1,7 @@
 ---
 ID: 3708
 post_title: Inscrição cancelada
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1811
 post_title: 'CPPI 2011 &#8211; Áudios da palestra de segunda 18 de julho'
-author: Ademir Lucas
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

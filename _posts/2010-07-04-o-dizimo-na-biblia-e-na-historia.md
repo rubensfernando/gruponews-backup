@@ -1,7 +1,7 @@
 ---
 ID: 3194
 post_title: O dízimo na Bíblia e na História
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/hugo" rel="tag">Hugo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

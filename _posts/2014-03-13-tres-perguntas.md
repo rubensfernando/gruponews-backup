@@ -1,7 +1,7 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/leon-tolstoi" rel="tag">Leon Tolstói</a>'
 post_excerpt: ""
 layout: post
 permalink: >

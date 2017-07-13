@@ -3,7 +3,7 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/valter-severino" rel="tag">Valter Severino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/ministerio-omega-de-louvor" rel="tag">Ministério Ômega de Louvor</a>'
 post_excerpt: ""
 layout: post
 permalink: >

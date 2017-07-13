@@ -1,7 +1,7 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/leticia-franca" rel="tag">Letícia França</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 230
 post_title: Igreja nos lares
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

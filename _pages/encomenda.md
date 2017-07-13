@@ -1,7 +1,7 @@
 ---
 ID: 1266
 post_title: Encomendas
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/encomenda

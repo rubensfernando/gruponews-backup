@@ -1,7 +1,7 @@
 ---
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

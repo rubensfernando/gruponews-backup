@@ -1,7 +1,7 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,7 +3,7 @@ ID: 3959
 post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

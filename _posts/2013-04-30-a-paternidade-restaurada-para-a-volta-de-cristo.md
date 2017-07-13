@@ -3,7 +3,7 @@ ID: 2867
 post_title: >
   A paternidade restaurada para a volta de
   Cristo
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

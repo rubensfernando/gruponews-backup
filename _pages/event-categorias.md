@@ -1,7 +1,7 @@
 ---
 ID: 2208
 post_title: Event Categorias
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 97
 post_title: Das Feridas ao Abraço Profético
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

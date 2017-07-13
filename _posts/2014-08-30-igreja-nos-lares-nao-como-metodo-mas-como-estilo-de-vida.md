@@ -1,7 +1,7 @@
 ---
 ID: 3896
 post_title: 'Igreja nos Lares &#8211; Não como método, mas como estilo de vida'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/joao-a-de-souza-filho" rel="tag">João A. de Souza Filho</a>'
 post_excerpt: ""
 layout: post
 permalink: >

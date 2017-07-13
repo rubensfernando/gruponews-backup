@@ -1,7 +1,7 @@
 ---
 ID: 1647
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de segunda-feira 11 de julho'
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

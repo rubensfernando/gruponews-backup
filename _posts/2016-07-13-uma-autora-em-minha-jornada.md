@@ -1,7 +1,7 @@
 ---
 ID: 4698
 post_title: Uma autora em minha jornada
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

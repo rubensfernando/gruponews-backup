@@ -1,7 +1,7 @@
 ---
 ID: 4355
 post_title: '&#8220;A Dança da Trindade e a Igreja&#8221; &#8211; Parte 2'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

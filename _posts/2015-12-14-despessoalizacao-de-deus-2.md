@@ -1,7 +1,7 @@
 ---
 ID: 4713
 post_title: A despessoalização de Deus
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/cristina-juliani" rel="tag">Cristina Juliani</a>'
 post_excerpt: ""
 layout: post
 permalink: >

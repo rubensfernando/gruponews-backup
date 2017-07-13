@@ -1,7 +1,7 @@
 ---
 ID: 2385
 post_title: I Encontro de Adoração
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

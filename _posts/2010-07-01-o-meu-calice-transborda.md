@@ -1,7 +1,7 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/max-lucado" rel="tag">Max Lucado</a>'
 post_excerpt: ""
 layout: post
 permalink: >

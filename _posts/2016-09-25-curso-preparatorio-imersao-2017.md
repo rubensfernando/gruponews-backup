@@ -1,7 +1,7 @@
 ---
 ID: 4779
 post_title: 'Curso Preparatório &#8211; Imersão 2017'
-author: Evandro Batista
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

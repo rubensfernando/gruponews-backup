@@ -4,7 +4,7 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

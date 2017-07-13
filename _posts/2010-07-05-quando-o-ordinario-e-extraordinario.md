@@ -1,7 +1,7 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/daniel-rocha" rel="tag">Daniel Rocha</a>'
 post_excerpt: ""
 layout: post
 permalink: >

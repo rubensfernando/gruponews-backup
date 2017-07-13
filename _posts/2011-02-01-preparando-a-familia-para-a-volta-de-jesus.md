@@ -3,7 +3,7 @@ ID: 1369
 post_title: >
   Preparando a família para a volta de
   Jesus
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

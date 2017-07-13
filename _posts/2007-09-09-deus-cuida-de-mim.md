@@ -1,7 +1,7 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/adriana-marques" rel="tag">Adriana Marques</a>'
 post_excerpt: ""
 layout: post
 permalink: >

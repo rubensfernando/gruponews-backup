@@ -1,7 +1,7 @@
 ---
 ID: 3218
 post_title: A irrelevância como vocação
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/henri-nouwen" rel="tag">Henri Nouwen</a>'
 post_excerpt: ""
 layout: post
 permalink: >

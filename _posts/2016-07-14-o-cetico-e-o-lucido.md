@@ -1,7 +1,7 @@
 ---
 ID: 4700
 post_title: O cético e o lúcido
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/autor-desconhecido" rel="tag">Autor desconhecido</a>'
 post_excerpt: ""
 layout: post
 permalink: >

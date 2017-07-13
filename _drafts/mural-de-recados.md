@@ -1,7 +1,7 @@
 ---
 ID: 8
 post_title: Mural de Recados
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/?page_id=8

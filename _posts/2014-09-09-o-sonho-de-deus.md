@@ -1,7 +1,7 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/moacir-alves-faria" rel="tag">Moacir Alves Faria</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/pr-rui-luis-rodrigues" rel="tag">Pr. Rui Luis Rodrigues</a>'
 post_excerpt: ""
 layout: post
 permalink: >

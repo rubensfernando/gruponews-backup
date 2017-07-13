@@ -1,7 +1,7 @@
 ---
 ID: 2618
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03 &#8211; Virtual'
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

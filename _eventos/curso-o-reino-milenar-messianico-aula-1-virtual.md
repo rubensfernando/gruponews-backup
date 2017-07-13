@@ -3,7 +3,7 @@ ID: 2317
 post_title: >
   Curso “O Reino Milenar Messiânico”
   Aula 1 – Virtual
-author: Escritorio
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

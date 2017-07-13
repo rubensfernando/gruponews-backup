@@ -1,7 +1,7 @@
 ---
 ID: 169
 post_title: Posto de Salvamento
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-silva" rel="tag">Paulo Roberto Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

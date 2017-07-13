@@ -1,7 +1,7 @@
 ---
 ID: 3707
 post_title: Obrigado
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/obrigado

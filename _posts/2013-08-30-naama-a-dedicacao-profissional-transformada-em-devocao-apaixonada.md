@@ -1,7 +1,7 @@
 ---
 ID: 3410
 post_title: 'Naamã: a dedicação profissional transformada em devoção apaixonada'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

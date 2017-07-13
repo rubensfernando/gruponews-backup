@@ -3,7 +3,7 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

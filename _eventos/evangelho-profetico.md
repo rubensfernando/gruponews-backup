@@ -3,7 +3,7 @@ ID: 3463
 post_title: >
   Inscrições para a aula Evangelho
   Profético
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

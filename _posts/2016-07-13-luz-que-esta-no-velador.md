@@ -1,7 +1,7 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/rosana-coelho-correa-de-oliveira" rel="tag">Rosana Coelho Correa de Oliveira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

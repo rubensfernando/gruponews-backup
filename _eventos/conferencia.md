@@ -1,7 +1,7 @@
 ---
 ID: 4862
 post_title: Conferência
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

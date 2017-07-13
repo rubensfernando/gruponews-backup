@@ -1,7 +1,7 @@
 ---
 ID: 2207
 post_title: Locais de eventos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

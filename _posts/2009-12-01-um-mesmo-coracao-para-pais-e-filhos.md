@@ -1,7 +1,7 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3039
 post_title: Músicas
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/denis-bastos" rel="tag">Denis Bastos</a>, <a href="https://www.gruponews.com.br/autor/erika-oliveira" rel="tag">Erika Oliveira</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

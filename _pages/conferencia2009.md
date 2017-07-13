@@ -1,7 +1,7 @@
 ---
 ID: 1027
 post_title: A Conferência 2009
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: page
 permalink: >

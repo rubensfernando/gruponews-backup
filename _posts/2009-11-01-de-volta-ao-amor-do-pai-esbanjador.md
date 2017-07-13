@@ -1,7 +1,7 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: post
 permalink: >

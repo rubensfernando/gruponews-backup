@@ -1,7 +1,7 @@
 ---
 ID: 2689
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
 post_excerpt: ""
 layout: post
 permalink: >

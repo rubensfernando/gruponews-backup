@@ -1,7 +1,7 @@
 ---
 ID: 4494
 post_title: 'Johannes Fichtenbauer &#8211; Parte 1'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/johannes-fichtenbauer" rel="tag">Johannes Fichtenbauer</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -3,7 +3,7 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author: eduardolucas
+author: ' <a href="https://www.gruponews.com.br/autor/ivonete-camargo-pegnolazzo" rel="tag">Ivonete Camargo Pegnolazzo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

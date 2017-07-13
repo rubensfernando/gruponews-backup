@@ -3,7 +3,7 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/jose-carlos-marion" rel="tag">José Carlos Marion</a>'
 post_excerpt: ""
 layout: post
 permalink: >

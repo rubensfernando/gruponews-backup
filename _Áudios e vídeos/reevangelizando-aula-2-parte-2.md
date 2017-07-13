@@ -1,7 +1,7 @@
 ---
 ID: 736
 post_title: Reevangelizando – Aula 2 – Parte 2
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

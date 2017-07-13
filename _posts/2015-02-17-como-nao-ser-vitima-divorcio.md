@@ -1,7 +1,7 @@
 ---
 ID: 4315
 post_title: Como não ser vítima do divórcio
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
 post_excerpt: ""
 layout: post
 permalink: >

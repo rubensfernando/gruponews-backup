@@ -1,7 +1,7 @@
 ---
 ID: 3424
 post_title: Testemunhos
-author: Fernando
+author: ""
 post_excerpt: ""
 layout: event
 permalink: >

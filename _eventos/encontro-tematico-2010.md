@@ -1,7 +1,7 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
-author: Victor Glad
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >

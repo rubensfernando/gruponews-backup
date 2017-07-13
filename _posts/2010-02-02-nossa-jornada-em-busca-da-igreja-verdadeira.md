@@ -3,7 +3,7 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
 post_excerpt: ""
 layout: post
 permalink: >

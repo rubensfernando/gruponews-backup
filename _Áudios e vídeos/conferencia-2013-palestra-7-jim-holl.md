@@ -1,7 +1,7 @@
 ---
 ID: 3556
 post_title: 'Conferência 2013 &#8211; Palestra 7 &#8211; Jim Holl'
-author: Fernando
+author: ' <a href="https://www.gruponews.com.br/autor/jim-holl" rel="tag">Jim Holl</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 2981
 post_title: 'Encontro de Paternidade II &#8211; Edição 2013'
-author: Escritorio
+author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
 post_excerpt: ""
 layout: event
 permalink: >
