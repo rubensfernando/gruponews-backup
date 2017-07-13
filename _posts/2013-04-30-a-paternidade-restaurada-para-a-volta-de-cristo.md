@@ -3,6 +3,7 @@ ID: 2867
 post_title: >
   A paternidade restaurada para a volta de
   Cristo
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

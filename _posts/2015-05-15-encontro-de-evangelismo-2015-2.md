@@ -1,6 +1,8 @@
 ---
 ID: 3686
 post_title: Encontro de Evangelismo 2015
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

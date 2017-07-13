@@ -1,6 +1,7 @@
 ---
 ID: 86
 post_title: A Segunda Milha
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

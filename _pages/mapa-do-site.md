@@ -1,6 +1,7 @@
 ---
 ID: 1216
 post_title: Mapa do Site
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

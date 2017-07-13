@@ -1,6 +1,8 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
 post_excerpt: ""
 layout: post
 permalink: >

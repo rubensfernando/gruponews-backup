@@ -1,6 +1,7 @@
 ---
 ID: 3949
 post_title: Espontaneidade
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

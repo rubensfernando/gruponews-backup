@@ -1,6 +1,8 @@
 ---
 ID: 4779
 post_title: 'Curso Preparatório &#8211; Imersão 2017'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner_curso_site.jpg
 post_excerpt: ""
 layout: post
 permalink: >

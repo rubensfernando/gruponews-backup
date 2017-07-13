@@ -1,6 +1,7 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

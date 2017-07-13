@@ -1,6 +1,7 @@
 ---
 ID: 1266
 post_title: Encomendas
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/encomenda

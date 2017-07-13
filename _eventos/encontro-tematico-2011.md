@@ -1,6 +1,7 @@
 ---
 ID: 1565
 post_title: Encontro Temático 2011
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

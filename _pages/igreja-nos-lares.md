@@ -1,6 +1,7 @@
 ---
 ID: 230
 post_title: Igreja nos lares
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -3,6 +3,8 @@ ID: 3336
 post_title: >
   Inscrições para a aula Espaço para
   Deus
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 post_excerpt: ""
 layout: event
 permalink: >

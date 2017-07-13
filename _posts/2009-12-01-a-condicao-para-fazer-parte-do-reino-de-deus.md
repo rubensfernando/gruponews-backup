@@ -3,6 +3,8 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 4859
 post_title: Encontro de Pré-Adolescente
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

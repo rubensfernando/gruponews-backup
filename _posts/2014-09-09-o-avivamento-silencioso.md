@@ -1,6 +1,7 @@
 ---
 ID: 4253
 post_title: O avivamento silencioso
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

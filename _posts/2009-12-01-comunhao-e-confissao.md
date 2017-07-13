@@ -1,6 +1,7 @@
 ---
 ID: 152
 post_title: Comunhão e Confissão
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,8 @@
 ---
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/07/bannergrupo.jpg
 post_excerpt: ""
 layout: post
 permalink: >

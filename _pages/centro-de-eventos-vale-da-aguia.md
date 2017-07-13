@@ -1,6 +1,8 @@
 ---
 ID: 1399
 post_title: Centro de Eventos Vale da Águia
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-1280x706.jpg
 post_excerpt: ""
 layout: page
 permalink: >

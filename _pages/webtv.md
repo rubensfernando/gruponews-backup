@@ -1,6 +1,7 @@
 ---
 ID: 19
 post_title: Webtv
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/webtv

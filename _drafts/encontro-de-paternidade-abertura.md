@@ -1,6 +1,8 @@
 ---
 ID: 3032
 post_title: 'Encontro de Paternidade &#8211; Abertura'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/03/ailton-1280x483.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=3032'

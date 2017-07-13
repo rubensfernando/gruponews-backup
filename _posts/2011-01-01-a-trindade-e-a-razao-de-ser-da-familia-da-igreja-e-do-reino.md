@@ -3,6 +3,8 @@ ID: 1374
 post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 post_excerpt: ""
 layout: post
 permalink: >

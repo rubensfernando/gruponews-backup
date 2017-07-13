@@ -1,6 +1,8 @@
 ---
 ID: 41
 post_title: A dracma perdida
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

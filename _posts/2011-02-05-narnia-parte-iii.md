@@ -1,6 +1,8 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte3.jpg
 post_excerpt: ""
 layout: post
 permalink: >

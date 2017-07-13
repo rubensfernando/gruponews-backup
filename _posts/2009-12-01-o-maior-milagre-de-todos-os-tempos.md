@@ -1,6 +1,7 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

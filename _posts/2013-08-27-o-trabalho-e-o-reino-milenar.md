@@ -1,6 +1,7 @@
 ---
 ID: 3404
 post_title: O trabalho e o Reino Milenar
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

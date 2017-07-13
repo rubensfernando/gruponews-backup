@@ -1,6 +1,8 @@
 ---
 ID: 2770
 post_title: 'Transmissão ao vivo da Conferência &#8220;A Trindade e o Reino de Deus&#8221;'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/11/banner-trindade-reino-deus2.jpg
 post_excerpt: ""
 layout: post
 permalink: >

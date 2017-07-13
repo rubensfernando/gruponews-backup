@@ -1,6 +1,8 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,8 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista.jpg
 post_excerpt: ""
 layout: post
 permalink: >

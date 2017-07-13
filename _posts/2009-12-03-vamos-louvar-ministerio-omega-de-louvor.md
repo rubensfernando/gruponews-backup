@@ -1,6 +1,8 @@
 ---
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 1006
 post_title: A última mensagem
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

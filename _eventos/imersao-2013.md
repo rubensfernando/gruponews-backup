@@ -1,6 +1,8 @@
 ---
 ID: 2782
 post_title: Imersão 2013
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
 post_excerpt: ""
 layout: event
 permalink: >

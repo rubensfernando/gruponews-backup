@@ -1,6 +1,7 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

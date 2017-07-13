@@ -1,6 +1,8 @@
 ---
 ID: 4549
 post_title: Encontro de Paternidade 2016
+image: >
+  https://www.gruponews.com.br/wp-content/uploads/2016/02/banner-paternidade-2016-1280x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

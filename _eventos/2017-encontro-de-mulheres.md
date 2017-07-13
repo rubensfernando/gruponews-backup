@@ -1,6 +1,7 @@
 ---
 ID: 4858
 post_title: Encontro de Mulheres
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

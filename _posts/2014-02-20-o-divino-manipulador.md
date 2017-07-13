@@ -1,6 +1,7 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

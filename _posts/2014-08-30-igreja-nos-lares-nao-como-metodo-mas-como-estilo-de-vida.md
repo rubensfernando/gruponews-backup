@@ -1,6 +1,7 @@
 ---
 ID: 3896
 post_title: 'Igreja nos Lares &#8211; Não como método, mas como estilo de vida'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

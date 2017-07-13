@@ -3,6 +3,7 @@ ID: 2107
 post_title: >
   A revelação cristã e a verdade sobre
   Deus
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

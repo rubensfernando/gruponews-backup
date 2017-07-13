@@ -1,6 +1,8 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
 post_excerpt: ""
 layout: post
 permalink: >

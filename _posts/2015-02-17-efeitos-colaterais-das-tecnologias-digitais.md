@@ -3,6 +3,7 @@ ID: 4310
 post_title: >
   Efeitos colaterais das tecnologias
   digitais
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

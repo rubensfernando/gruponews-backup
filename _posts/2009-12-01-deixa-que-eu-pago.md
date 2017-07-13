@@ -1,6 +1,7 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

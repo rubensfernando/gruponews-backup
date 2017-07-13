@@ -1,6 +1,7 @@
 ---
 ID: 3458
 post_title: 'Encristus 2013 &#8211; A horizontalidade da vida de oração'
+image: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

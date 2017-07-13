@@ -1,6 +1,7 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

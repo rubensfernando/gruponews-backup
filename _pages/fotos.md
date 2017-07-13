@@ -1,6 +1,7 @@
 ---
 ID: 12
 post_title: Fotos
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/fotos

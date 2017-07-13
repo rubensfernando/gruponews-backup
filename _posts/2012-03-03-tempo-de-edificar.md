@@ -1,6 +1,8 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
 post_excerpt: ""
 layout: post
 permalink: >

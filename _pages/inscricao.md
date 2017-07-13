@@ -1,6 +1,7 @@
 ---
 ID: 1064
 post_title: Inscrição
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

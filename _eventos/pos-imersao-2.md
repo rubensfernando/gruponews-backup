@@ -1,6 +1,7 @@
 ---
 ID: 4852
 post_title: Pós-imersão 2
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

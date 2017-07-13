@@ -3,6 +3,7 @@ ID: 3922
 post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

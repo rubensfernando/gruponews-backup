@@ -1,6 +1,8 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/editorial-copy-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

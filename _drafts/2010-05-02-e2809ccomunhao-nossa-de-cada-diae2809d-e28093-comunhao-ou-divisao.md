@@ -3,6 +3,7 @@ ID: 799
 post_title: >
   “Comunhão nossa de cada dia” –
   Comunhão ou divisão?
+image: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=799

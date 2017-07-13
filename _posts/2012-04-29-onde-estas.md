@@ -3,6 +3,8 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
 post_excerpt: ""
 layout: post
 permalink: >

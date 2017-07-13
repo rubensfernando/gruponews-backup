@@ -1,6 +1,7 @@
 ---
 ID: 4691
 post_title: Os amigos do mestre
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

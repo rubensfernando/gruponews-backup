@@ -3,6 +3,8 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,6 +3,8 @@ ID: 1546
 post_title: >
   2º Louvorzão da Juventude –
   Pré-Encontro
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
 post_excerpt: ""
 layout: event
 permalink: >

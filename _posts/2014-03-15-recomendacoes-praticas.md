@@ -1,6 +1,7 @@
 ---
 ID: 3602
 post_title: Recomendações práticas
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

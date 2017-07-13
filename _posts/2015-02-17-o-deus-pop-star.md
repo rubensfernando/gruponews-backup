@@ -1,6 +1,7 @@
 ---
 ID: 4313
 post_title: O Deus pop star?
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

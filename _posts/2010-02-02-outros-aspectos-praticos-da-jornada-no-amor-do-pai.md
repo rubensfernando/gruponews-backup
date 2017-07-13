@@ -3,6 +3,7 @@ ID: 1498
 post_title: >
   Outros aspectos práticos da jornada no
   amor do Pai
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

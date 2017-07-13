@@ -1,6 +1,7 @@
 ---
 ID: 3273
 post_title: Política de privacidade para GrupoNews
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

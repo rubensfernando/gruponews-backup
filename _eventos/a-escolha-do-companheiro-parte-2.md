@@ -1,6 +1,8 @@
 ---
 ID: 956
 post_title: A escolha do companheiro – Parte 2
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
 post_excerpt: ""
 layout: event
 permalink: >

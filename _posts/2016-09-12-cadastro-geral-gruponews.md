@@ -1,6 +1,8 @@
 ---
 ID: 4751
 post_title: Cadastro Geral GrupoNews
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
 post_excerpt: ""
 layout: post
 permalink: >

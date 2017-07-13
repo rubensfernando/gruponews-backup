@@ -3,6 +3,7 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

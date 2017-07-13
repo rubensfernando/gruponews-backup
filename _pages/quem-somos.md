@@ -1,6 +1,8 @@
 ---
 ID: 2
 post_title: Quem Somos
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-1280x720.jpg
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/quem-somos

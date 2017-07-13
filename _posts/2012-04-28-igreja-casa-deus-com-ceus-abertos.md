@@ -1,6 +1,8 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-1000x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 875
 post_title: '“Comunhão nossa de cada dia” – Comunhão e Palavra de Deus: pensamento e linguagem'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=875

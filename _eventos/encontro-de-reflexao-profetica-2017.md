@@ -1,6 +1,8 @@
 ---
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
 post_excerpt: ""
 layout: event
 permalink: >

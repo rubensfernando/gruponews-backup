@@ -3,6 +3,8 @@ ID: 3463
 post_title: >
   Inscrições para a aula Evangelho
   Profético
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 post_excerpt: ""
 layout: event
 permalink: >

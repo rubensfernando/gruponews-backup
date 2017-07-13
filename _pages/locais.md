@@ -1,6 +1,7 @@
 ---
 ID: 2207
 post_title: Locais de eventos
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

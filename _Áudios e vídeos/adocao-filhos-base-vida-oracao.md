@@ -1,6 +1,7 @@
 ---
 ID: 3457
 post_title: 'Encristus 2013 &#8211; Adoção de filhos, base da vida de oração'
+image: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

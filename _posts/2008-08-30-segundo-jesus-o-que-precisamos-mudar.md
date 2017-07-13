@@ -1,6 +1,7 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

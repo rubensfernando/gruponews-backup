@@ -1,6 +1,7 @@
 ---
 ID: 4854
 post_title: 'Encontro de Paternidade 2017 &#8211; 2'
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

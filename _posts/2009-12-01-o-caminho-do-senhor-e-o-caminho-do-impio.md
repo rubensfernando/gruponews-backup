@@ -3,6 +3,7 @@ ID: 120
 post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,8 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/10/banner_divorcio.jpg
 post_excerpt: ""
 layout: post
 permalink: >

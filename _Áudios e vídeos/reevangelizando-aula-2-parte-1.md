@@ -1,6 +1,8 @@
 ---
 ID: 731
 post_title: Reevangelizando – Aula 2 – Parte 1
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte1345-535.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

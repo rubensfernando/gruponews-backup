@@ -3,6 +3,8 @@ ID: 3876
 post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
 post_excerpt: ""
 layout: post
 permalink: >

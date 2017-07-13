@@ -1,6 +1,7 @@
 ---
 ID: 1042
 post_title: Como participar
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

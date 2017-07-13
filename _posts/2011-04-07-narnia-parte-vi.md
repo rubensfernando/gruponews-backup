@@ -1,6 +1,8 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte6.jpg
 post_excerpt: ""
 layout: post
 permalink: >

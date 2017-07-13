@@ -1,6 +1,8 @@
 ---
 ID: 3033
 post_title: 'O pobre e o Sábado na perspectiva da revelação de Jesus &#8211; Parte 1'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/03/pedro-1-1280x483.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

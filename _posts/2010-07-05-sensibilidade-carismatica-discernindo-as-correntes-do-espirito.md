@@ -1,6 +1,7 @@
 ---
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

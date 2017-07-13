@@ -1,6 +1,7 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

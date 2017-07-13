@@ -1,6 +1,8 @@
 ---
 ID: 631
 post_title: Grupo de Dança Shekina
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

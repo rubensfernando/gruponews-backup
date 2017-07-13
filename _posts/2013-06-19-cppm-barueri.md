@@ -3,6 +3,8 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 post_excerpt: ""
 layout: post
 permalink: >

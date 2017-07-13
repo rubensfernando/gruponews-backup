@@ -1,6 +1,7 @@
 ---
 ID: 3459
 post_title: 'Encristus 2013 &#8211; O Reino, objeto da oração'
+image: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -3,6 +3,8 @@ ID: 4561
 post_title: >
   Conferência Internacional com Benjamin
   Berger
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
 post_excerpt: ""
 layout: post
 permalink: >

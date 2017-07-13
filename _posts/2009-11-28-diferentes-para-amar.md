@@ -1,6 +1,8 @@
 ---
 ID: 104
 post_title: Diferentes para Amar
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
 post_excerpt: ""
 layout: post
 permalink: >

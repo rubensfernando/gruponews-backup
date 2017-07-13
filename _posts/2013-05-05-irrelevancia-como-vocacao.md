@@ -1,6 +1,7 @@
 ---
 ID: 3218
 post_title: A irrelevância como vocação
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

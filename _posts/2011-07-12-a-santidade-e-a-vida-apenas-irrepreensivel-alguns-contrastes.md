@@ -1,6 +1,7 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

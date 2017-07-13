@@ -3,6 +3,8 @@ ID: 2317
 post_title: >
   Curso “O Reino Milenar Messiânico”
   Aula 1 – Virtual
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
 post_excerpt: ""
 layout: event
 permalink: >

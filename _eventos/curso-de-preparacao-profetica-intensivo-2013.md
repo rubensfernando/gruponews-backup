@@ -3,6 +3,8 @@ ID: 2983
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
 post_excerpt: ""
 layout: event
 permalink: >

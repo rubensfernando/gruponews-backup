@@ -3,6 +3,8 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 4162
 post_title: Assine o jornal GrupoNews
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

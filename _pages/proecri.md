@@ -1,6 +1,7 @@
 ---
 ID: 2050
 post_title: PROECRI
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/proecri

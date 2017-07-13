@@ -3,6 +3,8 @@ ID: 2658
 post_title: >
   Acompanhe a transmissão online do
   ENCRISTUS aqui no site GrupoNews
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -3,6 +3,7 @@ ID: 857
 post_title: >
   “Comunhão nossa de cada dia” –
   Confissão, a força de nossa fraqueza
+image: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=857

@@ -1,6 +1,7 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

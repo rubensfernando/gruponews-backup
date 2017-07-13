@@ -3,6 +3,8 @@ ID: 519
 post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

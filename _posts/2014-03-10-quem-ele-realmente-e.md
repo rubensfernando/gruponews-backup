@@ -1,6 +1,7 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

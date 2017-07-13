@@ -1,6 +1,7 @@
 ---
 ID: 3424
 post_title: Testemunhos
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

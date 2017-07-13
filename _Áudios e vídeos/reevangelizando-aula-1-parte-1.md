@@ -1,6 +1,8 @@
 ---
 ID: 668
 post_title: 'Reevangelizando &#8211; Aula 1 &#8211; Parte 1'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula1Parte1754-843.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

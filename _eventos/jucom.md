@@ -1,6 +1,7 @@
 ---
 ID: 4855
 post_title: Jucom
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

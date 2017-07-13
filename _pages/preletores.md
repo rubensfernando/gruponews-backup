@@ -1,6 +1,7 @@
 ---
 ID: 1058
 post_title: Preletores
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

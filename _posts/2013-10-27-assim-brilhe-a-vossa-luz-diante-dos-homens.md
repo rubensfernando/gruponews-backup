@@ -3,6 +3,7 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

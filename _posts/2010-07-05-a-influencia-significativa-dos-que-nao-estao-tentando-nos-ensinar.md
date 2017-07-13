@@ -3,6 +3,7 @@ ID: 3225
 post_title: >
   A influência significativa dos que não
   estão tentando nos ensinar
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

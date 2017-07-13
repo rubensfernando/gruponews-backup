@@ -3,6 +3,8 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

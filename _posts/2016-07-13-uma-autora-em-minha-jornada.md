@@ -1,6 +1,7 @@
 ---
 ID: 4698
 post_title: Uma autora em minha jornada
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

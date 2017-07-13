@@ -3,6 +3,8 @@ ID: 3257
 post_title: >
   Áudios do Encontro de Paternidade I
   2013
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
 post_excerpt: ""
 layout: post
 permalink: >

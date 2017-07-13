@@ -1,6 +1,8 @@
 ---
 ID: 163
 post_title: 'Você sabia&#8230;'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
 post_excerpt: ""
 layout: post
 permalink: >

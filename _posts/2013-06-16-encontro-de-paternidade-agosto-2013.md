@@ -3,6 +3,8 @@ ID: 3306
 post_title: >
   Faça já sua inscrição para o
   Encontro de Paternidade de agosto 2013
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
 post_excerpt: ""
 layout: post
 permalink: >

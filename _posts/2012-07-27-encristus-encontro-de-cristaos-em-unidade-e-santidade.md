@@ -3,6 +3,8 @@ ID: 2076
 post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
 post_excerpt: ""
 layout: post
 permalink: >

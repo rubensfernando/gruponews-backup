@@ -1,6 +1,8 @@
 ---
 ID: 2392
 post_title: I Encontro de Adoração
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 post_excerpt: ""
 layout: event
 permalink: >

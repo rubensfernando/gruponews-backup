@@ -1,6 +1,8 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 post_excerpt: ""
 layout: post
 permalink: >

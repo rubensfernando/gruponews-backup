@@ -3,6 +3,8 @@ ID: 1587
 post_title: >
   Curso de Preparação Profética
   Intensivo 2011
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 36
 post_title: Alterar inscrição
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

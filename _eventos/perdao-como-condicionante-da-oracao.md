@@ -1,6 +1,7 @@
 ---
 ID: 3426
 post_title: Perdão como condicionante da oração
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

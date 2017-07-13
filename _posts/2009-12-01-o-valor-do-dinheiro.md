@@ -1,6 +1,7 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

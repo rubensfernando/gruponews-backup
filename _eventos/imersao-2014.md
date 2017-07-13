@@ -1,6 +1,8 @@
 ---
 ID: 3566
 post_title: Imersão 2014
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 post_excerpt: ""
 layout: event
 permalink: >

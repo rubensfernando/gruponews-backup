@@ -3,6 +3,8 @@ ID: 1366
 post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-1280x492.jpg
 post_excerpt: ""
 layout: post
 permalink: >

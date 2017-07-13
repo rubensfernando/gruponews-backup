@@ -3,6 +3,8 @@ ID: 1864
 post_title: >
   CPPI 2011 – Áudios da palestra de
   Sexta 22 de Julho
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

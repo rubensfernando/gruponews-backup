@@ -1,6 +1,8 @@
 ---
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
 post_excerpt: ""
 layout: event
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 3603
 post_title: As três perguntas
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

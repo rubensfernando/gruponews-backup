@@ -1,6 +1,7 @@
 ---
 ID: 1068
 post_title: Inscrição enviada com sucesso
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 2047
 post_title: ENCRISTUS
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/encristus

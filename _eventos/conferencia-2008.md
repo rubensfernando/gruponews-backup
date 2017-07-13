@@ -1,6 +1,8 @@
 ---
 ID: 456
 post_title: Conferência 2008
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
 post_excerpt: ""
 layout: event
 permalink: >

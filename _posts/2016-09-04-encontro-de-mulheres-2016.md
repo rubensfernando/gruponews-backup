@@ -1,6 +1,8 @@
 ---
 ID: 4730
 post_title: 'Lista de Espera &#8211; Encontro de Mulheres'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 post_excerpt: ""
 layout: post
 permalink: >

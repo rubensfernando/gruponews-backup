@@ -1,6 +1,7 @@
 ---
 ID: 3707
 post_title: Obrigado
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/obrigado

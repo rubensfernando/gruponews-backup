@@ -1,6 +1,8 @@
 ---
 ID: 3194
 post_title: O dízimo na Bíblia e na História
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-1024x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

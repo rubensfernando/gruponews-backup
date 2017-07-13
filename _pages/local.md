@@ -1,6 +1,7 @@
 ---
 ID: 1103
 post_title: Local
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

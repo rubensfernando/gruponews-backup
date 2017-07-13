@@ -1,6 +1,7 @@
 ---
 ID: 4583
 post_title: Encontro de Adolescentes 2016
+image: ""
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4583'

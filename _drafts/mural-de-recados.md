@@ -1,6 +1,7 @@
 ---
 ID: 8
 post_title: Mural de Recados
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/?page_id=8

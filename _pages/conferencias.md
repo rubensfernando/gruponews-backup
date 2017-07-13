@@ -1,6 +1,7 @@
 ---
 ID: 3937
 post_title: Conferências
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -1,6 +1,7 @@
 ---
 ID: 4849
 post_title: 'Pós-imersão 1 &#8211; 2017'
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

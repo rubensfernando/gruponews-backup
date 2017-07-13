@@ -1,6 +1,7 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

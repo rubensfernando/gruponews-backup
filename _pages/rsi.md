@@ -1,6 +1,7 @@
 ---
 ID: 1040
 post_title: RSI
+image: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/rsi

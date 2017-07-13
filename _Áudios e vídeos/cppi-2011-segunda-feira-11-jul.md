@@ -1,6 +1,8 @@
 ---
 ID: 1647
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de segunda-feira 11 de julho'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

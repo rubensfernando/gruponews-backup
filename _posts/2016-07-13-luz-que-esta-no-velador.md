@@ -1,6 +1,7 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -1,6 +1,8 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
 post_excerpt: ""
 layout: post
 permalink: >

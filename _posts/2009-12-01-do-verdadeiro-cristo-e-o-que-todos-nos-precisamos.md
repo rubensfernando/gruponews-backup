@@ -3,6 +3,7 @@ ID: 110
 post_title: >
   Do verdadeiro Cristo é o que todos nós
   precisamos
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

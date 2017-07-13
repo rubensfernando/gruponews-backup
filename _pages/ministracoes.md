@@ -1,6 +1,7 @@
 ---
 ID: 993
 post_title: Ministrações
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

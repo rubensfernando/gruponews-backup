@@ -1,6 +1,7 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

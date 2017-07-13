@@ -3,6 +3,8 @@ ID: 568
 post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

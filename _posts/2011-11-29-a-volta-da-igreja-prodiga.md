@@ -1,6 +1,7 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

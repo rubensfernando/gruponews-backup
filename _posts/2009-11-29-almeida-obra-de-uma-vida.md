@@ -1,6 +1,7 @@
 ---
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

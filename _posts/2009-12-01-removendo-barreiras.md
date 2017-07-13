@@ -1,6 +1,8 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

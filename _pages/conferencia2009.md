@@ -1,6 +1,7 @@
 ---
 ID: 1027
 post_title: A Conferência 2009
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

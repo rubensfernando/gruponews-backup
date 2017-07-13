@@ -1,6 +1,7 @@
 ---
 ID: 1482
 post_title: Vivendo como filhos amados de Aba
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

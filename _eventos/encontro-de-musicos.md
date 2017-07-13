@@ -1,6 +1,7 @@
 ---
 ID: 4863
 post_title: Encontro de Músicos
+image: ""
 post_excerpt: ""
 layout: event
 permalink: >

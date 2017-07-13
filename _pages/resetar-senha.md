@@ -1,6 +1,7 @@
 ---
 ID: 2131
 post_title: Esqueceu a senha?
+image: ""
 post_excerpt: ""
 layout: page
 permalink: >

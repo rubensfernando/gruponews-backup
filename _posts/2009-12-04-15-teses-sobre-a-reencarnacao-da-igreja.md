@@ -3,6 +3,8 @@ ID: 413
 post_title: >
   15 teses sobre a reencarnação da
   igreja
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

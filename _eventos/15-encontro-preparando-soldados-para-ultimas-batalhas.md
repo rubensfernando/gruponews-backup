@@ -3,6 +3,8 @@ ID: 3567
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x720.jpg
 post_excerpt: ""
 layout: event
 permalink: >

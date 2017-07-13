@@ -1,6 +1,7 @@
 ---
 ID: 1885
 post_title: O milagre da visita
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

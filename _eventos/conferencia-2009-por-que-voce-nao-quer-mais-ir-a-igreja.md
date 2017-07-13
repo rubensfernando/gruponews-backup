@@ -1,6 +1,8 @@
 ---
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 post_excerpt: ""
 layout: event
 permalink: >

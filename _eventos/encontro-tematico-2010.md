@@ -1,6 +1,8 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
 post_excerpt: ""
 layout: event
 permalink: >

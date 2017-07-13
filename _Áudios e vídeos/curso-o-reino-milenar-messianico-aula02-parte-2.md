@@ -1,6 +1,8 @@
 ---
 ID: 2629
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02 &#8211; Parte 2'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma2-pt2.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

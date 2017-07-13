@@ -1,6 +1,7 @@
 ---
 ID: 1177
 post_title: 'O Projeto de Reevangelização &#8211; aulas de segunda-feira'
+image: ""
 post_excerpt: ""
 layout: post
 permalink: >

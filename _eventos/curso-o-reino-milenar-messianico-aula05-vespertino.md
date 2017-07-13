@@ -1,6 +1,8 @@
 ---
 ID: 2724
 post_title: 'Curso “O Reino Milenar Messiânico” #aula05 &#8211; Vespertino'
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
 post_excerpt: ""
 layout: event
 permalink: >

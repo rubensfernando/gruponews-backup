@@ -3,6 +3,8 @@ ID: 125
 post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
 post_excerpt: ""
 layout: post
 permalink: >

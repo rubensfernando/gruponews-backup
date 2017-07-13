@@ -1,6 +1,8 @@
 ---
 ID: 55
 post_title: A Oração de Maria
+image: >
+  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-960x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
