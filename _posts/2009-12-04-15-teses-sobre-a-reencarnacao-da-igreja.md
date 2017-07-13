@@ -4,11 +4,7 @@ post_title: >
   15 teses sobre a reencarnação da
   igreja
 author: ' <a href="https://www.gruponews.com.br/autor/wolfgang-simson" rel="tag">Wolfgang Simson</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/lar" rel="tag">Lar</a>, <a href="https://www.gruponews.com.br/tag/lares" rel="tag">Lares</a>, <a href="https://www.gruponews.com.br/tag/reencarnacao" rel="tag">reencarnação</a>, <a href="https://www.gruponews.com.br/tag/reencarnar" rel="tag">reencarnar</a>, <a href="https://www.gruponews.com.br/tag/simson" rel="tag">Simson</a>, <a href="https://www.gruponews.com.br/tag/wolfgang" rel="tag">Wolfgang</a>, <a href="https://www.gruponews.com.br/tag/wolfgang-simson" rel="tag">Wolfgang Simson</a>'
 post_excerpt: ""
 layout: post
 permalink: >

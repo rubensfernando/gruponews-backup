@@ -2,11 +2,7 @@
 ID: 38
 post_title: Eventos
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/eventos

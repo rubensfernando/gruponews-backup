@@ -2,11 +2,7 @@
 ID: 172
 post_title: Removendo Barreiras
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-silva" rel="tag">Paulo Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/barreira" rel="tag">Barreira</a>, <a href="https://www.gruponews.com.br/tag/evangelismo" rel="tag">Evangelismo</a>, <a href="https://www.gruponews.com.br/tag/fe" rel="tag">Fé</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/incredulidade" rel="tag">Incredulidade</a>, <a href="https://www.gruponews.com.br/tag/liberdade" rel="tag">Liberdade</a>, <a href="https://www.gruponews.com.br/tag/preconceito" rel="tag">Preconceito</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

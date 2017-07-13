@@ -2,11 +2,7 @@
 ID: 3927
 post_title: O sonho de Deus
 author: ' <a href="https://www.gruponews.com.br/autor/moacir-alves-faria" rel="tag">Moacir Alves Faria</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/sonho-de-deus" rel="tag">sonho de Deus</a>'
 post_excerpt: ""
 layout: post
 permalink: >

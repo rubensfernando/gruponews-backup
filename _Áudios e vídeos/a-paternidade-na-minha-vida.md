@@ -2,11 +2,7 @@
 ID: 3036
 post_title: A Paternidade na minha vida
 author: ' <a href="https://www.gruponews.com.br/autor/junior-cesar" rel="tag">Junior César</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

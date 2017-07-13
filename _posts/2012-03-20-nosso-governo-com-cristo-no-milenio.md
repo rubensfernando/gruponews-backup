@@ -2,11 +2,7 @@
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>, <a href="https://www.gruponews.com.br/tag/suas" rel="tag">suas</a>'
 post_excerpt: ""
 layout: post
 permalink: >

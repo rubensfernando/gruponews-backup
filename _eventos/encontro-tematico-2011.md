@@ -2,11 +2,7 @@
 ID: 1565
 post_title: Encontro Temático 2011
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>'
 post_excerpt: ""
 layout: event
 permalink: >

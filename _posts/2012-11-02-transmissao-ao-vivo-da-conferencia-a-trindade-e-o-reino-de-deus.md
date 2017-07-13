@@ -2,11 +2,7 @@
 ID: 2770
 post_title: 'Transmissão ao vivo da Conferência &#8220;A Trindade e o Reino de Deus&#8221;'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

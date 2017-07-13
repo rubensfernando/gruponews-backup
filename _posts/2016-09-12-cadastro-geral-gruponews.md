@@ -2,11 +2,7 @@
 ID: 4751
 post_title: Cadastro Geral GrupoNews
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/featured" rel="tag">featured</a>'
 post_excerpt: ""
 layout: post
 permalink: >

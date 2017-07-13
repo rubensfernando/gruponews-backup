@@ -2,11 +2,7 @@
 ID: 4849
 post_title: 'Pós-imersão 1 &#8211; 2017'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

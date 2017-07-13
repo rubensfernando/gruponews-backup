@@ -4,11 +4,7 @@ post_title: >
   Não imputando aos homens as suas
   transgressões
 author: ' <a href="https://www.gruponews.com.br/autor/jose-carlos-marion" rel="tag">José Carlos Marion</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
 post_excerpt: ""
 layout: post
 permalink: >

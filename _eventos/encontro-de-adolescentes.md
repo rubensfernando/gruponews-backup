@@ -2,11 +2,7 @@
 ID: 4850
 post_title: Encontro de Adolescentes
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

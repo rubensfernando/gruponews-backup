@@ -4,11 +4,7 @@ post_title: >
   Onde estás? Os problemas em fugir de um
   problema
 author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/cordas" rel="tag">cordas</a>, <a href="https://www.gruponews.com.br/tag/eddo" rel="tag">eddo</a>, <a href="https://www.gruponews.com.br/tag/onde-est" rel="tag">onde est</a>, <a href="https://www.gruponews.com.br/tag/princ" rel="tag">princ</a>, <a href="https://www.gruponews.com.br/tag/trindade" rel="tag">trindade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,11 +2,7 @@
 ID: 3628
 post_title: Lidando com o próprio veneno
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
 post_excerpt: ""
 layout: post
 permalink: >

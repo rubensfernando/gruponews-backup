@@ -2,11 +2,7 @@
 ID: 834
 post_title: O Projeto de Reevangelização
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/deste" rel="tag">deste</a>, <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
 post_excerpt: ""
 layout: event
 permalink: >

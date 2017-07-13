@@ -2,11 +2,7 @@
 ID: 1201
 post_title: 'Reevangelização de Ovelhas &#8211; Maurício Bronzatto'
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/fazer" rel="tag">fazer</a>, <a href="https://www.gruponews.com.br/tag/fazia" rel="tag">fazia</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/orar" rel="tag">orar</a>, <a href="https://www.gruponews.com.br/tag/sabiam" rel="tag">sabiam</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

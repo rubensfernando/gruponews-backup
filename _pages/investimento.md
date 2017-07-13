@@ -2,11 +2,7 @@
 ID: 1061
 post_title: Investimento
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

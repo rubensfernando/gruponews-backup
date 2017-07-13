@@ -2,11 +2,7 @@
 ID: 601
 post_title: Reevangelizando
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/evangelismo" rel="tag">Evangelismo</a>, <a href="https://www.gruponews.com.br/tag/ovelhas" rel="tag">ovelhas</a>, <a href="https://www.gruponews.com.br/tag/pedro" rel="tag">Pedro</a>, <a href="https://www.gruponews.com.br/tag/pedro-arruda" rel="tag">Pedro Arruda</a>, <a href="https://www.gruponews.com.br/tag/radio" rel="tag">radio</a>, <a href="https://www.gruponews.com.br/tag/tv" rel="tag">tv</a>'
 post_excerpt: ""
 layout: post
 permalink: >

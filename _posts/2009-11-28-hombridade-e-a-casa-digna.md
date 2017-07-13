@@ -2,11 +2,7 @@
 ID: 44
 post_title: Hombridade e a Casa Digna
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/credibilidade" rel="tag">Credibilidade</a>, <a href="https://www.gruponews.com.br/tag/digna" rel="tag">Digna</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/hombridade" rel="tag">Hombridade</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/hospitaleira" rel="tag">Hospitaleira</a>, <a href="https://www.gruponews.com.br/tag/influencia" rel="tag">Influência</a>, <a href="https://www.gruponews.com.br/tag/pastoreio" rel="tag">Pastoreio</a>, <a href="https://www.gruponews.com.br/tag/prestigio" rel="tag">Prestígio</a>'
 post_excerpt: ""
 layout: post
 permalink: >

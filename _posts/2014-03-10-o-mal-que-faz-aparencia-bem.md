@@ -2,11 +2,7 @@
 ID: 3590
 post_title: O mal que faz a aparência do bem
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/bem-e-mal" rel="tag">bem e mal</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/inocencia" rel="tag">inocência</a>, <a href="https://www.gruponews.com.br/tag/intergridade" rel="tag">intergridade</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

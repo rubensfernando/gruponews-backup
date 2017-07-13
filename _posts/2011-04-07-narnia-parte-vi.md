@@ -2,11 +2,7 @@
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
 author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/a-cadeira-de-prata" rel="tag">A Cadeira de Prata</a>, <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cadeira" rel="tag">cadeira</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/prata" rel="tag">prata</a>'
 post_excerpt: ""
 layout: post
 permalink: >

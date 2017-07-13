@@ -4,11 +4,7 @@ post_title: >
   Inscrições para a aula As Sete
   Alianças
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

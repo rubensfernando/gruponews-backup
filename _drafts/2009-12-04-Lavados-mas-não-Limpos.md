@@ -2,11 +2,7 @@
 ID: 380
 post_title: Lavados, mas não Limpos
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=380

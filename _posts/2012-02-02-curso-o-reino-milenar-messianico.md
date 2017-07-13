@@ -2,11 +2,7 @@
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/messianico" rel="tag">messianico</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/online" rel="tag">online</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

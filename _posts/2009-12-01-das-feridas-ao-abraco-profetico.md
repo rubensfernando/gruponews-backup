@@ -2,11 +2,7 @@
 ID: 97
 post_title: Das Feridas ao Abraço Profético
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/conviver" rel="tag">Conviver</a>, <a href="https://www.gruponews.com.br/tag/coragem" rel="tag">Coragem</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/ferida" rel="tag">Ferida</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/situacoes" rel="tag">Situações</a>, <a href="https://www.gruponews.com.br/tag/unidade" rel="tag">Unidade</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>'
 post_excerpt: ""
 layout: post
 permalink: >

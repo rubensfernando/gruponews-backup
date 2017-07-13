@@ -2,11 +2,7 @@
 ID: 101
 post_title: Deixa que eu pago
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/consumo" rel="tag">Consumo</a>, <a href="https://www.gruponews.com.br/tag/contribuicao" rel="tag">Contribuição</a>, <a href="https://www.gruponews.com.br/tag/coracao" rel="tag">Coração</a>, <a href="https://www.gruponews.com.br/tag/dar" rel="tag">Dar</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/dizimo" rel="tag">Dízimo</a>, <a href="https://www.gruponews.com.br/tag/financas" rel="tag">Finanças</a>, <a href="https://www.gruponews.com.br/tag/regular" rel="tag">Regular</a>, <a href="https://www.gruponews.com.br/tag/voluntario" rel="tag">Voluntário</a>'
 post_excerpt: ""
 layout: post
 permalink: >

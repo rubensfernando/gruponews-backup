@@ -2,11 +2,7 @@
 ID: 3633
 post_title: Em seus passos o que Jesus jamais faria?
 author: ' <a href="https://www.gruponews.com.br/autor/pablo-massolar" rel="tag">Pablo Massolar</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/errado" rel="tag">errado</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/passos" rel="tag">passos</a>'
 post_excerpt: ""
 layout: post
 permalink: >

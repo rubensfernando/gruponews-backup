@@ -2,11 +2,7 @@
 ID: 3627
 post_title: A coletivização do dom
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/coletivo" rel="tag">Coletivo</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/dom" rel="tag">dom</a>, <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
 post_excerpt: ""
 layout: post
 permalink: >

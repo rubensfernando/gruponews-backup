@@ -2,11 +2,7 @@
 ID: 650
 post_title: 'Conferência 2009 &#8211; Por que Você não quer mais ir à Igreja? &#8211; Chamada'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia" rel="tag">conferencia</a>, <a href="https://www.gruponews.com.br/tag/coro" rel="tag">coro</a>, <a href="https://www.gruponews.com.br/tag/fazer" rel="tag">fazer</a>, <a href="https://www.gruponews.com.br/tag/tempo" rel="tag">Tempo</a>, <a href="https://www.gruponews.com.br/tag/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

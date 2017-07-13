@@ -2,11 +2,7 @@
 ID: 3602
 post_title: Recomendações práticas
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>'
 post_excerpt: ""
 layout: post
 permalink: >

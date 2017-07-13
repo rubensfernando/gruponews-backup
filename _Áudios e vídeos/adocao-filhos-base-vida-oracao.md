@@ -2,11 +2,7 @@
 ID: 3457
 post_title: 'Encristus 2013 &#8211; Adoção de filhos, base da vida de oração'
 author: ' <a href="https://www.gruponews.com.br/autor/pe-marcial-macaneiro" rel="tag">Pe Marcial Maçaneiro</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

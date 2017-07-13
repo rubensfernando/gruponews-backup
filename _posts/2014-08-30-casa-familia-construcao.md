@@ -2,11 +2,7 @@
 ID: 3899
 post_title: 'Casa, Família &#038; Construção'
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2008-a-igreja-do-nosso-tempo" rel="tag">Conferência "A igreja do nosso tempo"</a>'
 post_excerpt: ""
 layout: post
 permalink: >

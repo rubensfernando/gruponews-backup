@@ -2,11 +2,7 @@
 ID: 2874
 post_title: Descobrindo um caminho seguro
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/mensagem" rel="tag">mensagem</a>'
 post_excerpt: ""
 layout: post
 permalink: >

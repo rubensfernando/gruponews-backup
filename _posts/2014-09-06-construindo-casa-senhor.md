@@ -2,11 +2,7 @@
 ID: 3917
 post_title: Construindo a casa do Senhor
 author: ' <a href="https://www.gruponews.com.br/autor/rosane-faria" rel="tag">Rosane Faria</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>'
 post_excerpt: ""
 layout: post
 permalink: >

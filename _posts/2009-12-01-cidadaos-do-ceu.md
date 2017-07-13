@@ -2,11 +2,7 @@
 ID: 142
 post_title: Cidadãos do Céu
 author: ' <a href="https://www.gruponews.com.br/autor/valmir-mathiazi" rel="tag">Valmir Mathiazi</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/carne" rel="tag">Carne</a>, <a href="https://www.gruponews.com.br/tag/cotidiano" rel="tag">Cotidiano</a>, <a href="https://www.gruponews.com.br/tag/cristaos" rel="tag">Cristãos</a>, <a href="https://www.gruponews.com.br/tag/diferente" rel="tag">Diferente</a>, <a href="https://www.gruponews.com.br/tag/discernimento" rel="tag">Discernimento</a>, <a href="https://www.gruponews.com.br/tag/mundo" rel="tag">Mundo</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>, <a href="https://www.gruponews.com.br/tag/valores" rel="tag">Valores</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -4,11 +4,7 @@ post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
 author: ' <a href="https://www.gruponews.com.br/autor/ivonete-camargo-pegnolazzo" rel="tag">Ivonete Camargo Pegnolazzo</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/arvore" rel="tag">Arvore</a>, <a href="https://www.gruponews.com.br/tag/bem" rel="tag">Bem</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conhecimento" rel="tag">Conhecimento</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/internet" rel="tag">Internet</a>, <a href="https://www.gruponews.com.br/tag/mal" rel="tag">Mal</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/televisao" rel="tag">Televisão</a>'
 post_excerpt: ""
 layout: post
 permalink: >

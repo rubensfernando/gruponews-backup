@@ -2,11 +2,7 @@
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/arruda" rel="tag">Arruda</a>, <a href="https://www.gruponews.com.br/tag/brasil" rel="tag">Brasil</a>, <a href="https://www.gruponews.com.br/tag/conferencia" rel="tag">conferencia</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/gino" rel="tag">Gino</a>, <a href="https://www.gruponews.com.br/tag/iafrancesco" rel="tag">Iafrancesco</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/macaneiro" rel="tag">Maçaneiro</a>, <a href="https://www.gruponews.com.br/tag/marcial" rel="tag">Marcial</a>, <a href="https://www.gruponews.com.br/tag/outubro" rel="tag">Outubro</a>, <a href="https://www.gruponews.com.br/tag/pedro" rel="tag">Pedro</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/retorno" rel="tag">retorno</a>, <a href="https://www.gruponews.com.br/tag/villegas" rel="tag">Villegas</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
 post_excerpt: ""
 layout: event
 permalink: >

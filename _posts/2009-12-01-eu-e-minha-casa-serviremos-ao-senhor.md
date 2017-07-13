@@ -2,11 +2,7 @@
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/pai" rel="tag">Pai</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/unidade" rel="tag">Unidade</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

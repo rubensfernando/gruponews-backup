@@ -2,11 +2,7 @@
 ID: 152
 post_title: Comunhão e Confissão
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/acolher" rel="tag">Acolher</a>, <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/confidencial" rel="tag">Confidencial</a>, <a href="https://www.gruponews.com.br/tag/confissao" rel="tag">Confissão</a>, <a href="https://www.gruponews.com.br/tag/forte" rel="tag">Forte</a>, <a href="https://www.gruponews.com.br/tag/fraqueza" rel="tag">Fraqueza</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/segredo" rel="tag">Segredo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

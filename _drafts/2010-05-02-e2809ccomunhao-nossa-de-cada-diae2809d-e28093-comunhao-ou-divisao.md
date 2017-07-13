@@ -4,11 +4,7 @@ post_title: >
   “Comunhão nossa de cada dia” –
   Comunhão ou divisão?
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/unidade" rel="tag">Unidade</a>'
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=799

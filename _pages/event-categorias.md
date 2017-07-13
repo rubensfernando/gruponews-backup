@@ -2,11 +2,7 @@
 ID: 2208
 post_title: Event Categorias
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

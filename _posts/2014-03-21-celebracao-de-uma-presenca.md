@@ -2,11 +2,7 @@
 ID: 3597
 post_title: A celebração de uma presença
 author: ' <a href="https://www.gruponews.com.br/autor/pr-rui-luis-rodrigues" rel="tag">Pr. Rui Luis Rodrigues</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunidade" rel="tag">Comunidade</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/experiencia" rel="tag">experiência</a>, <a href="https://www.gruponews.com.br/tag/milagre" rel="tag">Milagre</a>, <a href="https://www.gruponews.com.br/tag/presenca" rel="tag">presença</a>'
 post_excerpt: ""
 layout: post
 permalink: >

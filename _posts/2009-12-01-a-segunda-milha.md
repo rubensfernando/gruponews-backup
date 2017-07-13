@@ -2,11 +2,7 @@
 ID: 86
 post_title: A Segunda Milha
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/caminhar" rel="tag">Caminhar</a>, <a href="https://www.gruponews.com.br/tag/conceito" rel="tag">Conceito</a>, <a href="https://www.gruponews.com.br/tag/ganhar" rel="tag">Ganhar</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/lei" rel="tag">Lei</a>, <a href="https://www.gruponews.com.br/tag/milha" rel="tag">Milha</a>, <a href="https://www.gruponews.com.br/tag/obrigacao" rel="tag">Obrigação</a>, <a href="https://www.gruponews.com.br/tag/perder" rel="tag">Perder</a>, <a href="https://www.gruponews.com.br/tag/praticar" rel="tag">Praticar</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>'
 post_excerpt: ""
 layout: post
 permalink: >

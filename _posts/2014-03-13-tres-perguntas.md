@@ -2,11 +2,7 @@
 ID: 3603
 post_title: As três perguntas
 author: ' <a href="https://www.gruponews.com.br/autor/leon-tolstoi" rel="tag">Leon Tolstói</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

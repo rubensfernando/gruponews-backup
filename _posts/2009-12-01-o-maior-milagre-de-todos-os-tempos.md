@@ -2,11 +2,7 @@
 ID: 122
 post_title: O maior milagre de todos os tempos
 author: ' <a href="https://www.gruponews.com.br/autor/carlos-augusto" rel="tag">Carlos Augusto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/alma" rel="tag">Alma</a>, <a href="https://www.gruponews.com.br/tag/corpo" rel="tag">Corpo</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/milagre" rel="tag">Milagre</a>, <a href="https://www.gruponews.com.br/tag/nascer" rel="tag">Nascer</a>, <a href="https://www.gruponews.com.br/tag/nova" rel="tag">Nova</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

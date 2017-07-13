@@ -2,11 +2,7 @@
 ID: 131
 post_title: Servindo a Deus em meio à dor
 author: ' <a href="https://www.gruponews.com.br/autor/leticia-franca" rel="tag">Letícia França</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/dor" rel="tag">Dor</a>, <a href="https://www.gruponews.com.br/tag/envergonhado" rel="tag">Envergonhado</a>, <a href="https://www.gruponews.com.br/tag/obedecer" rel="tag">Obedecer</a>, <a href="https://www.gruponews.com.br/tag/pecado" rel="tag">Pecado</a>, <a href="https://www.gruponews.com.br/tag/provacao" rel="tag">Provação</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/suportar" rel="tag">Suportar</a>, <a href="https://www.gruponews.com.br/tag/tristeza" rel="tag">Tristeza</a>'
 post_excerpt: ""
 layout: post
 permalink: >

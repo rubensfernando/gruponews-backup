@@ -2,11 +2,7 @@
 ID: 146
 post_title: A Igreja Doméstica
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/clero" rel="tag">Clero</a>, <a href="https://www.gruponews.com.br/tag/denominacao" rel="tag">Denominação</a>, <a href="https://www.gruponews.com.br/tag/domestica" rel="tag">Doméstica</a>, <a href="https://www.gruponews.com.br/tag/estrutura" rel="tag">Estrutura</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/familiar" rel="tag">Familiar</a>, <a href="https://www.gruponews.com.br/tag/grupos" rel="tag">Grupos</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/instituicoes" rel="tag">Instituições</a>, <a href="https://www.gruponews.com.br/tag/lares" rel="tag">Lares</a>, <a href="https://www.gruponews.com.br/tag/leigo" rel="tag">Leigo</a>, <a href="https://www.gruponews.com.br/tag/reconciliacao" rel="tag">Reconciliação</a>, <a href="https://www.gruponews.com.br/tag/templo" rel="tag">Templo</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

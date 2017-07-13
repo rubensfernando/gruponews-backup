@@ -2,11 +2,7 @@
 ID: 1287
 post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/cristianismo" rel="tag">cristianismo</a>, <a href="https://www.gruponews.com.br/tag/divisoes" rel="tag">divisões</a>, <a href="https://www.gruponews.com.br/tag/divorcio" rel="tag">Divórcio</a>, <a href="https://www.gruponews.com.br/tag/falha" rel="tag">falha</a>, <a href="https://www.gruponews.com.br/tag/musica" rel="tag">Musica</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/profetica" rel="tag">profética</a>, <a href="https://www.gruponews.com.br/tag/reconciliacao" rel="tag">Reconciliação</a>, <a href="https://www.gruponews.com.br/tag/uniao" rel="tag">União</a>, <a href="https://www.gruponews.com.br/tag/vitimas" rel="tag">vítimas</a>'
 post_excerpt: ""
 layout: post
 permalink: >

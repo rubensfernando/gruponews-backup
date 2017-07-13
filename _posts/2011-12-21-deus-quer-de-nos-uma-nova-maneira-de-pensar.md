@@ -4,11 +4,7 @@ post_title: >
   Deus quer de nós uma nova maneira de
   pensar
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-71" rel="tag">edicao-71</a>, <a href="https://www.gruponews.com.br/tag/pensar" rel="tag">pensar</a>'
 post_excerpt: ""
 layout: post
 permalink: >

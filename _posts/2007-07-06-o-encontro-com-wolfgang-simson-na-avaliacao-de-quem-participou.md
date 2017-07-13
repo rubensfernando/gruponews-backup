@@ -4,11 +4,7 @@ post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>, <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/testemunhos" rel="tag">testemunhos</a>'
 post_excerpt: ""
 layout: post
 permalink: >

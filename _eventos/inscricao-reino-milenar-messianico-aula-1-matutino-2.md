@@ -2,11 +2,7 @@
 ID: 2310
 post_title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

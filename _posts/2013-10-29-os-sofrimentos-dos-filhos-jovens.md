@@ -2,11 +2,7 @@
 ID: 3408
 post_title: Os sofrimentos dos filhos jovens
 author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/divorcio" rel="tag">Divórcio</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/jovem" rel="tag">jovem</a>, <a href="https://www.gruponews.com.br/tag/problemas" rel="tag">problemas</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -4,11 +4,7 @@ post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
 author: ' <a href="https://www.gruponews.com.br/autor/rosane-faria" rel="tag">Rosane Faria</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/gloria" rel="tag">Glória</a>, <a href="https://www.gruponews.com.br/tag/habitar" rel="tag">Habitar</a>, <a href="https://www.gruponews.com.br/tag/interior" rel="tag">Interior</a>, <a href="https://www.gruponews.com.br/tag/morar" rel="tag">Morar</a>, <a href="https://www.gruponews.com.br/tag/nova" rel="tag">Nova</a>, <a href="https://www.gruponews.com.br/tag/transformar" rel="tag">Transformar</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

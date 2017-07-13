@@ -2,11 +2,7 @@
 ID: 1379
 post_title: Revelação maior que a de Daniel
 author: ' <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/anglicanos" rel="tag">anglicanos</a>, <a href="https://www.gruponews.com.br/tag/conferencia-cristo" rel="tag">Conferência "Cristo</a>, <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/livro-de-daniel" rel="tag">Livro de Daniel</a>, <a href="https://www.gruponews.com.br/tag/o-reino-e-a-igreja" rel="tag">o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

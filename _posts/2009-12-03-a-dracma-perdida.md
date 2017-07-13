@@ -2,11 +2,7 @@
 ID: 41
 post_title: A dracma perdida
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/a-dracma-perdida" rel="tag">A dracma perdida</a>, <a href="https://www.gruponews.com.br/tag/acender" rel="tag">Acender</a>, <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/dracma" rel="tag">Dracma</a>, <a href="https://www.gruponews.com.br/tag/encontrar" rel="tag">Encontrar</a>, <a href="https://www.gruponews.com.br/tag/noiva" rel="tag">Noiva</a>, <a href="https://www.gruponews.com.br/tag/noivo" rel="tag">Noivo</a>, <a href="https://www.gruponews.com.br/tag/parabola" rel="tag">Parábola</a>, <a href="https://www.gruponews.com.br/tag/perdida" rel="tag">Perdida</a>, <a href="https://www.gruponews.com.br/tag/procurar" rel="tag">Procurar</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

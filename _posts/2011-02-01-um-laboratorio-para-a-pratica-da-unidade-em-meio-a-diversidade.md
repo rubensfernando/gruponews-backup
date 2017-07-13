@@ -4,11 +4,7 @@ post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>, <a href="https://www.gruponews.com.br/autor/equipe-organizadora" rel="tag">Equipe organizadora</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/riqueza" rel="tag">Riqueza</a>'
 post_excerpt: ""
 layout: post
 permalink: >

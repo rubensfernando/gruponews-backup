@@ -2,11 +2,7 @@
 ID: 805
 post_title: '“Comunhão nossa de cada dia” &#8211; Comunhão e separação à maneira de Deus'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>'
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=805

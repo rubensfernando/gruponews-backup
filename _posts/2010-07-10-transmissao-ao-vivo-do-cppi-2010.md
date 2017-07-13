@@ -2,11 +2,7 @@
 ID: 906
 post_title: Transmissão Ao Vivo do CPPI 2010
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/cppi" rel="tag">CPPI</a>, <a href="https://www.gruponews.com.br/tag/profeticos" rel="tag">Proféticos</a>, <a href="https://www.gruponews.com.br/tag/transmissao" rel="tag">Transmissão</a>, <a href="https://www.gruponews.com.br/tag/tv" rel="tag">tv</a>, <a href="https://www.gruponews.com.br/tag/veja" rel="tag">veja</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,11 +2,7 @@
 ID: 129
 post_title: Secularização na igreja
 author: ' <a href="https://www.gruponews.com.br/autor/wailton-de-carvalho" rel="tag">Wailton de Carvalho</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aceitar" rel="tag">Aceitar</a>, <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/discernir" rel="tag">Discernir</a>, <a href="https://www.gruponews.com.br/tag/historia" rel="tag">História</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/religiosa" rel="tag">Religiosa</a>, <a href="https://www.gruponews.com.br/tag/secularizacao" rel="tag">Secularização</a>, <a href="https://www.gruponews.com.br/tag/valores" rel="tag">Valores</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

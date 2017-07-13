@@ -4,11 +4,7 @@ post_title: >
   CPPI 2011 – Áudios da palestra de
   Quinta 21de Julho
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -2,11 +2,7 @@
 ID: 78
 post_title: A Estratégia Final
 author: ' <a href="https://www.gruponews.com.br/autor/carlos-araripe" rel="tag">Carlos Araripe</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/batalha" rel="tag">Batalha</a>, <a href="https://www.gruponews.com.br/tag/estrategia" rel="tag">Estratégia</a>, <a href="https://www.gruponews.com.br/tag/guerra" rel="tag">Guerra</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/inimigo" rel="tag">Inimigo</a>, <a href="https://www.gruponews.com.br/tag/louvor" rel="tag">Louvor</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
 post_excerpt: ""
 layout: post
 permalink: >

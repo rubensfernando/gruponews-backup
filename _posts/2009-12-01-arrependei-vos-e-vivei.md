@@ -2,11 +2,7 @@
 ID: 93
 post_title: Arrependei-vos e Vivei
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-pontello" rel="tag">Mauricio Pontello</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/pecado" rel="tag">Pecado</a>, <a href="https://www.gruponews.com.br/tag/pecar" rel="tag">Pecar</a>, <a href="https://www.gruponews.com.br/tag/santidade" rel="tag">Santidade</a>, <a href="https://www.gruponews.com.br/tag/satisfazer" rel="tag">Satisfazer</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vergonha" rel="tag">Vergonha</a>, <a href="https://www.gruponews.com.br/tag/viver" rel="tag">Viver</a>'
 post_excerpt: ""
 layout: post
 permalink: >

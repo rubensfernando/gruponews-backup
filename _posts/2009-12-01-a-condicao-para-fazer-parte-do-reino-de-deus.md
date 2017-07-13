@@ -4,11 +4,7 @@ post_title: >
   A condição para fazer parte do Reino
   de Deus
 author: ' <a href="https://www.gruponews.com.br/autor/valter-severino" rel="tag">Valter Severino</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/arrependimento" rel="tag">Arrependimento</a>, <a href="https://www.gruponews.com.br/tag/buscar" rel="tag">Buscar</a>, <a href="https://www.gruponews.com.br/tag/ceus" rel="tag">Céus</a>, <a href="https://www.gruponews.com.br/tag/condicao" rel="tag">Condição</a>, <a href="https://www.gruponews.com.br/tag/engano" rel="tag">Engano</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/inferno" rel="tag">Inferno</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>, <a href="https://www.gruponews.com.br/tag/resolver" rel="tag">Resolver</a>'
 post_excerpt: ""
 layout: post
 permalink: >

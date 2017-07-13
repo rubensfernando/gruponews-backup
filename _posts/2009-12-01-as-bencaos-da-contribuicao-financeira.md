@@ -4,11 +4,7 @@ post_title: >
   As Bênçãos da Contribuição
   Financeira
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/alegria" rel="tag">Alegria</a>, <a href="https://www.gruponews.com.br/tag/contribuicao" rel="tag">Contribuição</a>, <a href="https://www.gruponews.com.br/tag/contribuir" rel="tag">Contribuir</a>, <a href="https://www.gruponews.com.br/tag/dizimo" rel="tag">Dízimo</a>, <a href="https://www.gruponews.com.br/tag/estudo" rel="tag">Estudo</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/falta" rel="tag">Falta</a>, <a href="https://www.gruponews.com.br/tag/financas" rel="tag">Finanças</a>, <a href="https://www.gruponews.com.br/tag/prosperidade" rel="tag">Prosperidade</a>, <a href="https://www.gruponews.com.br/tag/regular" rel="tag">Regular</a>, <a href="https://www.gruponews.com.br/tag/sobra" rel="tag">Sobra</a>, <a href="https://www.gruponews.com.br/tag/sustentar" rel="tag">Sustentar</a>'
 post_excerpt: ""
 layout: post
 permalink: >

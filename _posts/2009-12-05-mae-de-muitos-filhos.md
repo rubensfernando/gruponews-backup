@@ -2,11 +2,7 @@
 ID: 378
 post_title: Mãe de Muitos Filhos
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/chamado" rel="tag">chamado</a>, <a href="https://www.gruponews.com.br/tag/comeco" rel="tag">Começo</a>, <a href="https://www.gruponews.com.br/tag/elza" rel="tag">Elza</a>, <a href="https://www.gruponews.com.br/tag/franco" rel="tag">Franco</a>, <a href="https://www.gruponews.com.br/tag/grupo" rel="tag">Grupo</a>, <a href="https://www.gruponews.com.br/tag/historia" rel="tag">História</a>, <a href="https://www.gruponews.com.br/tag/inicio" rel="tag">inicio</a>, <a href="https://www.gruponews.com.br/tag/mae" rel="tag">Mae</a>, <a href="https://www.gruponews.com.br/tag/principio" rel="tag">principio</a>, <a href="https://www.gruponews.com.br/tag/senhor" rel="tag">Senhor</a>'
 post_excerpt: ""
 layout: post
 permalink: >

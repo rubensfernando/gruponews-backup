@@ -2,11 +2,7 @@
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
 author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>'
 post_excerpt: ""
 layout: post
 permalink: >

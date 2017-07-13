@@ -4,11 +4,7 @@ post_title: >
   Assim brilhe a vossa luz diante dos
   homens
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/revelacao" rel="tag">revelação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

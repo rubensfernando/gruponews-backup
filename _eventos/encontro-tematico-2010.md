@@ -2,11 +2,7 @@
 ID: 818
 post_title: Encontro Temático 2010
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/tudo" rel="tag">Tudo</a>, <a href="https://www.gruponews.com.br/tag/viver" rel="tag">Viver</a>'
 post_excerpt: ""
 layout: event
 permalink: >

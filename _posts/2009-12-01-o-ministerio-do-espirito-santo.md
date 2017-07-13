@@ -2,11 +2,7 @@
 ID: 148
 post_title: O Ministério do Espírito Santo
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/coletivo" rel="tag">Coletivo</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/converter" rel="tag">Converter</a>, <a href="https://www.gruponews.com.br/tag/coracao" rel="tag">Coração</a>, <a href="https://www.gruponews.com.br/tag/corpo" rel="tag">Corpo</a>, <a href="https://www.gruponews.com.br/tag/derramar" rel="tag">Derramar</a>, <a href="https://www.gruponews.com.br/tag/diariamente" rel="tag">Diariamente</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/habitar" rel="tag">Habitar</a>, <a href="https://www.gruponews.com.br/tag/individual" rel="tag">Individual</a>, <a href="https://www.gruponews.com.br/tag/ministerio" rel="tag">Ministério</a>, <a href="https://www.gruponews.com.br/tag/plural" rel="tag">Plural</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/templo" rel="tag">Templo</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
 post_excerpt: ""
 layout: post
 permalink: >

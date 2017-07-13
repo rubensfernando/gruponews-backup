@@ -4,11 +4,7 @@ post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
 author: ' <a href="https://www.gruponews.com.br/autor/offini-franco" rel="tag">Offini Franco</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/buscar" rel="tag">Buscar</a>, <a href="https://www.gruponews.com.br/tag/caminho" rel="tag">Caminho</a>, <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/desobedecer" rel="tag">Desobedecer</a>, <a href="https://www.gruponews.com.br/tag/estreito" rel="tag">Estreito</a>, <a href="https://www.gruponews.com.br/tag/exortacao" rel="tag">Exortação</a>, <a href="https://www.gruponews.com.br/tag/impio" rel="tag">Ímpio</a>, <a href="https://www.gruponews.com.br/tag/largo" rel="tag">Largo</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
 post_excerpt: ""
 layout: post
 permalink: >

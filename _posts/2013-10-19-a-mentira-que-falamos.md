@@ -2,11 +2,7 @@
 ID: 2869
 post_title: A mentira que falamos
 author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/autom" rel="tag">autom</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>'
 post_excerpt: ""
 layout: post
 permalink: >

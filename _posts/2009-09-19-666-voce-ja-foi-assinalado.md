@@ -2,11 +2,7 @@
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/anticristo" rel="tag">Anticristo</a>, <a href="https://www.gruponews.com.br/tag/apocalipse" rel="tag">Apocalipse</a>, <a href="https://www.gruponews.com.br/tag/assinalar" rel="tag">Assinalar</a>, <a href="https://www.gruponews.com.br/tag/decisao" rel="tag">Decisão</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/mao" rel="tag">Mão</a>, <a href="https://www.gruponews.com.br/tag/marca-da-besta" rel="tag">Marca da besta</a>, <a href="https://www.gruponews.com.br/tag/mentira" rel="tag">Mentira</a>, <a href="https://www.gruponews.com.br/tag/nome" rel="tag">Nome</a>, <a href="https://www.gruponews.com.br/tag/sistema" rel="tag">Sistema</a>'
 post_excerpt: ""
 layout: post
 permalink: >

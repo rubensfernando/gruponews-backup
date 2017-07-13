@@ -2,11 +2,7 @@
 ID: 2109
 post_title: Tempo de edificar
 author: ' <a href="https://www.gruponews.com.br/autor/willian-diego-pereira" rel="tag">Willian Diego Pereira</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

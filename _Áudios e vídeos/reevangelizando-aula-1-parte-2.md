@@ -2,11 +2,7 @@
 ID: 674
 post_title: Reevangelizando – Aula 1 – Parte 2
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/arruda" rel="tag">Arruda</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -2,11 +2,7 @@
 ID: 4651
 post_title: Conferência Internacional 2016
 author: ' <a href="https://www.gruponews.com.br/autor/benjamim-berger" rel="tag">Benjamim Berger</a>, <a href="https://www.gruponews.com.br/autor/harold-walker" rel="tag">Harold Walker</a>, <a href="https://www.gruponews.com.br/autor/irma-adola" rel="tag">Irma Ádola</a>, <a href="https://www.gruponews.com.br/autor/irma-nechama" rel="tag">Irmã Nechama</a>, <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/featured" rel="tag">featured</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

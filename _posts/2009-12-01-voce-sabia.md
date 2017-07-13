@@ -2,11 +2,7 @@
 ID: 163
 post_title: 'Você sabia&#8230;'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/biblia" rel="tag">Bíblia</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/evangelho" rel="tag">Evangelho</a>, <a href="https://www.gruponews.com.br/tag/historia" rel="tag">História</a>, <a href="https://www.gruponews.com.br/tag/impressa" rel="tag">Impressa</a>, <a href="https://www.gruponews.com.br/tag/jerusalem" rel="tag">Jerusalém</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/personagem" rel="tag">Personagem</a>, <a href="https://www.gruponews.com.br/tag/testamento" rel="tag">Testamento</a>, <a href="https://www.gruponews.com.br/tag/versiculo" rel="tag">Versículo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

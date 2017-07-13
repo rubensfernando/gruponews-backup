@@ -4,11 +4,7 @@ post_title: >
   O futuro não é mais como era
   antigamente
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>, <a href="https://www.gruponews.com.br/tag/editorial" rel="tag">editorial</a>'
 post_excerpt: ""
 layout: post
 permalink: >

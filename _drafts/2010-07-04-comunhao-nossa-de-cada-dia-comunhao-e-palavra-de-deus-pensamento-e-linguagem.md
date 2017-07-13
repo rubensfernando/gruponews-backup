@@ -2,11 +2,7 @@
 ID: 875
 post_title: '“Comunhão nossa de cada dia” – Comunhão e Palavra de Deus: pensamento e linguagem'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/biblia" rel="tag">Bíblia</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=875

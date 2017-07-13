@@ -2,11 +2,7 @@
 ID: 156
 post_title: Curiosidades sobre a Bíblia
 author: ' <a href="https://www.gruponews.com.br/autor/sociedade-biblica-do-brasil" rel="tag">Sociedade Bíblica do Brasil</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/almeida" rel="tag">Almeida</a>, <a href="https://www.gruponews.com.br/tag/biblia" rel="tag">Bíblia</a>, <a href="https://www.gruponews.com.br/tag/capitulos" rel="tag">Capítulos</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/escreveu" rel="tag">Escreveu</a>, <a href="https://www.gruponews.com.br/tag/inspirados" rel="tag">Inspirados</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/testamento" rel="tag">Testamento</a>, <a href="https://www.gruponews.com.br/tag/traducao" rel="tag">Tradução</a>, <a href="https://www.gruponews.com.br/tag/versiculos" rel="tag">Versículos</a>'
 post_excerpt: ""
 layout: post
 permalink: >

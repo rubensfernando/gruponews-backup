@@ -4,11 +4,7 @@ post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/pedro-arruda" rel="tag">Pedro Arruda</a>'
 post_excerpt: ""
 layout: post
 permalink: >

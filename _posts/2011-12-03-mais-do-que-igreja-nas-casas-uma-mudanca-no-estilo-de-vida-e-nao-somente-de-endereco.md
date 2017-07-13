@@ -2,11 +2,7 @@
 ID: 1965
 post_title: 'Mais do que igreja nas casas: uma mudança no estilo de vida, e não somente de endereço'
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

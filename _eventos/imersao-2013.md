@@ -2,11 +2,7 @@
 ID: 2782
 post_title: Imersão 2013
 author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

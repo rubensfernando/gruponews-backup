@@ -2,11 +2,7 @@
 ID: 3458
 post_title: 'Encristus 2013 &#8211; A horizontalidade da vida de oração'
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

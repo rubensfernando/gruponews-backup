@@ -2,11 +2,7 @@
 ID: 3945
 post_title: A vingança do amor
 author: ' <a href="https://www.gruponews.com.br/autor/pe-leo" rel="tag">Pe. Léo</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>, <a href="https://www.gruponews.com.br/tag/estas-historias-tu-as-inculcaras-a-teus-filhos-cf-dt-66-7" rel="tag">ESTAS HISTÓRIAS... TU AS INCULCARÁS A TEUS FILHOS (cf. Dt 6:6-7)</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,11 +2,7 @@
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/contrastes" rel="tag">contrastes</a>, <a href="https://www.gruponews.com.br/tag/irrepreensivel" rel="tag">irrepreensível</a>, <a href="https://www.gruponews.com.br/tag/pessoas" rel="tag">pessoas</a>, <a href="https://www.gruponews.com.br/tag/santidade" rel="tag">Santidade</a>, <a href="https://www.gruponews.com.br/tag/santo" rel="tag">santo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

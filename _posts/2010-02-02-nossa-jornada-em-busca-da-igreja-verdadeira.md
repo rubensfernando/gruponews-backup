@@ -4,11 +4,7 @@ post_title: >
   Nossa jornada em busca da igreja
   verdadeira
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/casas" rel="tag">casas</a>, <a href="https://www.gruponews.com.br/tag/desigrejados" rel="tag">Desigrejados</a>, <a href="https://www.gruponews.com.br/tag/edicao-64" rel="tag">edicao-64</a>, <a href="https://www.gruponews.com.br/tag/por-que-voce-nao-quer-mais-ir-a-igreja" rel="tag">Por que Você Não Quer Mais Ir À Igreja?</a>, <a href="https://www.gruponews.com.br/tag/sem-igreja" rel="tag">sem igreja</a>'
 post_excerpt: ""
 layout: post
 permalink: >

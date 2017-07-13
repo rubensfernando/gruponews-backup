@@ -2,11 +2,7 @@
 ID: 1816
 post_title: 'CPPI 2011 &#8211; Áudios das palestras de terça 19 de Julho'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

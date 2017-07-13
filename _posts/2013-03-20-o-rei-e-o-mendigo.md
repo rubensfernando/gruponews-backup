@@ -2,11 +2,7 @@
 ID: 2876
 post_title: O rei e o mendigo
 author: ' <a href="https://www.gruponews.com.br/autor/autor-desconhecido" rel="tag">Autor desconhecido</a>, <a href="https://www.gruponews.com.br/autor/recontada-por-junior-cesar-villaca-da-silva" rel="tag">Recontada por Júnior César Villaça da Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

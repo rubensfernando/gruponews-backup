@@ -4,11 +4,7 @@ post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-casas-que-transformam-o-mundo-igreja-nos-lares" rel="tag">Conferência "Casas que Transformam o Mundo - Igreja nos lares"</a>, <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>'
 post_excerpt: ""
 layout: post
 permalink: >

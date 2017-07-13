@@ -2,11 +2,7 @@
 ID: 3033
 post_title: 'O pobre e o Sábado na perspectiva da revelação de Jesus &#8211; Parte 1'
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

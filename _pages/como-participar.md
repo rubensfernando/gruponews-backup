@@ -2,11 +2,7 @@
 ID: 1042
 post_title: Como participar
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

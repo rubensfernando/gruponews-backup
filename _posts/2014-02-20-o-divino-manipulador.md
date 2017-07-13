@@ -2,11 +2,7 @@
 ID: 3629
 post_title: O divino manipulador?
 author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>'
 post_excerpt: ""
 layout: post
 permalink: >

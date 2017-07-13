@@ -4,11 +4,7 @@ post_title: >
   Desordens sociais causadas pelo
   divórcio
 author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/problemas-sociais" rel="tag">problemas sociais</a>'
 post_excerpt: ""
 layout: post
 permalink: >

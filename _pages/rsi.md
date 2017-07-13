@@ -2,11 +2,7 @@
 ID: 1040
 post_title: RSI
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/rsi

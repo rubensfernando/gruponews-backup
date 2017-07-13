@@ -2,11 +2,7 @@
 ID: 50
 post_title: O Valor do Dinheiro
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/contribuir" rel="tag">Contribuir</a>, <a href="https://www.gruponews.com.br/tag/dar" rel="tag">Dar</a>, <a href="https://www.gruponews.com.br/tag/dinheiro" rel="tag">Dinheiro</a>, <a href="https://www.gruponews.com.br/tag/escravidao" rel="tag">Escravidão</a>, <a href="https://www.gruponews.com.br/tag/moeda" rel="tag">Moeda</a>, <a href="https://www.gruponews.com.br/tag/receber" rel="tag">Receber</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/riqueza" rel="tag">Riqueza</a>, <a href="https://www.gruponews.com.br/tag/servir" rel="tag">Servir</a>, <a href="https://www.gruponews.com.br/tag/tudo" rel="tag">Tudo</a>'
 post_excerpt: ""
 layout: post
 permalink: >

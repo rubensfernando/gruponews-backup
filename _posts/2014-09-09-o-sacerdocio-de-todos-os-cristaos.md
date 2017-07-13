@@ -2,11 +2,7 @@
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>, <a href="https://www.gruponews.com.br/tag/levita" rel="tag">levíta</a>, <a href="https://www.gruponews.com.br/tag/melquisedeque" rel="tag">Melquisedeque</a>, <a href="https://www.gruponews.com.br/tag/sacerdocio" rel="tag">sacerdócio</a>, <a href="https://www.gruponews.com.br/tag/servico" rel="tag">serviço</a>'
 post_excerpt: ""
 layout: post
 permalink: >

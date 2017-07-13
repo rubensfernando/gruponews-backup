@@ -5,11 +5,7 @@ post_title: >
   Comunhão e oração como resposta à
   vontade de Deus
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/monologo" rel="tag">Monólogo</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>'
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=869

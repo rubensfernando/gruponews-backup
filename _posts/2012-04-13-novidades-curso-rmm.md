@@ -2,11 +2,7 @@
 ID: 2265
 post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/governo" rel="tag">Governo</a>, <a href="https://www.gruponews.com.br/tag/mil" rel="tag">mil</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/reinado" rel="tag">reinado</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

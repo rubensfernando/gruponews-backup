@@ -2,11 +2,7 @@
 ID: 1745
 post_title: 'Compreendendo a Apostasia da Igreja &#8211; Christopher Walker &#8211; 11.jul'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=1745'

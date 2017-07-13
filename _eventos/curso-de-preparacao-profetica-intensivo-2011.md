@@ -4,11 +4,7 @@ post_title: >
   Curso de Preparação Profética
   Intensivo 2011
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/clique-aqui" rel="tag">clique aqui</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
 post_excerpt: ""
 layout: event
 permalink: >

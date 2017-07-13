@@ -2,11 +2,7 @@
 ID: 4698
 post_title: Uma autora em minha jornada
 author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
 post_excerpt: ""
 layout: post
 permalink: >

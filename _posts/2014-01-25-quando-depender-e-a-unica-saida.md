@@ -2,11 +2,7 @@
 ID: 3415
 post_title: Quando depender é a única saída
 author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/depender" rel="tag">depender</a>, <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>'
 post_excerpt: ""
 layout: post
 permalink: >

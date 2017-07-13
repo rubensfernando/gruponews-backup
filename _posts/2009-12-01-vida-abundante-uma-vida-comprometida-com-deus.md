@@ -2,11 +2,7 @@
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
 author: ' <a href="https://www.gruponews.com.br/autor/ailton-jacob-de-oliveira" rel="tag">Ailton Jacob de Oliveira</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/abundante" rel="tag">Abundante</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/prosperidade" rel="tag">Prosperidade</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/simples" rel="tag">Simples</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vazio" rel="tag">Vazio</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>, <a href="https://www.gruponews.com.br/tag/voz" rel="tag">Voz</a>'
 post_excerpt: ""
 layout: post
 permalink: >

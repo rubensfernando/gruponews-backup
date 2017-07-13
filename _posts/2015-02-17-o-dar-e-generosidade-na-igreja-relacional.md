@@ -4,11 +4,7 @@ post_title: >
   O dar e a generosidade na igreja
   relacional
 author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
 post_excerpt: ""
 layout: post
 permalink: >

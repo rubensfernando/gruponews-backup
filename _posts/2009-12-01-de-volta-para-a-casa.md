@@ -2,11 +2,7 @@
 ID: 99
 post_title: De Volta para a Casa
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/casa" rel="tag">Casa</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/lugar" rel="tag">Lugar</a>, <a href="https://www.gruponews.com.br/tag/movimento" rel="tag">Movimento</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/reuniao" rel="tag">Reunião</a>, <a href="https://www.gruponews.com.br/tag/templo" rel="tag">Templo</a>, <a href="https://www.gruponews.com.br/tag/visao" rel="tag">Visão</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

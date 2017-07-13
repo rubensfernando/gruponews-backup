@@ -2,11 +2,7 @@
 ID: 3226
 post_title: O casamento como vocação
 author: ' <a href="https://www.gruponews.com.br/autor/marina-venuto-silva" rel="tag">Marina Venuto Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

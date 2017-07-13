@@ -2,11 +2,7 @@
 ID: 706
 post_title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/riqueza" rel="tag">Riqueza</a>, <a href="https://www.gruponews.com.br/tag/testamento" rel="tag">Testamento</a>'
 post_excerpt: ""
 layout: event
 permalink: >

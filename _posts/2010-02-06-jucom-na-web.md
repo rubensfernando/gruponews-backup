@@ -2,11 +2,7 @@
 ID: 543
 post_title: Jucom na Web!
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/adolescente" rel="tag">adolescente</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/horario" rel="tag">horario</a>, <a href="https://www.gruponews.com.br/tag/jovem" rel="tag">jovem</a>, <a href="https://www.gruponews.com.br/tag/jovens" rel="tag">jovens</a>, <a href="https://www.gruponews.com.br/tag/jucom" rel="tag">jucom</a>, <a href="https://www.gruponews.com.br/tag/juventude" rel="tag">juventude</a>, <a href="https://www.gruponews.com.br/tag/musica" rel="tag">Musica</a>, <a href="https://www.gruponews.com.br/tag/radio" rel="tag">radio</a>, <a href="https://www.gruponews.com.br/tag/tv" rel="tag">tv</a>, <a href="https://www.gruponews.com.br/tag/video" rel="tag">video</a>'
 post_excerpt: ""
 layout: post
 permalink: >

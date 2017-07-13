@@ -2,11 +2,7 @@
 ID: 3663
 post_title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 4 &#8211; Afonso Porto'
 author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

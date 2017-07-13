@@ -2,11 +2,7 @@
 ID: 2207
 post_title: Locais de eventos
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

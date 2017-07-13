@@ -2,11 +2,7 @@
 ID: 1408
 post_title: 'Cobertura da Conferência &#8220;Cristo o Reino e a Igreja&#8221;'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/edicao-69" rel="tag">edicao-69</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

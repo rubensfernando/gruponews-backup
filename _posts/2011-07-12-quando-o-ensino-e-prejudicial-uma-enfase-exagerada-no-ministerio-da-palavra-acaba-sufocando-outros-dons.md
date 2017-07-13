@@ -2,11 +2,7 @@
 ID: 1892
 post_title: 'Quando o ensino é prejudicial: uma ênfase exagerada no ministério da Palavra acaba sufocando outros dons'
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

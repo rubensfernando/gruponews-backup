@@ -2,11 +2,7 @@
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
 author: ' <a href="https://www.gruponews.com.br/autor/catia-marquezino-lopes" rel="tag">Cátia Marquezino Lopes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>, <a href="https://www.gruponews.com.br/tag/testemunho" rel="tag">Testemunho</a>'
 post_excerpt: ""
 layout: post
 permalink: >

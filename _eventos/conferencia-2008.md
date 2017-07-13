@@ -2,11 +2,7 @@
 ID: 456
 post_title: Conferência 2008
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conter" rel="tag">conter</a>, <a href="https://www.gruponews.com.br/tag/movimento" rel="tag">Movimento</a>, <a href="https://www.gruponews.com.br/tag/suas" rel="tag">suas</a>'
 post_excerpt: ""
 layout: event
 permalink: >

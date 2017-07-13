@@ -5,11 +5,7 @@ post_title: >
   visto a partir da experiência do
   Ressuscitado
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/jesus" rel="tag">Jesus</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/retorno" rel="tag">retorno</a>, <a href="https://www.gruponews.com.br/tag/volta" rel="tag">volta</a>'
 post_excerpt: ""
 layout: post
 permalink: >

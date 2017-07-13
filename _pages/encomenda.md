@@ -2,11 +2,7 @@
 ID: 1266
 post_title: Encomendas
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/encomenda

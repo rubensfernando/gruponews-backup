@@ -4,11 +4,7 @@ post_title: >
   A dinâmica institucional e a dinâmica
   familiar
 author: ' <a href="https://www.gruponews.com.br/autor/wayne-jacobsen" rel="tag">Wayne Jacobsen</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/igreja-organica" rel="tag">igreja organica</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

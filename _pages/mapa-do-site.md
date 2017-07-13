@@ -2,11 +2,7 @@
 ID: 1216
 post_title: Mapa do Site
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

@@ -4,11 +4,7 @@ post_title: >
   Deus chama os capazes, mas capacitará
   os incapazes se precisar
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -4,11 +4,7 @@ post_title: >
   Preparando a família para a volta de
   Jesus
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-cristo" rel="tag">Conferência "Cristo</a>, <a href="https://www.gruponews.com.br/tag/conferencia-2010" rel="tag">Conferência "Cristo, o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/cristo" rel="tag">cristo</a>, <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/interlocutor" rel="tag">interlocutor</a>, <a href="https://www.gruponews.com.br/tag/o-reino-e-a-igreja" rel="tag">o Reino e a Igreja"</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

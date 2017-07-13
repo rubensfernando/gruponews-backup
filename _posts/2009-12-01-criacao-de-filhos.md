@@ -2,11 +2,7 @@
 ID: 60
 post_title: Criação de Filhos
 author: ' <a href="https://www.gruponews.com.br/autor/afonso-porto" rel="tag">Afonso Porto</a>, <a href="https://www.gruponews.com.br/autor/claudia-porto" rel="tag">Claudia Porto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/adolescente" rel="tag">adolescente</a>, <a href="https://www.gruponews.com.br/tag/autoridade" rel="tag">Autoridade</a>, <a href="https://www.gruponews.com.br/tag/casal" rel="tag">Casal</a>, <a href="https://www.gruponews.com.br/tag/criacao" rel="tag">Criação</a>, <a href="https://www.gruponews.com.br/tag/desobediencia" rel="tag">Desobediência</a>, <a href="https://www.gruponews.com.br/tag/disciplina" rel="tag">Disciplina</a>, <a href="https://www.gruponews.com.br/tag/educacao" rel="tag">Educação</a>, <a href="https://www.gruponews.com.br/tag/ensinar" rel="tag">Ensinar</a>, <a href="https://www.gruponews.com.br/tag/estudos" rel="tag">Estudos</a>, <a href="https://www.gruponews.com.br/tag/familia-materias" rel="tag">Família</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/infancia" rel="tag">Infância</a>, <a href="https://www.gruponews.com.br/tag/limites" rel="tag">Limites</a>, <a href="https://www.gruponews.com.br/tag/obediencia" rel="tag">Obediência</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>'
 post_excerpt: ""
 layout: post
 permalink: >

@@ -4,11 +4,7 @@ post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/centralidade" rel="tag">centralidade</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/entrega" rel="tag">entrega</a>, <a href="https://www.gruponews.com.br/tag/fraternidade" rel="tag">fraternidade</a>, <a href="https://www.gruponews.com.br/tag/jo" rel="tag">jó</a>, <a href="https://www.gruponews.com.br/tag/jornal" rel="tag">Jornal GrupoNews</a>, <a href="https://www.gruponews.com.br/tag/pai" rel="tag">Pai</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

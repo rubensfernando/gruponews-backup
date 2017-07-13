@@ -2,11 +2,7 @@
 ID: 133
 post_title: Simplicidade voluntária
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-camargo" rel="tag">Ricardo Camargo</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/consumo" rel="tag">Consumo</a>, <a href="https://www.gruponews.com.br/tag/cotidiano" rel="tag">Cotidiano</a>, <a href="https://www.gruponews.com.br/tag/humildade" rel="tag">Humildade</a>, <a href="https://www.gruponews.com.br/tag/ilusao" rel="tag">Ilusão</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/simplicidade" rel="tag">Simplicidade</a>, <a href="https://www.gruponews.com.br/tag/superficial" rel="tag">Superficial</a>, <a href="https://www.gruponews.com.br/tag/televisao" rel="tag">Televisão</a>, <a href="https://www.gruponews.com.br/tag/tempo" rel="tag">Tempo</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

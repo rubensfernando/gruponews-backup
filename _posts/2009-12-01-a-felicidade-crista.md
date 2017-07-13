@@ -2,11 +2,7 @@
 ID: 82
 post_title: A Felicidade Cristã
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/comparar" rel="tag">Comparar</a>, <a href="https://www.gruponews.com.br/tag/dificuldade" rel="tag">Dificuldade</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/felicidade" rel="tag">Felicidade</a>, <a href="https://www.gruponews.com.br/tag/mundo" rel="tag">Mundo</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/sofrimento" rel="tag">Sofrimento</a>, <a href="https://www.gruponews.com.br/tag/trevas" rel="tag">Trevas</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

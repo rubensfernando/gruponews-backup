@@ -2,11 +2,7 @@
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
 author: ' <a href="https://www.gruponews.com.br/autor/ministerio-omega-de-louvor" rel="tag">Ministério Ômega de Louvor</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/cd" rel="tag">cd</a>, <a href="https://www.gruponews.com.br/tag/espirito" rel="tag">Espírito</a>, <a href="https://www.gruponews.com.br/tag/fruto" rel="tag">Fruto</a>, <a href="https://www.gruponews.com.br/tag/homem" rel="tag">Homem</a>, <a href="https://www.gruponews.com.br/tag/louvar" rel="tag">Louvar</a>, <a href="https://www.gruponews.com.br/tag/luz" rel="tag">Luz</a>, <a href="https://www.gruponews.com.br/tag/musica" rel="tag">Musica</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/presenca" rel="tag">presença</a>, <a href="https://www.gruponews.com.br/tag/seguro" rel="tag">Seguro</a>, <a href="https://www.gruponews.com.br/tag/vamos" rel="tag">Vamos</a>'
 post_excerpt: ""
 layout: post
 permalink: >

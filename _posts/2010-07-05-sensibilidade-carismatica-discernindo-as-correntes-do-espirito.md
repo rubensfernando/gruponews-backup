@@ -2,11 +2,7 @@
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
 author: ' <a href="https://www.gruponews.com.br/autor/ezequiel-netto" rel="tag">Ezequiel Netto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

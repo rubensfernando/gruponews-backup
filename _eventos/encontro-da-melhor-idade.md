@@ -2,11 +2,7 @@
 ID: 4861
 post_title: 'Encontro da Melhor  Idade -MID'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

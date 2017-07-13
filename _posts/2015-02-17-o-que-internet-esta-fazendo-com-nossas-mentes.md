@@ -4,11 +4,7 @@ post_title: >
   O que a internet está fazendo com as
   nossas mentes
 author: ' <a href="https://www.gruponews.com.br/autor/nicholas-carr" rel="tag">Nicholas Carr</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
 post_excerpt: ""
 layout: post
 permalink: >

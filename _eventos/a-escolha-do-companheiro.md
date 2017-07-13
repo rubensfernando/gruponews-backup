@@ -2,11 +2,7 @@
 ID: 903
 post_title: A escolha do companheiro
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/nosso" rel="tag">Nosso</a>'
 post_excerpt: ""
 layout: event
 permalink: >

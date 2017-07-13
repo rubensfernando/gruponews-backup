@@ -2,11 +2,7 @@
 ID: 736
 post_title: Reevangelizando – Aula 2 – Parte 2
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/fazer" rel="tag">fazer</a>, <a href="https://www.gruponews.com.br/tag/fazia" rel="tag">fazia</a>, <a href="https://www.gruponews.com.br/tag/israel" rel="tag">israel</a>, <a href="https://www.gruponews.com.br/tag/orar" rel="tag">orar</a>, <a href="https://www.gruponews.com.br/tag/seara" rel="tag">seara</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

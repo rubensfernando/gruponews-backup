@@ -2,11 +2,7 @@
 ID: 1539
 post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
 author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/a-ultima-batalha" rel="tag">A última batalha</a>, <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/batalha" rel="tag">Batalha</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/ultima" rel="tag">ultima</a>'
 post_excerpt: ""
 layout: post
 permalink: >

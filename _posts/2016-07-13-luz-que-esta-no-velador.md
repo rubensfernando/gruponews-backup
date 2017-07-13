@@ -2,11 +2,7 @@
 ID: 4694
 post_title: A luz que está no velador
 author: ' <a href="https://www.gruponews.com.br/autor/rosana-coelho-correa-de-oliveira" rel="tag">Rosana Coelho Correa de Oliveira</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
 post_excerpt: ""
 layout: post
 permalink: >

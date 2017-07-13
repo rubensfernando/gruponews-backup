@@ -2,11 +2,7 @@
 ID: 55
 post_title: A Oração de Maria
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/assentar-se" rel="tag">Assentar-se</a>, <a href="https://www.gruponews.com.br/tag/dialogo" rel="tag">Dialogo</a>, <a href="https://www.gruponews.com.br/tag/ensinar" rel="tag">Ensinar</a>, <a href="https://www.gruponews.com.br/tag/escolher" rel="tag">Escolher</a>, <a href="https://www.gruponews.com.br/tag/falar" rel="tag">Falar</a>, <a href="https://www.gruponews.com.br/tag/maria" rel="tag">Maria</a>, <a href="https://www.gruponews.com.br/tag/monologo" rel="tag">Monólogo</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/ouvir" rel="tag">Ouvir</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>'
 post_excerpt: ""
 layout: post
 permalink: >

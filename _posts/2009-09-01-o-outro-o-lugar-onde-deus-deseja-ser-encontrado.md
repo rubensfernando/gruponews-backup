@@ -2,11 +2,7 @@
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/ateu" rel="tag">ateu</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/dons" rel="tag">Dons</a>, <a href="https://www.gruponews.com.br/tag/encontrar" rel="tag">Encontrar</a>, <a href="https://www.gruponews.com.br/tag/legado" rel="tag">legado</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/novo" rel="tag">novo</a>, <a href="https://www.gruponews.com.br/tag/o-outro" rel="tag">o outro</a>, <a href="https://www.gruponews.com.br/tag/profeticos" rel="tag">Proféticos</a>'
 post_excerpt: ""
 layout: post
 permalink: >

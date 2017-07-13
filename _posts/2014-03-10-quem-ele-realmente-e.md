@@ -2,11 +2,7 @@
 ID: 3595
 post_title: Quem ele realmente é
 author: ' <a href="https://www.gruponews.com.br/autor/darin-hufford" rel="tag">Darin Hufford</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/deus" rel="tag">deus</a>, <a href="https://www.gruponews.com.br/tag/edicao-75" rel="tag">edicao-75</a>, <a href="https://www.gruponews.com.br/tag/paciencia" rel="tag">paciência</a>, <a href="https://www.gruponews.com.br/tag/perfil" rel="tag">perfil</a>'
 post_excerpt: ""
 layout: post
 permalink: >

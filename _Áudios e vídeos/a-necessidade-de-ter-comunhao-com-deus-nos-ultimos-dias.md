@@ -4,11 +4,7 @@ post_title: >
   A necessidade de ter comunhão com Deus
   nos últimos dias
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-correia" rel="tag">Ricardo Correia</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >

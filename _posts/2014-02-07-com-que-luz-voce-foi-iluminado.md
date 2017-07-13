@@ -2,11 +2,7 @@
 ID: 3626
 post_title: Com que luz você foi iluminado?
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/editorial" rel="tag">editorial</a>'
 post_excerpt: ""
 layout: post
 permalink: >

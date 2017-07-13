@@ -4,11 +4,7 @@ post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,11 +2,7 @@
 ID: 3177
 post_title: O meu cálice transborda
 author: ' <a href="https://www.gruponews.com.br/autor/max-lucado" rel="tag">Max Lucado</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

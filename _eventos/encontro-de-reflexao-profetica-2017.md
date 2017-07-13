@@ -2,11 +2,7 @@
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

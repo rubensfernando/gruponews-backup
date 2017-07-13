@@ -2,11 +2,7 @@
 ID: 4691
 post_title: Os amigos do mestre
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
 post_excerpt: ""
 layout: post
 permalink: >

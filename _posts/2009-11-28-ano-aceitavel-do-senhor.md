@@ -2,11 +2,7 @@
 ID: 88
 post_title: Ano Aceitável do Senhor
 author: ' <a href="https://www.gruponews.com.br/autor/cristina-juliani" rel="tag">Cristina Juliani</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aceitar" rel="tag">Aceitar</a>, <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/desanimado" rel="tag">Desanimado</a>, <a href="https://www.gruponews.com.br/tag/esperanca" rel="tag">Esperança</a>, <a href="https://www.gruponews.com.br/tag/graca" rel="tag">Graça</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/perdao" rel="tag">Perdão</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>'
 post_excerpt: ""
 layout: post
 permalink: >

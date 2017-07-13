@@ -2,11 +2,7 @@
 ID: 104
 post_title: Diferentes para Amar
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aceitar" rel="tag">Aceitar</a>, <a href="https://www.gruponews.com.br/tag/amar" rel="tag">Amar</a>, <a href="https://www.gruponews.com.br/tag/amor" rel="tag">Amor</a>, <a href="https://www.gruponews.com.br/tag/atitude" rel="tag">Atitude</a>, <a href="https://www.gruponews.com.br/tag/diferencas" rel="tag">Diferenças</a>, <a href="https://www.gruponews.com.br/tag/falso" rel="tag">Falso</a>, <a href="https://www.gruponews.com.br/tag/manifestar" rel="tag">Manifestar</a>, <a href="https://www.gruponews.com.br/tag/marginalizado" rel="tag">Marginalizado</a>, <a href="https://www.gruponews.com.br/tag/necessidade" rel="tag">Necessidade</a>, <a href="https://www.gruponews.com.br/tag/verdade" rel="tag">Verdade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

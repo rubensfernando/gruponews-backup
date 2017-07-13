@@ -2,11 +2,7 @@
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-da-silva" rel="tag">Paulo Roberto da Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-49" rel="tag">edicao-49</a>'
 post_excerpt: ""
 layout: post
 permalink: >

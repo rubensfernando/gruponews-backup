@@ -2,11 +2,7 @@
 ID: 841
 post_title: Inscrição enviada com sucesso
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: page
 permalink: >

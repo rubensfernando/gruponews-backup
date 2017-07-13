@@ -2,11 +2,7 @@
 ID: 4857
 post_title: Encontro de Jovens
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: event
 permalink: >

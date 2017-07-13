@@ -2,11 +2,7 @@
 ID: 169
 post_title: Posto de Salvamento
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-silva" rel="tag">Paulo Roberto Silva</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/afogado" rel="tag">Afogado</a>, <a href="https://www.gruponews.com.br/tag/barco" rel="tag">Barco</a>, <a href="https://www.gruponews.com.br/tag/ilha" rel="tag">Ilha</a>, <a href="https://www.gruponews.com.br/tag/livramento" rel="tag">Livramento</a>, <a href="https://www.gruponews.com.br/tag/naufragio" rel="tag">Naufrágio</a>, <a href="https://www.gruponews.com.br/tag/posto" rel="tag">Posto</a>, <a href="https://www.gruponews.com.br/tag/salvacao" rel="tag">Salvação</a>, <a href="https://www.gruponews.com.br/tag/socorro" rel="tag">Socorro</a>, <a href="https://www.gruponews.com.br/tag/tripulacao" rel="tag">Tripulação</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

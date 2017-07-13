@@ -4,11 +4,7 @@ post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
 author: ' <a href="https://www.gruponews.com.br/autor/gerson-lima" rel="tag">Gerson Lima</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conferencia-2008-a-igreja-do-nosso-tempo" rel="tag">Conferência "A igreja do nosso tempo"</a>, <a href="https://www.gruponews.com.br/tag/igreja-institucional" rel="tag">igreja institucional</a>, <a href="https://www.gruponews.com.br/tag/igreja-organica" rel="tag">igreja organica</a>, <a href="https://www.gruponews.com.br/tag/restauracao-da-palavra" rel="tag">restauração da palavra</a>'
 post_excerpt: ""
 layout: post
 permalink: >

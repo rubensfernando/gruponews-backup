@@ -4,11 +4,7 @@ post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-77" rel="tag">edicao-77</a>, <a href="https://www.gruponews.com.br/tag/profissao" rel="tag">profissão</a>, <a href="https://www.gruponews.com.br/tag/vida-profissional" rel="tag">vida profissional</a>'
 post_excerpt: ""
 layout: post
 permalink: >

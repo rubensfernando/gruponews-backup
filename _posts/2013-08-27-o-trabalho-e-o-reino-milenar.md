@@ -2,11 +2,7 @@
 ID: 3404
 post_title: O trabalho e o Reino Milenar
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-oliveira" rel="tag">Ricardo Oliveira</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-76" rel="tag">edicao-76</a>, <a href="https://www.gruponews.com.br/tag/milenar" rel="tag">milenar</a>, <a href="https://www.gruponews.com.br/tag/milenio" rel="tag">Milênio</a>, <a href="https://www.gruponews.com.br/tag/reino" rel="tag">Reino</a>, <a href="https://www.gruponews.com.br/tag/trabalho" rel="tag">trabalho</a>'
 post_excerpt: ""
 layout: post
 permalink: >

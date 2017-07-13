@@ -2,11 +2,7 @@
 ID: 3560
 post_title: 'Conferência 2013 &#8211; Palestra 10 &#8211; Jim Holl'
 author: ' <a href="https://www.gruponews.com.br/autor/jim-holl" rel="tag">Jim Holl</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/igreja" rel="tag">Igreja</a>, <a href="https://www.gruponews.com.br/tag/lideranca" rel="tag">liderança</a>, <a href="https://www.gruponews.com.br/tag/organica" rel="tag">orgânica</a>, <a href="https://www.gruponews.com.br/tag/vida" rel="tag">Vida</a>'
 post_excerpt: ""
 layout: audioevideo
 permalink: >

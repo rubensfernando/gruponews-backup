@@ -2,11 +2,7 @@
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/curiosidades" rel="tag">Curiosidades</a>, <a href="https://www.gruponews.com.br/tag/joao-ferreira-de-almeida" rel="tag">João Ferreira de Almeida</a>'
 post_excerpt: ""
 layout: post
 permalink: >

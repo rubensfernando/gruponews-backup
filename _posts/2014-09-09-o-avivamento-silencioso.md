@@ -2,11 +2,7 @@
 ID: 4253
 post_title: O avivamento silencioso
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aviamento" rel="tag">aviamento</a>, <a href="https://www.gruponews.com.br/tag/edicao-79" rel="tag">edicao-79</a>, <a href="https://www.gruponews.com.br/tag/editorial" rel="tag">editorial</a>, <a href="https://www.gruponews.com.br/tag/pentecostal" rel="tag">pentecostal</a>'
 post_excerpt: ""
 layout: post
 permalink: >

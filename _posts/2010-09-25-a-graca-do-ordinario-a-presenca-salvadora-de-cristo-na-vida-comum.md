@@ -2,11 +2,7 @@
 ID: 1122
 post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ""
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,11 +2,7 @@
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
 author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>, <a href="https://www.gruponews.com.br/autor/maria-carvalho-gomes" rel="tag">Maria de Carvalho Gomes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/desquite" rel="tag">Desquite</a>, <a href="https://www.gruponews.com.br/tag/divorcio" rel="tag">Divórcio</a>, <a href="https://www.gruponews.com.br/tag/ex-conjuges" rel="tag">Ex-cônjuges</a>, <a href="https://www.gruponews.com.br/tag/familiares" rel="tag">Familiares</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/reino-de-deus" rel="tag">reino de Deus</a>, <a href="https://www.gruponews.com.br/tag/separacao" rel="tag">Separação</a>, <a href="https://www.gruponews.com.br/tag/uniao" rel="tag">União</a>, <a href="https://www.gruponews.com.br/tag/vitima" rel="tag">Vítima</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

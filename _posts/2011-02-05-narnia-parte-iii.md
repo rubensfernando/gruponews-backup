@@ -2,11 +2,7 @@
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
 author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cavalo" rel="tag">cavalo</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/curiosidade" rel="tag">Curiosidade</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/lewis" rel="tag">lewis</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/menino" rel="tag">menino</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/o-cavalo-e-seu-menino" rel="tag">O cavalo e seu menino</a>'
 post_excerpt: ""
 layout: post
 permalink: >

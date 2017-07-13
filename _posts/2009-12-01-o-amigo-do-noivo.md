@@ -2,11 +2,7 @@
 ID: 116
 post_title: O Amigo do Noivo
 author: ' <a href="https://www.gruponews.com.br/autor/clelia-arruda" rel="tag">Clélia Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/amigo" rel="tag">Amigo</a>, <a href="https://www.gruponews.com.br/tag/funcao" rel="tag">Função</a>, <a href="https://www.gruponews.com.br/tag/louvor" rel="tag">Louvor</a>, <a href="https://www.gruponews.com.br/tag/ministerio" rel="tag">Ministério</a>, <a href="https://www.gruponews.com.br/tag/missao" rel="tag">Missão</a>, <a href="https://www.gruponews.com.br/tag/noivo" rel="tag">Noivo</a>, <a href="https://www.gruponews.com.br/tag/obediencia" rel="tag">Obediência</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/palavra" rel="tag">Palavra</a>, <a href="https://www.gruponews.com.br/tag/preparar" rel="tag">Preparar</a>'
 post_excerpt: ""
 layout: post
 permalink: >

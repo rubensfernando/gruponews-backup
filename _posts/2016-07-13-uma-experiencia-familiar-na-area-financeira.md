@@ -4,11 +4,7 @@ post_title: >
   Uma experiência familiar na área
   financeira
 author: ' <a href="https://www.gruponews.com.br/autor/elaine-gidzinski" rel="tag">Elaine Gidzinski</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-82" rel="tag">edicao-82</a>'
 post_excerpt: ""
 layout: post
 permalink: >

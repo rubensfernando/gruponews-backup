@@ -2,11 +2,7 @@
 ID: 135
 post_title: Um mesmo coração para pais e filhos
 author: ' <a href="https://www.gruponews.com.br/autor/juarez-gomes" rel="tag">Juarez Gomes</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/conversao" rel="tag">Conversão</a>, <a href="https://www.gruponews.com.br/tag/familias" rel="tag">Famílias</a>, <a href="https://www.gruponews.com.br/tag/filhos" rel="tag">Filhos</a>, <a href="https://www.gruponews.com.br/tag/inimigo" rel="tag">Inimigo</a>, <a href="https://www.gruponews.com.br/tag/mudanca" rel="tag">Mudança</a>, <a href="https://www.gruponews.com.br/tag/pais" rel="tag">Pais</a>, <a href="https://www.gruponews.com.br/tag/relacionamento" rel="tag">Relacionamento</a>, <a href="https://www.gruponews.com.br/tag/restauracao" rel="tag">Restauração</a>, <a href="https://www.gruponews.com.br/tag/transformacao" rel="tag">Transformação</a>, <a href="https://www.gruponews.com.br/tag/vontade" rel="tag">Vontade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

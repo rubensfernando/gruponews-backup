@@ -4,11 +4,7 @@ post_title: >
   Curso de Preparação Profética Modular
   em Barueri
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/aulas" rel="tag">aulas</a>, <a href="https://www.gruponews.com.br/tag/barueri" rel="tag">Barueri</a>, <a href="https://www.gruponews.com.br/tag/comunhao" rel="tag">Comunhão</a>, <a href="https://www.gruponews.com.br/tag/curso" rel="tag">Curso</a>, <a href="https://www.gruponews.com.br/tag/evangelho" rel="tag">Evangelho</a>, <a href="https://www.gruponews.com.br/tag/profecia" rel="tag">profecia</a>, <a href="https://www.gruponews.com.br/tag/profetico" rel="tag">profético</a>'
 post_excerpt: ""
 layout: post
 permalink: >

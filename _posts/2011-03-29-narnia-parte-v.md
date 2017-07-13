@@ -2,11 +2,7 @@
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
 author: ' <a href="https://www.gruponews.com.br/autor/renata-ribeiro-arruda" rel="tag">Renata Ribeiro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/a-viagem-do-peregrino-da-alvorada" rel="tag">A Viagem do Peregrino da Alvorada</a>, <a href="https://www.gruponews.com.br/tag/alvorada" rel="tag">alvorada</a>, <a href="https://www.gruponews.com.br/tag/aslam" rel="tag">aslam</a>, <a href="https://www.gruponews.com.br/tag/cronicas" rel="tag">cronicas</a>, <a href="https://www.gruponews.com.br/tag/filme" rel="tag">filme</a>, <a href="https://www.gruponews.com.br/tag/livro" rel="tag">Livro</a>, <a href="https://www.gruponews.com.br/tag/narnia" rel="tag">narnia</a>, <a href="https://www.gruponews.com.br/tag/peregrino" rel="tag">peregrino</a>, <a href="https://www.gruponews.com.br/tag/viagem" rel="tag">viagem</a>'
 post_excerpt: ""
 layout: post
 permalink: >

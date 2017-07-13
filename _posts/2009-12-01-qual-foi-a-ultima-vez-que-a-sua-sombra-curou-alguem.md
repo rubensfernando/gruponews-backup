@@ -4,11 +4,7 @@ post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/acreditar" rel="tag">Acreditar</a>, <a href="https://www.gruponews.com.br/tag/arvore" rel="tag">Arvore</a>, <a href="https://www.gruponews.com.br/tag/cura" rel="tag">Cura</a>, <a href="https://www.gruponews.com.br/tag/doenca" rel="tag">Doença</a>, <a href="https://www.gruponews.com.br/tag/enfermo" rel="tag">Enfermo</a>, <a href="https://www.gruponews.com.br/tag/misericordia" rel="tag">Misericórdia</a>, <a href="https://www.gruponews.com.br/tag/oracao" rel="tag">Oração</a>, <a href="https://www.gruponews.com.br/tag/poder" rel="tag">Poder</a>, <a href="https://www.gruponews.com.br/tag/resposta" rel="tag">Resposta</a>, <a href="https://www.gruponews.com.br/tag/sombra" rel="tag">Sombra</a>'
 post_excerpt: ""
 layout: post
 permalink: >

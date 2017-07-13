@@ -4,11 +4,7 @@ post_title: >
   A paternidade restaurada para a volta de
   Cristo
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-73" rel="tag">edicao-73</a>, <a href="https://www.gruponews.com.br/tag/paternidade" rel="tag">paternidade</a>'
 post_excerpt: ""
 layout: post
 permalink: >

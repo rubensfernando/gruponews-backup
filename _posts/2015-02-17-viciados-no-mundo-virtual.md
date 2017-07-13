@@ -2,11 +2,7 @@
 ID: 4337
 post_title: Viciados no mundo virtual
 author: ""
-tags:
-  errors:
-    invalid_taxonomy:
-      - Taxonomia inválida.
-  error_data: [ ]
+tags: ' <a href="https://www.gruponews.com.br/tag/edicao-80" rel="tag">edicao-80</a>'
 post_excerpt: ""
 layout: post
 permalink: >
