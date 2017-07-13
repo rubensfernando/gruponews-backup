@@ -2,6 +2,11 @@
 ID: 3708
 post_title: Inscrição cancelada
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

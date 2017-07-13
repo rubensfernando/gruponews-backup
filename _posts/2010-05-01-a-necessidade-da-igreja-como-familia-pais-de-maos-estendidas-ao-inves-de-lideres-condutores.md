@@ -2,6 +2,11 @@
 ID: 701
 post_title: A necessidade da igreja como família
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

@@ -4,6 +4,11 @@ post_title: >
   10º Encontro de reflexão profética
   para líderes
 author: ' <a href="https://www.gruponews.com.br/autor/revista-impacto" rel="tag">Revista Impacto</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

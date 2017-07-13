@@ -4,6 +4,11 @@ post_title: >
   Efeitos colaterais das tecnologias
   digitais
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

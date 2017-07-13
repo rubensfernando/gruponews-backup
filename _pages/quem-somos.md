@@ -2,6 +2,11 @@
 ID: 2
 post_title: Quem Somos
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/quem-somos

@@ -2,6 +2,11 @@
 ID: 4541
 post_title: 'Curso Bíblico Preparatório 2015 &#8211; Aulas 3 e 4'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

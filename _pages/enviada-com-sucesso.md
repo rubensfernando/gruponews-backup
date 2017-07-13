@@ -2,6 +2,11 @@
 ID: 1068
 post_title: Inscrição enviada com sucesso
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

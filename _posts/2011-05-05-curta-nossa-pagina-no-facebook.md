@@ -2,6 +2,11 @@
 ID: 2015
 post_title: Curta nossa página no Facebook
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

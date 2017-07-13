@@ -2,6 +2,11 @@
 ID: 3460
 post_title: 'Encristus 2013 &#8211; Testemunhos'
 author: ' <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/jose-carlos-marion" rel="tag">José Carlos Marion</a>, <a href="https://www.gruponews.com.br/autor/mauricio-pontello" rel="tag">Mauricio Pontello</a>, <a href="https://www.gruponews.com.br/autor/mike-shea" rel="tag">Mike Shea</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

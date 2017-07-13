@@ -2,6 +2,11 @@
 ID: 4852
 post_title: Pós-imersão 2
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

@@ -2,6 +2,11 @@
 ID: 2050
 post_title: PROECRI
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/proecri

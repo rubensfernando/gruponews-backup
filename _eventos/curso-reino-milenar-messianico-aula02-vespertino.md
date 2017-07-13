@@ -2,6 +2,11 @@
 ID: 2488
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02 &#8211; Vespertino'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

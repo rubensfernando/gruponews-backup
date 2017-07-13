@@ -5,6 +5,11 @@ post_title: >
   tecnológicas limitam acesso de seus
   filhos a eletrônicos
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

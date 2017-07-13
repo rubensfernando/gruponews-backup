@@ -4,6 +4,11 @@ post_title: >
   Inscrições para a aula Visão
   Profética
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-cpp-modular" rel="tag">Equipe CPP Modular</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

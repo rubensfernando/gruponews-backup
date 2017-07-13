@@ -2,6 +2,11 @@
 ID: 1758
 post_title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

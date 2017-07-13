@@ -4,6 +4,11 @@ post_title: >
   Inscrição para o Encontro de Mulheres
   2016
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4675'

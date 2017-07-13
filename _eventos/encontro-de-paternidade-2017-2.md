@@ -2,6 +2,11 @@
 ID: 4854
 post_title: 'Encontro de Paternidade 2017 &#8211; 2'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

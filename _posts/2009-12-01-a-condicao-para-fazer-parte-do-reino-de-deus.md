@@ -4,6 +4,11 @@ post_title: >
   A condição para fazer parte do Reino
   de Deus
 author: ' <a href="https://www.gruponews.com.br/autor/valter-severino" rel="tag">Valter Severino</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

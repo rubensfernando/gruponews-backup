@@ -4,6 +4,11 @@ post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

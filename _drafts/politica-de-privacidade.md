@@ -2,6 +2,11 @@
 ID: 3273
 post_title: Política de privacidade para GrupoNews
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

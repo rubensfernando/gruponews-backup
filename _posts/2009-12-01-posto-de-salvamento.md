@@ -2,6 +2,11 @@
 ID: 169
 post_title: Posto de Salvamento
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-roberto-silva" rel="tag">Paulo Roberto Silva</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

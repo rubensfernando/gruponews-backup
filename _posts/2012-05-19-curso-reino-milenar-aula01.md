@@ -2,6 +2,11 @@
 ID: 2190
 post_title: 'Curso “O Reino Milenar Messiânico” #aula01'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

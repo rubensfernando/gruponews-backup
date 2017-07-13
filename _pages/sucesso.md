@@ -2,6 +2,11 @@
 ID: 812
 post_title: Mensagem enviada com sucesso
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

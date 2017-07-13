@@ -2,6 +2,11 @@
 ID: 3664
 post_title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 5 &#8211; Maurício Bronzatto'
 author: ' <a href="https://www.gruponews.com.br/autor/mauricio-bronzatto" rel="tag">Maurício Bronzatto</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

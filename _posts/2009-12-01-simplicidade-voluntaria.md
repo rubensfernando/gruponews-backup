@@ -2,6 +2,11 @@
 ID: 133
 post_title: Simplicidade voluntária
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-camargo" rel="tag">Ricardo Camargo</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

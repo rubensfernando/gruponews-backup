@@ -2,6 +2,11 @@
 ID: 3426
 post_title: Perdão como condicionante da oração
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

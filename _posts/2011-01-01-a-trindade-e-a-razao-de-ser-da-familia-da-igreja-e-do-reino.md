@@ -4,6 +4,11 @@ post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
 author: ' <a href="https://www.gruponews.com.br/autor/gino-iafrancesco" rel="tag">Gino Iafrancesco</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,6 +2,11 @@
 ID: 172
 post_title: Removendo Barreiras
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-silva" rel="tag">Paulo Silva</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

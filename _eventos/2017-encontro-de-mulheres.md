@@ -2,6 +2,11 @@
 ID: 4858
 post_title: Encontro de Mulheres
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

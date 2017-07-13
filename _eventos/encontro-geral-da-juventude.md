@@ -2,6 +2,11 @@
 ID: 4860
 post_title: Encontro Geral da Juventude
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

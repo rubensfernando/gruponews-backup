@@ -2,6 +2,11 @@
 ID: 2600
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 9 de julho'
 author: ' <a href="https://www.gruponews.com.br/autor/abnerio-cabral" rel="tag">Abnério Cabral</a>, <a href="https://www.gruponews.com.br/autor/eliana-walker" rel="tag">Eliana Walker</a>, <a href="https://www.gruponews.com.br/autor/eliza-walker" rel="tag">Eliza Walker</a>, <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

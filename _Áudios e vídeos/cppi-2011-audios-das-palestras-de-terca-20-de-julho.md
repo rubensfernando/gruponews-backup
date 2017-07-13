@@ -4,6 +4,11 @@ post_title: >
   CPPI 2011 – Áudios das palestras de
   Quarta 20 de Julho
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

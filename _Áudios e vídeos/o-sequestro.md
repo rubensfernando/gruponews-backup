@@ -2,6 +2,11 @@
 ID: 1225
 post_title: O sequestro
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-da-juventude" rel="tag">Equipe da Juventude</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

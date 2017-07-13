@@ -2,6 +2,11 @@
 ID: 3209
 post_title: Quando o ordinário é extraordinário
 author: ' <a href="https://www.gruponews.com.br/autor/daniel-rocha" rel="tag">Daniel Rocha</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

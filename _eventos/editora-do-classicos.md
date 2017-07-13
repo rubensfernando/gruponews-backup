@@ -2,6 +2,11 @@
 ID: 4848
 post_title: Editora do Clássicos
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

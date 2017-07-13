@@ -2,6 +2,11 @@
 ID: 3706
 post_title: Finalizando a inscrição
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

@@ -2,6 +2,11 @@
 ID: 2392
 post_title: I Encontro de Adoração
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

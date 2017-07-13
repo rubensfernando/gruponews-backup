@@ -2,6 +2,11 @@
 ID: 4437
 post_title: Inscrições para os eventos
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

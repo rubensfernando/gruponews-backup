@@ -2,6 +2,11 @@
 ID: 932
 post_title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

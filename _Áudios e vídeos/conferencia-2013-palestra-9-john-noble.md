@@ -2,6 +2,11 @@
 ID: 3551
 post_title: 'Conferência 2013 &#8211; Palestra 9 &#8211; John Noble'
 author: ' <a href="https://www.gruponews.com.br/autor/john-noble" rel="tag">John Noble</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

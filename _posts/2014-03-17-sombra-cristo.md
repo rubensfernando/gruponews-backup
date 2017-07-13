@@ -2,6 +2,11 @@
 ID: 3601
 post_title: À sombra do Cristo
 author: ' <a href="https://www.gruponews.com.br/autor/luiz-lourenco-goncalves" rel="tag">Luiz Lourenço Gonçalves</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

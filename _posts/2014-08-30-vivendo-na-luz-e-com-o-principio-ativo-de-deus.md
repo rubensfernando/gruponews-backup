@@ -4,6 +4,11 @@ post_title: >
   Vivendo na luz e com o princípio ativo
   de Deus
 author: ' <a href="https://www.gruponews.com.br/autor/paulo-manzini" rel="tag">Paulo Manzini</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

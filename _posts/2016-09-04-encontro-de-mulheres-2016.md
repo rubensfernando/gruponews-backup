@@ -2,6 +2,11 @@
 ID: 4730
 post_title: 'Lista de Espera &#8211; Encontro de Mulheres'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

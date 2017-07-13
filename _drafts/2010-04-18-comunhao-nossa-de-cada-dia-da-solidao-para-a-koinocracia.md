@@ -2,6 +2,11 @@
 ID: 747
 post_title: '&#8220;Comunhão nossa de cada dia&#8221; &#8211; Da solidão para a koinocracia'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=747

@@ -4,6 +4,11 @@ post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

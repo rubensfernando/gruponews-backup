@@ -4,6 +4,11 @@ post_title: >
   Curso de Preparação Profética
   Intensivo 2013
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-grupo" rel="tag">Equipe Grupo</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

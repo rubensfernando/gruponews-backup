@@ -2,6 +2,11 @@
 ID: 4162
 post_title: Assine o jornal GrupoNews
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

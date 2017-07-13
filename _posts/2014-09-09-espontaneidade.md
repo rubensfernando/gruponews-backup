@@ -2,6 +2,11 @@
 ID: 3949
 post_title: Espontaneidade
 author: ' <a href="https://www.gruponews.com.br/autor/ricardo-alexandre-de-oliveira" rel="tag">Ricardo Alexandre de Oliveira</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

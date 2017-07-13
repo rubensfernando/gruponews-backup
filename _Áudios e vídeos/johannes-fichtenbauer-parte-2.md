@@ -2,6 +2,11 @@
 ID: 4497
 post_title: 'Johannes Fichtenbauer &#8211; Parte 2'
 author: ' <a href="https://www.gruponews.com.br/autor/christopher-walker" rel="tag">Christopher Walker</a>, <a href="https://www.gruponews.com.br/autor/johannes-fichtenbauer" rel="tag">Johannes Fichtenbauer</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

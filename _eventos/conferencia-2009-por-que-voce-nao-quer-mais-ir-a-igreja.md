@@ -2,6 +2,11 @@
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
 author: ' <a href="https://www.gruponews.com.br/autor/equipe-gruponews" rel="tag">Equipe GrupoNews</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

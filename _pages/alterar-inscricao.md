@@ -2,6 +2,11 @@
 ID: 36
 post_title: Alterar inscrição
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

@@ -2,6 +2,11 @@
 ID: 2708
 post_title: A Trindade e o Reino de Deus
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

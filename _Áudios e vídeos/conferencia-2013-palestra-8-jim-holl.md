@@ -2,6 +2,11 @@
 ID: 3557
 post_title: 'Conferência 2013 &#8211; Palestra 8 &#8211; Jim Holl'
 author: ' <a href="https://www.gruponews.com.br/autor/jim-holl" rel="tag">Jim Holl</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

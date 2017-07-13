@@ -4,6 +4,11 @@ post_title: >
   Em busca da perfeita varonilidade de
   Cristo
 author: ' <a href="https://www.gruponews.com.br/autor/ismael-de-oliveira" rel="tag">Ismael de Oliveira</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

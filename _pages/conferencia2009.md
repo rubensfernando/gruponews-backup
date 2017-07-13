@@ -2,6 +2,11 @@
 ID: 1027
 post_title: A Conferência 2009
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

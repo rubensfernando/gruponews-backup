@@ -4,6 +4,11 @@ post_title: >
   Por que a igreja no lar não é a
   resposta?
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

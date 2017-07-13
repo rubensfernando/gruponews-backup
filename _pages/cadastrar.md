@@ -2,6 +2,11 @@
 ID: 2124
 post_title: Crie uma conta
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/cadastrar

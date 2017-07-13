@@ -2,6 +2,11 @@
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

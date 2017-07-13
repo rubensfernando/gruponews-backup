@@ -2,6 +2,11 @@
 ID: 441
 post_title: 'Conferência 2009 &#8211; Transmissão AO VIVO'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

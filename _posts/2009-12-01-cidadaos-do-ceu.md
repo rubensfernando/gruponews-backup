@@ -2,6 +2,11 @@
 ID: 142
 post_title: Cidadãos do Céu
 author: ' <a href="https://www.gruponews.com.br/autor/valmir-mathiazi" rel="tag">Valmir Mathiazi</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

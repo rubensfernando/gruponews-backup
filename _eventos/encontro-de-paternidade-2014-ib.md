@@ -2,6 +2,11 @@
 ID: 3646
 post_title: 'Encontro de Paternidade 2014 &#8211; 1 B'
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

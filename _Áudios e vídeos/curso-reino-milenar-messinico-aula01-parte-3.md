@@ -2,6 +2,11 @@
 ID: 2509
 post_title: 'Vídeo da #aula01 &#8211; Parte 3 do Curso “O Reino Milenar Messiânico”'
 author: ' <a href="https://www.gruponews.com.br/autor/pedro-arruda" rel="tag">Pedro Arruda</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

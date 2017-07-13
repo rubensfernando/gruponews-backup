@@ -4,6 +4,11 @@ post_title: >
   Conferência “Casas que Transformam o
   Mundo – Igreja nos lares”
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: page
 permalink: >

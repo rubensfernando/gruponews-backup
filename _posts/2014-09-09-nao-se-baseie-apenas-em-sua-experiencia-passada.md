@@ -4,6 +4,11 @@ post_title: >
   Não se baseie apenas em sua
   experiência passada
 author: ' <a href="https://www.gruponews.com.br/autor/alexandre-rangel" rel="tag">Alexandre Rangel</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

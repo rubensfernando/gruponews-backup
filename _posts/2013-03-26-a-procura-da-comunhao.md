@@ -2,6 +2,11 @@
 ID: 2878
 post_title: À procura da comunhão
 author: ' <a href="https://www.gruponews.com.br/autor/cleucio-macedo" rel="tag">Cléucio Macedo</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

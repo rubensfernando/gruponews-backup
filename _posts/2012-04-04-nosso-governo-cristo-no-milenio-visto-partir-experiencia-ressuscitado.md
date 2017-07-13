@@ -5,6 +5,11 @@ post_title: >
   visto a partir da experiência do
   Ressuscitado
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

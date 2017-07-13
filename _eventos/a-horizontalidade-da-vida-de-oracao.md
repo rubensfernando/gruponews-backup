@@ -2,6 +2,11 @@
 ID: 3422
 post_title: A horizontalidade da vida de oração
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: event
 permalink: >

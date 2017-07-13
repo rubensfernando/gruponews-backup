@@ -2,6 +2,11 @@
 ID: 4549
 post_title: Encontro de Paternidade 2016
 author: ""
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >

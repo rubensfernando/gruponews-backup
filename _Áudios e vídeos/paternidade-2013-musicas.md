@@ -2,6 +2,11 @@
 ID: 3039
 post_title: Músicas
 author: ' <a href="https://www.gruponews.com.br/autor/denis-bastos" rel="tag">Denis Bastos</a>, <a href="https://www.gruponews.com.br/autor/erika-oliveira" rel="tag">Erika Oliveira</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >

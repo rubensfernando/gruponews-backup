@@ -4,6 +4,11 @@ post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
 author: ' <a href="https://www.gruponews.com.br/autor/padre-marcial-macaneiro" rel="tag">Padre Marcial Maçaneiro</a>'
+tags:
+  errors:
+    invalid_taxonomy:
+      - Taxonomia inválida.
+  error_data: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
