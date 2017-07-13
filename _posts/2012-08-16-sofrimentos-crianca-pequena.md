@@ -2,29 +2,13 @@
 ID: 2086
 post_title: Sofrimentos da criança pequena
 author: Fernando
-post_date: 2012-08-16 00:40:36
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/sofrimentos-crianca-pequena
+  https://www.gruponews.com.br/artigos/sofrimentos-crianca-pequena
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-"og:type":
-  - article
-post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2012/02/crianca.jpg
-wpcf-gn_post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2857602589"
+post_date: 2012-08-16 00:40:36
 ---
 <i>Este artigo é o quarto de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</i>
 

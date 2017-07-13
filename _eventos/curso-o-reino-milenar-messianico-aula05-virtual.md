@@ -2,18 +2,13 @@
 ID: 2723
 post_title: 'Curso “O Reino Milenar Messiânico” #aula05 &#8211; Virtual'
 author: Escritorio
-post_date: 2012-09-23 23:45:02
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/curso-o-reino-milenar-messianico-aula05-virtual
+  https://www.gruponews.com.br/eventos/curso-o-reino-milenar-messianico-aula05-virtual
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2012-09-23 23:45:02
 ---
 <strong>Tema:</strong>  A presença de Jesus na Terra - 1ª e 2ª vindas + DVD - Asher Intrater - Plano Eterno de Deus de unir os Céus e a Terra (+) O Reino de Deus e Jerusalém Espiritual (parte5) – O Cordeiro de Deus morto antes da fundação do mundo. O sistema geracional para a formação da população humana. A rebeldia de Satanás seguida pelas nações. O resgate das nações. O significado da salvação e o Reino Messiânico. A implantação do reino via coração do homem até a sua efetivação objetiva.
 <strong>Palestrantes:</strong> Jalber Leite

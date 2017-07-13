@@ -2,27 +2,13 @@
 ID: 1947
 post_title: Todo crente é um ateu
 author: Fernando
-post_date: 2011-07-12 19:05:19
 post_excerpt: ""
 layout: post
-permalink: https:/artigos/todo-crente-e-um-ateu
+permalink: >
+  https://www.gruponews.com.br/artigos/todo-crente-e-um-ateu
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Nuno Tovar de Lemos
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2810147458"
+post_date: 2011-07-12 19:05:19
 ---
 Tem-me acontecido frequentemente – conversando com alguém que se diz ateu – sentir-me de imediato numa total e sincera sintonia de pontos de vista com essa pessoa. O Deus que ele rejeita e afirma não poder existir, também eu rejeito e julgo sinceramente que não pode existir.
 

@@ -2,28 +2,13 @@
 ID: 1131
 post_title: Louvorzão da Juventude
 author: Victor Glad
-post_date: 2010-09-26 23:17:34
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/louvorzao-da-juventude
+permalink: >
+  https://www.gruponews.com.br/eventos/louvorzao-da-juventude
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/09/back_fuca.jpg
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802546053"
+post_date: 2010-09-26 23:17:34
 ---
 <h3>Onde?</h3>
 Teatro Fuca

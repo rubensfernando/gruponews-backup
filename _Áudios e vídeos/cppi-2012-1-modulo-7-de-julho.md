@@ -2,42 +2,13 @@
 ID: 2548
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 7 de julho'
 author: Ademir Lucas
-post_date: 2012-07-09 12:30:08
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https:/audioevideo/cppi-2012-1-modulo-7-de-julho
+  https://www.gruponews.com.br/audioevideo/cppi-2012-1-modulo-7-de-julho
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - >
-    Harold Walker, Christopher Walker,
-    Abnério Cabral, Jônatas Walker
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-aktt_tweeted:
-  - "1"
-enclosure:
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/01_harold-walker_sabado-dia-7-de-julho.mp3
-    69877688
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/02_Christopher-walker_sabado-dia-7-de-julho.mp3
-    70513717
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/03_abnerio-cabral_sabado-dia-7-de-julho.mp3
-    65749609
-    audio/mpeg
-    
-dsq_thread_id:
-  - "2802548804"
+post_date: 2012-07-09 12:30:08
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.
 

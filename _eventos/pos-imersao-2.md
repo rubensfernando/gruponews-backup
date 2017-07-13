@@ -2,12 +2,12 @@
 ID: 4852
 post_title: Pós-imersão 2
 author: Fernando
-post_date: 2017-02-20 11:00:07
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/pos-imersao-2
+permalink: >
+  https://www.gruponews.com.br/eventos/pos-imersao-2
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-02-20 11:00:07
 ---
 Em

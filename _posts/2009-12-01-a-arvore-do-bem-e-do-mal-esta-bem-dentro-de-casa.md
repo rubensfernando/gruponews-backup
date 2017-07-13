@@ -4,27 +4,13 @@ post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
 author: eduardolucas
-post_date: 2009-12-01 00:57:16
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+  https://www.gruponews.com.br/familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+categories: categories
 published: true
-post_autor:
-  - Ivonete Camargo Pegnolazzo
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Ivonete Camargo Pegnolazzo
-dsq_thread_id:
-  - "2802545640"
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2009-12-01 00:57:16
 ---
 A Bíblia tem início com uma das mais interessantes narrativas a respeito da liberdade dada ao homem. Em Gênesis, Deus criou Adão e Eva e lhes deu liberdade de ação e de estarem diariamente se relacionando com Ele. Com o passar do tempo, Deus comprovou, na prática, que a Sua criação mais especial não tinha conseguido passar na prova de autonomia que lhe dava o privilégio de gerir seus próprios passos.
 

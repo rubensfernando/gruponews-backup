@@ -2,18 +2,13 @@
 ID: 2708
 post_title: A Trindade e o Reino de Deus
 author: Fernando
-post_date: 2012-09-18 00:00:48
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/a-trindade-e-o-reino-de-deus
+  https://www.gruponews.com.br/eventos/a-trindade-e-o-reino-de-deus
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2012-09-18 00:00:48
 ---
 <h3>Preletores</h3>
 <strong>Eric Mumford,</strong> filho de Bob Mumford, autor do livro A Patrola de Deus, diretor do Ministério Lifechangers nos EUA, e de Father’s House, em Uganda.

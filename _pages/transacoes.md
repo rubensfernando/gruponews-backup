@@ -2,13 +2,13 @@
 ID: 1996
 post_title: Transações
 author: Fernando
-post_date: 2011-12-03 20:08:56
 post_excerpt: ""
 layout: page
-permalink: https:/eventos/transacoes
+permalink: >
+  https://www.gruponews.com.br/eventos/transacoes
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2011-12-03 20:08:56
 ---
 [ESPRESSO_TXN_PAGE]
 

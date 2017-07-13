@@ -2,22 +2,11 @@
 ID: 723
 post_title: '“Comunhão nossa de cada dia” &#8211; Discernindo a comunhão'
 author: Fernando
-post_date: 2010-04-11 18:00:12
 post_excerpt: ""
 layout: post
-permalink: https:/?p=723
+permalink: https://www.gruponews.com.br/?p=723
+categories: categories
 published: false
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
-aktt_tweeted:
-  - "1"
 ---
 <blockquote><em>Este artigo é o segundo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler o anterior.</em></blockquote>
 É bem provável que nesta seção você leia algumas coisas abordadas de forma diferente de como são tratadas na literatura cristã em geral. Sem desmerecer a capacidade crítica de cada um, proponho que se não houver uma aceitação imediata, não a refute de pronto: antes, com paciência, considere o que está sendo exposto e vá guardando tudo até que cheguemos ao final da série. Muitas vezes, quando é difícil, de saída, compreender um pensamento de forma linear, no final podemos nos surpreender com a descoberta de um belo mosaico diante de nós, no qual pensamentos rejeitados isoladamente começam a se complementar mutuamente.

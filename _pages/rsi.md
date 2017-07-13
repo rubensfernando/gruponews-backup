@@ -2,17 +2,12 @@
 ID: 1040
 post_title: RSI
 author: Fernando
-post_date: 2010-09-11 13:52:44
 post_excerpt: ""
 layout: page
-permalink: https:/rsi
+permalink: https://www.gruponews.com.br/rsi
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+post_date: 2010-09-11 13:52:44
 ---
 <h3>O Propósito</h3>
 A RSI é um movimento que nasceu como resposta à situação  extremamente perigosa em que se encontram as nossas escolas e a educação  de maneira geral neste país. Quando falamos de escola e educação  estamos nos referindo a pessoas - funcionários e alunos, seus familiares  e a sociedade de maneira geral, pois todos são diretamente ou  indiretamente afetados por aquilo que ocorre no ambiente de uma escola.

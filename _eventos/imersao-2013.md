@@ -2,15 +2,13 @@
 ID: 2782
 post_title: Imersão 2013
 author: Fernando
-post_date: 2012-11-27 21:57:14
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/imersao-2013
+permalink: >
+  https://www.gruponews.com.br/eventos/imersao-2013
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Renata Ribeiro Arruda
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2012-11-27 21:57:14
 ---
 <h3>O que é Imersão?</h3>
 É um encontro intensivo dedicado ao ensino da Palavra, oração, reflexão, louvor e muita comunhão.

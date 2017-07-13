@@ -2,26 +2,13 @@
 ID: 1565
 post_title: Encontro Temático 2011
 author: Fernando
-post_date: 2011-06-16 00:00:18
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/encontro-tematico-2011
+permalink: >
+  https://www.gruponews.com.br/eventos/encontro-tematico-2011
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2011-06-16 00:00:18
 ---
 <h3>Os temas que serão abordados</h3>
 - A preparação da igreja para a volta de Jesus

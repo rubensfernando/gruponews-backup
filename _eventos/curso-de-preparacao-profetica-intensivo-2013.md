@@ -4,16 +4,13 @@ post_title: >
   Curso de Preparação Profética
   Intensivo 2013
 author: Fernando
-post_date: 2013-02-04 20:34:21
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/curso-de-preparacao-profetica-intensivo-2013
+  https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2013
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2013-02-04 20:34:21
 ---
 <h2>Matérias</h2>
 <h3>Primeiro módulo</h3>

@@ -4,27 +4,12 @@ post_title: >
   Sobre a mensagem “Vivendo como filhos
   amados de Aba”
 author: Fernando
-post_date: 2010-02-02 00:30:02
 post_excerpt: ""
 layout: post
-permalink: 'https:/artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d'
+permalink: 'https://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d'
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2813428567"
+post_date: 2010-02-02 00:30:02
 ---
 <strong>CONFERENCISTA: E se eu não me sentir amado? Eu sei na minha mente que sou amado por Deus e talvez até tenha vivido momentos em que ele revelou a mim o seu amor, mas não sinto isso hoje, não estou vivendo nisso hoje. O que eu faço?</strong>
 

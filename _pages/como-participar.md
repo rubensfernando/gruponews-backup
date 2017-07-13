@@ -2,17 +2,13 @@
 ID: 1042
 post_title: Como participar
 author: Fernando
-post_date: 2010-09-11 13:54:13
 post_excerpt: ""
 layout: page
-permalink: https:/rsi/como-participar
+permalink: >
+  https://www.gruponews.com.br/rsi/como-participar
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+post_date: 2010-09-11 13:54:13
 ---
 <div id="texto">
 <h2>Como participar</h2>

@@ -2,26 +2,13 @@
 ID: 2004
 post_title: '9º Imersão de Verão &#8211; 07 a 15 de Janeiro de 2012'
 author: Victor Glad
-post_date: 2011-12-14 22:04:12
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/9imersaodeverao
+permalink: >
+  https://www.gruponews.com.br/eventos/9imersaodeverao
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2011/12/banner_imersao2012.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2011-12-14 22:04:12
 ---
 <h3>O que é Imersão?</h3>
 Período intensivo dedicado ao ensino da Palavra, oração, reflexão, louvor e muita comunhão, que, com certeza, marcará espiritualmente não só o início do ano, mas toda a vida de cada participante. Ideal para quem quer levar a sério sua experiência com Deus. Ajuste suas expectativas: o Imersão não pode ser confundido com acampamento de férias ou mera atividade de lazer.

@@ -2,18 +2,12 @@
 ID: 2119
 post_title: Editar
 author: Fernando
-post_date: 2012-03-04 20:28:08
 post_excerpt: ""
 layout: page
-permalink: https:/usuario/editar
+permalink: >
+  https://www.gruponews.com.br/usuario/editar
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-"og:type":
-  - article
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+post_date: 2012-03-04 20:28:08
 ---
 <strong>[theme-my-profile] </strong>

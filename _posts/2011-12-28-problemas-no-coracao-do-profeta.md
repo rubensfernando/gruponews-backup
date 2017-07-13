@@ -2,32 +2,13 @@
 ID: 1974
 post_title: Problemas no coração do profeta
 author: Fernando
-post_date: 2011-12-28 00:00:22
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/problemas-no-coracao-do-profeta
+  https://www.gruponews.com.br/artigos/problemas-no-coracao-do-profeta
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Ezequiel Netto
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-"og:type":
-  - article
-wpcf-gn_post_autor:
-  - Ezequiel Netto
-wpcf-gn_post_imagem:
-  - ""
-dsq_thread_id:
-  - "2816273391"
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2011-12-28 00:00:22
 ---
 <em>Este artigo é o décimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </em>
 

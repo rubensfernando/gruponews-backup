@@ -4,32 +4,13 @@ post_title: >
   Deus quer de nós uma nova maneira de
   pensar
 author: Fernando
-post_date: 2011-12-21 22:35:24
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
+  https://www.gruponews.com.br/artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Ezequiel Netto
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-"og:type":
-  - article
-wpcf-gn_post_imagem:
-  - ""
-wpcf-gn_post_autor:
-  - Ezequiel Netto
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546022"
+post_date: 2011-12-21 22:35:24
 ---
 <h3><span class="Apple-style-span" style="font-size: 15px;">A pregação do evangelho</span></h3>
 Uma das passagens mais intrigantes dos evangelhos é Marcos 16.15-20. Alguns teólogos, por não conseguirem explicá-la, alegam que não consta nos principais manuscritos da Bíblia (o que é uma grande mentira):

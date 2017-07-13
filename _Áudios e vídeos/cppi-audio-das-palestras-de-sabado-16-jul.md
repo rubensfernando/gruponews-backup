@@ -2,50 +2,13 @@
 ID: 1758
 post_title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
 author: Ademir Lucas
-post_date: 2011-07-20 08:10:31
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https:/audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
+  https://www.gruponews.com.br/audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe Gruponews
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-enclosure:
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker16072011Tarde.mp3
-    45765447
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2011/07/HeriveltonOliveira16072011Noite.mp3
-    36488752
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2011/07/ElizaWalker16072011Manha.mp3
-    57924372
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2011/07/AngeloBazzo16072011Manha.mp3
-    43342768
-    audio/mpeg
-    
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2011/07/banner_CPPI_audios-16.jpg
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802546254"
+post_date: 2011-07-20 08:10:31
 ---
 Confira as palestras ministradas no dia 16 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.
 

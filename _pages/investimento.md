@@ -2,17 +2,13 @@
 ID: 1061
 post_title: Investimento
 author: Fernando
-post_date: 2010-09-11 18:12:39
 post_excerpt: ""
 layout: page
-permalink: https:/conferencia2010/investimento
+permalink: >
+  https://www.gruponews.com.br/conferencia2010/investimento
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+post_date: 2010-09-11 18:12:39
 ---
 O encontro terá o custo de R$ 100,00. No valor, já estão inclusas a estadia e a alimentação. Desconto especial de 10% para casais.
 <h3><strong>Forma de Pagamento</strong></h3>

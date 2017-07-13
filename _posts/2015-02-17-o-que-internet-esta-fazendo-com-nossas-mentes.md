@@ -4,16 +4,13 @@ post_title: >
   O que a internet está fazendo com as
   nossas mentes
 author: Fernando
-post_date: 2015-02-17 12:55:47
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes
+  https://www.gruponews.com.br/bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "3690517123"
+post_date: 2015-02-17 12:55:47
 ---
 Se o surgimento do computador, no século XX, inaugurou uma nova revolução intelectual, o fato de poder conectá-lo a uma rede mundial, interligada a milhões de outros computadores, exponenciou suas capacidades e potencialidades e lançou a humanidade em uma revolução intelectual (e tecnológica) ainda mais radical.
 

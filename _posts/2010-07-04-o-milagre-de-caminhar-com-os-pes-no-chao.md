@@ -4,22 +4,13 @@ post_title: >
   O milagre de caminhar com os pés no
   chão
 author: Fernando
-post_date: 2010-07-04 17:39:36
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
+  https://www.gruponews.com.br/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - >
-    Henri J. M. Nouwen, Donald P. McNeill e
-    Douglas A. Morrison
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2813894904"
+post_date: 2010-07-04 17:39:36
 ---
 O chamamento para a comunidade como o ouvimos de nosso Senhor é o chamamento para nos deslocarmos dos nossos lugares comuns e próprios. A comunidade cristã reúne-se no deslocamento e, com isso, descobre e proclama nova forma de estar junta. Ao deixarem os lugares-comuns e próprios e ao responderem ao chamado do Senhor para segui-lo, as pessoas com antecedentes muito diferentes descobrem umas às outras como companheiros na peregrinação, reunidos num discipulado comum.
 

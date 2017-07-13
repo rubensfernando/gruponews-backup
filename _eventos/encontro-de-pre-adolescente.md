@@ -2,12 +2,11 @@
 ID: 4859
 post_title: Encontro de Pré-Adolescente
 author: Fernando
-post_date: 2017-02-20 11:09:59
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/encontro-de-pre-adolescente
+  https://www.gruponews.com.br/eventos/encontro-de-pre-adolescente
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-02-20 11:09:59
 ---

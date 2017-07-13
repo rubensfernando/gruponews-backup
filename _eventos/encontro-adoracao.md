@@ -2,19 +2,13 @@
 ID: 2385
 post_title: I Encontro de Adoração
 author: Victor Glad
-post_date: 2012-05-02 12:00:10
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/encontro-adoracao
+permalink: >
+  https://www.gruponews.com.br/eventos/encontro-adoracao
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
-aktt_tweeted:
-  - "1"
+post_date: 2012-05-02 12:00:10
 ---
 Oportunidade: Procuram-se adoradores!
 

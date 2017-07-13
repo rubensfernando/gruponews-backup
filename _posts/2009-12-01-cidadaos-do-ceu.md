@@ -2,28 +2,13 @@
 ID: 142
 post_title: Cidadãos do Céu
 author: eduardolucas
-post_date: 2009-12-01 21:10:49
 post_excerpt: ""
 layout: post
-permalink: https:/artigos/cidadaos-do-ceu
+permalink: >
+  https://www.gruponews.com.br/artigos/cidadaos-do-ceu
+categories: categories
 published: true
-post_autor:
-  - Valmir Mathiazi
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/cidadaos_do_ceu.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802545861"
+post_date: 2009-12-01 21:10:49
 ---
 Este texto anônimo, extraído da carta a Diogneto (passagens 5 e 6) e escrito por volta do ano 200, em Alexandria, mostra como os cristãos eram vistos por seus contemporâneos.
 

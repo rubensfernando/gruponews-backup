@@ -2,12 +2,11 @@
 ID: 4860
 post_title: Encontro Geral da Juventude
 author: Fernando
-post_date: 2017-02-20 11:11:37
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/encontro-geral-da-juventude
+  https://www.gruponews.com.br/eventos/encontro-geral-da-juventude
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-02-20 11:11:37
 ---

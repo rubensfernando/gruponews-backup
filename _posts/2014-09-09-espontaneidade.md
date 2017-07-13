@@ -2,13 +2,13 @@
 ID: 3949
 post_title: Espontaneidade
 author: Fernando
-post_date: 2014-09-09 22:21:29
 post_excerpt: ""
 layout: post
-permalink: https:/bases-cristas/espontaneidade
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/espontaneidade
+categories: categories
 published: true
-dsq_thread_id:
-  - "3005465724"
+post_date: 2014-09-09 22:21:29
 ---
 Espontaneidade é um assunto bastante difícil de ser tratado. A própria palavra espontaneidade parece exageradamente escorregadia. Não sei se você já travou com algum amigo um daqueles papos filosóficos sobre a espontaneidade, mas, se o fez, com certeza encontrou bastante dificuldade em conceituá-la e inseri-la na vida cotidiana.
 

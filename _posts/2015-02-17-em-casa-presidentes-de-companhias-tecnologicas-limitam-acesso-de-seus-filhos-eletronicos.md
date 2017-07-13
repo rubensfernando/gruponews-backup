@@ -5,16 +5,13 @@ post_title: >
   tecnológicas limitam acesso de seus
   filhos a eletrônicos
 author: Fernando
-post_date: 2015-02-17 12:55:56
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos
+  https://www.gruponews.com.br/bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "3709153727"
+post_date: 2015-02-17 12:55:56
 ---
 NICK BILTON
 DO "NEW YORK TIMES"

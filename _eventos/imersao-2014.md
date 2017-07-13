@@ -2,17 +2,13 @@
 ID: 3566
 post_title: Imersão 2014
 author: Escritorio
-post_date: 2013-12-03 13:10:18
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/imersao-2014
+permalink: >
+  https://www.gruponews.com.br/eventos/imersao-2014
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2013-12-03 13:10:18
 ---
 <h3>O que é Imersão?</h3>
 É um encontro intensivo dedicado ao ensino da Palavra, oração, reflexão, louvor e muita comunhão.

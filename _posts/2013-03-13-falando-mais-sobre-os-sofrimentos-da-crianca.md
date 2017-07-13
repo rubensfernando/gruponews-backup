@@ -4,20 +4,13 @@ post_title: >
   Falando mais sobre os sofrimentos da
   criança
 author: Fernando
-post_date: 2013-03-13 00:00:26
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
+  https://www.gruponews.com.br/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "3070948822"
+post_date: 2013-03-13 00:00:26
 ---
 <i>Este artigo é o quinto de uma série que discute alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>
 

@@ -2,18 +2,13 @@
 ID: 3628
 post_title: Lidando com o próprio veneno
 author: Fernando
-post_date: 2014-02-07 15:41:41
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/bases-cristas/vida/lidando-com-o-proprio-veneno
+  https://www.gruponews.com.br/bases-cristas/vida/lidando-com-o-proprio-veneno
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "3684243247"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2014-02-07 15:41:41
 ---
 Há muito tempo, uma menina chamada Lili se casou e foi viver com o marido e a sogra. Depois de alguns dias, passou a não se entender com a sogra, pois as personalidades delas eram muito diferentes. Lili foi se irritando com os hábitos da mulher, e esta, por sua vez, frequentemente criticava Lili. Meses se passaram, e elas cada vez mais discutiam e brigavam.
 

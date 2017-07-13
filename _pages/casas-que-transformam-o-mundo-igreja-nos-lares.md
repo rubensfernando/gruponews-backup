@@ -4,13 +4,12 @@ post_title: >
   Conferência “Casas que Transformam o
   Mundo – Igreja nos lares”
 author: Fernando
-post_date: 2014-10-16 00:18:44
 post_excerpt: ""
 layout: page
 permalink: >
-  https:/eventos/conferencias/casas-que-transformam-o-mundo-igreja-nos-lares
+  https://www.gruponews.com.br/eventos/conferencias/casas-que-transformam-o-mundo-igreja-nos-lares
+categories: categories
 published: true
-dsq_thread_id:
-  - "4030698046"
+post_date: 2014-10-16 00:18:44
 ---
 Assista e ouça as ministrações

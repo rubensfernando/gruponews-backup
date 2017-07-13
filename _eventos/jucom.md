@@ -2,11 +2,11 @@
 ID: 4855
 post_title: Jucom
 author: Fernando
-post_date: 2017-02-20 12:07:23
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/jucom
+permalink: >
+  https://www.gruponews.com.br/eventos/jucom
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-02-20 12:07:23
 ---

@@ -2,13 +2,13 @@
 ID: 3395
 post_title: Contas bancárias
 author: Fernando
-post_date: 2013-08-06 21:45:57
 post_excerpt: ""
 layout: page
-permalink: https:/contas-bancarias
+permalink: >
+  https://www.gruponews.com.br/contas-bancarias
+categories: categories
 published: true
-sharing_disabled:
-  - "1"
+post_date: 2013-08-06 21:45:57
 ---
 <h2>Pagamento de encontros e livros ou ofertas</h2>
 <strong>Banco:</strong> Bradesco

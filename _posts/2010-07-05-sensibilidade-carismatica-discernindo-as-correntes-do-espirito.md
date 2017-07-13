@@ -2,18 +2,13 @@
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
 author: Fernando
-post_date: 2010-07-05 15:13:00
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito
+  https://www.gruponews.com.br/artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Ezequiel Netto
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2805029164"
+post_date: 2010-07-05 15:13:00
 ---
 <i>Este artigo é o sétimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muito lugares</i>
 

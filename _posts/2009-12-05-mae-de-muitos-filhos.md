@@ -2,29 +2,13 @@
 ID: 378
 post_title: Mãe de Muitos Filhos
 author: Fernando
-post_date: 2009-12-05 01:44:05
 post_excerpt: ""
 layout: post
-permalink: https:/publicacoes/mae-de-muitos-filhos
+permalink: >
+  https://www.gruponews.com.br/publicacoes/mae-de-muitos-filhos
+categories: categories
 published: true
-post_autor:
-  - Equipe da Comunicação
-post_destaques:
-  - Nao
-publicacoes_capa:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/livro_capa_mae_filhos.jpg
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Maurício Bronzatto
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2830982090"
+post_date: 2009-12-05 01:44:05
 ---
 A ascendência de Elza, sua infância, a preparação da adolescência, sua formação como professora, o casamento com Franco e constate busca de respostas levaram-na a um intenso trabalho social na paróquia de São João Batista, em Barueri. Em meio a tudo isso, a renovação Carismática, que estava fervilhando nas denominações protestantes, chegou também a Igreja Católica, depois do auspicioso Concílio Vaticano II.
 

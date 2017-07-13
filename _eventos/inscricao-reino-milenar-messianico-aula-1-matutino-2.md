@@ -2,14 +2,13 @@
 ID: 2310
 post_title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
 author: Escritorio
-post_date: 2012-04-15 21:58:48
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
+  https://www.gruponews.com.br/eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
+post_date: 2012-04-15 21:58:48
 ---
 O tema da aula 1 será "O Reino no Plano Geral de Deus" - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.
 <h3>Observações importantes</h3>

@@ -2,20 +2,13 @@
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
 author: Fernando
-post_date: 2010-07-05 15:13:07
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/aprendendo-a-exultar-na-monotonia
+  https://www.gruponews.com.br/artigos/aprendendo-a-exultar-na-monotonia
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Renata Ribeiro Arruda
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2942398374"
+post_date: 2010-07-05 15:13:07
 ---
 Eu adoro as crianças, elas parecem ter uma energia, um sorriso, uma paciência que ainda não foram corrompidos pelo senso de <i>adultice</i>. Talvez por isso eu queira ter filhos logo e também por isso me sinta um pouco madrinha das minhas primas mais novas, Miriã e Mirella, pelas quais demonstro grande e notável apego.
 

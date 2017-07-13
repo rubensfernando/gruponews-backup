@@ -4,16 +4,11 @@ post_title: >
   Áudios do Encontro de Paternidade I
   2013
 author: Fernando
-post_date: 2013-05-09 00:40:18
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/noticias/audios-do-encontro-de-paternidade-i-2013
+  https://www.gruponews.com.br/noticias/audios-do-encontro-de-paternidade-i-2013
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "3777985400"
+post_date: 2013-05-09 00:40:18
 ---

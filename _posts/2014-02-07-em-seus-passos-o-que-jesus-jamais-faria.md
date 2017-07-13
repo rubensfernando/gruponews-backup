@@ -2,18 +2,13 @@
 ID: 3633
 post_title: Em seus passos o que Jesus jamais faria?
 author: Fernando
-post_date: 2014-02-07 15:39:40
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/bases-cristas/em-seus-passos-o-que-jesus-jamais-faria
+  https://www.gruponews.com.br/bases-cristas/em-seus-passos-o-que-jesus-jamais-faria
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "3736854546"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2014-02-07 15:39:40
 ---
 “Em seus passos o que faria Jesus?” é o título de um livro escrito por Charles Sheldon e publicado originalmente em 1896, nos Estados Unidos, com o título “In His Steps”.
 

@@ -5,22 +5,11 @@ post_title: >
   Comunhão e oração como resposta à
   vontade de Deus
 author: Fernando
-post_date: 2010-06-27 12:00:41
 post_excerpt: ""
 layout: post
-permalink: https:/?p=869
+permalink: https://www.gruponews.com.br/?p=869
+categories: categories
 published: false
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
-aktt_tweeted:
-  - "1"
 ---
 <blockquote><em>Este artigo é o nono de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 Quando definimos a oração apenas como “<em>falar</em> com Deus”, somos induzidos ao equívoco de pensar que a iniciativa de orar parte do homem, e que cabe a Deus responder agindo em favor do suplicante. Dessa maneira, a oração restringe-se a um instrumento para satisfazer as necessidades humanas ainda que variando de forma: a sós, fechado num aposento, em reunião com outros, em jejum, sobre montes, nas madrugadas, em vigílias e campanhas.

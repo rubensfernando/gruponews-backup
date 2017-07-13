@@ -4,16 +4,13 @@ post_title: >
   10º Encontro de reflexão profética
   para líderes
 author: Fernando
-post_date: 2013-02-04 20:44:02
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/10o-encontro-de-reflexao-profetica-para-lideres
+  https://www.gruponews.com.br/eventos/10o-encontro-de-reflexao-profetica-para-lideres
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Revista Impacto
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">
 <h4>ATENÇÃO</h4>

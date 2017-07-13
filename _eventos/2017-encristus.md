@@ -2,15 +2,13 @@
 ID: 4844
 post_title: Encristus
 author: Fernando
-post_date: 2017-02-20 10:50:43
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/2017-encristus
+permalink: >
+  https://www.gruponews.com.br/eventos/2017-encristus
+categories: categories
 published: true
-slide_template:
-  - default
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-02-20 10:50:43
 ---
 Neste ano de 2017 a Reforma Protestante completa 500 anos. Um dos maiores fenômenos do Movimento Renascentista, trouxe inúmeros e benefícios aos avanços do desenvolvimento da sociedade em geral. Há que se lamentar, entretanto, que tenha servido de pretexto para ocasionar divisões entre os cristãos e acirramento dos ânimos desembocando em conflitos que geraram muitas mortes tanto de católicos como de protestantes.
 

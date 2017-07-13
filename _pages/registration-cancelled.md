@@ -2,10 +2,12 @@
 ID: 3708
 post_title: Inscrição cancelada
 author: Fernando
-post_date: 2014-06-08 18:22:13
 post_excerpt: ""
 layout: page
-permalink: https:/eventos/registration-cancelled
+permalink: >
+  https://www.gruponews.com.br/eventos/registration-cancelled
+categories: categories
 published: true
+post_date: 2014-06-08 18:22:13
 ---
 [ESPRESSO_CANCELLED]

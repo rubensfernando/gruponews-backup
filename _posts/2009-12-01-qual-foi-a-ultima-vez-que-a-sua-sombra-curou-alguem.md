@@ -4,27 +4,13 @@ post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
 author: eduardolucas
-post_date: 2009-12-01 22:09:23
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
+  https://www.gruponews.com.br/artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
+categories: categories
 published: true
-post_autor:
-  - Mauricio Bronzatto
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
-wpcf-gn_post_autor:
-  - Mauricio Bronzatto
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "5643529578"
+post_date: 2009-12-01 22:09:23
 ---
 “De sorte que transportavam os enfermos para as ruas, e os punham em leitos e esteiras, para que ao menos a sombra de Pedro, quando este passasse, cobrisse alguns deles.” (At 5:15).
 

@@ -2,20 +2,13 @@
 ID: 3404
 post_title: O trabalho e o Reino Milenar
 author: Fernando
-post_date: 2013-08-27 07:15:19
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/o-trabalho-e-o-reino-milenar
+  https://www.gruponews.com.br/artigos/o-trabalho-e-o-reino-milenar
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Ricardo Oliveira
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2938482637"
+post_date: 2013-08-27 07:15:19
 ---
 Num futuro próximo, o governo que os homens exercem sobre as nações e o mundo será tomado. Cristo voltará e governará por mil anos. Não se trata de conto de fada nem de mito, mas de um fato (já existente, mas que ainda não nos alcançou em nosso tempo cronológico).
 

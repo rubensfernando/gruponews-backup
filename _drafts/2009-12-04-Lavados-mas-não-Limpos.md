@@ -2,15 +2,11 @@
 ID: 380
 post_title: Lavados, mas não Limpos
 author: Fernando
-post_date: 2009-12-04 00:14:43
 post_excerpt: ""
 layout: post
-permalink: https:/?p=380
+permalink: https://www.gruponews.com.br/?p=380
+categories: categories
 published: false
-post_autor:
-  - ""
-post_destaques:
-  - Nao
 ---
 “Assisto, de vez em quando, a pessoas saindo da comunidade de que participo para outras igrejas. O motivo alegado por muitas delas é a necessidade de um ‘verdadeiro batismo’, como resposta para os mais diversos problemas.
 

@@ -2,16 +2,11 @@
 ID: 4497
 post_title: 'Johannes Fichtenbauer &#8211; Parte 2'
 author: Fernando
-post_date: 2015-09-19 00:37:46
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https:/audioevideo/johannes-fichtenbauer-parte-2
+  https://www.gruponews.com.br/audioevideo/johannes-fichtenbauer-parte-2
+categories: categories
 published: true
-wpcf-gn_audiovideo_data:
-  - "1441324800"
-wpcf-gn_audiovideo_video:
-  - https://youtu.be/A2Zh98XK6Lg
-dsq_thread_id:
-  - "5238438755"
+post_date: 2015-09-19 00:37:46
 ---

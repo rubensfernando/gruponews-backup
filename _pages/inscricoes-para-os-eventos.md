@@ -2,12 +2,12 @@
 ID: 4437
 post_title: Inscrições para os eventos
 author: Fernando
-post_date: 2015-08-06 00:11:20
 post_excerpt: ""
 layout: page
-permalink: https:/inscricoes-para-os-eventos
+permalink: >
+  https://www.gruponews.com.br/inscricoes-para-os-eventos
+categories: categories
 published: true
-dsq_thread_id:
-  - "4029456306"
+post_date: 2015-08-06 00:11:20
 ---
 [contact-form-7 id="4436" title="Inscrição Encontro 2015"]

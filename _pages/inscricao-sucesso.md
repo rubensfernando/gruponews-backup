@@ -2,19 +2,13 @@
 ID: 841
 post_title: Inscrição enviada com sucesso
 author: Fernando
-post_date: 2010-06-06 13:53:46
 post_excerpt: ""
 layout: page
-permalink: https:/eventos/inscricao-sucesso
+permalink: >
+  https://www.gruponews.com.br/eventos/inscricao-sucesso
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "4181767940"
+post_date: 2010-06-06 13:53:46
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>
 

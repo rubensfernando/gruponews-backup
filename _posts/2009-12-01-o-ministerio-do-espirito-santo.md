@@ -2,30 +2,13 @@
 ID: 148
 post_title: O Ministério do Espírito Santo
 author: eduardolucas
-post_date: 2009-12-01 21:52:37
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
+  https://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
+categories: categories
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
-post_linkPDF:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Pedro Arruda
-dsq_thread_id:
-  - "2802545880"
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)
 

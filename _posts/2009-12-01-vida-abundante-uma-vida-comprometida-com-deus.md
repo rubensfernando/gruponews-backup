@@ -2,27 +2,13 @@
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
 author: eduardolucas
-post_date: 2009-12-01 22:26:29
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/vida-abundante-uma-vida-comprometida-com-deus
+  https://www.gruponews.com.br/artigos/vida-abundante-uma-vida-comprometida-com-deus
+categories: categories
 published: true
-post_autor:
-  - Ailton Jacob de Oliveira
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/vida_abundante.jpg
-wpcf-gn_post_autor:
-  - Ailton Jacob de Oliveira
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802545972"
+post_date: 2009-12-01 22:26:29
 ---
 A existência do homem é um fator de muitas indagações. Teria o homem surgido do macaco? Ou quem sabe de uma explosão cósmica? A existência do homem continua a ser um mistério para muitas pessoas.
 

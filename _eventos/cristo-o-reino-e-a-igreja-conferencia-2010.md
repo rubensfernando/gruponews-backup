@@ -2,29 +2,13 @@
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
 author: Fernando
-post_date: 2010-10-20 14:26:35
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/cristo-o-reino-e-a-igreja-conferencia-2010
+  https://www.gruponews.com.br/eventos/cristo-o-reino-e-a-igreja-conferencia-2010
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/09/banner_conferencia-2010.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2010-10-20 14:26:35
 ---
 Depois de recebermos Wolfgang Simson, em 2007, e refletirmos sobre as “casas que transformam o mundo”, e Wayne Jacobsen, em 2009, para o compartilhamento da experiência numa “jornada diária na presença e no amor do Pai”, neste ano de 2010, a fim de nos debruçarmos sobre o tema “Cristo, o Reino e a Igreja”, retornamos ao formato da Conferência de 2008, ocasião em que vários preletores expuseram suas inquietações e expectativas sobre “a Igreja de nosso tempo” (<a href="/conferencia2008/" target="_blank">clique aqui</a> para saber mais).
 

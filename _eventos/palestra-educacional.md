@@ -2,15 +2,13 @@
 ID: 3675
 post_title: 'Palestra Educacional: Como ser um “Pai Mau”'
 author: eduardolucas
-post_date: 2014-04-29 12:23:55
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/palestra-educacional
+permalink: >
+  https://www.gruponews.com.br/eventos/palestra-educacional
+categories: categories
 published: true
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2014-04-29 12:23:55
 ---
 Palestra apresenta um ambiente pouco afetuoso e pouco educativo, onde não há diálogo!
 

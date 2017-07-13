@@ -2,16 +2,13 @@
 ID: 4540
 post_title: 'Curso Bíblico Preparatório 2015 &#8211; Aulas 1 e 2'
 author: Fernando
-post_date: 2015-11-18 17:11:25
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https:/audioevideo/curso-biblico-preparatorio-2015-aulas-1-e-2
+  https://www.gruponews.com.br/audioevideo/curso-biblico-preparatorio-2015-aulas-1-e-2
+categories: categories
 published: true
-wpcf-gn_audiovideo_data:
-  - "1446854400"
-dsq_thread_id:
-  - "5202410815"
+post_date: 2015-11-18 17:11:25
 ---
 Os áudios foram gravados no dia 7 de novembro de 2015
 

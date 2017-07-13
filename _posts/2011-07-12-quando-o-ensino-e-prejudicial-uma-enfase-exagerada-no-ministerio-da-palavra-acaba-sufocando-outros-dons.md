@@ -2,24 +2,13 @@
 ID: 1892
 post_title: 'Quando o ensino é prejudicial: uma ênfase exagerada no ministério da Palavra acaba sufocando outros dons'
 author: Fernando
-post_date: 2011-07-12 18:55:52
 post_excerpt: ""
 layout: post
 permalink: >
-  https:/artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
+  https://www.gruponews.com.br/artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Ezequiel Netto
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - Ezequiel Netto
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2810782050"
+post_date: 2011-07-12 18:55:52
 ---
 <em>Este artigo é o nono de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.</em> <em> </em>
 

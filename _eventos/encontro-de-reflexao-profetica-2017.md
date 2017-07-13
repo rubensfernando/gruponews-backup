@@ -2,14 +2,13 @@
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
 author: Fernando
-post_date: 2017-01-05 16:53:08
 post_excerpt: ""
 layout: event
 permalink: >
-  https:/eventos/encontro-de-reflexao-profetica-2017
+  https://www.gruponews.com.br/eventos/encontro-de-reflexao-profetica-2017
+categories: categories
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+post_date: 2017-01-05 16:53:08
 ---
 <em>Tema: Fundamentos Apostólicos para o Fim dos Tempos</em>
 

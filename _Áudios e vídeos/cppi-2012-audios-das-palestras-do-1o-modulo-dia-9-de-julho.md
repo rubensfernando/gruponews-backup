@@ -2,46 +2,13 @@
 ID: 2600
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 9 de julho'
 author: Fernando
-post_date: 2012-07-14 20:38:23
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https:/audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
+  https://www.gruponews.com.br/audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-jwplayermodule_fb_headers_config:
-  - GrupoNewsAudio
-jwplayermodule_fb_headers_id:
-  - "2591"
-wpcf-gn_post_autor:
-  - >
-    Pedro Arruda, Eliza Walker, Abnério
-    Cabral, Eliana Walker
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-aktt_tweeted:
-  - "1"
-enclosure:
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/001Pedro-Arruda-segunda-dia-9.mp3
-    73969717
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/002Eliza-Walker-segunda-dia-9.mp3
-    63109883
-    audio/mpeg
-    
-  - |
-    http://www.gruponews.com.br/wp-content/uploads/2012/07/004Eliana-Walker-segunda-dia-9.mp3
-    60337874
-    audio/mpeg
-    
-dsq_thread_id:
-  - "2802548875"
+post_date: 2012-07-14 20:38:23
 ---
 Confira os áudio das palestras do dia 9 de julho, 1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.
 

@@ -2,15 +2,13 @@
 ID: 2988
 post_title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
 author: Fernando
-post_date: 2013-02-04 20:57:08
 post_excerpt: ""
 layout: event
-permalink: https:/eventos/conferencia-2013
+permalink: >
+  https://www.gruponews.com.br/eventos/conferencia-2013
+categories: categories
 published: true
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2013-02-04 20:57:08
 ---
 <div class="success">
 <h3><a href="http://www.gruponews.com.br/audiosevideos/conferencia-2013-igreja-organica">Clique aqui para ouvir as palestras</a></h3>

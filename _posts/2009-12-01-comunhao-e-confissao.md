@@ -2,26 +2,13 @@
 ID: 152
 post_title: Comunhão e Confissão
 author: eduardolucas
-post_date: 2009-12-01 21:14:20
 post_excerpt: ""
 layout: post
-permalink: https:/artigos/comunhao-e-confissao
+permalink: >
+  https://www.gruponews.com.br/artigos/comunhao-e-confissao
+categories: categories
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/comunhao_e_confissao.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Pedro Arruda
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802545813"
+post_date: 2009-12-01 21:14:20
 ---
 <em>Comunhão, nossa de cada dia - Confissão, a força de nossa fraqueza à comunhão</em>
 

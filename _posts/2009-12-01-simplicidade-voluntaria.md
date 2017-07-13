@@ -2,28 +2,13 @@
 ID: 133
 post_title: Simplicidade voluntária
 author: eduardolucas
-post_date: 2009-12-01 22:19:19
 post_excerpt: ""
 layout: post
-permalink: https:/artigos/simplicidade-voluntaria
+permalink: >
+  https://www.gruponews.com.br/artigos/simplicidade-voluntaria
+categories: categories
 published: true
-post_autor:
-  - Ricardo Camargo
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/simplicidade_voluntaria.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "5702877318"
+post_date: 2009-12-01 22:19:19
 ---
 O objetivo deste artigo está em buscar reconhecer quais as coisas (materiais ou não) que o impedem de caminhar mais livremente e com maior satisfação, o que pode facilitar sua caminhada pela segunda milha. Textos Básicos: Filipenses 4:11 e Hebreus 13:5
 <h3>Viva Melhor</h3>

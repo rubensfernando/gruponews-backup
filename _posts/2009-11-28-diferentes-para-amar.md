@@ -2,26 +2,13 @@
 ID: 104
 post_title: Diferentes para Amar
 author: eduardolucas
-post_date: 2009-11-28 18:16:29
 post_excerpt: ""
 layout: post
-permalink: https:/igreja/diferentes-para-amar
+permalink: >
+  https://www.gruponews.com.br/igreja/diferentes-para-amar
+categories: categories
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/diferentes_para_amar.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Pedro Arruda
-dsq_thread_id:
-  - "2802545656"
-wpcf-gn_post_destaques:
-  - nao_destaque
+post_date: 2009-11-28 18:16:29
 ---
 Ao nos criar, Deus assinou a sua autoria marcando uma coisa muito importante: a nossa singularidade. Cada um de nós é diferente de outro porque não somos criados numa produção em série, mas cada um mereceu particularmente a atenção de Deus impedindo nossa repetição . Por ironia, é exatamente aquilo que traz a marca de Deus em nós e dá a potencialidade para a realização do amor, que torna-se também a maior dificuldade para a concretização do amor de Deus.
 

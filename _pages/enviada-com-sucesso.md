@@ -2,20 +2,13 @@
 ID: 1068
 post_title: Inscrição enviada com sucesso
 author: Fernando
-post_date: 2010-09-11 19:41:30
 post_excerpt: ""
 layout: page
 permalink: >
-  https:/conferencia2010/inscricao/enviada-com-sucesso
+  https://www.gruponews.com.br/conferencia2010/inscricao/enviada-com-sucesso
+categories: categories
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "5132853158"
+post_date: 2010-09-11 19:41:30
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>
 
