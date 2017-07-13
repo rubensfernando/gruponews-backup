@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2013-09-22 23:01:37
 ---
 Áudio da Ministração de Pedro Arruda no Encirstus 2013 - Sorocaba, Centro de Eventos Vale da Águia, dia 24 de agosto de 2013

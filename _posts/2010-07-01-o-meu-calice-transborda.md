@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Max Lucado
+author:
+  - Max Lucado
 post_date: 2010-07-01 17:31:59
 ---
 Você já notou como a sua mesa está molhada? Deus quer que você fique. Seu cálice transborda de alegria. Transborda de graça. Não deve o seu coração transbordar de gratidão?

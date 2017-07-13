@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2011-07-12 18:58:51
 ---
 <ul>

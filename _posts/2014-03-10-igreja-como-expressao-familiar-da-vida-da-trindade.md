@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2014-03-10 09:01:20
 ---
 O cristianismo precisa ter uma expressão diante da sociedade. É fato que a Igreja foi capturada pela religião e tornou-se sua refém. Entretanto esta realidade não é irreversível nem soberana para que os cristãos que se conscientizaram disso fiquem numa posição de passividade, sem nada demonstrar à sociedade que está satisfeita com uma igreja amoldada a sua cultura contemporânea.

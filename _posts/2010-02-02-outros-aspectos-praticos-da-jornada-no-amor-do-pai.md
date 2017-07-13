@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Wayne Jacobsen
+author:
+  - Wayne Jacobsen
 post_date: 2010-02-02 00:45:05
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 9.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 9.5px Georgia; min-height: 11.0px} span.Apple-tab-span {white-space:pre} --><strong>CONFERENCISTA: Eu gostaria que você falasse sobre a igreja relacional funcionando no ambiente de uma instituição religiosa, no ambiente de uma igreja no lar e também de forma independente como igreja relacional na cidade. </strong>

@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - José Carlos Marion
+author:
+  - José Carlos Marion
 post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>

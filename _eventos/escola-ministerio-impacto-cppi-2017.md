@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2017-04-06 20:17:32
 ---
 <strong>PREPARADOS PARA O FIM?

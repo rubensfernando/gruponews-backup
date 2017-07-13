@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pr. Rui Luis Rodrigues
+author:
+  - Pr. Rui Luis Rodrigues
 post_date: 2014-03-21 00:04:32
 ---
 Dois homens estão a caminho de uma aldeia chamada Emaús. Carregam no peito uma tristeza muito nossa conhecida: a tristeza da desilusão, dos sonhos desfeitos, das esperanças destroçadas.

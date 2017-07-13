@@ -33,8 +33,16 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Autor desconhecido
+  - >
+    Recontada por Júnior César Villaça da
+    Silva
+author:
+  - Autor desconhecido
+  - >
+    Recontada por Júnior César Villaça da
+    Silva
 post_date: 2013-03-20 00:15:20
 ---
 Em um certo reino, vivia um mendigo que todos os dias estava à porta do palácio real. Moribundo, sem esperança e vestido com trapos, trazia o coração endurecido pela vida difícil que levava. Seu conhecido mau cheiro era motivo de zombaria e de distanciamento das pessoas. Sobrevivia das esmolas que recebia de algum passante piedoso. Um dia, porém, sua sorte mudaria incrivelmente.

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Afonso Porto
+author:
+  - Afonso Porto
 post_date: 2014-04-29 12:23:55
 ---
 Palestra apresenta um ambiente pouco afetuoso e pouco educativo, onde não há diálogo!

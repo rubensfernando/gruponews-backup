@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Paulo Roberto da Silva
+author:
+  - Paulo Roberto da Silva
 post_date: 2009-12-01 20:49:47
 ---
 Na carta aos efésios, 2:12, lemos que quem não tem Cristo, não tem esperança e está sem Deus no mundo. Jesus é nossa única esperança, apenas nele podemos depositar a nossa vida e todas as nossas necessidades. Entretanto, na primeira epístola aos coríntios, 15:16, encontramos: “...se nós temos esperança em Cristo para esta vida, somos os mais miseráveis de todos os homens”.

@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Revista Impacto
+author:
+  - Revista Impacto
 post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">

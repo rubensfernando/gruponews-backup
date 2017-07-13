@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Sociedade Bíblica do Brasil
+author:
+  - Sociedade Bíblica do Brasil
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

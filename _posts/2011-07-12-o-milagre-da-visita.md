@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pe. Inácio José do Vale
+author:
+  - Pe. Inácio José do Vale
 post_date: 2011-07-12 18:58:01
 ---
 <em>“Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo.” (Lc 1.68)</em>

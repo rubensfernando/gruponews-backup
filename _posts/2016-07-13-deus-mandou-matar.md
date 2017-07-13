@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pablo Massolar
+author:
+  - Pablo Massolar
 post_date: 2016-07-13 11:41:53
 ---
 <p class="p1"><span class="s1">A </span><span style="line-height: 1.5;">Idade Média, chamada também de Idade das Trevas pelos historiadores, foi profundamente manchada de sangue com a Santa Inquisição, realizada em nome do "Deus" dos "cristãos". Milhões foram torturados, queimados vivos e mortos por aqueles que julgavam prestar serviço a Deus com tais práticas.</span></p>

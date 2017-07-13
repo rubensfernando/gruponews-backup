@@ -33,8 +33,16 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Abnério Cabral
+  - Christopher Walker
+  - Harold Walker
+  - Jônatas Walker
+author:
+  - Abnério Cabral
+  - Christopher Walker
+  - Harold Walker
+  - Jônatas Walker
 post_date: 2012-07-09 12:30:08
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

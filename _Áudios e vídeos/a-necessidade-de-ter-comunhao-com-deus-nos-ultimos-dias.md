@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ricardo Correia
+author:
+  - Ricardo Correia
 post_date: 2013-03-23 09:00:22
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/007Ricardo-Correia-ricardinho.mp3]

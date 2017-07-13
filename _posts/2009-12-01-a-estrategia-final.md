@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Carlos Araripe
+author:
+  - Carlos Araripe
 post_date: 2009-12-01 20:42:53
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.

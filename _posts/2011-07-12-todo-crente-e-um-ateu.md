@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Nuno Tovar de Lemos
+author:
+  - Nuno Tovar de Lemos
 post_date: 2011-07-12 19:05:19
 ---
 Tem-me acontecido frequentemente – conversando com alguém que se diz ateu – sentir-me de imediato numa total e sincera sintonia de pontos de vista com essa pessoa. O Deus que ele rejeita e afirma não poder existir, também eu rejeito e julgo sinceramente que não pode existir.

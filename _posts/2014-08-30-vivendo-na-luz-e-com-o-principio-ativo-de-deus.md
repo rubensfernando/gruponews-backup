@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Paulo Manzini
+author:
+  - Paulo Manzini
 post_date: 2014-08-30 16:56:25
 ---
 Meu nome é Paulo Manzini, moro em Jundiaí. Eu sou professor universitário na área da Administração e tenho militado nas questões referentes às empresas e à igreja, que também está querendo ser empresa. Estou há 50 anos em Jundiaí.

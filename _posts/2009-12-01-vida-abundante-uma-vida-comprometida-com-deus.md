@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ailton Jacob de Oliveira
+author:
+  - Ailton Jacob de Oliveira
 post_date: 2009-12-01 22:26:29
 ---
 A existência do homem é um fator de muitas indagações. Teria o homem surgido do macaco? Ou quem sabe de uma explosão cósmica? A existência do homem continua a ser um mistério para muitas pessoas.

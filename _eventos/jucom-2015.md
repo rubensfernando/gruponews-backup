@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2015-06-29 02:10:05
 ---
 <strong>Juventude em Comunhão - Edição 2015</strong>

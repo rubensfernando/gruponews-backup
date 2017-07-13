@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2013-12-03 13:10:18
 ---
 <h3>O que é Imersão?</h3>

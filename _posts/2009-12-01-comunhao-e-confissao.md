@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2009-12-01 21:14:20
 ---
 <em>Comunhão, nossa de cada dia - Confissão, a força de nossa fraqueza à comunhão</em>

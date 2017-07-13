@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2013-03-21 08:30:01
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/005Pedro-Arruda-Parte-2.mp3]

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2011-11-29 23:21:22
 ---
 A <em>Parábola do Filho Pródigo</em> tem uma universalidade impressionante. Poucas histórias bíblicas são tão conhecidas quanto esta. Mesmo nos domínios estrangeiros à religião, não é difícil surpreender pessoas tomando como ilustração para alguma fala, opinião ou comentário o relato do filho arrependido que retorna à casa do pai e é graciosamente acolhido. Entre as muitas explicações que poderíamos recolher para o fato de a história bíblica ser tão recorrentemente recuperada no cotidiano, fico com a aspiração imorredoura da humanidade por se encontrar num ambiente cercado de afetos, capaz de lhe conferir a sensação peculiar de pertencimento e a convicção insuperável de segurança que só experimentam os que se sentem em casa. Que satisfação poderia ser maior do que esta?

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2009-12-01 20:56:11
 ---
 “E aconteceu que, indo eles de caminho, entrou Jesus numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa; e tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra. Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude. E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas, mas uma só é necessária; e Maria escolheu a boa parte, a qual não lhe será tirada. (Lc.10:38-42)

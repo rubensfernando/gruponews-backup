@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Darin Hufford
+author:
+  - Darin Hufford
 post_date: 2015-02-17 12:56:02
 ---
 <div class="small">Esta é a 6ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante). <a href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para ler os resumos anteriores.</a></div>

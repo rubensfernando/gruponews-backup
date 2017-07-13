@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2009-12-05 01:44:05
 ---
 A ascendência de Elza, sua infância, a preparação da adolescência, sua formação como professora, o casamento com Franco e constate busca de respostas levaram-na a um intenso trabalho social na paróquia de São João Batista, em Barueri. Em meio a tudo isso, a renovação Carismática, que estava fervilhando nas denominações protestantes, chegou também a Igreja Católica, depois do auspicioso Concílio Vaticano II.

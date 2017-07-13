@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Darin Hufford
+author:
+  - Darin Hufford
 post_date: 2014-02-20 00:46:48
 ---
 <blockquote>Esta é a 4ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante).</blockquote>

@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Mauricio Pontello
+author:
+  - Mauricio Pontello
 post_date: 2011-07-12 19:00:40
 ---
 O que mais me chateou na discussão sobre o aborto, trazida para dentro do debate político nas eleições de 2010, foi a onda crescente de mensagens via e-mails transmitidas e retransmitidas diariamente por aqueles que se dizem cristãos, povo de Deus, e, no entanto, não demonstram o menor cuidado de reflexão e avaliação sobre o assunto. Para quem não está inteirado, ou não conhece nada além daquilo que circula na internet, faz-se necessário um pouco mais de informação.

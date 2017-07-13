@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ezequiel Netto
+author:
+  - Ezequiel Netto
 post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>

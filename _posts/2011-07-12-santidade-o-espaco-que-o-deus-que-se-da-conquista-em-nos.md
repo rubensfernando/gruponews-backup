@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2011-07-12 18:57:11
 ---
 <h3>Conhecendo o dever</h3>

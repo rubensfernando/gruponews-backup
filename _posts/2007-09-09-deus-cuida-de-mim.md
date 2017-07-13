@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Adriana Marques
+author:
+  - Adriana Marques
 post_date: 2007-09-09 22:43:18
 ---
 No dia 11.04.07, fui à casa dos meus pais, que fica próxima ao estádio de futebol do Santa Cruz, um clube aqui de Recife. No retorno para minha casa, por volta das 20:00hs, por não saber que iria acontecer o jogo entre o Santa Cruz e o Sport, um clássico de torcidas pra lá de rivais, não desviei o caminho.

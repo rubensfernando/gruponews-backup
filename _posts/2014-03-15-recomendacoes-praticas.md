@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ezequiel Netto
+author:
+  - Ezequiel Netto
 post_date: 2014-03-15 08:53:26
 ---
 <i>Este artigo encerra a sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>

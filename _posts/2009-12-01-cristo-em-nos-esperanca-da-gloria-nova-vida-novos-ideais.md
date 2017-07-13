@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Rosane Faria
+author:
+  - Rosane Faria
 post_date: 2009-12-01 21:16:09
 ---
 Em Colossenses 1:27, Paulo nos fala da revelação dada por Deus aos apóstolos sobre o mistério que esteve oculto em Deus desde o pecado, e assim se manteve até que fosse possível a compreensão e manifestação dele ao mundo. O mistério não era o Deus Todo Poderoso encarnar, viver, morrer e ressuscitar, mas sim o Espírito deste Deus-Homem habitar no homem. Não metaforicamente, mas em realidade.

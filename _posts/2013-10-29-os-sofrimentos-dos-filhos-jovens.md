@@ -33,8 +33,12 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+author:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
 post_date: 2013-10-29 07:00:16
 ---
 <i>Este artigo é o sétimo de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>

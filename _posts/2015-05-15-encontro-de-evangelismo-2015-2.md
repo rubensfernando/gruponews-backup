@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2015-05-15 10:40:36
 ---
 Considerando o que o Apóstolo Paulo fala em Romanos 1:16 que o evangelho “é poder de Deus para salvação de todo aquele que nele crê”, temos o dever de anunciá-lo em alto e bom som a todos.

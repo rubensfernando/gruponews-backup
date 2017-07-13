@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pe. Léo
+author:
+  - Pe. Léo
 post_date: 2014-09-09 21:53:55
 ---
 No distrito de Columbia, nos Estados Unidos, um garoto de 14 anos, membro de uma gangue, assassinou um adolescente inocente como prova de coragem para ser aceito pelo grupo.

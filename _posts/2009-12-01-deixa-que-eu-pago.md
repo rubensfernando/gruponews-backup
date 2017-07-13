@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2009-12-01 21:25:51
 ---
 Essa frase, ouvida após ser apresentada a conta de consumo, na maioria das vezes, é motivada mais pela educação do que pela disponibilidade financeira da pessoa. Ao contrário, a mesma frase motiva uma atitude de omissão em alguns quando a ouvem e se fazem de desentendidos, querendo crer na abundância do outro.

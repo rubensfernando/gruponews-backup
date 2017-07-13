@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Afonso Porto
+author:
+  - Afonso Porto
 post_date: 2009-12-01 21:31:34
 ---
 “<em>Pois surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos</em>” (Mt 24:24).

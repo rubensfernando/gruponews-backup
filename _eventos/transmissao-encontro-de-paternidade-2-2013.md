@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2013-07-30 23:27:32
 ---
 Acompanhe ao vivo as ministrações e os momentos de adoração ao vivo do Encontro de Paternidade. A partir das 9h, neste sábado e domingo.

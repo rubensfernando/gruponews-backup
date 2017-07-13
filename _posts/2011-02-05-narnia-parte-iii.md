@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>

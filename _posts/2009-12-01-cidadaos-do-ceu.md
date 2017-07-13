@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Valmir Mathiazi
+author:
+  - Valmir Mathiazi
 post_date: 2009-12-01 21:10:49
 ---
 Este texto anônimo, extraído da carta a Diogneto (passagens 5 e 6) e escrito por volta do ano 200, em Alexandria, mostra como os cristãos eram vistos por seus contemporâneos.

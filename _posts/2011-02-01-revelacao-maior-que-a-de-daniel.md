@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Harold Walker
+author:
+  - Harold Walker
 post_date: 2011-02-01 01:30:18
 ---
 Uma leitura atenta de Daniel 11.32-35 e 12.3-13 deixa em evidência alguns adjetivos com que o texto bíblico, apesar de partir das referências que a tradição da velha aliança e o momento histórico lhe permitiam, caracteriza, de maneira singular, o povo de Deus dos últimos dias: “conhecedores”, “sábios”, “entendidos”. A pouca ocorrência desses termos em outros livros parece apontar para um aspecto muito importante, e ao que tudo indica, reservado para assumir grande relevo no tempo presente. Vejamos.

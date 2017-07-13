@@ -33,7 +33,9 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Jim Holl
+author:
+  - Jim Holl
 post_date: 2013-11-18 16:18:36
 ---

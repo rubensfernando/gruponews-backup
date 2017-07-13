@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Wayne Jacobsen
+author:
+  - Wayne Jacobsen
 post_date: 2010-02-02 15:22:31
 ---
 <em>As impressões de Wayne Jacobsen sobre sua passagem pelo Brasil</em>

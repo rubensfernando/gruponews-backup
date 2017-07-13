@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2012-11-27 21:57:14
 ---
 <h3>O que é Imersão?</h3>

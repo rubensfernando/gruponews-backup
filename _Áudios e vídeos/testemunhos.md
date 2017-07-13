@@ -33,8 +33,16 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Christopher Walker
+  - José Carlos Marion
+  - Mauricio Pontello
+  - Mike Shea
+author:
+  - Christopher Walker
+  - José Carlos Marion
+  - Mauricio Pontello
+  - Mike Shea
 post_date: 2013-09-22 23:13:38
 ---
 Áudio dos testemunhos apresentados no Encirstus 2013 - Sorocaba, Centro de Eventos Vale da Águia, dia 24 de agosto de 2013

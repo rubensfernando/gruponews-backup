@@ -35,7 +35,9 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe Grupo
+author:
+  - Equipe Grupo
 post_date: 2013-05-09 00:26:25
 ---

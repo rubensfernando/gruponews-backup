@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2014-02-20 15:51:43
 ---
 Veja os artigos dessa edição:

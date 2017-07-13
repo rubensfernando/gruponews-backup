@@ -35,8 +35,14 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Donald P. McNeill
+  - Douglas A. Morrison
+  - Henri J. M. Nouwen
+author:
+  - Donald P. McNeill
+  - Douglas A. Morrison
+  - Henri J. M. Nouwen
 post_date: 2010-07-04 17:39:36
 ---
 O chamamento para a comunidade como o ouvimos de nosso Senhor é o chamamento para nos deslocarmos dos nossos lugares comuns e próprios. A comunidade cristã reúne-se no deslocamento e, com isso, descobre e proclama nova forma de estar junta. Ao deixarem os lugares-comuns e próprios e ao responderem ao chamado do Senhor para segui-lo, as pessoas com antecedentes muito diferentes descobrem umas às outras como companheiros na peregrinação, reunidos num discipulado comum.

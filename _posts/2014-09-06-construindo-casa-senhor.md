@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Rosane Faria
+author:
+  - Rosane Faria
 post_date: 2014-09-06 11:38:32
 ---
 <b>“Se o Senhor não edificar a casa, em vão trabalham os que a edificam” (Sl 127:1)</b>

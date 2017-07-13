@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ivonete Camargo Pegnolazzo
+author:
+  - Ivonete Camargo Pegnolazzo
 post_date: 2009-12-01 00:57:16
 ---
 A Bíblia tem início com uma das mais interessantes narrativas a respeito da liberdade dada ao homem. Em Gênesis, Deus criou Adão e Eva e lhes deu liberdade de ação e de estarem diariamente se relacionando com Ele. Com o passar do tempo, Deus comprovou, na prática, que a Sua criação mais especial não tinha conseguido passar na prova de autonomia que lhe dava o privilégio de gerir seus próprios passos.

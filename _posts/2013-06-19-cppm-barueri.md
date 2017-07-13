@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2013-06-19 00:00:32
 ---
 Para quem não tem disponibilidade de dedicar 1 ano para cursar o <a title="Curso de Preparação Profética - Monte Mor" href="http://www.cppmontemor.com.br/" target="_blank">Curso de Preparação Profética</a>&nbsp;(CPP) integral em Monte Mor, em fevereiro de 2013 foi aberta uma turma de CPP Modular em Sumaré para alcançar a pessoas da região de Campinas e Americana.

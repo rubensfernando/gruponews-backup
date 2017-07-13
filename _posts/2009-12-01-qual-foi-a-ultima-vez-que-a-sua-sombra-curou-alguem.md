@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2009-12-01 22:09:23
 ---
 “De sorte que transportavam os enfermos para as ruas, e os punham em leitos e esteiras, para que ao menos a sombra de Pedro, quando este passasse, cobrisse alguns deles.” (At 5:15).

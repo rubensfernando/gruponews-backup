@@ -33,7 +33,17 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Benjamim Berger
+  - Harold Walker
+  - Irma Ádola
+  - Irmã Nechama
+  - Maurício Bronzatto
+author:
+  - Benjamim Berger
+  - Harold Walker
+  - Irma Ádola
+  - Irmã Nechama
+  - Maurício Bronzatto
 post_date: 2016-05-02 12:10:41
 ---

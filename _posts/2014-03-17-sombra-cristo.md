@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Luiz Lourenço Gonçalves
+author:
+  - Luiz Lourenço Gonçalves
 post_date: 2014-03-17 08:53:30
 ---
 Em Hulve, cidade da Índia, o governador determinou que se plantassem nas ruas, ladeando as grandes lojas, contra o sol, filas de árvores santas dos hindus, e assim proteger o povo contra o sol causticante. Tão logo cumprida a tarefa, houve uma revolta geral no centro da cidade. Houve pânico, e verdadeiros protestos surgiram por parte dos comerciantes, que organizaram uma comissão que representasse a classe, escreveram um manifesto e foram logo entregar ao governador, dizendo-lhe:

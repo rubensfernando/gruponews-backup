@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-04-20 22:51:26
 ---
 <h2>No fim, todos encontram o que realmente procuram</h2>

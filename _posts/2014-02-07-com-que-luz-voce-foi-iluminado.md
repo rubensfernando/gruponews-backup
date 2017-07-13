@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Maurício Bronzatto
+author:
+  - Maurício Bronzatto
 post_date: 2014-02-07 15:54:54
 ---
 Na última edição (Grupo News nº 76, julho de 2013), refletimos sobre a necessidade de uma nova relação com o trabalho, levando em consideração a possibilidade de que nossas atividades profissionais terão continuidade e se integrarão à realidade do Reino Milenar. Vimos que o tempo presente é o momento de aprendermos muitas qualidades e valores que serão exercidos em plenitude no tempo vindouro. Essa maneira de enxergar o Milênio, sem uma descontinuidade em relação ao que nos foi confiado antes disso, aumenta nossa responsabilidade em discernir aquilo para que fomos criados. A propósito, você saberia dizer para que sem lançar mão de conhecidos chavões como “para a glória de Deus”?

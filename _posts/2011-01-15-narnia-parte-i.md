@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

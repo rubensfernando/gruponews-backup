@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>

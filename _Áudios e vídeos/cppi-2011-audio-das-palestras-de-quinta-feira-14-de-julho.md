@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2011-07-16 12:00:40
 ---
 Confira as palestras ministradas no dia 14 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

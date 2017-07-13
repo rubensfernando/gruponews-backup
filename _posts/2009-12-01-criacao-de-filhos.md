@@ -33,8 +33,12 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Afonso Porto
+  - Claudia Porto
+author:
+  - Afonso Porto
+  - Claudia Porto
 post_date: 2009-12-01 20:46:31
 ---
 É essencial que o casal seja unânime na forma como vai educar os filhos. Sem unidade, não pode haver respeito dos filhos à autoridade dos pais. Mesmo pequenino, o filho percebe na hora se o pai e a mãe não estão concordando entre si e aproveita a brecha para não obedecer. O casal precisa conversar sobre a necessidade de se ter unidade nos assuntos que apresentam discordância para que a família não venha a ser destruída.

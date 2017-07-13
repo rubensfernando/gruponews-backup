@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Gino Iafrancesco
+author:
+  - Gino Iafrancesco
 post_date: 2011-01-01 01:15:19
 ---
 <blockquote><em>“Também disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança...</em>”

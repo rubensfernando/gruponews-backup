@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Leon Tolstói
+author:
+  - Leon Tolstói
 post_date: 2014-03-13 23:56:07
 ---
 Certa vez, ocorreu a um imperador que, se soubesse responder apenas às seguintes perguntas, nada jamais o afastaria do caminho justo: Qual é o melhor momento para qualquer coisa? Quais são as pessoas mais importantes em qualquer trabalho? Qual é a coisa mais importante a fazer em qualquer momento?

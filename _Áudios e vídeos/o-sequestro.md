@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe da Juventude
+author:
+  - Equipe da Juventude
 post_date: 2010-11-24 10:04:06
 ---
 Preocupados com o desaparecimento de algo muito importante, dois detetives, um flautista e uma criança buscam incansavelmente desvendar o mistério do sequestro. Eles só não esperavam encontrar tantos problemas pelo caminho. Um deles, um sequestrador bastante atrapalhado que arranca boas gargalhadas da plateia.

@@ -35,8 +35,12 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+  - Equipe organizadora
+author:
+  - Equipe GrupoNews
+  - Equipe organizadora
 post_date: 2011-02-01 00:45:02
 ---
 A ideia de fazer conferências surgiu em 2007 e foi orientada pelo propósito de favorecer um ambiente de escuta coletiva em que os presentes pudessem ouvir, de Deus e uns dos outros, o que o Espírito está falando neste tempo à Sua igreja, além de permitir a reunião, num mesmo local, da riqueza da diversidade do corpo de Cristo, enquanto a Palavra é compartilhada.

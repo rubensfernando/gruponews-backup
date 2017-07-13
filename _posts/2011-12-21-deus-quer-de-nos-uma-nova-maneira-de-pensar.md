@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ezequiel Netto
+author:
+  - Ezequiel Netto
 post_date: 2011-12-21 22:35:24
 ---
 <h3><span class="Apple-style-span" style="font-size: 15px;">A pregação do evangelho</span></h3>

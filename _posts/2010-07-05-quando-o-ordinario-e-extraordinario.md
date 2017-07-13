@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Daniel Rocha
+author:
+  - Daniel Rocha
 post_date: 2010-07-05 14:39:47
 ---
 Ordinário é tudo aquilo que é habitual, comum, usual, que se faz presente a todo momento. É o oposto do extraordinário. Trabalhar todos os dias é ordinário, pegar os filhos na escola, sentar-se para almoçar e jantar, ir à igreja, participar de reuniões, ensaiar... Tudo isso é ordinário.

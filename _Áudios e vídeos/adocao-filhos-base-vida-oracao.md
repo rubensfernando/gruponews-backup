@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pe Marcial Maçaneiro
+author:
+  - Pe Marcial Maçaneiro
 post_date: 2013-09-21 19:51:20
 ---
 Áudio da Ministração de Pe. Marcial Maçaneiro no Encirstus 2013 - Sorocaba, Centro de Eventos Vale da Águia, dia 24 de agosto de 2013

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ricardo Oliveira
+author:
+  - Ricardo Oliveira
 post_date: 2013-08-27 07:15:19
 ---
 Num futuro próximo, o governo que os homens exercem sobre as nações e o mundo será tomado. Cristo voltará e governará por mil anos. Não se trata de conto de fada nem de mito, mas de um fato (já existente, mas que ainda não nos alcançou em nosso tempo cronológico).

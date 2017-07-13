@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Nuno Tovar de Lemos
+author:
+  - Nuno Tovar de Lemos
 post_date: 2012-12-04 23:47:16
 ---
 Há tempos alguém me perguntou (seguindo a sugestão de um filme que tinha visto) se Deus não seria um ser sádico que nos criou para se divertir conosco e assim calar a sua solidão. Como responder? Não adiantará muito, talvez, contra-argumentar que Deus é bom. Essa pessoa encontrará vários exemplos para insistir que Deus é sádico.

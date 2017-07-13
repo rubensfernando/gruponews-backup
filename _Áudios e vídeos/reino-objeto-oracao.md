@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pe. Douglas Pinheiro
+author:
+  - Pe. Douglas Pinheiro
 post_date: 2013-09-22 23:03:58
 ---
 Áudio da Ministração de Pe. Douglas Pinheiro no Encirstus 2013 - Sorocaba, Centro de Eventos Vale da Águia, dia 24 de agosto de 2013

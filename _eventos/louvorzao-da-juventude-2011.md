@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2011-05-22 19:49:56
 ---
 Onde? Teatro Fuca Espaço Cultural Vila Cretti Rua José Fernandes Teixeira, 510 – Vila Cretti – Carapicuíba/SP Quando? Sábado, dia 4 de junho, às 15h.

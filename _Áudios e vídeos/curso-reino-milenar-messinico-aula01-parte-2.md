@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2012-05-26 00:50:15
 ---
 O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Alexandre Rangel
+author:
+  - Alexandre Rangel
 post_date: 2014-09-09 22:54:40
 ---
 Contam que certa vez duas moscas caíram num copo de leite. A primeira era forte e valente. Assim, logo ao cair, nadou até a borda do copo. Mas como a superfície era muito lisa, e ela tinha as asas bastante molhadas, não conseguiu sair do copo. Acreditando que não havia jeito, a mosca desanimou, parou de nadar e de se debater e afundou.

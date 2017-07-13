@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2009-11-28 16:44:05
 ---
 Mt.9:35-10:42; At.13 e 14; I Tm.3:1-13; Tt.2:10

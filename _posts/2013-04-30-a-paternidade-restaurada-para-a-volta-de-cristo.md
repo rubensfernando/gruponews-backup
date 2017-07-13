@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2013-04-30 08:00:20
 ---
 No capítulo 2 do livro de Atos, entre os versículos 17 e 21, o apóstolo Pedro faz menção da profecia de Joel para explicar à multidão reunida em Jerusalém o que estava acontecendo:

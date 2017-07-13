@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ministério Ômega de Louvor
+author:
+  - Ministério Ômega de Louvor
 post_date: 2009-12-03 01:30:20
 ---
 Baixe os MP3s do 1º CD do Ministério Ômega de Louvor:

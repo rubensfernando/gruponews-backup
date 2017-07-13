@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2012-05-24 00:00:17
 ---
 <strong>Tema:</strong> O Governo e a Vontade de Deus - O livre arbítrio e sua relação com o Reino de Deus. O "mundo perfeito" para o exercício do livre arbítrio. O homem e seus microreinos. Redescobrindo a rebelião interior. Uma mente apropriada para experimentar a vontade de Deus. O prazer de Deus e do homem na consolidação do Reino.

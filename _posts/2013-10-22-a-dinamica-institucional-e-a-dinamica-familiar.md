@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Wayne Jacobsen
+author:
+  - Wayne Jacobsen
 post_date: 2013-10-22 07:00:11
 ---
 <p class="small">Este é o 1º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os anteriores</a></p>

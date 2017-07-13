@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2009-12-01 20:58:59
 ---
 “<em>E, se qualquer te obrigar a caminhar uma milha, vai com ele duas</em>.” (Mateus 5:41)

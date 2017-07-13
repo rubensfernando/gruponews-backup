@@ -33,8 +33,12 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+author:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
 post_date: 2011-01-30 22:38:33
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>

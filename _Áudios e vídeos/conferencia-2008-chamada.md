@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2010-04-01 12:00:18
 ---
 Nessa conferência, realizada em 2008,  foram discutidos assuntos sobre o rumo da igreja nos nossos dias e o que Deus espera dessa igreja. Vários preletores de diversas partes do Brasil discutiram durante dois dias sobre esse tema.

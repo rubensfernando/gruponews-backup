@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Ricardo Barbosa de Sousa
+author:
+  - Ricardo Barbosa de Sousa
 post_date: 2010-07-04 17:39:40
 ---
 <i>“Quando aprendermos a aceitar o comum, deixarmos de cultuar nossas celebridades e olharmos mais para a Bíblia, então daremos os primeiros passos na direção do crescimento espiritual.”</i>

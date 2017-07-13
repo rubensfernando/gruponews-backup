@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2009-10-01 00:00:05
 ---
 De acordo com Eliane Brum (www.revistaepoca.com), escutar é talvez a capacidade mais fascinante do humano, porque nos dá a possibilidade de conexão. Logo, fechar-se à escuta é condenar-se à solidão. Muitas pessoas não escutam porque escutar é se arriscar. É se abrir para a possibilidade do espanto, escancarar-se para o mundo do outro. Para a jornalista, quem só tem certezas não dialoga. Não precisa. Conversas são para quem duvida de suas certezas, para quem realmente está aberto para ouvir – e não para fingir que ouve. Diálogos honestos têm mais pontos de interrogação que pontos finais. Escutar de verdade é se entregar, reinventar-se constantemente.

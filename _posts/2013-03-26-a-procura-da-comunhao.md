@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Cléucio Macedo
+author:
+  - Cléucio Macedo
 post_date: 2013-03-26 07:00:16
 ---
 O que é comunhão? De forma simples, responderei que comunhão é o relacionamento entre cristãos. Um dos versículos que exemplifica tal realidade é Atos 2.46:

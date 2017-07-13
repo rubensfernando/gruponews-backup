@@ -35,8 +35,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pedro Arruda
+author:
+  - Pedro Arruda
 post_date: 2010-08-18 23:03:33
 ---
 <strong>Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>

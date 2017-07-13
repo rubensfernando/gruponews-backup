@@ -33,7 +33,9 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - John Noble
+author:
+  - John Noble
 post_date: 2013-11-17 23:52:55
 ---

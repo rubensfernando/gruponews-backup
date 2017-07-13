@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Henri Nouwen
+author:
+  - Henri Nouwen
 post_date: 2013-05-05 00:15:25
 ---
 <h2>O caminho descendente</h2>

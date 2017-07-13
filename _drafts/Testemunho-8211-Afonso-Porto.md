@@ -32,6 +32,8 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Afonso Porto
+author:
+  - Afonso Porto
 ---

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Junior César
+author:
+  - Junior César
 post_date: 2013-03-23 08:00:52
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/003junior-macae.mp3]

@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Pablo Massolar
+author:
+  - Pablo Massolar
 post_date: 2014-02-07 15:39:40
 ---
 “Em seus passos o que faria Jesus?” é o título de um livro escrito por Charles Sheldon e publicado originalmente em 1896, nos Estados Unidos, com o título “In His Steps”.

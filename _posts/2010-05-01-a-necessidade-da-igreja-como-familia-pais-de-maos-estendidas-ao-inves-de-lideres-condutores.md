@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2010-05-01 12:00:13
 ---
 A necessidade da igreja como família: Pais de mãos estendidas ao invés de líderes condutores

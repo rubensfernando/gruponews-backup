@@ -33,7 +33,9 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Christopher Walker
+author:
+  - Christopher Walker
 post_date: 2015-04-11 17:00:02
 ---

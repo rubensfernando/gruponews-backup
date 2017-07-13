@@ -32,8 +32,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Renata Ribeiro Arruda
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>

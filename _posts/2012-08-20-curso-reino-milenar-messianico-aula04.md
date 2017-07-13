@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Marina Venuto Silva
+author:
+  - Marina Venuto Silva
 post_date: 2012-08-20 21:29:58
 ---
 <strong>Tema:</strong> Igreja, antecipação microcósmica do Reino Milenar Messiânico universal – O sistema econômico do reino praticado em Jerusalém. A igreja como embaixada do reino futuro. O evangelho profético do reino de Deus. O evangelho histórico que pregamos. A bíblia como testemunha dos cristãos. Os cristãos como testemunho da Bíblia. O afastamento dos judeus e a perda da concepção de reino na Igreja.

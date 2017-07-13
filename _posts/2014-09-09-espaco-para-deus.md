@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Douglas Castillero
+author:
+  - Douglas Castillero
 post_date: 2014-09-09 21:36:08
 ---
 <p class="lead">Buscando primeiro o altar para a restauração de todas as coisas</p>

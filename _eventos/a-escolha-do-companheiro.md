@@ -33,8 +33,10 @@ categories:
   - Unidade
   - Vida
   - Vivendo como igreja relacional
-tags: [ ]
-author: [ ]
+tags:
+  - Equipe GrupoNews
+author:
+  - Equipe GrupoNews
 post_date: 2010-07-07 23:05:16
 ---
 Você é o nosso convidado para comparecer ao Espaço Grupo News e participar, dia 12/07 (segunda-feira) a partir das 20h, do compartilhamento do seguinte tema "<em>A escolha do companheiro</em>".
