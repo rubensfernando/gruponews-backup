@@ -1,14 +1,40 @@
 ---
 ID: 4844
 post_title: Encristus
-author: ""
-tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/2017-encristus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2017-02-20 10:50:43
 ---
 Neste ano de 2017 a Reforma Protestante completa 500 anos. Um dos maiores fenômenos do Movimento Renascentista, trouxe inúmeros e benefícios aos avanços do desenvolvimento da sociedade em geral. Há que se lamentar, entretanto, que tenha servido de pretexto para ocasionar divisões entre os cristãos e acirramento dos ânimos desembocando em conflitos que geraram muitas mortes tanto de católicos como de protestantes.

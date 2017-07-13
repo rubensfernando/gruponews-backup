@@ -1,58 +1,40 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
-author:
-  - 
-    term_id: 857
-    name: Moacir Alves Faria
-    slug: moacir-alves-faria
-    term_group: 0
-    term_taxonomy_id: 871
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-  - 
-    term_id: 928
-    name: sonho de Deus
-    slug: sonho-de-deus
-    term_group: 0
-    term_taxonomy_id: 943
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-sonho-de-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 22:41:41
 ---
 Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v. 5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v. 22).

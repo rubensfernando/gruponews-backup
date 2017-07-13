@@ -1,80 +1,40 @@
 ---
 ID: 2190
 post_title: 'Curso “O Reino Milenar Messiânico” #aula01'
-author: ""
-tags:
-  - 
-    term_id: 370
-    name: Curso
-    slug: curso
-    term_group: 0
-    term_taxonomy_id: 374
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 615
-    name: messianico
-    slug: messianico
-    term_group: 0
-    term_taxonomy_id: 622
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 607
-    name: milenar
-    slug: milenar
-    term_group: 0
-    term_taxonomy_id: 614
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 606
-    name: Milênio
-    slug: milenio
-    term_group: 0
-    term_taxonomy_id: 613
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 616
-    name: online
-    slug: online
-    term_group: 0
-    term_taxonomy_id: 623
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-reino-milenar-aula01
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-05-19 00:00:58
 ---
 <strong>Tema:</strong> O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

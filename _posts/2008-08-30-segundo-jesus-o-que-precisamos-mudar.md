@@ -1,39 +1,40 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
-author:
-  - 
-    term_id: 908
-    name: Gary Fray
-    slug: gary-fray
-    term_group: 0
-    term_taxonomy_id: 923
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/segundo-jesus-o-que-precisamos-mudar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2008-08-30 12:12:43
 ---
 Eu não me lembro de os meus filhos me verem pregar. Faz uns 12 ou 15 anos que eu não prego. Então a gente vai mudar um pouquinho as coisas: vocês virem as cadeiras. Talvez um semicírculo. Eu não estava querendo todo mundo olhando pra mim (rs). É difícil ser o primeiro. Pedro, você tinha que fazer na ordem do inglês. No inglês é pelo sobrenome. Aí o Arruda ir ser o primeiro. Eu gostaria que tivéssemos outros microfones por aí. Quando eu falar alguma coisa que você quiser comentar, se você sente que o Espírito está dizendo a você algo, Jesus mandou quem está falando ficar quieto e quem recebeu alguma coisa falar. Então espero que vocês comecem a praticar isso. Eu sei que é difícil. Eu preferia ficar quieto nesta manhã, mas acho que há algumas coisas para estar falando, mas se tiver outros microfones... (eu estou falando sério, não é um método ou alguma estratégia). Eu realmente espero que vocês façam perguntas.

@@ -1,36 +1,40 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author:
-  - 
-    term_id: 1024
-    name: Rosana Coelho Correa de Oliveira
-    slug: rosana-coelho-correa-de-oliveira
-    term_group: 0
-    term_taxonomy_id: 1029
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/luz-que-esta-no-velador
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:30:51
 ---
 <p class="p1"><span class="s1">E</span><span class="s1">ntre diversas instruções que Jesus Cristo deixou aos seus discípulos quando esteve na Terra, uma das mais claras e objetivas está em Mateus 5:13-16. Ao dizer-lhes que eles eram o sal da terra e a luz do mundo, Jesus também lhes conferiu a responsabilidade de resplandecer sua luz diante dos homens, e isso de tal forma que, vendo essa luz, os homens glorificassem a Deus.</span></p>

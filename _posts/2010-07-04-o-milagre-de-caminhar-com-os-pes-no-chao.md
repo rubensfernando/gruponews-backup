@@ -3,47 +3,40 @@ ID: 3181
 post_title: >
   O milagre de caminhar com os pés no
   chão
-author:
-  - 
-    term_id: 851
-    name: Donald P. McNeill
-    slug: donald-p-mcneill
-    term_group: 0
-    term_taxonomy_id: 864
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 852
-    name: Douglas A. Morrison
-    slug: douglas-a-morrison
-    term_group: 0
-    term_taxonomy_id: 865
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 850
-    name: Henri J. M. Nouwen
-    slug: henri-j-m-nouwen
-    term_group: 0
-    term_taxonomy_id: 863
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-milagre-de-caminhar-com-os-pes-no-chao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-04 17:39:36
 ---
 O chamamento para a comunidade como o ouvimos de nosso Senhor é o chamamento para nos deslocarmos dos nossos lugares comuns e próprios. A comunidade cristã reúne-se no deslocamento e, com isso, descobre e proclama nova forma de estar junta. Ao deixarem os lugares-comuns e próprios e ao responderem ao chamado do Senhor para segui-lo, as pessoas com antecedentes muito diferentes descobrem umas às outras como companheiros na peregrinação, reunidos num discipulado comum.

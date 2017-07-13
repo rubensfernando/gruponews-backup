@@ -1,135 +1,40 @@
 ---
 ID: 104
 post_title: Diferentes para Amar
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 163
-    name: Aceitar
-    slug: aceitar
-    term_group: 0
-    term_taxonomy_id: 166
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 159
-    name: Amar
-    slug: amar
-    term_group: 0
-    term_taxonomy_id: 162
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 160
-    name: Amor
-    slug: amor
-    term_group: 0
-    term_taxonomy_id: 163
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 101
-    name: Atitude
-    slug: atitude
-    term_group: 0
-    term_taxonomy_id: 103
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 164
-    name: Diferenças
-    slug: diferencas
-    term_group: 0
-    term_taxonomy_id: 167
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 165
-    name: Falso
-    slug: falso
-    term_group: 0
-    term_taxonomy_id: 168
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 167
-    name: Manifestar
-    slug: manifestar
-    term_group: 0
-    term_taxonomy_id: 170
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 162
-    name: Marginalizado
-    slug: marginalizado
-    term_group: 0
-    term_taxonomy_id: 165
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 166
-    name: Necessidade
-    slug: necessidade
-    term_group: 0
-    term_taxonomy_id: 169
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 161
-    name: Verdade
-    slug: verdade
-    term_group: 0
-    term_taxonomy_id: 164
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/diferentes-para-amar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-28 18:16:29
 ---
 Ao nos criar, Deus assinou a sua autoria marcando uma coisa muito importante: a nossa singularidade. Cada um de nós é diferente de outro porque não somos criados numa produção em série, mas cada um mereceu particularmente a atenção de Deus impedindo nossa repetição . Por ironia, é exatamente aquilo que traz a marca de Deus em nós e dá a potencialidade para a realização do amor, que torna-se também a maior dificuldade para a concretização do amor de Deus.

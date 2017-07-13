@@ -1,14 +1,40 @@
 ---
 ID: 1027
 post_title: A Conferência 2009
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2009
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-09-07 13:11:45
 ---
 De acordo com Eliane Brum (Revista Época), escutar é talvez a  capacidade mais fascinante do humano, porque nos dá a possibilidade de  conexão. Logo, fechar-se à escuta é condenar-se à solidão. Muitas  pessoas não escutam porque escutar é se arriscar. É se abrir para a  possibilidade do espanto, escancarar-se para o mundo do outro. Para a  jornalista, quem só tem certezas não dialoga. Não precisa. Conversas são  para quem duvida de suas certezas, para quem realmente está aberto para  ouvir – e não para fingir que ouve. Diálogos honestos têm mais pontos  de interrogação que pontos finais. Escutar de verdade é se entregar,  reinventar-se constantemente.

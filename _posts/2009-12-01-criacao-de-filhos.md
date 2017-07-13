@@ -1,212 +1,40 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-author:
-  - 
-    term_id: 656
-    name: Afonso Porto
-    slug: afonso-porto
-    term_group: 0
-    term_taxonomy_id: 667
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 657
-    name: Claudia Porto
-    slug: claudia-porto
-    term_group: 0
-    term_taxonomy_id: 668
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 357
-    name: adolescente
-    slug: adolescente
-    term_group: 0
-    term_taxonomy_id: 360
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 61
-    name: Autoridade
-    slug: autoridade
-    term_group: 0
-    term_taxonomy_id: 62
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 60
-    name: Casal
-    slug: casal
-    term_group: 0
-    term_taxonomy_id: 61
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 58
-    name: Criação
-    slug: criacao
-    term_group: 0
-    term_taxonomy_id: 59
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 68
-    name: Desobediência
-    slug: desobediencia
-    term_group: 0
-    term_taxonomy_id: 69
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 69
-    name: Disciplina
-    slug: disciplina
-    term_group: 0
-    term_taxonomy_id: 70
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 62
-    name: Educação
-    slug: educacao
-    term_group: 0
-    term_taxonomy_id: 63
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 52
-    name: Ensinar
-    slug: ensinar
-    term_group: 0
-    term_taxonomy_id: 53
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 971
-    name: Estudos
-    slug: estudos
-    term_group: 0
-    term_taxonomy_id: 989
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 1003
-    name: Família
-    slug: familia-materias
-    term_group: 0
-    term_taxonomy_id: 33
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 59
-    name: Filhos
-    slug: filhos
-    term_group: 0
-    term_taxonomy_id: 60
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 65
-    name: Infância
-    slug: infancia
-    term_group: 0
-    term_taxonomy_id: 66
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 66
-    name: Limites
-    slug: limites
-    term_group: 0
-    term_taxonomy_id: 67
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 64
-    name: Obediência
-    slug: obediencia
-    term_group: 0
-    term_taxonomy_id: 65
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 63
-    name: Pais
-    slug: pais
-    term_group: 0
-    term_taxonomy_id: 64
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 67
-    name: Relacionamento
-    slug: relacionamento
-    term_group: 0
-    term_taxonomy_id: 68
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/criacao-de-filhos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 20:46:31
 ---
 É essencial que o casal seja unânime na forma como vai educar os filhos. Sem unidade, não pode haver respeito dos filhos à autoridade dos pais. Mesmo pequenino, o filho percebe na hora se o pai e a mãe não estão concordando entre si e aproveita a brecha para não obedecer. O casal precisa conversar sobre a necessidade de se ter unidade nos assuntos que apresentam discordância para que a família não venha a ser destruída.

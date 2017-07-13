@@ -3,135 +3,40 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author:
-  - 
-    term_id: 633
-    name: Ivonete Camargo Pegnolazzo
-    slug: ivonete-camargo-pegnolazzo
-    term_group: 0
-    term_taxonomy_id: 641
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 80
-    name: Arvore
-    slug: arvore
-    term_group: 0
-    term_taxonomy_id: 81
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 83
-    name: Bem
-    slug: bem
-    term_group: 0
-    term_taxonomy_id: 84
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 85
-    name: Conhecimento
-    slug: conhecimento
-    term_group: 0
-    term_taxonomy_id: 86
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 86
-    name: Curiosidade
-    slug: curiosidade
-    term_group: 0
-    term_taxonomy_id: 87
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 59
-    name: Filhos
-    slug: filhos
-    term_group: 0
-    term_taxonomy_id: 60
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 82
-    name: Internet
-    slug: internet
-    term_group: 0
-    term_taxonomy_id: 83
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 81
-    name: Mal
-    slug: mal
-    term_group: 0
-    term_taxonomy_id: 82
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 63
-    name: Pais
-    slug: pais
-    term_group: 0
-    term_taxonomy_id: 64
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 84
-    name: Televisão
-    slug: televisao
-    term_group: 0
-    term_taxonomy_id: 85
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 00:57:16
 ---
 A Bíblia tem início com uma das mais interessantes narrativas a respeito da liberdade dada ao homem. Em Gênesis, Deus criou Adão e Eva e lhes deu liberdade de ação e de estarem diariamente se relacionando com Ele. Com o passar do tempo, Deus comprovou, na prática, que a Sua criação mais especial não tinha conseguido passar na prova de autonomia que lhe dava o privilégio de gerir seus próprios passos.

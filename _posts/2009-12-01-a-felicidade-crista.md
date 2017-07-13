@@ -1,135 +1,40 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
-author:
-  - 
-    term_id: 632
-    name: Paulo Roberto da Silva
-    slug: paulo-roberto-da-silva
-    term_group: 0
-    term_taxonomy_id: 640
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-tags:
-  - 
-    term_id: 104
-    name: Acreditar
-    slug: acreditar
-    term_group: 0
-    term_taxonomy_id: 107
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 109
-    name: Comparar
-    slug: comparar
-    term_group: 0
-    term_taxonomy_id: 112
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 110
-    name: Dificuldade
-    slug: dificuldade
-    term_group: 0
-    term_taxonomy_id: 113
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 103
-    name: Esperança
-    slug: esperanca
-    term_group: 0
-    term_taxonomy_id: 105
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 102
-    name: Felicidade
-    slug: felicidade
-    term_group: 0
-    term_taxonomy_id: 104
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 107
-    name: Mundo
-    slug: mundo
-    term_group: 0
-    term_taxonomy_id: 110
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 105
-    name: Sofrimento
-    slug: sofrimento
-    term_group: 0
-    term_taxonomy_id: 108
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 108
-    name: Trevas
-    slug: trevas
-    term_group: 0
-    term_taxonomy_id: 111
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/a-felicidade-crista
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 20:49:47
 ---
 Na carta aos efésios, 2:12, lemos que quem não tem Cristo, não tem esperança e está sem Deus no mundo. Jesus é nossa única esperança, apenas nele podemos depositar a nossa vida e todas as nossas necessidades. Entretanto, na primeira epístola aos coríntios, 15:16, encontramos: “...se nós temos esperança em Cristo para esta vida, somos os mais miseráveis de todos os homens”.

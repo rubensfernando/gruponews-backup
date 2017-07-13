@@ -1,135 +1,40 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 373
-    name: chamado
-    slug: chamado
-    term_group: 0
-    term_taxonomy_id: 377
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 291
-    name: Começo
-    slug: comeco
-    term_group: 0
-    term_taxonomy_id: 294
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 293
-    name: Elza
-    slug: elza
-    term_group: 0
-    term_taxonomy_id: 296
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 292
-    name: Franco
-    slug: franco
-    term_group: 0
-    term_taxonomy_id: 295
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 289
-    name: Grupo
-    slug: grupo
-    term_group: 0
-    term_taxonomy_id: 292
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 200
-    name: História
-    slug: historia
-    term_group: 0
-    term_taxonomy_id: 203
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 375
-    name: inicio
-    slug: inicio
-    term_group: 0
-    term_taxonomy_id: 379
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 288
-    name: Mae
-    slug: mae
-    term_group: 0
-    term_taxonomy_id: 291
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 374
-    name: principio
-    slug: principio
-    term_group: 0
-    term_taxonomy_id: 378
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 294
-    name: Senhor
-    slug: senhor
-    term_group: 0
-    term_taxonomy_id: 297
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/mae-de-muitos-filhos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-05 01:44:05
 ---
 A ascendência de Elza, sua infância, a preparação da adolescência, sua formação como professora, o casamento com Franco e constate busca de respostas levaram-na a um intenso trabalho social na paróquia de São João Batista, em Barueri. Em meio a tudo isso, a renovação Carismática, que estava fervilhando nas denominações protestantes, chegou também a Igreja Católica, depois do auspicioso Concílio Vaticano II.

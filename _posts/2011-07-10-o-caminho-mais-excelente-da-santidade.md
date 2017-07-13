@@ -1,25 +1,40 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-caminho-mais-excelente-da-santidade
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-10 02:06:51
 ---
 Não há como não reconhecer: vivemos uma crise de excelência na sociedade contemporânea. Não na esfera das coisas. Estas vão muito bem, obrigado. Refiro-me ao que é da ordem do humano. Os relacionamentos quase nunca vão além do mínimo, atitudes magnânimas são como diamantes encontrados no lixo, dedicações apaixonadas a alguém ou a alguma causa constituem-se como artigo do passado, exemplos inspiradores de um tempo assumido como melhor. Alguns estudiosos aludem a um crepúsculo do dever, à agonia da moral, a um decréscimo da virtude. Paradoxalmente, nunca se falou tanto em ética, o que poderia pressupor uma realidade efetivamente orientada por sua influência.

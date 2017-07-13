@@ -1,47 +1,40 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
-author:
-  - 
-    term_id: 625
-    name: Juarez Gomes
-    slug: juarez-gomes
-    term_group: 0
-    term_taxonomy_id: 633
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 626
-    name: Maria de Carvalho Gomes
-    slug: maria-carvalho-gomes
-    term_group: 0
-    term_taxonomy_id: 634
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags:
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/os-sofrimentos-dos-adolescentes
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-06-19 00:03:28
 ---
 <i>Este artigo é o sexto de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.  </i>

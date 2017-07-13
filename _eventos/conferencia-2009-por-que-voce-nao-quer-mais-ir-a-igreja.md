@@ -1,36 +1,40 @@
 ---
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 1009
-    name: Wayne Jacobsen
-    slug: wayne-jacobsen
-    term_group: 0
-    term_taxonomy_id: 339
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-10-01 00:00:05
 ---
 De acordo com Eliane Brum (www.revistaepoca.com), escutar é talvez a capacidade mais fascinante do humano, porque nos dá a possibilidade de conexão. Logo, fechar-se à escuta é condenar-se à solidão. Muitas pessoas não escutam porque escutar é se arriscar. É se abrir para a possibilidade do espanto, escancarar-se para o mundo do outro. Para a jornalista, quem só tem certezas não dialoga. Não precisa. Conversas são para quem duvida de suas certezas, para quem realmente está aberto para ouvir – e não para fingir que ouve. Diálogos honestos têm mais pontos de interrogação que pontos finais. Escutar de verdade é se entregar, reinventar-se constantemente.

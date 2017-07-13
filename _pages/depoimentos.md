@@ -1,14 +1,40 @@
 ---
 ID: 1003
 post_title: Depoimentos
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2008/depoimentos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-09-07 11:55:56
 ---
 "Olhando para ontem com os olhos de hoje, esta Conferência foi uma insistência de Deus para que Simeão (Offini Franco, pr. Ulysses, pr. Ismael, pr. Wilson Regis, entre outros e representando a muitos desses espalhados pelo mundo) e o bebezinho recém-nascido (a igreja orgânica que tanto esperamos, a igreja finalmente devolvida ao Espírito Santo) se encontrassem: "Agora, Senhor, podes despedir em paz o teu servo, segundo a tua palavra; porque os meus olhos já viram a tua salvação, a qual preparaste diante de todos os povos..." (Atos 2.29-30). A Conferência foi maravilhosa em tudo, mas os momentos finais me saltaram aos olhos: foi uma transferência de bastão. O seu Franco aguardava o avivamento, queria ver milagres, ser arrebatado - tudo isso traduz o desejo dele de ver uma igreja vibrante, funcionando, testemunhando Jesus na face da terra. Acredito que Deus lhe permitiu tocar no bebê em formação, que ali foi apresentado ao Senhor. Se estivermos corretos nesse discernimento, Jesus vai crescer nos próximos anos e teremos debaixo do sol o que muitas gerações ansiosamente aguardaram: a manifestação dos filhos de Deus, a multiforme sabedoria de Deus conhecida (cf Ef 3.10).

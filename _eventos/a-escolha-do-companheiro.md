@@ -1,36 +1,40 @@
 ---
 ID: 903
 post_title: A escolha do companheiro
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 394
-    name: Nosso
-    slug: nosso
-    term_group: 0
-    term_taxonomy_id: 398
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/a-escolha-do-companheiro
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-07 23:05:16
 ---
 Você é o nosso convidado para comparecer ao Espaço Grupo News e participar, dia 12/07 (segunda-feira) a partir das 20h, do compartilhamento do seguinte tema "<em>A escolha do companheiro</em>".

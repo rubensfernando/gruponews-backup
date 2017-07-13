@@ -1,135 +1,40 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 160
-    name: Amor
-    slug: amor
-    term_group: 0
-    term_taxonomy_id: 163
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 168
-    name: Conversão
-    slug: conversao
-    term_group: 0
-    term_taxonomy_id: 171
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 1003
-    name: Família
-    slug: familia-materias
-    term_group: 0
-    term_taxonomy_id: 33
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 172
-    name: Pai
-    slug: pai
-    term_group: 0
-    term_taxonomy_id: 175
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 42
-    name: Servir
-    slug: servir
-    term_group: 0
-    term_taxonomy_id: 43
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 141
-    name: Unidade
-    slug: unidade
-    term_group: 0
-    term_taxonomy_id: 144
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 139
-    name: Visão
-    slug: visao
-    term_group: 0
-    term_taxonomy_id: 142
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 146
-    name: Vontade
-    slug: vontade
-    term_group: 0
-    term_taxonomy_id: 149
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/eu-e-minha-casa-serviremos-ao-senhor
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:34:18
 ---
 A família é o alvo principal de Deus. Antes mesmo que surgisse a primeira família na face da terra, a Trindade já existia como família. Ao dizer: “Façamos o homem à nossa imagem e semelhança”, a Trindade conferenciava sobre criar uma família à semelhança da celestial a fim de ensiná-la sobre os princípios que regem a família eterna: o da comunhão e do amor. As famílias precisam existir sobre esses dois fundamentos que são a essência do relacionamento entre Deus, o Pai, Deus, o Filho e Deus, o Espírito Santo.

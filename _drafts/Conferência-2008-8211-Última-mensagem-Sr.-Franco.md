@@ -1,33 +1,37 @@
 ---
 ID: 592
 post_title: 'Conferência 2008 &#8211; Última mensagem Sr. Franco'
-author: ""
-tags:
-  - 
-    term_id: 292
-    name: Franco
-    slug: franco
-    term_group: 0
-    term_taxonomy_id: 295
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 531
-    name: mensagem
-    slug: mensagem
-    term_group: 0
-    term_taxonomy_id: 538
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=592'
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---

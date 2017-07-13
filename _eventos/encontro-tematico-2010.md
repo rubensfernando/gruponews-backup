@@ -1,47 +1,40 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 45
-    name: Tudo
-    slug: tudo
-    term_group: 0
-    term_taxonomy_id: 46
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 125
-    name: Viver
-    slug: viver
-    term_group: 0
-    term_taxonomy_id: 128
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-tematico-2010
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-05-23 13:24:12
 ---
 <h3>Encontro Temático 2010 - A Igreja de hoje e a de sempre: discernindo a sua geração e redescobrindo a antiga vocação</h3>

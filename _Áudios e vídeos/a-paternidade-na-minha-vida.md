@@ -1,25 +1,40 @@
 ---
 ID: 3036
 post_title: A Paternidade na minha vida
-author:
-  - 
-    term_id: 841
-    name: Junior César
-    slug: junior-cesar
-    term_group: 0
-    term_taxonomy_id: 854
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/a-paternidade-na-minha-vida
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-03-23 08:00:52
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/003junior-macae.mp3]

@@ -1,36 +1,40 @@
 ---
 ID: 4700
 post_title: O cético e o lúcido
-author:
-  - 
-    term_id: 695
-    name: Autor desconhecido
-    slug: autor-desconhecido
-    term_group: 0
-    term_taxonomy_id: 706
-    taxonomy: autor
-    description: Teste
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-cetico-e-o-lucido
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-14 09:20:43
 ---
 <p class="p1"><span class="s1">No ventre de uma mulher grávida, estavam dois bebês.</span></p>

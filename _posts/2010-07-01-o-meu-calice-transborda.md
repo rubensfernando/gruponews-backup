@@ -1,25 +1,40 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-author:
-  - 
-    term_id: 849
-    name: Max Lucado
-    slug: max-lucado
-    term_group: 0
-    term_taxonomy_id: 862
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-meu-calice-transborda
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-01 17:31:59
 ---
 Você já notou como a sua mesa está molhada? Deus quer que você fique. Seu cálice transborda de alegria. Transborda de graça. Não deve o seu coração transbordar de gratidão?

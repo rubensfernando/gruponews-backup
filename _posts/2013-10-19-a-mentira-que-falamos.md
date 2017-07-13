@@ -1,47 +1,40 @@
 ---
 ID: 2869
 post_title: A mentira que falamos
-author:
-  - 
-    term_id: 679
-    name: Darin Hufford
-    slug: darin-hufford
-    term_group: 0
-    term_taxonomy_id: 690
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 875
-    name: autom
-    slug: autom
-    term_group: 0
-    term_taxonomy_id: 889
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 75
-    name: Mentira
-    slug: mentira
-    term_group: 0
-    term_taxonomy_id: 76
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-10-19 01:22:48
 ---
 <blockquote><i>Esta seção, ora inaugurada, trará a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (sem tradução ainda no Brasil). <a title="O Deus mal compreendido" href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para os outros resumos</a>.

@@ -1,36 +1,40 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-author:
-  - 
-    term_id: 652
-    name: Renata Ribeiro Arruda
-    slug: renata-ribeiro-arruda
-    term_group: 0
-    term_taxonomy_id: 662
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 305
-    name: deus
-    slug: deus
-    term_group: 0
-    term_taxonomy_id: 308
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/uma-historia-para-se-identificar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-01-23 00:24:37
 ---
 Gosto de me identificar com um livro. E eu entrei na livraria buscando isso. Queria algum que cativasse minha atenção nas primeiras páginas – pois o último que comprei li quase até o fim esperando o momento em que ficaria interessada, mas não encontrei na obra algum fato ou sensação que a aproximasse de mim. Foi então que me voltei novamente para a estante de “literatura estrangeira”; eu já havia passado por lá na ocasião em que comprei o livro errado.

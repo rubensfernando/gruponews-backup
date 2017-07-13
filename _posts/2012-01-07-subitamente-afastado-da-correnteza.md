@@ -1,36 +1,40 @@
 ---
 ID: 1976
 post_title: Subitamente afastado da correnteza
-author:
-  - 
-    term_id: 632
-    name: Paulo Roberto da Silva
-    slug: paulo-roberto-da-silva
-    term_group: 0
-    term_taxonomy_id: 640
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-tags:
-  - 
-    term_id: 903
-    name: edicao-71
-    slug: edicao-71
-    term_group: 0
-    term_taxonomy_id: 918
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/subitamente-afastado-da-correnteza
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-01-07 00:00:31
 ---
 Eu, Neide e as crianças, nós todos, juntos, estávamos descendo rio abaixo, levados pela correnteza. Éramos pequenos pedaços de madeira num rio bem largo e vigoroso. Eu e a Neide, pedaços um pouco maiores; as crianças, pedaços menores. Alternávamo-nos nas posições: às vezes eu ficava à frente, outras vezes era a Neide. Mesmo as crianças, em algum momento, tomavam a dianteira. Entretanto sempre estávamos juntos e próximos uns dos outros, conforme a força da correnteza que nos levava.

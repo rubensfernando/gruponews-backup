@@ -3,82 +3,40 @@ ID: 1382
 post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
-author:
-  - 
-    term_id: 707
-    name: Padre Marcial Maçaneiro
-    slug: padre-marcial-macaneiro
-    term_group: 0
-    term_taxonomy_id: 718
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 592
-    name: >
-      Conferência "Cristo, o Reino e a
-      Igreja"
-    slug: conferencia-2010
-    term_group: 0
-    term_taxonomy_id: 599
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 299
-    name: cristo
-    slug: cristo
-    term_group: 0
-    term_taxonomy_id: 302
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 708
-    name: escrituras
-    slug: escrituras
-    term_group: 0
-    term_taxonomy_id: 719
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-02-01 01:45:51
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia; min-height: 12.0px} p.p3 {margin: 2.8px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 10.5px Georgia} p.p4 {margin: 0.0px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 9.0px Helvetica} -->A agenda com que Deus sonhou para nós no seu reino é muito ousada. Eu gostaria de refletir sobre isso a partir de quatro narrativas propostas por Jesus em que se poderão observar correspondentemente quatro emblemas: o ano da graça do Senhor, conforme descrito em Lucas 4 e Levítico 25; a experiência do samaritano, que ensina a igreja a ser casa de misericórdia; a comensalidade, ou seja, as experiências em que Jesus está à mesa conosco, das quais nasce a ceia como seu memorial e presença pascal na igreja; e, finalmente, o jardim, narrativa recorrente ao longo das Escrituras, que mostra o tipo de relação que o homem tem com Deus quando mora neste lugar aprazível.

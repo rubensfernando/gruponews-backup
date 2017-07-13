@@ -3,47 +3,40 @@ ID: 1587
 post_title: >
   Curso de Preparação Profética
   Intensivo 2011
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 736
-    name: clique aqui
-    slug: clique-aqui
-    term_group: 0
-    term_taxonomy_id: 747
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 547
-    name: volta
-    slug: volta
-    term_group: 0
-    term_taxonomy_id: 554
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2011
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-10 00:46:26
 ---
 Confira a partir do dia 11 as 9h a transmissão ao vivo do Curso de Preparação Profética Intensivo. O curso terá como tema "A preparação para a Volta de Cristo".

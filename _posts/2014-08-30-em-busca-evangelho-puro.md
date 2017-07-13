@@ -1,65 +1,40 @@
 ---
 ID: 3882
 post_title: Em busca do evangelho puro
-author:
-  - 
-    term_id: 643
-    name: Harold Walker
-    slug: harold-walker
-    term_group: 0
-    term_taxonomy_id: 653
-    taxonomy: autor
-    description: >
-      é conferencista e um dos fundadores da
-      Escola Cristã de Jundiaí SP,
-      articulista e membro do Conselho
-      Editorial da Revista Impacto. É também
-      um dos idealizadores do Curso de
-      Preparação Profética (CPP) e do
-      encontro anual de jovens “Preparando
-      Soldados para as Últimas Batalhas”.
-      Junto com outros irmãos, está
-      atualmente empenhado na constituição
-      da “Escola de Teologia Viva”, uma
-      alternativa à academia sistemática que
-      monopolizou o ensino da teologia. É
-      casado com Ester e tem três filhos.
-      Reside em Jundiaí, SP.
-    parent: 0
-    count: 5
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 261
-    name: Evangelho
-    slug: evangelho
-    term_group: 0
-    term_taxonomy_id: 264
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/em-busca-evangelho-puro
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 15:50:56
 ---
 Como é bom a gente ter a oportunidade de ouvir vários irmãos diferentes e meditar, refletir... Graças a Deus por este dia! Vamos guardando no coração. Parece que isso estava numa música hoje de manhã: “guardei a tua palavra no coração para não pecar contra ti”. Eu estava lendo um pedaço do Salmo 119 hoje de manhã – porque eu levantei cedo, mas não tão cedo para ler todo o salmo – e tinha visto esta parte e achei interessante: “Guardei a tua palavra no coração pra não pecar contra ti”. A palavra de Deus é rica, tremenda, maravilhosa. Eu fico sempre com a lembrança de minha mãe, vários anos antes de morrer, quando ela pensava que ia morrer e não morreu. Aliás, quando morreu, ela não estava tão debilitada e tão fraca como nessa época, uns 5 ou 6 anos antes. Perto de sua cama, na parede, ela tinha textos bíblicos escritos à mão, que decorava. Passando mal, fraca de tudo e decorando os textos, decorando a palavra de Deus. Então eu guardo com bastante carinho esta valorização da palavra de Deus.

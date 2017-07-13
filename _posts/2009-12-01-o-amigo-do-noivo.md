@@ -1,135 +1,40 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author:
-  - 
-    term_id: 880
-    name: Clélia Arruda
-    slug: clelia-arruda
-    term_group: 0
-    term_taxonomy_id: 894
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 173
-    name: Amigo
-    slug: amigo
-    term_group: 0
-    term_taxonomy_id: 176
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 175
-    name: Função
-    slug: funcao
-    term_group: 0
-    term_taxonomy_id: 178
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 100
-    name: Louvor
-    slug: louvor
-    term_group: 0
-    term_taxonomy_id: 102
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 177
-    name: Ministério
-    slug: ministerio
-    term_group: 0
-    term_taxonomy_id: 180
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 176
-    name: Missão
-    slug: missao
-    term_group: 0
-    term_taxonomy_id: 179
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 24
-    name: Noivo
-    slug: noivo
-    term_group: 0
-    term_taxonomy_id: 24
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 64
-    name: Obediência
-    slug: obediencia
-    term_group: 0
-    term_taxonomy_id: 65
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 48
-    name: Oração
-    slug: oracao
-    term_group: 0
-    term_taxonomy_id: 49
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 57
-    name: Palavra
-    slug: palavra
-    term_group: 0
-    term_taxonomy_id: 58
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 174
-    name: Preparar
-    slug: preparar
-    term_group: 0
-    term_taxonomy_id: 177
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-amigo-do-noivo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:44:37
 ---
 Na Bíblia, encontramos esta figura referenciada por João Batista. Para sabermos um pouco mais sobre ela devemos ler no Livro de Gênesis, capítulo 24, a história do servo de Abraão, incumbido por ele de providenciar uma esposa para Isaque, seu filho.

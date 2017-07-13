@@ -3,36 +3,40 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
-author:
-  - 
-    term_id: 647
-    name: José Carlos Marion
-    slug: jose-carlos-marion
-    term_group: 0
-    term_taxonomy_id: 657
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>

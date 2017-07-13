@@ -3,82 +3,40 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-author:
-  - 
-    term_id: 622
-    name: Ezequiel Netto
-    slug: ezequiel-netto
-    term_group: 0
-    term_taxonomy_id: 630
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 937
-    name: casas
-    slug: casas
-    term_group: 0
-    term_taxonomy_id: 954
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 935
-    name: Desigrejados
-    slug: desigrejados
-    term_group: 0
-    term_taxonomy_id: 951
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 938
-    name: edicao-64
-    slug: edicao-64
-    term_group: 0
-    term_taxonomy_id: 955
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1013
-    name: >
-      Por que Você Não Quer Mais Ir À
-      Igreja?
-    slug: por-que-voce-nao-quer-mais-ir-a-igreja
-    term_group: 0
-    term_taxonomy_id: 953
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 936
-    name: sem igreja
-    slug: sem-igreja
-    term_group: 0
-    term_taxonomy_id: 952
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:00:11
 ---
 Século 16 – período das grandes descobertas. No princípio, era a Igreja Católica. Mas nem ela nem o Papa estavam com Deus, segundo os protestantes que chegaram. Por outro lado, para os católicos, eram os protestantes que se haviam afastado da Santa Igreja. Esses dois grupos de cristãos estão brigando durante 500 anos pelo direito de serem considerados os detentores do cristianismo verdadeiro.

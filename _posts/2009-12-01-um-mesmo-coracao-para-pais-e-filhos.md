@@ -1,135 +1,40 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-author:
-  - 
-    term_id: 625
-    name: Juarez Gomes
-    slug: juarez-gomes
-    term_group: 0
-    term_taxonomy_id: 633
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-tags:
-  - 
-    term_id: 168
-    name: Conversão
-    slug: conversao
-    term_group: 0
-    term_taxonomy_id: 171
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 213
-    name: Famílias
-    slug: familias
-    term_group: 0
-    term_taxonomy_id: 216
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 59
-    name: Filhos
-    slug: filhos
-    term_group: 0
-    term_taxonomy_id: 60
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 98
-    name: Inimigo
-    slug: inimigo
-    term_group: 0
-    term_taxonomy_id: 99
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 126
-    name: Mudança
-    slug: mudanca
-    term_group: 0
-    term_taxonomy_id: 129
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 63
-    name: Pais
-    slug: pais
-    term_group: 0
-    term_taxonomy_id: 64
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 67
-    name: Relacionamento
-    slug: relacionamento
-    term_group: 0
-    term_taxonomy_id: 68
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 124
-    name: Restauração
-    slug: restauracao
-    term_group: 0
-    term_taxonomy_id: 127
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 146
-    name: Vontade
-    slug: vontade
-    term_group: 0
-    term_taxonomy_id: 149
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/um-mesmo-coracao-para-pais-e-filhos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:21:53
 ---
 “E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição” (Ml 4:6). “Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo” (Jr 31:1).

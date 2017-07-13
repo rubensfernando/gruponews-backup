@@ -1,25 +1,40 @@
 ---
 ID: 3226
 post_title: O casamento como vocação
-author:
-  - 
-    term_id: 858
-    name: Marina Venuto Silva
-    slug: marina-venuto-silva
-    term_group: 0
-    term_taxonomy_id: 872
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/o-casamento-como-vocacao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-05 15:12:52
 ---
 Confesso que meus tantos olhares sobre o casamento jamais me haviam levado a pensá-lo como vocação. Na busca de uma definição, descobri que é impossível pensar na construção de uma família saudável se homem e mulher não se unirem sob a visão de que foram chamados à vocação conjugal.

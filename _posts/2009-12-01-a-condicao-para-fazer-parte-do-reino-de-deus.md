@@ -3,146 +3,40 @@ ID: 72
 post_title: >
   A condição para fazer parte do Reino
   de Deus
-author:
-  - 
-    term_id: 628
-    name: Valter Severino
-    slug: valter-severino
-    term_group: 0
-    term_taxonomy_id: 636
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 89
-    name: Arrependimento
-    slug: arrependimento
-    term_group: 0
-    term_taxonomy_id: 90
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 88
-    name: Buscar
-    slug: buscar
-    term_group: 0
-    term_taxonomy_id: 89
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 87
-    name: Céus
-    slug: ceus
-    term_group: 0
-    term_taxonomy_id: 88
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 90
-    name: Condição
-    slug: condicao
-    term_group: 0
-    term_taxonomy_id: 91
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 95
-    name: Engano
-    slug: engano
-    term_group: 0
-    term_taxonomy_id: 96
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 92
-    name: Governo
-    slug: governo
-    term_group: 0
-    term_taxonomy_id: 93
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 91
-    name: Inferno
-    slug: inferno
-    term_group: 0
-    term_taxonomy_id: 92
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 94
-    name: Misericórdia
-    slug: misericordia
-    term_group: 0
-    term_taxonomy_id: 95
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
-  - 
-    term_id: 477
-    name: reino de Deus
-    slug: reino-de-deus
-    term_group: 0
-    term_taxonomy_id: 484
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 93
-    name: Resolver
-    slug: resolver
-    term_group: 0
-    term_taxonomy_id: 94
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-condicao-para-fazer-parte-do-reino-de-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 20:39:30
 ---
 Recentemente a Revista Veja realizou uma pesquisa em que constatou que 99% dos entrevistados disseram acreditar em Deus. Destes,  83% acreditam na vida eterna e no paraíso, e 55%  acreditam no inferno ou punição eterna, porém nenhum sequer admitiu a possibilidade de ir para o inferno. Num  primeiro momento, os dados dessa pesquisa nos causam uma impressão positiva, se considerarmos que a esmagadora maioria acredita em Deus. Entretanto, como sabemos não basta somente crer, até porque os próprios demônios também crêem, e estremecem (Tiago 2:19). Portanto, mais do que crer é preciso se envolver com o reino de Deus e viver segundo as regras e preceitos deste reino. Desta forma, se analisarmos de outro prisma o resultado da pesquisa aqui apontada, infelizmente teremos que nos curvar diante da sua dura e crua realidade, ou seja, a grande maioria daqueles que dizem crer em Deus, vivem enganados, iludidos e seduzidos pelo diabo no tocante ao reino de Deus.

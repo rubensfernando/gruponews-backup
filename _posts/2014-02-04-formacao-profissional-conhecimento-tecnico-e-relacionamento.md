@@ -3,58 +3,40 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 893
-    name: edicao-77
-    slug: edicao-77
-    term_group: 0
-    term_taxonomy_id: 907
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 966
-    name: profissão
-    slug: profissao
-    term_group: 0
-    term_taxonomy_id: 984
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 967
-    name: vida profissional
-    slug: vida-profissional
-    term_group: 0
-    term_taxonomy_id: 985
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-02-04 09:00:53
 ---
 A formação profissional convencional se preocupa em transmitir conhecimentos técnicos que podem ser incrementados com a experiência do exercício da profissão. Contudo, pouco se atenta para o fato de que no mundo moderno as relações pessoais são cada vez mais determinantes para o êxito profissional. Houve tempo em que se propunha uma nítida separação entre as relações pessoais e as atividades profissionais. Valorizava-se quem tinha competência em saber separar as situações. Isso, hipocritamente, exigia que uma mãe ignorasse o filho que deixara com febre em casa. Essa demanda pode ser caracterizada como uma esquizofrenia profissional.

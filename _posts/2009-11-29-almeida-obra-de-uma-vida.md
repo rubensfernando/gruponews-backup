@@ -1,36 +1,40 @@
 ---
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
-author: ""
-tags:
-  - 
-    term_id: 924
-    name: Curiosidades
-    slug: curiosidades
-    term_group: 0
-    term_taxonomy_id: 939
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 925
-    name: João Ferreira de Almeida
-    slug: joao-ferreira-de-almeida
-    term_group: 0
-    term_taxonomy_id: 940
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/almeida-obra-de-uma-vida
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-29 21:55:58
 ---
 João Ferreira de Almeida é conhecido pela autoria de uma das mais lidas traduções da Bíblia em português, ele teve uma vida movimentada e morreu sem terminar a tarefa que abraçou ainda muito jovem.

@@ -1,58 +1,40 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 788
-    name: deste
-    slug: deste
-    term_group: 0
-    term_taxonomy_id: 799
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 394
-    name: Nosso
-    slug: nosso
-    term_group: 0
-    term_taxonomy_id: 398
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 547
-    name: volta
-    slug: volta
-    term_group: 0
-    term_taxonomy_id: 554
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/o-projeto-de-reevangelizacao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-06-06 17:31:14
 ---
 Dando continuidade ao curso <a href="http://www.gruponews.com.br/2010/03/reevangelizando.html">Reevangelizando</a>, daremos início a partir desta segunda-feira uma nova fase do projeto iniciado em março deste ano. Semanalmente, toda segunda-feira a partir das 20h, você é o nosso convidado para <strong>O PROJETO DE REEVANGELIZAÇÃO</strong> e sua divulgação.

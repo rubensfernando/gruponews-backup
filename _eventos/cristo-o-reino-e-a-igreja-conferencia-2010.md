@@ -1,201 +1,40 @@
 ---
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 401
-    name: Arruda
-    slug: arruda
-    term_group: 0
-    term_taxonomy_id: 407
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 539
-    name: Brasil
-    slug: brasil
-    term_group: 0
-    term_taxonomy_id: 546
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 311
-    name: conferencia
-    slug: conferencia
-    term_group: 0
-    term_taxonomy_id: 314
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 299
-    name: cristo
-    slug: cristo
-    term_group: 0
-    term_taxonomy_id: 302
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 541
-    name: Gino
-    slug: gino
-    term_group: 0
-    term_taxonomy_id: 548
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 542
-    name: Iafrancesco
-    slug: iafrancesco
-    term_group: 0
-    term_taxonomy_id: 549
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 513
-    name: Jesus
-    slug: jesus
-    term_group: 0
-    term_taxonomy_id: 520
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 546
-    name: Maçaneiro
-    slug: macaneiro
-    term_group: 0
-    term_taxonomy_id: 553
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 545
-    name: Marcial
-    slug: marcial
-    term_group: 0
-    term_taxonomy_id: 552
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 540
-    name: Outubro
-    slug: outubro
-    term_group: 0
-    term_taxonomy_id: 547
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 371
-    name: Pedro
-    slug: pedro
-    term_group: 0
-    term_taxonomy_id: 375
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
-  - 
-    term_id: 548
-    name: retorno
-    slug: retorno
-    term_group: 0
-    term_taxonomy_id: 555
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 543
-    name: Villegas
-    slug: villegas
-    term_group: 0
-    term_taxonomy_id: 550
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 547
-    name: volta
-    slug: volta
-    term_group: 0
-    term_taxonomy_id: 554
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/cristo-o-reino-e-a-igreja-conferencia-2010
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-10-20 14:26:35
 ---
 Depois de recebermos Wolfgang Simson, em 2007, e refletirmos sobre as “casas que transformam o mundo”, e Wayne Jacobsen, em 2009, para o compartilhamento da experiência numa “jornada diária na presença e no amor do Pai”, neste ano de 2010, a fim de nos debruçarmos sobre o tema “Cristo, o Reino e a Igreja”, retornamos ao formato da Conferência de 2008, ocasião em que vários preletores expuseram suas inquietações e expectativas sobre “a Igreja de nosso tempo” (<a href="/conferencia2008/" target="_blank">clique aqui</a> para saber mais).

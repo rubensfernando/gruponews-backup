@@ -3,57 +3,39 @@ ID: 664
 post_title: >
   “Comunhão nossa de cada dia” –
   Origem e morte da comunhão
-author: ""
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 305
-    name: deus
-    slug: deus
-    term_group: 0
-    term_taxonomy_id: 308
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 67
-    name: Relacionamento
-    slug: relacionamento
-    term_group: 0
-    term_taxonomy_id: 68
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 146
-    name: Vontade
-    slug: vontade
-    term_group: 0
-    term_taxonomy_id: 149
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=664
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o primeiro de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilhará suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã.</em></blockquote>
 Penso que nunca se falou tanto sobre comunhão como nestes dias. Parece até mesmo um clamor pelo preenchimento de um vazio, até então não atendido, nos corações de uma maneira geral. No meu íntimo, chego a considerar que a redescoberta deste assunto será de uma importância ainda maior do que foi a restauração iniciada pelo movimento Pentecostal na virada para o século XX.

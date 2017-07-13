@@ -1,135 +1,40 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author:
-  - 
-    term_id: 631
-    name: Carlos Araripe
-    slug: carlos-araripe
-    term_group: 0
-    term_taxonomy_id: 639
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 101
-    name: Atitude
-    slug: atitude
-    term_group: 0
-    term_taxonomy_id: 103
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 97
-    name: Batalha
-    slug: batalha
-    term_group: 0
-    term_taxonomy_id: 98
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 96
-    name: Estratégia
-    slug: estrategia
-    term_group: 0
-    term_taxonomy_id: 97
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 99
-    name: Guerra
-    slug: guerra
-    term_group: 0
-    term_taxonomy_id: 101
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 34
-    name: Homem
-    slug: homem
-    term_group: 0
-    term_taxonomy_id: 35
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 98
-    name: Inimigo
-    slug: inimigo
-    term_group: 0
-    term_taxonomy_id: 99
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 100
-    name: Louvor
-    slug: louvor
-    term_group: 0
-    term_taxonomy_id: 102
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 48
-    name: Oração
-    slug: oracao
-    term_group: 0
-    term_taxonomy_id: 49
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 57
-    name: Palavra
-    slug: palavra
-    term_group: 0
-    term_taxonomy_id: 58
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-estrategia-final
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 20:42:53
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.

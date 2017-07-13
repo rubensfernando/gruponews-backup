@@ -1,135 +1,40 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
-author:
-  - 
-    term_id: 876
-    name: Carlos Augusto
-    slug: carlos-augusto
-    term_group: 0
-    term_taxonomy_id: 890
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 188
-    name: Alma
-    slug: alma
-    term_group: 0
-    term_taxonomy_id: 191
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 187
-    name: Corpo
-    slug: corpo
-    term_group: 0
-    term_taxonomy_id: 190
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 143
-    name: Cura
-    slug: cura
-    term_group: 0
-    term_taxonomy_id: 146
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 185
-    name: Milagre
-    slug: milagre
-    term_group: 0
-    term_taxonomy_id: 188
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 186
-    name: Nascer
-    slug: nascer
-    term_group: 0
-    term_taxonomy_id: 189
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 133
-    name: Nova
-    slug: nova
-    term_group: 0
-    term_taxonomy_id: 136
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 121
-    name: Perdão
-    slug: perdao
-    term_group: 0
-    term_taxonomy_id: 124
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 124
-    name: Restauração
-    slug: restauracao
-    term_group: 0
-    term_taxonomy_id: 127
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-maior-milagre-de-todos-os-tempos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:49:09
 ---
 Normalmente, entende-se por milagre algo sobrenatural que vai além da capacidade de ação do homem. Vamos então refletir sobre isso para, através da comparação dos milagres que conhecemos, tentar saber qual deles é o maior de todos os tempos. Na Bíblia, temos muitas citações de sinais e milagres que até hoje continuam acontecendo, mas qual seria o maior?

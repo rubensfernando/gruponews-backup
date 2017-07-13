@@ -1,33 +1,37 @@
 ---
 ID: 4357
 post_title: 'Testemunho &#8211; Claudia Porto'
-author:
-  - 
-    term_id: 657
-    name: Claudia Porto
-    slug: claudia-porto
-    term_group: 0
-    term_taxonomy_id: 668
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 182
-    name: Testemunho
-    slug: testemunho
-    term_group: 0
-    term_taxonomy_id: 185
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: audioevideo
 permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=4357'
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---

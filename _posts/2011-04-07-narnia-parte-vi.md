@@ -1,113 +1,40 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
-author:
-  - 
-    term_id: 652
-    name: Renata Ribeiro Arruda
-    slug: renata-ribeiro-arruda
-    term_group: 0
-    term_taxonomy_id: 662
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 929
-    name: A Cadeira de Prata
-    slug: a-cadeira-de-prata
-    term_group: 0
-    term_taxonomy_id: 944
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 575
-    name: aslam
-    slug: aslam
-    term_group: 0
-    term_taxonomy_id: 582
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 596
-    name: cadeira
-    slug: cadeira
-    term_group: 0
-    term_taxonomy_id: 603
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 576
-    name: cronicas
-    slug: cronicas
-    term_group: 0
-    term_taxonomy_id: 583
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 577
-    name: filme
-    slug: filme
-    term_group: 0
-    term_taxonomy_id: 584
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 256
-    name: Livro
-    slug: livro
-    term_group: 0
-    term_taxonomy_id: 259
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 307
-    name: narnia
-    slug: narnia
-    term_group: 0
-    term_taxonomy_id: 310
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 597
-    name: prata
-    slug: prata
-    term_group: 0
-    term_taxonomy_id: 604
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-vi
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-04-07 23:29:26
 ---
 <h3>A realidade do mundo superior</h3>

@@ -3,80 +3,40 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 865
-    name: edicao-76
-    slug: edicao-76
-    term_group: 0
-    term_taxonomy_id: 879
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 242
-    name: Luz
-    slug: luz
-    term_group: 0
-    term_taxonomy_id: 245
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 979
-    name: revelação
-    slug: revelacao
-    term_group: 0
-    term_taxonomy_id: 997
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-10-27 09:00:14
 ---
 É relativamente grande, ao longo das Escrituras, o número de interações de Deus com o homem, estando este às voltas com as peculiaridades do mundo do emprego. Não raro observa-se um chamado, uma confrontação, um ensinamento, uma analogia carregada de verdade espiritual, que têm origem a partir das práticas do trabalho cotidiano em que o homem bíblico está inserido, prova inquestionável de que Deus não está interessado em dividir a vida em sagrada e secular, hierarquizando momentos mais ou menos propícios para a manifestação de sua glória.

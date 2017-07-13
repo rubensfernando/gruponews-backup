@@ -1,135 +1,40 @@
 ---
 ID: 133
 post_title: Simplicidade voluntária
-author:
-  - 
-    term_id: 881
-    name: Ricardo Camargo
-    slug: ricardo-camargo
-    term_group: 0
-    term_taxonomy_id: 895
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 156
-    name: Consumo
-    slug: consumo
-    term_group: 0
-    term_taxonomy_id: 159
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 207
-    name: Cotidiano
-    slug: cotidiano
-    term_group: 0
-    term_taxonomy_id: 210
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 211
-    name: Humildade
-    slug: humildade
-    term_group: 0
-    term_taxonomy_id: 214
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 212
-    name: Ilusão
-    slug: ilusao
-    term_group: 0
-    term_taxonomy_id: 215
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 67
-    name: Relacionamento
-    slug: relacionamento
-    term_group: 0
-    term_taxonomy_id: 68
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 210
-    name: Simplicidade
-    slug: simplicidade
-    term_group: 0
-    term_taxonomy_id: 213
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 209
-    name: Superficial
-    slug: superficial
-    term_group: 0
-    term_taxonomy_id: 212
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 84
-    name: Televisão
-    slug: televisao
-    term_group: 0
-    term_taxonomy_id: 85
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 208
-    name: Tempo
-    slug: tempo
-    term_group: 0
-    term_taxonomy_id: 211
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/simplicidade-voluntaria
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:19:19
 ---
 O objetivo deste artigo está em buscar reconhecer quais as coisas (materiais ou não) que o impedem de caminhar mais livremente e com maior satisfação, o que pode facilitar sua caminhada pela segunda milha. Textos Básicos: Filipenses 4:11 e Hebreus 13:5

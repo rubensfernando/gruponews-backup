@@ -1,201 +1,40 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 101
-    name: Atitude
-    slug: atitude
-    term_group: 0
-    term_taxonomy_id: 103
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 231
-    name: Clero
-    slug: clero
-    term_group: 0
-    term_taxonomy_id: 234
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 232
-    name: Denominação
-    slug: denominacao
-    term_group: 0
-    term_taxonomy_id: 235
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 229
-    name: Doméstica
-    slug: domestica
-    term_group: 0
-    term_taxonomy_id: 232
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 227
-    name: Estrutura
-    slug: estrutura
-    term_group: 0
-    term_taxonomy_id: 230
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 971
-    name: Estudos
-    slug: estudos
-    term_group: 0
-    term_taxonomy_id: 989
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 235
-    name: Familiar
-    slug: familiar
-    term_group: 0
-    term_taxonomy_id: 238
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 234
-    name: Grupos
-    slug: grupos
-    term_group: 0
-    term_taxonomy_id: 237
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 230
-    name: Instituições
-    slug: instituicoes
-    term_group: 0
-    term_taxonomy_id: 233
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 226
-    name: Lares
-    slug: lares
-    term_group: 0
-    term_taxonomy_id: 229
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 228
-    name: Leigo
-    slug: leigo
-    term_group: 0
-    term_taxonomy_id: 231
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 233
-    name: Reconciliação
-    slug: reconciliacao
-    term_group: 0
-    term_taxonomy_id: 236
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 149
-    name: Templo
-    slug: templo
-    term_group: 0
-    term_taxonomy_id: 152
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-igreja-domestica
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 20:52:45
 ---
 A intenção desta pesquisa é a busca da igreja que está no coração de Deus. Não se trata apenas de uma pesquisa acadêmica, mas também do desejo forte de viver esta proposta e encorajar outros a estarem no mesmo caminho. Aquele trilhado pelos primeiros cristãos. Essa igreja é a única viável nestes dias. Ela não pode buscar a diferença com o mundo apenas nos usos e costumes, antes de tudo, precisa pensar e ver diferente do mundo. Uma igreja não conformada com este mundo, mas com entendimento renovado para experimentar a boa, agradável e perfeita vontade de Deus.

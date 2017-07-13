@@ -1,135 +1,40 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
-author:
-  - 
-    term_id: 715
-    name: Ailton Jacob de Oliveira
-    slug: ailton-jacob-de-oliveira
-    term_group: 0
-    term_taxonomy_id: 726
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 215
-    name: Abundante
-    slug: abundante
-    term_group: 0
-    term_taxonomy_id: 218
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 116
-    name: Graça
-    slug: graca
-    term_group: 0
-    term_taxonomy_id: 119
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 57
-    name: Palavra
-    slug: palavra
-    term_group: 0
-    term_taxonomy_id: 58
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 216
-    name: Prosperidade
-    slug: prosperidade
-    term_group: 0
-    term_taxonomy_id: 219
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 214
-    name: Simples
-    slug: simples
-    term_group: 0
-    term_taxonomy_id: 217
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 218
-    name: Vazio
-    slug: vazio
-    term_group: 0
-    term_taxonomy_id: 221
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
-  - 
-    term_id: 217
-    name: Voz
-    slug: voz
-    term_group: 0
-    term_taxonomy_id: 220
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/vida-abundante-uma-vida-comprometida-com-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:26:29
 ---
 A existência do homem é um fator de muitas indagações. Teria o homem surgido do macaco? Ou quem sabe de uma explosão cósmica? A existência do homem continua a ser um mistério para muitas pessoas.

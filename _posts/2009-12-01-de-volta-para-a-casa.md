@@ -1,135 +1,40 @@
 ---
 ID: 99
 post_title: De Volta para a Casa
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 148
-    name: Lugar
-    slug: lugar
-    term_group: 0
-    term_taxonomy_id: 151
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 150
-    name: Movimento
-    slug: movimento
-    term_group: 0
-    term_taxonomy_id: 153
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 126
-    name: Mudança
-    slug: mudanca
-    term_group: 0
-    term_taxonomy_id: 129
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 124
-    name: Restauração
-    slug: restauracao
-    term_group: 0
-    term_taxonomy_id: 127
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 147
-    name: Reunião
-    slug: reuniao
-    term_group: 0
-    term_taxonomy_id: 150
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 149
-    name: Templo
-    slug: templo
-    term_group: 0
-    term_taxonomy_id: 152
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 139
-    name: Visão
-    slug: visao
-    term_group: 0
-    term_taxonomy_id: 142
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 146
-    name: Vontade
-    slug: vontade
-    term_group: 0
-    term_taxonomy_id: 149
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/de-volta-para-a-casa
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:23:27
 ---
 Quando Josué pronunciou “Eu e minha casa serviremos ao Senhor”, ele não tinha uma casa com sala, quartos, cozinha... No máximo, uma tenda que o abrigava com sua família. Quando se referia a sua casa, portanto, não tinha em mente um edifício físico. O mesmo podemos dizer de Abraão quando se queixava a Deus que, por não ter filhos, Eliezer, o servo damasceno, seria o herdeiro de sua casa (Gn 15:2). Quando Cornélio, que era um homem temente a Deus com toda a sua casa, pediu que Pedro o visitasse, reuniu os amigos, parentes e, possivelmente, empregados e soldados que o serviam. Tudo o que estava sob a influência do chefe da família era considerado a sua casa. Isso engloba as propriedades e as pessoas que estão em seu domínio. Como os pastores que tomavam conta do rebanho de Abraão faziam parte de sua casa, podemos dizer também que os empregados de um empresário nos dias de hoje também fazem parte de sua casa. É comum que os conselhos à conduta da família cristã inclua também o relacionamento entre servos e senhor.

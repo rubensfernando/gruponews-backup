@@ -3,49 +3,40 @@ ID: 1374
 post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
-author:
-  - 
-    term_id: 654
-    name: Gino Iafrancesco
-    slug: gino-iafrancesco
-    term_group: 0
-    term_taxonomy_id: 664
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 592
-    name: >
-      Conferência "Cristo, o Reino e a
-      Igreja"
-    slug: conferencia-2010
-    term_group: 0
-    term_taxonomy_id: 599
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 838
-    name: trindade
-    slug: trindade
-    term_group: 0
-    term_taxonomy_id: 851
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-01-01 01:15:19
 ---
 <blockquote><em>“Também disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança...</em>”

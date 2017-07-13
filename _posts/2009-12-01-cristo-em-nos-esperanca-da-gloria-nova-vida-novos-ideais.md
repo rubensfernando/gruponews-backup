@@ -3,135 +3,40 @@ ID: 95
 post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
-author:
-  - 
-    term_id: 879
-    name: Rosane Faria
-    slug: rosane-faria
-    term_group: 0
-    term_taxonomy_id: 893
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 101
-    name: Atitude
-    slug: atitude
-    term_group: 0
-    term_taxonomy_id: 103
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 103
-    name: Esperança
-    slug: esperanca
-    term_group: 0
-    term_taxonomy_id: 105
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 138
-    name: Espírito
-    slug: espirito
-    term_group: 0
-    term_taxonomy_id: 141
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 136
-    name: Glória
-    slug: gloria
-    term_group: 0
-    term_taxonomy_id: 139
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 135
-    name: Habitar
-    slug: habitar
-    term_group: 0
-    term_taxonomy_id: 138
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 134
-    name: Interior
-    slug: interior
-    term_group: 0
-    term_taxonomy_id: 137
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 132
-    name: Morar
-    slug: morar
-    term_group: 0
-    term_taxonomy_id: 135
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 133
-    name: Nova
-    slug: nova
-    term_group: 0
-    term_taxonomy_id: 136
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 137
-    name: Transformar
-    slug: transformar
-    term_group: 0
-    term_taxonomy_id: 140
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:16:09
 ---
 Em Colossenses 1:27, Paulo nos fala da revelação dada por Deus aos apóstolos sobre o mistério que esteve oculto em Deus desde o pecado, e assim se manteve até que fosse possível a compreensão e manifestação dele ao mundo. O mistério não era o Deus Todo Poderoso encarnar, viver, morrer e ressuscitar, mas sim o Espírito deste Deus-Homem habitar no homem. Não metaforicamente, mas em realidade.

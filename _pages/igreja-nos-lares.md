@@ -1,14 +1,40 @@
 ---
 ID: 230
 post_title: Igreja nos lares
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/igreja-nos-lares
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-29 23:28:58
 ---
 Há quase quarenta anos realizamos reuniões nos lares como auxílio à prática da vida cristã, o mesmo costume observado nos cristãos primitivos antes dos templos instituídos pelo Imperador Constantino. Absorvidos pelo cristianismo, os templos de Constantino perpetuaram a ideia de templo como lugar obrigatório para a realização de reuniões cristãs. Porém, nossa proposta busca restaurar a diginidade da família - "célula-mãe" da sociedade -  priorizando o trabalho de formação espiritual de "homens novos para um mundo novo" encontrado em Deus.

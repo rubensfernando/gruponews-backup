@@ -1,130 +1,40 @@
 ---
 ID: 1379
 post_title: Revelação maior que a de Daniel
-author:
-  - 
-    term_id: 643
-    name: Harold Walker
-    slug: harold-walker
-    term_group: 0
-    term_taxonomy_id: 653
-    taxonomy: autor
-    description: >
-      é conferencista e um dos fundadores da
-      Escola Cristã de Jundiaí SP,
-      articulista e membro do Conselho
-      Editorial da Revista Impacto. É também
-      um dos idealizadores do Curso de
-      Preparação Profética (CPP) e do
-      encontro anual de jovens “Preparando
-      Soldados para as Últimas Batalhas”.
-      Junto com outros irmãos, está
-      atualmente empenhado na constituição
-      da “Escola de Teologia Viva”, uma
-      alternativa à academia sistemática que
-      monopolizou o ensino da teologia. É
-      casado com Ester e tem três filhos.
-      Reside em Jundiaí, SP.
-    parent: 0
-    count: 5
-    filter: raw
-tags:
-  - 
-    term_id: 714
-    name: anglicanos
-    slug: anglicanos
-    term_group: 0
-    term_taxonomy_id: 725
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 949
-    name: Conferência "Cristo
-    slug: conferencia-cristo
-    term_group: 0
-    term_taxonomy_id: 967
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 592
-    name: >
-      Conferência "Cristo, o Reino e a
-      Igreja"
-    slug: conferencia-2010
-    term_group: 0
-    term_taxonomy_id: 599
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 299
-    name: cristo
-    slug: cristo
-    term_group: 0
-    term_taxonomy_id: 302
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 968
-    name: Livro de Daniel
-    slug: livro-de-daniel
-    term_group: 0
-    term_taxonomy_id: 986
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 950
-    name: o Reino e a Igreja"
-    slug: o-reino-e-a-igreja
-    term_group: 0
-    term_taxonomy_id: 968
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/revelacao-maior-que-a-de-daniel
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-02-01 01:30:18
 ---
 Uma leitura atenta de Daniel 11.32-35 e 12.3-13 deixa em evidência alguns adjetivos com que o texto bíblico, apesar de partir das referências que a tradição da velha aliança e o momento histórico lhe permitiam, caracteriza, de maneira singular, o povo de Deus dos últimos dias: “conhecedores”, “sábios”, “entendidos”. A pouca ocorrência desses termos em outros livros parece apontar para um aspecto muito importante, e ao que tudo indica, reservado para assumir grande relevo no tempo presente. Vejamos.

@@ -1,37 +1,40 @@
 ---
 ID: 3917
 post_title: Construindo a casa do Senhor
-author:
-  - 
-    term_id: 879
-    name: Rosane Faria
-    slug: rosane-faria
-    term_group: 0
-    term_taxonomy_id: 893
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 913
-    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-    slug: >
-      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
-    term_group: 0
-    term_taxonomy_id: 928
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/construindo-casa-senhor
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-06 11:38:32
 ---
 <b>“Se o Senhor não edificar a casa, em vão trabalham os que a edificam” (Sl 127:1)</b>

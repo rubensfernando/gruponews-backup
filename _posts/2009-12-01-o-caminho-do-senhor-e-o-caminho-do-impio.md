@@ -3,135 +3,40 @@ ID: 120
 post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
-author:
-  - 
-    term_id: 877
-    name: Offini Franco
-    slug: offini-franco
-    term_group: 0
-    term_taxonomy_id: 891
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 88
-    name: Buscar
-    slug: buscar
-    term_group: 0
-    term_taxonomy_id: 89
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 180
-    name: Caminho
-    slug: caminho
-    term_group: 0
-    term_taxonomy_id: 183
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 168
-    name: Conversão
-    slug: conversao
-    term_group: 0
-    term_taxonomy_id: 171
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 179
-    name: Desobedecer
-    slug: desobedecer
-    term_group: 0
-    term_taxonomy_id: 182
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 181
-    name: Estreito
-    slug: estreito
-    term_group: 0
-    term_taxonomy_id: 184
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 184
-    name: Exortação
-    slug: exortacao
-    term_group: 0
-    term_taxonomy_id: 187
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 178
-    name: Ímpio
-    slug: impio
-    term_group: 0
-    term_taxonomy_id: 181
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 183
-    name: Largo
-    slug: largo
-    term_group: 0
-    term_taxonomy_id: 186
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 182
-    name: Testemunho
-    slug: testemunho
-    term_group: 0
-    term_taxonomy_id: 185
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-caminho-do-senhor-e-o-caminho-do-impio
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:46:44
 ---
 No livro do profeta Isaías lemos: “Buscai ao senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio os seu caminhos e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar. Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos” (Is 55:6-9).

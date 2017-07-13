@@ -1,47 +1,40 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author:
-  - 
-    term_id: 921
-    name: Adriana Marques
-    slug: adriana-marques
-    term_group: 0
-    term_taxonomy_id: 936
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-  - 
-    term_id: 915
-    name: testemunhos
-    slug: testemunhos
-    term_group: 0
-    term_taxonomy_id: 930
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/deus-cuida-de-mim
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2007-09-09 22:43:18
 ---
 No dia 11.04.07, fui à casa dos meus pais, que fica próxima ao estádio de futebol do Santa Cruz, um clube aqui de Recife. No retorno para minha casa, por volta das 20:00hs, por não saber que iria acontecer o jogo entre o Santa Cruz e o Sport, um clássico de torcidas pra lá de rivais, não desviei o caminho.

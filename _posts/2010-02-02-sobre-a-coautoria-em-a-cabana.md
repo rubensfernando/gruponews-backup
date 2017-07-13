@@ -1,14 +1,40 @@
 ---
 ID: 1474
 post_title: Sobre a coautoria em “A Cabana”
-author: ""
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/sobre-a-coautoria-em-a-cabana
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:15:52
 ---
 Depois de finalizar “Por que você não quer mais ir à igreja?”, envolvi-me com o livro “A cabana”, que é uma história que um amigo escreveu para os filhos dele. Ele me entregou os originais e apenas disse: “Espero que você tenha interesse em ler”. Eu amei as percepções da natureza do Pai que aquele livro me trouxe. Perguntei a William se podia publicar. “Não vou publicar, eu escrevi para os meus filhos”, ele respondeu. Além disso, ele não estava bem certo se valia a pena. Eu o fiz acreditar que valia muito a pena.

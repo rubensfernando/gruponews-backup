@@ -1,24 +1,39 @@
 ---
 ID: 723
 post_title: '“Comunhão nossa de cada dia” &#8211; Discernindo a comunhão'
-author: ""
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=723
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o segundo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler o anterior.</em></blockquote>
 É bem provável que nesta seção você leia algumas coisas abordadas de forma diferente de como são tratadas na literatura cristã em geral. Sem desmerecer a capacidade crítica de cada um, proponho que se não houver uma aceitação imediata, não a refute de pronto: antes, com paciência, considere o que está sendo exposto e vá guardando tudo até que cheguemos ao final da série. Muitas vezes, quando é difícil, de saída, compreender um pensamento de forma linear, no final podemos nos surpreender com a descoberta de um belo mosaico diante de nós, no qual pensamentos rejeitados isoladamente começam a se complementar mutuamente.

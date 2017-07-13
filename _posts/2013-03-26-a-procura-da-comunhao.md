@@ -1,47 +1,40 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author:
-  - 
-    term_id: 701
-    name: Cléucio Macedo
-    slug: cleucio-macedo
-    term_group: 0
-    term_taxonomy_id: 712
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 704
-    name: paulo roberto
-    slug: paulo-roberto
-    term_group: 0
-    term_taxonomy_id: 715
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 703
-    name: quais
-    slug: quais
-    term_group: 0
-    term_taxonomy_id: 714
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-procura-da-comunhao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-03-26 07:00:16
 ---
 O que é comunhão? De forma simples, responderei que comunhão é o relacionamento entre cristãos. Um dos versículos que exemplifica tal realidade é Atos 2.46:

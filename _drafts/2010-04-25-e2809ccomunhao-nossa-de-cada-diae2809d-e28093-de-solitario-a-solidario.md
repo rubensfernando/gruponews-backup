@@ -3,24 +3,39 @@ ID: 762
 post_title: >
   “Comunhão nossa de cada dia” – De
   solitário a solidário
-author: ""
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=762
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o quarto de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 No Velho Testamento, o ministério era exercido de forma solitária e com base no relacionamento pessoal entre Deus e o ministro. Um dos motivos para isso era o símile profético, no qual o comportamento do profeta representava o sentimento de Deus sobre a situação. Assim a solidão do profeta revelava a solidão de Deus com relação ao homem – que desde o pecado estava destituído da glória divina –, privando ambos da comunhão. Os ministérios típicos do Velho Testamento são os de profeta, sacerdote e rei, todos os quais tinham características absolutas, individuais e solitárias.

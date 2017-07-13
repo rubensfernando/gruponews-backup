@@ -1,14 +1,40 @@
 ---
 ID: 1055
 post_title: Conferência 2010
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2010
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-09-11 18:06:50
 ---
 Depois de recebermos Wolfgang Simson, em 2007, e refletirmos sobre as “casas que transformam o mundo”, e Wayne Jacobsen, em 2009, para o compartilhamento da experiência numa “jornada diária na presença e no amor do Pai”, neste ano de 2010, a fim de nos debruçarmos sobre o tema “Cristo, o Reino e a Igreja”, retornamos ao formato da Conferência de 2008, ocasião em que vários preletores expuseram suas inquietações e expectativas sobre “a Igreja de nosso tempo” (<a href="http://www.gruponews.com.br/conferencia2008/" target="_blank">clique aqui</a> para saber mais).

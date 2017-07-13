@@ -1,14 +1,40 @@
 ---
 ID: 993
 post_title: Ministrações
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2008/ministracoes
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-09-07 11:56:07
 ---
 <a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf" target="_blank"></a><a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf">Garry Fray - Segundo Jesus, o que precisamos mudar?</a>

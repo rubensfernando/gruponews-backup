@@ -1,135 +1,40 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
-author:
-  - 
-    term_id: 652
-    name: Renata Ribeiro Arruda
-    slug: renata-ribeiro-arruda
-    term_group: 0
-    term_taxonomy_id: 662
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 575
-    name: aslam
-    slug: aslam
-    term_group: 0
-    term_taxonomy_id: 582
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 587
-    name: cavalo
-    slug: cavalo
-    term_group: 0
-    term_taxonomy_id: 594
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 576
-    name: cronicas
-    slug: cronicas
-    term_group: 0
-    term_taxonomy_id: 583
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 86
-    name: Curiosidade
-    slug: curiosidade
-    term_group: 0
-    term_taxonomy_id: 87
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 577
-    name: filme
-    slug: filme
-    term_group: 0
-    term_taxonomy_id: 584
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 926
-    name: lewis
-    slug: lewis
-    term_group: 0
-    term_taxonomy_id: 941
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 256
-    name: Livro
-    slug: livro
-    term_group: 0
-    term_taxonomy_id: 259
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 588
-    name: menino
-    slug: menino
-    term_group: 0
-    term_taxonomy_id: 595
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 307
-    name: narnia
-    slug: narnia
-    term_group: 0
-    term_taxonomy_id: 310
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 931
-    name: O cavalo e seu menino
-    slug: o-cavalo-e-seu-menino
-    term_group: 0
-    term_taxonomy_id: 946
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-iii
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>

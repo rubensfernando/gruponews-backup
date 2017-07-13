@@ -1,25 +1,40 @@
 ---
 ID: 1885
 post_title: O milagre da visita
-author:
-  - 
-    term_id: 882
-    name: Pe. Inácio José do Vale
-    slug: pe-inacio-jose-do-vale
-    term_group: 0
-    term_taxonomy_id: 896
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-milagre-da-visita
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 18:58:01
 ---
 <em>“Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo.” (Lc 1.68)</em>

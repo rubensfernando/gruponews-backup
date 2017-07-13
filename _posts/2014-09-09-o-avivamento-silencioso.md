@@ -1,69 +1,40 @@
 ---
 ID: 4253
 post_title: O avivamento silencioso
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 990
-    name: aviamento
-    slug: aviamento
-    term_group: 0
-    term_taxonomy_id: 1008
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 987
-    name: edicao-79
-    slug: edicao-79
-    term_group: 0
-    term_taxonomy_id: 1005
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 986
-    name: editorial
-    slug: editorial
-    term_group: 0
-    term_taxonomy_id: 1004
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 991
-    name: pentecostal
-    slug: pentecostal
-    term_group: 0
-    term_taxonomy_id: 1009
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/o-avivamento-silencioso
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 14:09:35
 ---
 Jesus contou uma parábola (Mt 13.47-50) comparando o reino dos céus com uma rede que, lançada ao mar, apanha uma grande quantidade de peixes de toda espécie. Em seguida, os pescadores sentam na praia e separam os peixes, colocando os bons no cesto e atirando fora os ruins.

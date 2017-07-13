@@ -3,36 +3,40 @@ ID: 2872
 post_title: >
   Falando mais sobre os sofrimentos da
   criança
-author:
-  - 
-    term_id: 625
-    name: Juarez Gomes
-    slug: juarez-gomes
-    term_group: 0
-    term_taxonomy_id: 633
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 626
-    name: Maria de Carvalho Gomes
-    slug: maria-carvalho-gomes
-    term_group: 0
-    term_taxonomy_id: 634
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/falando-mais-sobre-os-sofrimentos-da-crianca
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-03-13 00:00:26
 ---
 <i>Este artigo é o quinto de uma série que discute alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>

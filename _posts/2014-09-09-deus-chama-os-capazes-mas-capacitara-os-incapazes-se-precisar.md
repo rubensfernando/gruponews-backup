@@ -3,36 +3,40 @@ ID: 4261
 post_title: >
   Deus chama os capazes, mas capacitará
   os incapazes se precisar
-author:
-  - 
-    term_id: 650
-    name: Ricardo Oliveira
-    slug: ricardo-oliveira
-    term_group: 0
-    term_taxonomy_id: 660
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-tags:
-  - 
-    term_id: 987
-    name: edicao-79
-    slug: edicao-79
-    term_group: 0
-    term_taxonomy_id: 1005
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 14:28:00
 ---
 “Deus não escolhe os capacitados; capacita os escolhidos.” Você provavelmente já deve ter ouvido essa frase pelo menos uma vez na sua vida. Geralmente é usada em momentos de superação, nos quais alguém que se julgava incapaz de fazer algo é alçado pela inspiração e poder divinos a cumprir com excelência uma determinada tarefa. Apesar da boa intenção, esta frase contém ao menos dois grandes equívocos, seja porque o autor, de fato, não entendia muito bem a natureza dos dons e aptidões humanas, seja porque uma eventual tradução não foi feliz.

@@ -1,146 +1,40 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
-author:
-  - 
-    term_id: 625
-    name: Juarez Gomes
-    slug: juarez-gomes
-    term_group: 0
-    term_taxonomy_id: 633
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 626
-    name: Maria de Carvalho Gomes
-    slug: maria-carvalho-gomes
-    term_group: 0
-    term_taxonomy_id: 634
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags:
-  - 
-    term_id: 554
-    name: Desquite
-    slug: desquite
-    term_group: 0
-    term_taxonomy_id: 561
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 550
-    name: Divórcio
-    slug: divorcio
-    term_group: 0
-    term_taxonomy_id: 557
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 555
-    name: Ex-cônjuges
-    slug: ex-conjuges
-    term_group: 0
-    term_taxonomy_id: 562
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 551
-    name: Familiares
-    slug: familiares
-    term_group: 0
-    term_taxonomy_id: 558
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 59
-    name: Filhos
-    slug: filhos
-    term_group: 0
-    term_taxonomy_id: 60
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 477
-    name: reino de Deus
-    slug: reino-de-deus
-    term_group: 0
-    term_taxonomy_id: 484
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 553
-    name: Separação
-    slug: separacao
-    term_group: 0
-    term_taxonomy_id: 560
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 556
-    name: União
-    slug: uniao
-    term_group: 0
-    term_taxonomy_id: 563
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 552
-    name: Vítima
-    slug: vitima
-    term_group: 0
-    term_taxonomy_id: 559
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 146
-    name: Vontade
-    slug: vontade
-    term_group: 0
-    term_taxonomy_id: 149
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-10-10 16:10:20
 ---
 Este artigo é o primeiro de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias se considerarmos também as separações conjugais de “uniões estáveis”. Em cada parte da nossa discussão estabeleceremos paralelos entre aquilo que o Novo Testamento registra a respeito, e os resultados da mais importante pesquisa dos últimos quarenta anos sobre o assunto. Trata-se do trabalho coordenado durante vinte anos pela norte-americana, Dra. Judith S. Wallerstein, que apresentou os dados de suas descobertas em várias obras. Utilizaremos o livro “<em>Sonhos e realidades no divórcio</em>”, escrito em parceria com Sandra Blakeslee, e publicado no Brasil pela Saraiva em 1991.

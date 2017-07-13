@@ -1,14 +1,40 @@
 ---
 ID: 4730
 post_title: 'Lista de Espera &#8211; Encontro de Mulheres'
-author: ""
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/encontro-de-mulheres-2016
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-09-04 23:42:13
 ---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1-K7hbN-9le-jauLrQyVMDsi5mUbgvGXJvm3NiMWLxTccxQ/viewform?embedded=true" width="100%" height="1350" frameborder="0" marginwidth="0" marginheight="0">Nos dias 22 e 23 de outubro acontecerá o encontro de mulheres. Tema: "Mulheres com Propósito no Reino de Deus".</iframe>

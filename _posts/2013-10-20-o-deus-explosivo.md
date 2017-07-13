@@ -1,36 +1,40 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
-author:
-  - 
-    term_id: 679
-    name: Darin Hufford
-    slug: darin-hufford
-    term_group: 0
-    term_taxonomy_id: 690
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 865
-    name: edicao-76
-    slug: edicao-76
-    term_group: 0
-    term_taxonomy_id: 879
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-deus-explosivo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-10-20 09:00:43
 ---
 <blockquote><i>Esta seção traz a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido recentemente para o português sob o título “Mais perto de Deus”, Ed. Sextante, 2012).</i></blockquote>

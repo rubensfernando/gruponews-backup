@@ -1,135 +1,40 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author:
-  - 
-    term_id: 630
-    name: Cristina Juliani
-    slug: cristina-juliani
-    term_group: 0
-    term_taxonomy_id: 638
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 163
-    name: Aceitar
-    slug: aceitar
-    term_group: 0
-    term_taxonomy_id: 166
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 104
-    name: Acreditar
-    slug: acreditar
-    term_group: 0
-    term_taxonomy_id: 107
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 122
-    name: Desanimado
-    slug: desanimado
-    term_group: 0
-    term_taxonomy_id: 125
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 103
-    name: Esperança
-    slug: esperanca
-    term_group: 0
-    term_taxonomy_id: 105
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 116
-    name: Graça
-    slug: graca
-    term_group: 0
-    term_taxonomy_id: 119
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 94
-    name: Misericórdia
-    slug: misericordia
-    term_group: 0
-    term_taxonomy_id: 95
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 121
-    name: Perdão
-    slug: perdao
-    term_group: 0
-    term_taxonomy_id: 124
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 124
-    name: Restauração
-    slug: restauracao
-    term_group: 0
-    term_taxonomy_id: 127
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/ano-aceitavel-do-senhor
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-28 17:50:34
 ---
 O mundo vive hoje uma crise econômica, social e financeira muito grande. Como nós, cristãos, podemos viver junto a tudo isso? Certamente que não estamos isentos dos problemas que atingem o mundo atual, mas cremos que nós podemos mudar a maneira de ver esses problemas, mudando nossa expectativa, nossa esperança e os nossos valores de vida. E confiar nas pessoas, então? Como está fácil nos decepcionarmos com alguém.

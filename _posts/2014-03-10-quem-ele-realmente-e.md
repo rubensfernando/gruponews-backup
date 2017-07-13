@@ -1,80 +1,40 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
-author:
-  - 
-    term_id: 679
-    name: Darin Hufford
-    slug: darin-hufford
-    term_group: 0
-    term_taxonomy_id: 690
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 160
-    name: Amor
-    slug: amor
-    term_group: 0
-    term_taxonomy_id: 163
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 305
-    name: deus
-    slug: deus
-    term_group: 0
-    term_taxonomy_id: 308
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 981
-    name: paciência
-    slug: paciencia
-    term_group: 0
-    term_taxonomy_id: 999
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 980
-    name: perfil
-    slug: perfil
-    term_group: 0
-    term_taxonomy_id: 998
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-03-10 09:01:18
 ---
 Certa noite, em meu escritório, eu estava deprimido pelo que vi naquela conferência (<a title="A mentira que falamos" href="http://www.gruponews.com.br/2013/10/a-mentira-que-falamos.html">ver parte 1</a>). Não podia me abalar, mas a maior parte das pessoas eram de minha congregação e estavam espiritualmente miseráveis. Algo precisava ser feito, mas o quê? Eu também estava miserável e abatido como todos eles.

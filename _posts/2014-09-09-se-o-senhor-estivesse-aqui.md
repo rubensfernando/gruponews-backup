@@ -1,36 +1,40 @@
 ---
 ID: 3954
 post_title: 'Se o Senhor estivesse aqui&#8230;'
-author:
-  - 
-    term_id: 632
-    name: Paulo Roberto da Silva
-    slug: paulo-roberto-da-silva
-    term_group: 0
-    term_taxonomy_id: 640
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-tags:
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/se-o-senhor-estivesse-aqui
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 22:49:40
 ---
 Num artigo anterior (“Procura-se um traidor” – Gruponews Jan/Fev-07), comentei que na época dos apóstolos havia uma vaga de traidor em aberto, a qual veio a ser a vaga número 1 depois da derrota de Satanás no deserto. Os apóstolos eram apertados por todos os lados para se “candidatarem” à vaga. O mundo evoluiu, novas posições surgiram, e a vaga de traidor perdeu um pouco sua importância. Hoje em dia a maior oferta de vagas está no segmento de apóstatas. É uma posição em franco crescimento, e cada dia que passa, os requisitos para concorrer a uma vaga são menores. O termo apóstata se aplica ao cristão que se esfriou, que se desviou da fé. A palavra apostasia significa ainda separação do corpo constituído (Corpo de Cristo) ao qual o indivíduo pertencia.

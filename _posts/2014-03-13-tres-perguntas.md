@@ -1,47 +1,40 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author:
-  - 
-    term_id: 891
-    name: Leon Tolstói
-    slug: leon-tolstoi
-    term_group: 0
-    term_taxonomy_id: 905
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/tres-perguntas
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-03-13 23:56:07
 ---
 Certa vez, ocorreu a um imperador que, se soubesse responder apenas às seguintes perguntas, nada jamais o afastaria do caminho justo: Qual é o melhor momento para qualquer coisa? Quais são as pessoas mais importantes em qualquer trabalho? Qual é a coisa mais importante a fazer em qualquer momento?

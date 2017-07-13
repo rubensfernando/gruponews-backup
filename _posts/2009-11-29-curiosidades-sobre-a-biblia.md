@@ -1,146 +1,40 @@
 ---
 ID: 156
 post_title: Curiosidades sobre a Bíblia
-author:
-  - 
-    term_id: 629
-    name: Sociedade Bíblica do Brasil
-    slug: sociedade-biblica-do-brasil
-    term_group: 0
-    term_taxonomy_id: 637
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 251
-    name: Almeida
-    slug: almeida
-    term_group: 0
-    term_taxonomy_id: 254
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 250
-    name: Bíblia
-    slug: biblia
-    term_group: 0
-    term_taxonomy_id: 253
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 253
-    name: Capítulos
-    slug: capitulos
-    term_group: 0
-    term_taxonomy_id: 256
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 86
-    name: Curiosidade
-    slug: curiosidade
-    term_group: 0
-    term_taxonomy_id: 87
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 254
-    name: Escreveu
-    slug: escreveu
-    term_group: 0
-    term_taxonomy_id: 257
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 258
-    name: Inspirados
-    slug: inspirados
-    term_group: 0
-    term_taxonomy_id: 261
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 256
-    name: Livro
-    slug: livro
-    term_group: 0
-    term_taxonomy_id: 259
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 57
-    name: Palavra
-    slug: palavra
-    term_group: 0
-    term_taxonomy_id: 58
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 255
-    name: Testamento
-    slug: testamento
-    term_group: 0
-    term_taxonomy_id: 258
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 252
-    name: Tradução
-    slug: traducao
-    term_group: 0
-    term_taxonomy_id: 255
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 257
-    name: Versículos
-    slug: versiculos
-    term_group: 0
-    term_taxonomy_id: 260
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/curiosidades-sobre-a-biblia
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

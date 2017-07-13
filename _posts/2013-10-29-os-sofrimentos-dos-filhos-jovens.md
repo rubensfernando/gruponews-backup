@@ -1,91 +1,40 @@
 ---
 ID: 3408
 post_title: Os sofrimentos dos filhos jovens
-author:
-  - 
-    term_id: 625
-    name: Juarez Gomes
-    slug: juarez-gomes
-    term_group: 0
-    term_taxonomy_id: 633
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 626
-    name: Maria de Carvalho Gomes
-    slug: maria-carvalho-gomes
-    term_group: 0
-    term_taxonomy_id: 634
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags:
-  - 
-    term_id: 550
-    name: Divórcio
-    slug: divorcio
-    term_group: 0
-    term_taxonomy_id: 557
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 865
-    name: edicao-76
-    slug: edicao-76
-    term_group: 0
-    term_taxonomy_id: 879
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 1003
-    name: Família
-    slug: familia-materias
-    term_group: 0
-    term_taxonomy_id: 33
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 355
-    name: jovem
-    slug: jovem
-    term_group: 0
-    term_taxonomy_id: 358
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 974
-    name: problemas
-    slug: problemas
-    term_group: 0
-    term_taxonomy_id: 992
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/os-sofrimentos-dos-filhos-jovens
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-10-29 07:00:16
 ---
 <i>Este artigo é o sétimo de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>

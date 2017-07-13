@@ -3,47 +3,40 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-author:
-  - 
-    term_id: 920
-    name: Alexandre Rangel
-    slug: alexandre-rangel
-    term_group: 0
-    term_taxonomy_id: 935
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-  - 
-    term_id: 919
-    name: QUEM TEM OUVIDOS PARA OUVIR... OUÇA!
-    slug: quem-tem-ouvidos-para-ouvir-ouca
-    term_group: 0
-    term_taxonomy_id: 934
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 22:54:40
 ---
 Contam que certa vez duas moscas caíram num copo de leite. A primeira era forte e valente. Assim, logo ao cair, nadou até a borda do copo. Mas como a superfície era muito lisa, e ela tinha as asas bastante molhadas, não conseguiu sair do copo. Acreditando que não havia jeito, a mosca desanimou, parou de nadar e de se debater e afundou.

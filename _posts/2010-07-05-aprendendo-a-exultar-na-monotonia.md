@@ -1,25 +1,40 @@
 ---
 ID: 3228
 post_title: Aprendendo a exultar na monotonia
-author:
-  - 
-    term_id: 652
-    name: Renata Ribeiro Arruda
-    slug: renata-ribeiro-arruda
-    term_group: 0
-    term_taxonomy_id: 662
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/aprendendo-a-exultar-na-monotonia
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-05 15:13:07
 ---
 Eu adoro as crianças, elas parecem ter uma energia, um sorriso, uma paciência que ainda não foram corrompidos pelo senso de <i>adultice</i>. Talvez por isso eu queira ter filhos logo e também por isso me sinta um pouco madrinha das minhas primas mais novas, Miriã e Mirella, pelas quais demonstro grande e notável apego.

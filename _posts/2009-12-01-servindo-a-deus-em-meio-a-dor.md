@@ -1,135 +1,40 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-author:
-  - 
-    term_id: 706
-    name: Letícia França
-    slug: leticia-franca
-    term_group: 0
-    term_taxonomy_id: 717
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 104
-    name: Acreditar
-    slug: acreditar
-    term_group: 0
-    term_taxonomy_id: 107
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 155
-    name: Alegria
-    slug: alegria
-    term_group: 0
-    term_taxonomy_id: 158
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 201
-    name: Dor
-    slug: dor
-    term_group: 0
-    term_taxonomy_id: 204
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 205
-    name: Envergonhado
-    slug: envergonhado
-    term_group: 0
-    term_taxonomy_id: 208
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 203
-    name: Obedecer
-    slug: obedecer
-    term_group: 0
-    term_taxonomy_id: 206
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 129
-    name: Pecado
-    slug: pecado
-    term_group: 0
-    term_taxonomy_id: 132
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 204
-    name: Provação
-    slug: provacao
-    term_group: 0
-    term_taxonomy_id: 207
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 42
-    name: Servir
-    slug: servir
-    term_group: 0
-    term_taxonomy_id: 43
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 202
-    name: Suportar
-    slug: suportar
-    term_group: 0
-    term_taxonomy_id: 205
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 206
-    name: Tristeza
-    slug: tristeza
-    term_group: 0
-    term_taxonomy_id: 209
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/servindo-a-deus-em-meio-a-dor
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:17:07
 ---
 A dor, as lutas, os problemas, as doenças, a perda nos fazem dependentes de Deus. Estas situações nos confrontam e nos obrigam a enxergarmos espiritualmente cada situação e percebermos a nossa fragilidade, a nossa necessidade de Deus e o quanto precisamos do seu perdão. Pedro, Jó e José nos trazem grandes ensinamentos através de suas lutas e vitórias:

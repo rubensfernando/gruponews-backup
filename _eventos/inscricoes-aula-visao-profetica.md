@@ -3,25 +3,40 @@ ID: 3519
 post_title: >
   Inscrições para a aula Visão
   Profética
-author:
-  - 
-    term_id: 884
-    name: Equipe CPP Modular
-    slug: equipe-cpp-modular
-    term_group: 0
-    term_taxonomy_id: 898
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricoes-aula-visao-profetica
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-10-25 17:47:20
 ---
 Inscreva-se para participar das aulas Visão Profética do CPP Modular Barueri. Serão duas aulas nos dias 2 e 23 de novembro, das 9h as 12h.

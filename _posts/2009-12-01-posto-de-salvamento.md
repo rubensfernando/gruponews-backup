@@ -1,135 +1,40 @@
 ---
 ID: 169
 post_title: Posto de Salvamento
-author:
-  - 
-    term_id: 718
-    name: Paulo Roberto Silva
-    slug: paulo-roberto-silva
-    term_group: 0
-    term_taxonomy_id: 729
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 274
-    name: Afogado
-    slug: afogado
-    term_group: 0
-    term_taxonomy_id: 277
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 278
-    name: Barco
-    slug: barco
-    term_group: 0
-    term_taxonomy_id: 281
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 276
-    name: Ilha
-    slug: ilha
-    term_group: 0
-    term_taxonomy_id: 279
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 275
-    name: Livramento
-    slug: livramento
-    term_group: 0
-    term_taxonomy_id: 278
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 273
-    name: Naufrágio
-    slug: naufragio
-    term_group: 0
-    term_taxonomy_id: 276
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 272
-    name: Posto
-    slug: posto
-    term_group: 0
-    term_taxonomy_id: 275
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 279
-    name: Socorro
-    slug: socorro
-    term_group: 0
-    term_taxonomy_id: 282
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 277
-    name: Tripulação
-    slug: tripulacao
-    term_group: 0
-    term_taxonomy_id: 280
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/posto-de-salvamento
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:05:55
 ---
 Evangelismo é ou não a nossa vocação? Será que com o passar dos anos nós “terceirizamos” este trabalho? Ou será que estamos tão ocupados em realizar nosso trabalho na Igreja que não temos tempo para falar de Jesus a outras vidas? Hoje não é incomum nos depararmos com uma pessoa que não conhece a Jesus e falarmos: Para conhecer a Jesus você tem que ir a um Encontro de Evangelismo. Não que esses eventos não sejam abençoados e cheios da presença de Deus, mas e a nossa participação? Qual tem sido sua participação quando o tema é evangelizar vidas? Abaixo, um texto para sua reflexão.

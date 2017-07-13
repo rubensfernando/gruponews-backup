@@ -3,80 +3,40 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
-author:
-  - 
-    term_id: 858
-    name: Marina Venuto Silva
-    slug: marina-venuto-silva
-    term_group: 0
-    term_taxonomy_id: 872
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 837
-    name: cordas
-    slug: cordas
-    term_group: 0
-    term_taxonomy_id: 850
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 839
-    name: eddo
-    slug: eddo
-    term_group: 0
-    term_taxonomy_id: 852
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 832
-    name: onde est
-    slug: onde-est
-    term_group: 0
-    term_taxonomy_id: 845
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 836
-    name: princ
-    slug: princ
-    term_group: 0
-    term_taxonomy_id: 849
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 838
-    name: trindade
-    slug: trindade
-    term_group: 0
-    term_taxonomy_id: 851
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/onde-estas
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-04-29 19:51:20
 ---
 No princípio, Deus amou. Por causa do Seu amor, Ele criou. No livro de Gênesis, Deus lança diversas afirmações comparadas ao som de uma orquestra. “Haja luz” (Gn. 1:3) foi a primeira afirmativa e, como uma nota musical, soou das cordas vocais do Criador em direção a terra. Logo em seguida, Deus ordenou: “haja uma expansão no meio das águas” (Gn. 1:6), e a melodia apressou-se em obedecer a ordem divina, separando águas e águas.

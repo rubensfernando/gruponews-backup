@@ -3,39 +3,40 @@ ID: 3893
 post_title: >
   Em busca da perfeita varonilidade de
   Cristo
-author:
-  - 
-    term_id: 914
-    name: Ismael de Oliveira
-    slug: ismael-de-oliveira
-    term_group: 0
-    term_taxonomy_id: 929
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/em-busca-da-perfeita-varonilidade-de-cristo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 16:25:24
 ---
 Eu gostaria de ler alguns versículos com os irmãos. Se vocês quiserem acompanhar, eles estão em Efésios 4. Os versículos 3 e 4, de Efésios 4, dizem assim: “esforçando-vos diligentemente por preservar a unidade do Espírito no vínculo da paz; há somente um corpo e um Espírito, como também fostes chamados numa só esperança da vossa vocação; há um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos, o qual é sobre todos, age por meio de todos e está em todos”. Agora os versículos 13 até o 16: “até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, à perfeita varonilidade, à medida da estatura da plenitude de Cristo, para que não mais sejamos como meninos, agitados de um lado para outro e levados ao redor por todo vento de doutrina, pela artimanha dos homens, pela astúcia com que induzem ao erro. Mas, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo, de quem todo o corpo, bem ajustado e consolidado pelo auxílio de toda junta, segundo a justa cooperação de cada parte, efetua o seu próprio aumento para a edificação de si mesmo em amor”.

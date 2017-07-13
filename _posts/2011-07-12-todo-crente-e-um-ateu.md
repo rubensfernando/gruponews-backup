@@ -1,25 +1,40 @@
 ---
 ID: 1947
 post_title: Todo crente é um ateu
-author:
-  - 
-    term_id: 658
-    name: Nuno Tovar de Lemos
-    slug: nuno-tovar-de-lemos
-    term_group: 0
-    term_taxonomy_id: 669
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/todo-crente-e-um-ateu
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 19:05:19
 ---
 Tem-me acontecido frequentemente – conversando com alguém que se diz ateu – sentir-me de imediato numa total e sincera sintonia de pontos de vista com essa pessoa. O Deus que ele rejeita e afirma não poder existir, também eu rejeito e julgo sinceramente que não pode existir.

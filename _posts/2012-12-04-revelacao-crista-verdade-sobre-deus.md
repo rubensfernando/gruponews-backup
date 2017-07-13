@@ -3,25 +3,40 @@ ID: 2107
 post_title: >
   A revelação cristã e a verdade sobre
   Deus
-author:
-  - 
-    term_id: 658
-    name: Nuno Tovar de Lemos
-    slug: nuno-tovar-de-lemos
-    term_group: 0
-    term_taxonomy_id: 669
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/revelacao-crista-verdade-sobre-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-12-04 23:47:16
 ---
 Há tempos alguém me perguntou (seguindo a sugestão de um filme que tinha visto) se Deus não seria um ser sádico que nos criou para se divertir conosco e assim calar a sua solidão. Como responder? Não adiantará muito, talvez, contra-argumentar que Deus é bom. Essa pessoa encontrará vários exemplos para insistir que Deus é sádico.

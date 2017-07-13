@@ -1,36 +1,40 @@
 ---
 ID: 2864
 post_title: Que virá a ser este menino?
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 905
-    name: edicao-73
-    slug: edicao-73
-    term_group: 0
-    term_taxonomy_id: 920
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/que-vira-a-ser-este-menino
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-01-20 19:22:52
 ---
 Os acontecimentos que cercaram o nascimento de João Batista produziram, onde quer que foram divulgados, um misto de temor e expectativa no coração dos ouvintes. Estes, admirados, perguntavam: “Que virá a ser, pois, este menino?” (Lc 1.66). O sacerdote Zacarias, pai de João, tinha a resposta. Tendo ficado mudo durante os nove meses de gestação do filho em razão de uma ação sobrenatural de Deus, pôde refletir bastante sobre o significado da promessa que recebera por meio do anjo Gabriel quando, ao cumprir o ofício sacerdotal, queimava incenso ao Senhor.

@@ -3,48 +3,40 @@ ID: 3922
 post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
-author: ""
-tags:
-  - 
-    term_id: 913
-    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-    slug: >
-      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
-    term_group: 0
-    term_taxonomy_id: 928
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-  - 
-    term_id: 915
-    name: testemunhos
-    slug: testemunhos
-    term_group: 0
-    term_taxonomy_id: 930
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2007-07-06 11:38:25
 ---
 <h2>Costurando as redes de comunhão em amor</h2>

@@ -1,124 +1,40 @@
 ---
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
-author:
-  - 
-    term_id: 652
-    name: Renata Ribeiro Arruda
-    slug: renata-ribeiro-arruda
-    term_group: 0
-    term_taxonomy_id: 662
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 575
-    name: aslam
-    slug: aslam
-    term_group: 0
-    term_taxonomy_id: 582
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 574
-    name: C.S. Lewis
-    slug: cslewis
-    term_group: 0
-    term_taxonomy_id: 581
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 576
-    name: cronicas
-    slug: cronicas
-    term_group: 0
-    term_taxonomy_id: 583
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 86
-    name: Curiosidade
-    slug: curiosidade
-    term_group: 0
-    term_taxonomy_id: 87
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 577
-    name: filme
-    slug: filme
-    term_group: 0
-    term_taxonomy_id: 584
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 256
-    name: Livro
-    slug: livro
-    term_group: 0
-    term_taxonomy_id: 259
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 573
-    name: mago
-    slug: mago
-    term_group: 0
-    term_taxonomy_id: 580
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 307
-    name: narnia
-    slug: narnia
-    term_group: 0
-    term_taxonomy_id: 310
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 572
-    name: sobrinho
-    slug: sobrinho
-    term_group: 0
-    term_taxonomy_id: 579
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/narnia-parte-i
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

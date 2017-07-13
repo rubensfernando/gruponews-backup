@@ -1,25 +1,40 @@
 ---
 ID: 1482
 post_title: Vivendo como filhos amados de Aba
-author:
-  - 
-    term_id: 336
-    name: Wayne Jacobsen
-    slug: wayne-jacobsen
-    term_group: 0
-    term_taxonomy_id: 649
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/vivendo-como-filhos-amados-de-aba
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:25:11
 ---
 A melhor apresentação do evangelho que já ouvi veio da boca de um ateu. Isso talvez surpreenda a muitos, como,  à ocasião, aconteceu comigo. Há cinco anos, tomei um avião em Los Angeles com destino a Pittsburg. Sentei-me perto de um homem que trazia uma revista secular cuja capa anunciava a história sobre o conflito entre cristãos e a política nos Estados Unidos. Na primeira oportunidade, perguntei se poderia ler assim que ele tivesse terminado. Depois de certificar-se do meu interesse pelo artigo, disparou: “Eu odeio vocês, cristãos”. Eu nem havia dito a ele que era cristão, e ele já me odiava. “Por quê?”, eu quis saber. Ele demonstrou ressentimento pelo fato de, em sua opinião, os cristãos quererem forçar as outras pessoas a viverem de acordo com as crenças deles.

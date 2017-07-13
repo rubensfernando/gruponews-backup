@@ -1,80 +1,40 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author:
-  - 
-    term_id: 890
-    name: Pr. Rui Luis Rodrigues
-    slug: pr-rui-luis-rodrigues
-    term_group: 0
-    term_taxonomy_id: 904
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 445
-    name: Comunidade
-    slug: comunidade
-    term_group: 0
-    term_taxonomy_id: 451
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 973
-    name: experiência
-    slug: experiencia
-    term_group: 0
-    term_taxonomy_id: 991
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 185
-    name: Milagre
-    slug: milagre
-    term_group: 0
-    term_taxonomy_id: 188
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 321
-    name: presença
-    slug: presenca
-    term_group: 0
-    term_taxonomy_id: 324
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/celebracao-de-uma-presenca
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-03-21 00:04:32
 ---
 Dois homens estão a caminho de uma aldeia chamada Emaús. Carregam no peito uma tristeza muito nossa conhecida: a tristeza da desilusão, dos sonhos desfeitos, das esperanças destroçadas.

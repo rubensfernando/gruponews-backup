@@ -4,57 +4,39 @@ post_title: >
   “Comunhão nossa de cada dia” –
   Comunhão e oração como resposta à
   vontade de Deus
-author: ""
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 55
-    name: Monólogo
-    slug: monologo
-    term_group: 0
-    term_taxonomy_id: 56
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 48
-    name: Oração
-    slug: oracao
-    term_group: 0
-    term_taxonomy_id: 49
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 477
-    name: reino de Deus
-    slug: reino-de-deus
-    term_group: 0
-    term_taxonomy_id: 484
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=869
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o nono de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 Quando definimos a oração apenas como “<em>falar</em> com Deus”, somos induzidos ao equívoco de pensar que a iniciativa de orar parte do homem, e que cabe a Deus responder agindo em favor do suplicante. Dessa maneira, a oração restringe-se a um instrumento para satisfazer as necessidades humanas ainda que variando de forma: a sós, fechado num aposento, em reunião com outros, em jejum, sobre montes, nas madrugadas, em vigílias e campanhas.

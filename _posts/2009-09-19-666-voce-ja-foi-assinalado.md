@@ -1,135 +1,40 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 74
-    name: Anticristo
-    slug: anticristo
-    term_group: 0
-    term_taxonomy_id: 75
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 939
-    name: Apocalipse
-    slug: apocalipse
-    term_group: 0
-    term_taxonomy_id: 956
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 76
-    name: Assinalar
-    slug: assinalar
-    term_group: 0
-    term_taxonomy_id: 77
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 78
-    name: Decisão
-    slug: decisao
-    term_group: 0
-    term_taxonomy_id: 79
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 39
-    name: Dinheiro
-    slug: dinheiro
-    term_group: 0
-    term_taxonomy_id: 40
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 77
-    name: Mão
-    slug: mao
-    term_group: 0
-    term_taxonomy_id: 78
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 940
-    name: Marca da besta
-    slug: marca-da-besta
-    term_group: 0
-    term_taxonomy_id: 957
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 75
-    name: Mentira
-    slug: mentira
-    term_group: 0
-    term_taxonomy_id: 76
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 73
-    name: Nome
-    slug: nome
-    term_group: 0
-    term_taxonomy_id: 74
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 79
-    name: Sistema
-    slug: sistema
-    term_group: 0
-    term_taxonomy_id: 80
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/666-voce-ja-foi-assinalado
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-09-19 14:57:56
 ---
 “A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)

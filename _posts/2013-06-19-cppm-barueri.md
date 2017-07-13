@@ -3,102 +3,40 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 786
-    name: aulas
-    slug: aulas
-    term_group: 0
-    term_taxonomy_id: 797
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 381
-    name: Barueri
-    slug: barueri
-    term_group: 0
-    term_taxonomy_id: 385
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 370
-    name: Curso
-    slug: curso
-    term_group: 0
-    term_taxonomy_id: 374
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 261
-    name: Evangelho
-    slug: evangelho
-    term_group: 0
-    term_taxonomy_id: 264
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 862
-    name: profecia
-    slug: profecia
-    term_group: 0
-    term_taxonomy_id: 876
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 464
-    name: profético
-    slug: profetico
-    term_group: 0
-    term_taxonomy_id: 471
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/cppm-barueri
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-06-19 00:00:32
 ---
 Para quem não tem disponibilidade de dedicar 1 ano para cursar o <a title="Curso de Preparação Profética - Monte Mor" href="http://www.cppmontemor.com.br/" target="_blank">Curso de Preparação Profética</a>&nbsp;(CPP) integral em Monte Mor, em fevereiro de 2013 foi aberta uma turma de CPP Modular em Sumaré para alcançar a pessoas da região de Campinas e Americana.

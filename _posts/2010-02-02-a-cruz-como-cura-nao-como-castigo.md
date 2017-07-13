@@ -1,25 +1,40 @@
 ---
 ID: 1489
 post_title: A cruz como cura, não como castigo
-author:
-  - 
-    term_id: 336
-    name: Wayne Jacobsen
-    slug: wayne-jacobsen
-    term_group: 0
-    term_taxonomy_id: 649
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-cruz-como-cura-nao-como-castigo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:35:49
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia; min-height: 12.0px} p.p3 {margin: 0.0px 0.0px 0.0px 14.1px; text-align: justify; font: 10.5px Georgia} -->Eis o que tem sido ensinado sobre a cruz por toda a história do cristianismo: uma vez que os nossos pecados ofenderam sua santidade, Deus precisa necessariamente castigar alguém. Mas ele tem um grande plano: punir o seu filho em nosso lugar. Se esta é a única chance que temos para sermos amigos de Deus, o que esta solução nos diz sobre ele?

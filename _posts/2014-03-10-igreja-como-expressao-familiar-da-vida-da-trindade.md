@@ -3,36 +3,40 @@ ID: 3593
 post_title: >
   A igreja como expressão familiar da
   vida da trindade
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/igreja-como-expressao-familiar-da-vida-da-trindade
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-03-10 09:01:20
 ---
 O cristianismo precisa ter uma expressão diante da sociedade. É fato que a Igreja foi capturada pela religião e tornou-se sua refém. Entretanto esta realidade não é irreversível nem soberana para que os cristãos que se conscientizaram disso fiquem numa posição de passividade, sem nada demonstrar à sociedade que está satisfeita com uma igreja amoldada a sua cultura contemporânea.

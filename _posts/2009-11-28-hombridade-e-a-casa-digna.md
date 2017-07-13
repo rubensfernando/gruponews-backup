@@ -1,135 +1,40 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 33
-    name: Credibilidade
-    slug: credibilidade
-    term_group: 0
-    term_taxonomy_id: 34
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 32
-    name: Digna
-    slug: digna
-    term_group: 0
-    term_taxonomy_id: 32
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1003
-    name: Família
-    slug: familia-materias
-    term_group: 0
-    term_taxonomy_id: 33
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 31
-    name: Hombridade
-    slug: hombridade
-    term_group: 0
-    term_taxonomy_id: 31
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 34
-    name: Homem
-    slug: homem
-    term_group: 0
-    term_taxonomy_id: 35
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 36
-    name: Hospitaleira
-    slug: hospitaleira
-    term_group: 0
-    term_taxonomy_id: 37
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 35
-    name: Influência
-    slug: influencia
-    term_group: 0
-    term_taxonomy_id: 36
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 37
-    name: Pastoreio
-    slug: pastoreio
-    term_group: 0
-    term_taxonomy_id: 38
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 38
-    name: Prestígio
-    slug: prestigio
-    term_group: 0
-    term_taxonomy_id: 39
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/hombridade-e-a-casa-digna
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-11-28 16:44:05
 ---
 Mt.9:35-10:42; At.13 e 14; I Tm.3:1-13; Tt.2:10

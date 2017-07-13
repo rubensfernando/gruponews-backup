@@ -1,58 +1,40 @@
 ---
 ID: 3627
 post_title: A coletivização do dom
-author: ""
-tags:
-  - 
-    term_id: 245
-    name: Coletivo
-    slug: coletivo
-    term_group: 0
-    term_taxonomy_id: 248
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 463
-    name: dom
-    slug: dom
-    term_group: 0
-    term_taxonomy_id: 470
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 893
-    name: edicao-77
-    slug: edicao-77
-    term_group: 0
-    term_taxonomy_id: 907
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/coletivizacao-dom
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-02-07 15:20:18
 ---
 Nas Olimpíadas de 2012, o Brasil trouxe para casa 17 medalhas, sendo 3 de ouro, 5 de prata e 9 de bronze. No ranking geral, permaneceu em 22º lugar, atrás da Coreia do Sul, país cujo território é cerca de 85 vezes menor e cuja população corresponde a um terço da nossa. Você já se perguntou qual é o motivo de um país tão grande, como é o Brasil, ficar atrás de um país tão pequeno, como a Coreia do Sul, em praticamente todas as edições dos jogos olímpicos? A principal palavra da resposta é <b>incentivo</b>.

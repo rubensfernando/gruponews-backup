@@ -3,136 +3,40 @@ ID: 413
 post_title: >
   15 teses sobre a reencarnação da
   igreja
-author:
-  - 
-    term_id: 331
-    name: Wolfgang Simson
-    slug: wolfgang-simson
-    term_group: 0
-    term_taxonomy_id: 666
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 30
-    name: Casa
-    slug: casa
-    term_group: 0
-    term_taxonomy_id: 30
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 913
-    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-    slug: >
-      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
-    term_group: 0
-    term_taxonomy_id: 928
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 328
-    name: Lar
-    slug: lar
-    term_group: 0
-    term_taxonomy_id: 331
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 226
-    name: Lares
-    slug: lares
-    term_group: 0
-    term_taxonomy_id: 229
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 334
-    name: reencarnação
-    slug: reencarnacao
-    term_group: 0
-    term_taxonomy_id: 337
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 333
-    name: reencarnar
-    slug: reencarnar
-    term_group: 0
-    term_taxonomy_id: 336
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 330
-    name: Simson
-    slug: simson
-    term_group: 0
-    term_taxonomy_id: 333
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 329
-    name: Wolfgang
-    slug: wolfgang
-    term_group: 0
-    term_taxonomy_id: 332
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 1008
-    name: Wolfgang Simson
-    slug: wolfgang-simson
-    term_group: 0
-    term_taxonomy_id: 334
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-04 23:40:39
 ---
 Deus transforma a igreja e isso, por sua vez, transformará o mundo. Milhões de cristãos em todo o mundo sentem que uma nova e surpreendente Reforma está se aproximando. Afirmam: “A igreja como a conhecemos impede uma igreja como Deus a quer”. É admirável o grande número de cristãos que parece perceber que Deus está tentando dizer-lhes a mesma coisa. Desse modo forma-se uma nova consciência coletiva para uma revelação existente há milênios, um eco espiritual coletivo.

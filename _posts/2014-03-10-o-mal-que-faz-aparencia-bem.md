@@ -1,80 +1,40 @@
 ---
 ID: 3590
 post_title: O mal que faz a aparência do bem
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 975
-    name: bem e mal
-    slug: bem-e-mal
-    term_group: 0
-    term_taxonomy_id: 993
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 889
-    name: edicao-75
-    slug: edicao-75
-    term_group: 0
-    term_taxonomy_id: 903
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 977
-    name: inocência
-    slug: inocencia
-    term_group: 0
-    term_taxonomy_id: 995
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 976
-    name: intergridade
-    slug: intergridade
-    term_group: 0
-    term_taxonomy_id: 994
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 367
-    name: paternidade
-    slug: paternidade
-    term_group: 0
-    term_taxonomy_id: 371
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-mal-que-faz-aparencia-bem
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-03-10 09:01:20
 ---
 Jesus forneceu, entre outros, um aspecto inconfundível que distingue os filhos de Deus, mesmo daqueles que exteriormente procuram imitá-los: ao contrário dos servos, os filhos ficam na casa para sempre (Jo 8.35). Antes, porém, é necessário que o Filho os liberte, introduzindo-os na comunhão de seu Pai, sem o que não gozarão da peculiar intimidade da casa (v.36).

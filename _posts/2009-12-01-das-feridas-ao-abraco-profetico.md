@@ -1,135 +1,40 @@
 ---
 ID: 97
 post_title: Das Feridas ao Abraço Profético
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 101
-    name: Atitude
-    slug: atitude
-    term_group: 0
-    term_taxonomy_id: 103
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 145
-    name: Conviver
-    slug: conviver
-    term_group: 0
-    term_taxonomy_id: 148
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 140
-    name: Coragem
-    slug: coragem
-    term_group: 0
-    term_taxonomy_id: 143
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 143
-    name: Cura
-    slug: cura
-    term_group: 0
-    term_taxonomy_id: 146
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 1003
-    name: Família
-    slug: familia-materias
-    term_group: 0
-    term_taxonomy_id: 33
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 142
-    name: Ferida
-    slug: ferida
-    term_group: 0
-    term_taxonomy_id: 145
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 124
-    name: Restauração
-    slug: restauracao
-    term_group: 0
-    term_taxonomy_id: 127
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 144
-    name: Situações
-    slug: situacoes
-    term_group: 0
-    term_taxonomy_id: 147
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 141
-    name: Unidade
-    slug: unidade
-    term_group: 0
-    term_taxonomy_id: 144
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 139
-    name: Visão
-    slug: visao
-    term_group: 0
-    term_taxonomy_id: 142
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/das-feridas-ao-abraco-profetico
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:20:12
 ---
 Feridas são feridas sempre, mas quando abertas em família, elas têm um poder de latejamento insuportável. Se não são extirpadas até a raiz, com o tempo, elas causam infecção generalizada e comprometem seriamente o processo reversivo de cura naqueles que sofreram as machucaduras. Recuperar-se, por exemplo, de uma humilhação imposta pelo patrão ou pelo colega de trabalho é menos difícil do que desenvolver uma boa auto-estima após ser vítima da frieza dos pais ou do desprezo dos irmãos. Isso é tão verdade, que existem pessoas amarguradíssimas e incapazes de perdoarem a si mesmas porque vergam diante do peso esmagador de uma auto-cobrança que as faz se sentirem sempre aquém das expectativas, com um sentimento de que poderiam ter feito mais ou melhor. Dentro dos lares, há um sem número de pessoas culpadas, complexadas, diminuídas. Há um outro tanto carregando ódio mortal, esperando pelo dia de dar o troco. Há gente que não agüentou mais a pressão de ter que dormir no mesmo quarto, sentar à mesma mesa, assistir à mesma televisão e se mandou. Há gente que arrumou um casamento para se ver livre da atmosfera do lar. Há gente que começou a se meter em muitos caminhos escuros aqui fora para ver se chamava a atenção de alguém lá dentro. Há muita gente errando bastante dentro do lar, mas num quase desespero para ser melhor. Mas há também, e com tristeza o digo, gente que desistiu de lutar e adotou a postura da hipocrisia, do cinismo e da indiferença. E, essa última, tem sido a grande tragédia de muitas famílias.

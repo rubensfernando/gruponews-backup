@@ -1,36 +1,40 @@
 ---
 ID: 3951
 post_title: Protegendo as sementes de Deus
-author:
-  - 
-    term_id: 622
-    name: Ezequiel Netto
-    slug: ezequiel-netto
-    term_group: 0
-    term_taxonomy_id: 630
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
-tags:
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/protegendo-sementes-de-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 22:31:23
 ---
 <i>“Vejo que Deus tem uma grande obra para você e sua família”</i>. Alegramo-nos no momento, mas o tempo passa, passa, passa e nada acontece. <i>“Deus está trazendo muita alegria sobre sua vida”</i>. O tempo vai passando, e vivemos três longos anos de tristezas e decepções pela frente. Quem nunca viveu uma experiência assim? Por algum tempo venho tentando entender esse processo de frustração profética, e tenho meditado ultimamente na estratégia de Satanás em roubar ou causar danos às sementes plantadas por Deus. As parábolas do joio (Mt 13.24-30,37-40) e do semeador (Lc 8.4-15) ilustram bem esse fato, em que a semente de Deus (que pode ser uma palavra profética, os filhos do reino, um ministério, toda uma congregação etc.) é pisada, roubada, ressecada pelo sol e falta de umidade, sufocada (deixo para os pregadores trazerem uma mensagem sobre o significado de cada agressão dessas em nossas vidas, pois não caberia nesse artigo).

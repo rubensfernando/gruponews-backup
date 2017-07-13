@@ -1,135 +1,40 @@
 ---
 ID: 129
 post_title: Secularização na igreja
-author:
-  - 
-    term_id: 717
-    name: Wailton de Carvalho
-    slug: wailton-de-carvalho
-    term_group: 0
-    term_taxonomy_id: 728
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 163
-    name: Aceitar
-    slug: aceitar
-    term_group: 0
-    term_taxonomy_id: 166
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 89
-    name: Arrependimento
-    slug: arrependimento
-    term_group: 0
-    term_taxonomy_id: 90
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 171
-    name: Discernir
-    slug: discernir
-    term_group: 0
-    term_taxonomy_id: 174
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 200
-    name: História
-    slug: historia
-    term_group: 0
-    term_taxonomy_id: 203
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 126
-    name: Mudança
-    slug: mudanca
-    term_group: 0
-    term_taxonomy_id: 129
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 198
-    name: Religiosa
-    slug: religiosa
-    term_group: 0
-    term_taxonomy_id: 201
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 199
-    name: Secularização
-    slug: secularizacao
-    term_group: 0
-    term_taxonomy_id: 202
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 197
-    name: Valores
-    slug: valores
-    term_group: 0
-    term_taxonomy_id: 200
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/secularizacao-na-igreja
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:14:57
 ---
 Vivemos em uma época sem precedentes na história da raça humana. A tecnologia, crescente desde o pós-guerra, tem modificado radicalmente os métodos de produção industrial, forma de comprar e vender produtos, formas de lazer, hábitos e costumes, sem falar da disponibilidade da informação à velocidade da luz. Estima-se que hoje, a cada cinco anos, é dobrado todo o conhecimento humano, provocando profundas e irreversíveis mudanças na sociedade. Neste meio, temos uma igreja com crise de identidade que não sabe tratar o novo sem violentar os princípios de Deus. Embora não seja uma unanimidade entre os que tentam definir o período em que estamos vivendo, termos como pós-modernidade ou pós-cristã estão sendo largamente aceitos, tendo seu início nos anos cinqüenta. As alterações em todas as áreas da sociedade têm sido movidas por um profundo desejo de liberdade, igualdade e paz baseadas na informação e sua materialização, gerando um conjunto de fatores que oferecem grandes riscos à Igreja de Cristo, dos quais gostaríamos de enfatizar a secularização.

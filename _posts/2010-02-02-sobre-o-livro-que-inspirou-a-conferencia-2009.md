@@ -3,14 +3,40 @@ ID: 1475
 post_title: >
   Sobre o livro que inspirou a
   Conferência 2009
-author: ""
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/sobre-o-livro-que-inspirou-a-conferencia-2009
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:10:55
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} -->“Por que você não quer mais ir à igreja?” é um título muito esquisito para um livro de ficção que, aliás, não tínhamos a intenção de imprimir. Um amigo e eu o escrevemos para irmãos e irmãs que estavam querendo realmente saber quem era o Deus da Bíblia e que, nessa busca, ficaram perdidos em todas essas práticas religiosas daquilo que nós chamamos de igreja.

@@ -1,36 +1,40 @@
 ---
 ID: 4699
 post_title: '&#8220;Deus&#8221; mandou matar'
-author:
-  - 
-    term_id: 984
-    name: Pablo Massolar
-    slug: pablo-massolar
-    term_group: 0
-    term_taxonomy_id: 1002
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/deus-mandou-matar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:41:53
 ---
 <p class="p1"><span class="s1">A </span><span style="line-height: 1.5;">Idade Média, chamada também de Idade das Trevas pelos historiadores, foi profundamente manchada de sangue com a Santa Inquisição, realizada em nome do "Deus" dos "cristãos". Milhões foram torturados, queimados vivos e mortos por aqueles que julgavam prestar serviço a Deus com tais práticas.</span></p>

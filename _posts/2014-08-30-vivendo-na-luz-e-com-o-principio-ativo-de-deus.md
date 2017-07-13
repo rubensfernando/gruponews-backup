@@ -3,39 +3,40 @@ ID: 3898
 post_title: >
   Vivendo na luz e com o princípio ativo
   de Deus
-author:
-  - 
-    term_id: 912
-    name: Paulo Manzini
-    slug: paulo-manzini
-    term_group: 0
-    term_taxonomy_id: 927
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 16:56:25
 ---
 Meu nome é Paulo Manzini, moro em Jundiaí. Eu sou professor universitário na área da Administração e tenho militado nas questões referentes às empresas e à igreja, que também está querendo ser empresa. Estou há 50 anos em Jundiaí.

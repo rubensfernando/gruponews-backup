@@ -1,80 +1,40 @@
 ---
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 987
-    name: edicao-79
-    slug: edicao-79
-    term_group: 0
-    term_taxonomy_id: 1005
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 993
-    name: levíta
-    slug: levita
-    term_group: 0
-    term_taxonomy_id: 1011
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 994
-    name: Melquisedeque
-    slug: melquisedeque
-    term_group: 0
-    term_taxonomy_id: 1012
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 992
-    name: sacerdócio
-    slug: sacerdocio
-    term_group: 0
-    term_taxonomy_id: 1010
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 995
-    name: serviço
-    slug: servico
-    term_group: 0
-    term_taxonomy_id: 1013
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-sacerdocio-de-todos-os-cristaos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 14:15:08
 ---
 Há uma grande discussão em torno do diálogo entre Pedro e Jesus registrado no Evangelho segundo São Mateus (16.13-20), no qual Pedro afirma ser Jesus o Cristo de Deus, recebendo como resposta que ele, Pedro, é uma pedra sobre a qual Jesus edificaria a igreja. O segmento católico se apropriou desse texto para fundamentar que Pedro foi o primeiro de uma sucessão de papas, legitimando, assim, este sistema. Isso provocou no segmento protestante uma interpretação diferente, que passou a concorrer com aquela disseminada pela teologia católica.

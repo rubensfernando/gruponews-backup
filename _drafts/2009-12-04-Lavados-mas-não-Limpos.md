@@ -1,13 +1,39 @@
 ---
 ID: 380
 post_title: Lavados, mas não Limpos
-author: ""
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=380
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 “Assisto, de vez em quando, a pessoas saindo da comunidade de que participo para outras igrejas. O motivo alegado por muitas delas é a necessidade de um ‘verdadeiro batismo’, como resposta para os mais diversos problemas.
 

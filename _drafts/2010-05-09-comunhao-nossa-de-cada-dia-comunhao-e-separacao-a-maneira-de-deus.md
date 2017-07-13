@@ -1,46 +1,39 @@
 ---
 ID: 805
 post_title: '“Comunhão nossa de cada dia” &#8211; Comunhão e separação à maneira de Deus'
-author: ""
-tags:
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 367
-    name: paternidade
-    slug: paternidade
-    term_group: 0
-    term_taxonomy_id: 371
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 477
-    name: reino de Deus
-    slug: reino-de-deus
-    term_group: 0
-    term_taxonomy_id: 484
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=805
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o sexto de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores</em></blockquote>
 Deus planejou um sistema contínuo e multiplicador de separação para garantir a preservação da comunhão e servir de vacina e antídoto contra a divisão. Já desde o primeiro casamento, a separação foi colocada como critério de sucessão geracional, pois, para constituir-se casal, o homem e a mulher precisam deixar seus pais, os quais, por sua vez, devem preparar a si mesmos e aos filhos de forma consciente para que não haja ruptura, mas continuidade e ampliação da comunhão (Genesis 2.24). Mesmo que não seja precisamente para o casamento que o filho saia de casa, faz parte da educação recebida que, assumidas as condições de adulto, ele se desvincule da dependência paterna e siga sua vocação. Isso não representa afronta aos pais, mas, pelo contrário, produz uma sensação de missão cumprida.

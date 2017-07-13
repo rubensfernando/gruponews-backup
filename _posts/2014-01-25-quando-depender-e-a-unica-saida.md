@@ -1,58 +1,40 @@
 ---
 ID: 3415
 post_title: Quando depender é a única saída
-author:
-  - 
-    term_id: 858
-    name: Marina Venuto Silva
-    slug: marina-venuto-silva
-    term_group: 0
-    term_taxonomy_id: 872
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 978
-    name: depender
-    slug: depender
-    term_group: 0
-    term_taxonomy_id: 996
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 865
-    name: edicao-76
-    slug: edicao-76
-    term_group: 0
-    term_taxonomy_id: 879
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 182
-    name: Testemunho
-    slug: testemunho
-    term_group: 0
-    term_taxonomy_id: 185
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/quando-depender-e-a-unica-saida
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-01-25 00:29:01
 ---
 Havia acabado de lavar o rosto, quando alguém avisou que precisavam falar comigo. Estávamos na manhã do segundo dia de um encontro de adolescentes em Sorocaba. Abri a porta do dormitório e dei de cara com dois irmãos que também ajudavam na organização do evento. Contaram que meu sogro estava hospitalizado porque havia passado muito mal naquela madrugada. Meu marido já estava com ele e preferiu que me avisassem somente de manhã. A notícia foi um choque.

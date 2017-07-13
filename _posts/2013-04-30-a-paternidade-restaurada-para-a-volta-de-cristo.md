@@ -3,47 +3,40 @@ ID: 2867
 post_title: >
   A paternidade restaurada para a volta de
   Cristo
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 905
-    name: edicao-73
-    slug: edicao-73
-    term_group: 0
-    term_taxonomy_id: 920
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 367
-    name: paternidade
-    slug: paternidade
-    term_group: 0
-    term_taxonomy_id: 371
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-paternidade-restaurada-para-a-volta-de-cristo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-04-30 08:00:20
 ---
 No capítulo 2 do livro de Atos, entre os versículos 17 e 21, o apóstolo Pedro faz menção da profecia de Joel para explicar à multidão reunida em Jerusalém o que estava acontecendo:

@@ -1,39 +1,40 @@
 ---
 ID: 3899
 post_title: 'Casa, Família &#038; Construção'
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/casa-familia-construcao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 17:12:36
 ---
 Cada geração é um elo na história. Assim, nenhuma geração é uma ilha, não apenas no sentido geográfico, mas também histórico. Somos resultado da geração anterior como a futura o será da nossa. Vemos cada uma superando a outra: os filhos estudam mais, crescem e atingem estaturas maiores que seus pais. Mas é assim também do ponto de vista espiritual? Conseguimos dar-lhes condições culturais, nutricionais e até mesmo herança melhores que recebemos. Mas que legado espiritual nós estamos deixando aos nossos filhos? Serão eles mais apaixonados por Jesus do que nós? Para fazer a diferença não bastará que sejam iguais a nós, pois isso significará manterem-se no mesmo lugar. Portanto, para aproximarem-se mais da volta de Jesus, eles terão de ser melhores do que nós, e para isso dependerão daquilo que lhes transmitirmos.

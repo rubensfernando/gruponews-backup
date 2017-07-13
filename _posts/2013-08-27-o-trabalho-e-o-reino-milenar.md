@@ -1,80 +1,40 @@
 ---
 ID: 3404
 post_title: O trabalho e o Reino Milenar
-author:
-  - 
-    term_id: 650
-    name: Ricardo Oliveira
-    slug: ricardo-oliveira
-    term_group: 0
-    term_taxonomy_id: 660
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-tags:
-  - 
-    term_id: 865
-    name: edicao-76
-    slug: edicao-76
-    term_group: 0
-    term_taxonomy_id: 879
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 607
-    name: milenar
-    slug: milenar
-    term_group: 0
-    term_taxonomy_id: 614
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 606
-    name: Milênio
-    slug: milenio
-    term_group: 0
-    term_taxonomy_id: 613
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
-  - 
-    term_id: 868
-    name: trabalho
-    slug: trabalho
-    term_group: 0
-    term_taxonomy_id: 882
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-trabalho-e-o-reino-milenar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-08-27 07:15:19
 ---
 Num futuro próximo, o governo que os homens exercem sobre as nações e o mundo será tomado. Cristo voltará e governará por mil anos. Não se trata de conto de fada nem de mito, mas de um fato (já existente, mas que ainda não nos alcançou em nosso tempo cronológico).

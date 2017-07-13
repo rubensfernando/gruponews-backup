@@ -1,135 +1,40 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 160
-    name: Amor
-    slug: amor
-    term_group: 0
-    term_taxonomy_id: 163
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 310
-    name: ateu
-    slug: ateu
-    term_group: 0
-    term_taxonomy_id: 313
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 305
-    name: deus
-    slug: deus
-    term_group: 0
-    term_taxonomy_id: 308
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
-  - 
-    term_id: 302
-    name: Dons
-    slug: dons
-    term_group: 0
-    term_taxonomy_id: 305
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 29
-    name: Encontrar
-    slug: encontrar
-    term_group: 0
-    term_taxonomy_id: 29
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 306
-    name: legado
-    slug: legado
-    term_group: 0
-    term_taxonomy_id: 309
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 307
-    name: narnia
-    slug: narnia
-    term_group: 0
-    term_taxonomy_id: 310
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 309
-    name: novo
-    slug: novo
-    term_group: 0
-    term_taxonomy_id: 312
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 304
-    name: o outro
-    slug: o-outro
-    term_group: 0
-    term_taxonomy_id: 307
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 303
-    name: Proféticos
-    slug: profeticos
-    term_group: 0
-    term_taxonomy_id: 306
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-09-01 00:00:51
 ---
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- O outro como altar e como cura da esterilidade</div>

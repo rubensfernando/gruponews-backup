@@ -1,36 +1,40 @@
 ---
 ID: 4698
 post_title: Uma autora em minha jornada
-author:
-  - 
-    term_id: 858
-    name: Marina Venuto Silva
-    slug: marina-venuto-silva
-    term_group: 0
-    term_taxonomy_id: 872
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/uma-autora-em-minha-jornada
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:32:32
 ---
 <p class="p1"><span class="s1">C</span><span class="s1">oisa rara hoje em dia é conhecer quem pregue com tamanha paixão sobre a Verdade. Lembro-me bem do meu espanto quando ouvi pela primeira vez Ariadna de Oliveira falar sobre a compaixão pelos perdidos. Havia algo diferente em seu discurso, era um pouco da essência dEle ali... Aquilo foi divinamente cativante para mim...</span></p>

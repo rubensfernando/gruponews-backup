@@ -1,25 +1,40 @@
 ---
 ID: 3628
 post_title: Lidando com o próprio veneno
-author: ""
-tags:
-  - 
-    term_id: 893
-    name: edicao-77
-    slug: edicao-77
-    term_group: 0
-    term_taxonomy_id: 907
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/lidando-com-o-proprio-veneno
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-02-07 15:41:41
 ---
 Há muito tempo, uma menina chamada Lili se casou e foi viver com o marido e a sogra. Depois de alguns dias, passou a não se entender com a sogra, pois as personalidades delas eram muito diferentes. Lili foi se irritando com os hábitos da mulher, e esta, por sua vez, frequentemente criticava Lili. Meses se passaram, e elas cada vez mais discutiam e brigavam.

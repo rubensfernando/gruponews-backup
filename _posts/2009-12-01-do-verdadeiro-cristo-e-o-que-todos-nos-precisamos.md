@@ -3,135 +3,40 @@ ID: 110
 post_title: >
   Do verdadeiro Cristo é o que todos nós
   precisamos
-author:
-  - 
-    term_id: 656
-    name: Afonso Porto
-    slug: afonso-porto
-    term_group: 0
-    term_taxonomy_id: 667
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-tags:
-  - 
-    term_id: 104
-    name: Acreditar
-    slug: acreditar
-    term_group: 0
-    term_taxonomy_id: 107
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 85
-    name: Conhecimento
-    slug: conhecimento
-    term_group: 0
-    term_taxonomy_id: 86
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 168
-    name: Conversão
-    slug: conversao
-    term_group: 0
-    term_taxonomy_id: 171
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 171
-    name: Discernir
-    slug: discernir
-    term_group: 0
-    term_taxonomy_id: 174
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 170
-    name: Enganar
-    slug: enganar
-    term_group: 0
-    term_taxonomy_id: 173
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 103
-    name: Esperança
-    slug: esperanca
-    term_group: 0
-    term_taxonomy_id: 105
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 165
-    name: Falso
-    slug: falso
-    term_group: 0
-    term_taxonomy_id: 168
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 75
-    name: Mentira
-    slug: mentira
-    term_group: 0
-    term_taxonomy_id: 76
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 169
-    name: Olhar
-    slug: olhar
-    term_group: 0
-    term_taxonomy_id: 172
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 106
-    name: Salvação
-    slug: salvacao
-    term_group: 0
-    term_taxonomy_id: 109
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:31:34
 ---
 “<em>Pois surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos</em>” (Mt 24:24).

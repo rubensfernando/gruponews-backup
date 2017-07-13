@@ -1,47 +1,40 @@
 ---
 ID: 1963
 post_title: A volta da igreja pródiga
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 903
-    name: edicao-71
-    slug: edicao-71
-    term_group: 0
-    term_taxonomy_id: 918
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-volta-da-igreja-prodiga
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-11-29 23:21:22
 ---
 A <em>Parábola do Filho Pródigo</em> tem uma universalidade impressionante. Poucas histórias bíblicas são tão conhecidas quanto esta. Mesmo nos domínios estrangeiros à religião, não é difícil surpreender pessoas tomando como ilustração para alguma fala, opinião ou comentário o relato do filho arrependido que retorna à casa do pai e é graciosamente acolhido. Entre as muitas explicações que poderíamos recolher para o fato de a história bíblica ser tão recorrentemente recuperada no cotidiano, fico com a aspiração imorredoura da humanidade por se encontrar num ambiente cercado de afetos, capaz de lhe conferir a sensação peculiar de pertencimento e a convicção insuperável de segurança que só experimentam os que se sentem em casa. Que satisfação poderia ser maior do que esta?

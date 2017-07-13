@@ -1,201 +1,40 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 245
-    name: Coletivo
-    slug: coletivo
-    term_group: 0
-    term_taxonomy_id: 248
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 244
-    name: Converter
-    slug: converter
-    term_group: 0
-    term_taxonomy_id: 247
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 157
-    name: Coração
-    slug: coracao
-    term_group: 0
-    term_taxonomy_id: 160
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 187
-    name: Corpo
-    slug: corpo
-    term_group: 0
-    term_taxonomy_id: 190
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 246
-    name: Derramar
-    slug: derramar
-    term_group: 0
-    term_taxonomy_id: 249
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 249
-    name: Diariamente
-    slug: diariamente
-    term_group: 0
-    term_taxonomy_id: 252
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 138
-    name: Espírito
-    slug: espirito
-    term_group: 0
-    term_taxonomy_id: 141
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 971
-    name: Estudos
-    slug: estudos
-    term_group: 0
-    term_taxonomy_id: 989
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 135
-    name: Habitar
-    slug: habitar
-    term_group: 0
-    term_taxonomy_id: 138
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 247
-    name: Individual
-    slug: individual
-    term_group: 0
-    term_taxonomy_id: 250
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 177
-    name: Ministério
-    slug: ministerio
-    term_group: 0
-    term_taxonomy_id: 180
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 248
-    name: Plural
-    slug: plural
-    term_group: 0
-    term_taxonomy_id: 251
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 67
-    name: Relacionamento
-    slug: relacionamento
-    term_group: 0
-    term_taxonomy_id: 68
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 149
-    name: Templo
-    slug: templo
-    term_group: 0
-    term_taxonomy_id: 152
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)

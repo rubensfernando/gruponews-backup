@@ -1,135 +1,40 @@
 ---
 ID: 172
 post_title: Removendo Barreiras
-author:
-  - 
-    term_id: 719
-    name: Paulo Silva
-    slug: paulo-silva
-    term_group: 0
-    term_taxonomy_id: 730
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 160
-    name: Amor
-    slug: amor
-    term_group: 0
-    term_taxonomy_id: 163
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 9
-    filter: raw
-  - 
-    term_id: 280
-    name: Barreira
-    slug: barreira
-    term_group: 0
-    term_taxonomy_id: 283
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 284
-    name: Evangelismo
-    slug: evangelismo
-    term_group: 0
-    term_taxonomy_id: 287
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 285
-    name: Fé
-    slug: fe
-    term_group: 0
-    term_taxonomy_id: 288
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 116
-    name: Graça
-    slug: graca
-    term_group: 0
-    term_taxonomy_id: 119
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 281
-    name: Incredulidade
-    slug: incredulidade
-    term_group: 0
-    term_taxonomy_id: 284
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 283
-    name: Liberdade
-    slug: liberdade
-    term_group: 0
-    term_taxonomy_id: 286
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 282
-    name: Preconceito
-    slug: preconceito
-    term_group: 0
-    term_taxonomy_id: 285
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 123
-    name: Transformação
-    slug: transformacao
-    term_group: 0
-    term_taxonomy_id: 126
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/removendo-barreiras
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:13:30
 ---
 Nestes dias, a meditação sobre evangelismo tem me levado a Jo 11, à ressurreição de Lázaro. Este texto é marcado por uma seqüência de episódios necessários para geração de vida, regada por uma dose maravilhosa de amor bilateral. Começamos com o versículo 3 – “ ... aquele a quem tu amas esta doente”. As irmãs de Lázaro, preocupadas com a saúde de seu irmão, enviam a mensagem a Jesus com dois objetivos explícitos: informar que o amado de Jesus estava doente e esperar dele a cura do mal de seu irmão, o qual elas amavam. O mundo ao qual Deus ama (Jo 3: 16) está enfermo com doença de morte. Prostituição, violência, drogas, fome e falsos ensinamentos, estão levando milhares de pessoas ao distanciamento cada vez maior de Deus. Muitas vezes assistimos a tudo isso como espectadores de filme cujo  final não pode ser mudado.

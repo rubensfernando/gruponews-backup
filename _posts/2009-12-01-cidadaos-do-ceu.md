@@ -1,135 +1,40 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-author:
-  - 
-    term_id: 878
-    name: Valmir Mathiazi
-    slug: valmir-mathiazi
-    term_group: 0
-    term_taxonomy_id: 892
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 104
-    name: Acreditar
-    slug: acreditar
-    term_group: 0
-    term_taxonomy_id: 107
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 220
-    name: Carne
-    slug: carne
-    term_group: 0
-    term_taxonomy_id: 223
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 207
-    name: Cotidiano
-    slug: cotidiano
-    term_group: 0
-    term_taxonomy_id: 210
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 222
-    name: Cristãos
-    slug: cristaos
-    term_group: 0
-    term_taxonomy_id: 225
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 219
-    name: Diferente
-    slug: diferente
-    term_group: 0
-    term_taxonomy_id: 222
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 221
-    name: Discernimento
-    slug: discernimento
-    term_group: 0
-    term_taxonomy_id: 224
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 107
-    name: Mundo
-    slug: mundo
-    term_group: 0
-    term_taxonomy_id: 110
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 182
-    name: Testemunho
-    slug: testemunho
-    term_group: 0
-    term_taxonomy_id: 185
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-  - 
-    term_id: 197
-    name: Valores
-    slug: valores
-    term_group: 0
-    term_taxonomy_id: 200
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1004
-    name: Vida
-    slug: vida
-    term_group: 0
-    term_taxonomy_id: 106
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 24
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/cidadaos-do-ceu
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:10:49
 ---
 Este texto anônimo, extraído da carta a Diogneto (passagens 5 e 6) e escrito por volta do ano 200, em Alexandria, mostra como os cristãos eram vistos por seus contemporâneos.

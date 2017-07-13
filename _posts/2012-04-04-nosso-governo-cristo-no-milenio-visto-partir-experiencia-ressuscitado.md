@@ -4,69 +4,40 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-author: ""
-tags:
-  - 
-    term_id: 513
-    name: Jesus
-    slug: jesus
-    term_group: 0
-    term_taxonomy_id: 520
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 607
-    name: milenar
-    slug: milenar
-    term_group: 0
-    term_taxonomy_id: 614
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 606
-    name: Milênio
-    slug: milenio
-    term_group: 0
-    term_taxonomy_id: 613
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 548
-    name: retorno
-    slug: retorno
-    term_group: 0
-    term_taxonomy_id: 555
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 547
-    name: volta
-    slug: volta
-    term_group: 0
-    term_taxonomy_id: 554
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-04-04 12:00:05
 ---
 <blockquote>As três últimas fases da história são: Israel, Igreja e Reino Milenar Messiânico, vindo depois a eternidade. Assim como os judeus não compreendiam o período da igreja e por isso queriam pular diretamente para o reino messiânico, os cristãos não estão compreendendo o reino milenar messiânico e, de maneira geral, imaginam saltar da ressurreição diretamente para a eternidade. É extensa a abordagem que a bíblia faz do reino milenar messiânico. Talvez a melhor e mais imediata maneira de compreendê-lo seja através do período precursor de quarenta dias que Jesus conviveu na condição de ressuscitado entre os seus discípulos. (Mt 17.1-9; 28; Mc 16; Lc 24; At 1.1-14; Jo 20; 21; At 9.1-16; 1 Co 15.3-58; Ap 20.1-6)</blockquote>

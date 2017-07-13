@@ -1,39 +1,40 @@
 ---
 ID: 2876
 post_title: O rei e o mendigo
-author:
-  - 
-    term_id: 695
-    name: Autor desconhecido
-    slug: autor-desconhecido
-    term_group: 0
-    term_taxonomy_id: 706
-    taxonomy: autor
-    description: Teste
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 696
-    name: >
-      Recontada por Júnior César Villaça da
-      Silva
-    slug: >
-      recontada-por-junior-cesar-villaca-da-silva
-    term_group: 0
-    term_taxonomy_id: 707
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-rei-e-o-mendigo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-03-20 00:15:20
 ---
 Em um certo reino, vivia um mendigo que todos os dias estava à porta do palácio real. Moribundo, sem esperança e vestido com trapos, trazia o coração endurecido pela vida difícil que levava. Seu conhecido mau cheiro era motivo de zombaria e de distanciamento das pessoas. Sobrevivia das esmolas que recebia de algum passante piedoso. Um dia, porém, sua sorte mudaria incrivelmente.

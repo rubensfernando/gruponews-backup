@@ -1,25 +1,40 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
-author:
-  - 
-    term_id: 655
-    name: Willian Diego Pereira
-    slug: willian-diego-pereira
-    term_group: 0
-    term_taxonomy_id: 665
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/tempo-de-edificar
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-03-03 15:50:10
 ---
 Como é prazeroso quando somos surpreendidos pela Palavra de Deus, seja da maneira mais convencional – por meio da leitura bíblica – ou quando ela nos é revelada através dos irmãos em uma conversa, um gesto de amor, uma poesia, uma música, um filme, uma manifestação singela da natureza... Enfim, das mais diversas maneiras, inclusive as mais inesperadas, afinal de contas o Deus a quem pertencemos tem uma criatividade ilimitada e uma imensa capacidade de nos surpreender a cada instante. A nós cabe apenas estarmos atentos e abrirmos o coração para percebê-lo em nosso “caminho”.

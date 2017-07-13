@@ -3,48 +3,40 @@ ID: 3959
 post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 913
-    name: 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-    slug: >
-      conferencia-casas-que-transformam-o-mundo-igreja-nos-lares
-    term_group: 0
-    term_taxonomy_id: 928
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2007-09-09 22:58:48
 ---
 Em visita ao casal Offini e Elza Franco, pioneiros do movimento de igrejas nas casas no Brasil, no início dos anos 70, Wolfgang pôde compartilhar um pouco do que tem visto e experimentado nos países em que tem trabalhado. Externou também o agradecimento pela contribuição que a geração anterior proporcionou à atual. Aproveitou para conferir o que tem sido anunciado pelos profetas da igreja brasileira com o que tem ouvido ao redor do mundo. Wolf sonha com uma igreja que deixe de lado o programa, o evento e se transforme em estilo de vida. Ele tem desafiado as pessoas a conhecerem essa igreja, que não pode ter outro fundamento senão o apostólico e profético. Para ele, somente a palavra apostólica pode produzir esta igreja.

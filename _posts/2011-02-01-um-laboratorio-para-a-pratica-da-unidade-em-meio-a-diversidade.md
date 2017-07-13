@@ -3,93 +3,40 @@ ID: 1366
 post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-  - 
-    term_id: 710
-    name: Equipe organizadora
-    slug: equipe-organizadora
-    term_group: 0
-    term_taxonomy_id: 721
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 592
-    name: >
-      Conferência "Cristo, o Reino e a
-      Igreja"
-    slug: conferencia-2010
-    term_group: 0
-    term_taxonomy_id: 599
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 299
-    name: cristo
-    slug: cristo
-    term_group: 0
-    term_taxonomy_id: 302
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 13
-    name: Igreja
-    slug: igreja
-    term_group: 0
-    term_taxonomy_id: 100
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-  - 
-    term_id: 25
-    name: Reino
-    slug: reino
-    term_group: 0
-    term_taxonomy_id: 25
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 13
-    filter: raw
-  - 
-    term_id: 46
-    name: Riqueza
-    slug: riqueza
-    term_group: 0
-    term_taxonomy_id: 47
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-02-01 00:45:02
 ---
 A ideia de fazer conferências surgiu em 2007 e foi orientada pelo propósito de favorecer um ambiente de escuta coletiva em que os presentes pudessem ouvir, de Deus e uns dos outros, o que o Espírito está falando neste tempo à Sua igreja, além de permitir a reunião, num mesmo local, da riqueza da diversidade do corpo de Cristo, enquanto a Palavra é compartilhada.

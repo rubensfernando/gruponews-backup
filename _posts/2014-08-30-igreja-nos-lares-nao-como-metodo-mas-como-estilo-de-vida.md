@@ -1,39 +1,40 @@
 ---
 ID: 3896
 post_title: 'Igreja nos Lares &#8211; Não como método, mas como estilo de vida'
-author:
-  - 
-    term_id: 911
-    name: João A. de Souza Filho
-    slug: joao-a-de-souza-filho
-    term_group: 0
-    term_taxonomy_id: 926
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 910
-    name: Conferência "A igreja do nosso tempo"
-    slug: conferencia-2008-a-igreja-do-nosso-tempo
-    term_group: 0
-    term_taxonomy_id: 925
-    taxonomy: post_tag
-    description: |
-      A Conferência “A igreja do nosso tempo” é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
-      
-      Em resumo, este foi o saldo final: precisamos “desconstruir” nossos modelos mentais sobre o evangelho e sobre a igreja, sem desrespeitar ou criticar nossos pais na fé, e voltar nossas atenções para a essência da vida cristã que Jesus enfatizou, para que a próxima geração (que já está conosco) possa achar os odres certos para conter essa essência.
-    parent: 0
-    count: 7
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 16:40:05
 ---
 Sempre que este tema é apresentado ou discutido, a idéia que vem à mente das pessoas é que a igreja nos lares é apenas um adendo ou uma estrutura funcional que auxilia a igreja – e aqui me refiro à igreja como organização – em sua missão na terra. Sim, porque a idéia de templo como local de reunião, seja um galpão, um salão ou uma construção especialmente feita para a reunião, obscurece o valor do lar e o arremete a um segundo ou terceiro plano. Neste estudo abordaremos a igreja como reunião no lar à luz do Israel do A.T., da prática de igreja nos dois primeiros séculos e o lugar que tiveram os lares ou as casas ao longo da história.

@@ -1,13 +1,39 @@
 ---
 ID: 2
 post_title: Quem Somos
-author: ""
-tags: ""
 post_excerpt: ""
 layout: page
 permalink: https://www.gruponews.com.br/quem-somos
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-09-19 14:57:56
 ---
 Somos uma comunhão de grupos cristãos espalhados pelo Brasil. Grupos familiares que se reúnem nas casas. Não temos uma sede, templo ou denominação. Tampouco somos igreja em células. Não temos a intenção de servirmos de modelo à prática da igreja. Não encorajamos ninguém a desistir da jornada empreendida no interior das instituições eclesiásticas em que atuam, quer sejam católicas ou evangélicas, pois o testemunho cristão não depende delas e muito menos é impedido por elas.

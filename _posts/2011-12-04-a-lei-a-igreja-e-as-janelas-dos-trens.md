@@ -1,36 +1,40 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author:
-  - 
-    term_id: 650
-    name: Ricardo Oliveira
-    slug: ricardo-oliveira
-    term_group: 0
-    term_taxonomy_id: 660
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
-tags:
-  - 
-    term_id: 903
-    name: edicao-71
-    slug: edicao-71
-    term_group: 0
-    term_taxonomy_id: 918
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-lei-a-igreja-e-as-janelas-dos-trens
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-12-04 20:11:22
 ---
 Fazer o percurso de trem entre as estações de Barueri e Barra Funda não é uma experiência agradável, mas fica ainda pior quando a viagem é realizada numa tarde ensolarada de verão. Para mim parece impossível não injuriar o engenheiro que colocou no vagão janelas tão pequenas, incapazes de prover aos cansados trabalhadores e estudantes o mínimo de oxigênio necessário para a manutenção da vida.

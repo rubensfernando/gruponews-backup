@@ -3,25 +3,40 @@ ID: 3567
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-12-03 13:31:02
 ---
 Há mais de 10 anos a equipe do CPP (Curso de Preparação Profética), em parceria com o Ministério Impacto, tem realizado o Encontro “Preparando Soldados para as Últimas Batalhas”. No primeiro evento, que aconteceu na virada do ano de 2002 para 2003, o objetivo era reunir jovens de diversas partes do Brasil que têm uma paixão por Deus e por sua Palavra que se destaca no meio da normalidade da maioria dos jovens. Desde 2012 a liderança do Encontro tem aberto o evento não só para jovens, mas para todos aqueles (de qualquer idade, exceto crianças) que desejam experimentar mais de Deus. Muitos anos se passaram e a cada ano o evento recebeu um tema diferente. Os temas têm sido fruto daquilo que Deus tem falado durante o ano entre alunos e equipe do CPP e o objetivo é focar em uma verdade da Palavra de Deus, meditar, orar e compartilhar para que cada um possa receber edificação para enfrentar o ano por vir.

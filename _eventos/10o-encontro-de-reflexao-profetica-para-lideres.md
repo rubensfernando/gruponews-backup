@@ -3,36 +3,40 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
-author:
-  - 
-    term_id: 826
-    name: Revista Impacto
-    slug: revista-impacto
-    term_group: 0
-    term_taxonomy_id: 839
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 305
-    name: deus
-    slug: deus
-    term_group: 0
-    term_taxonomy_id: 308
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 11
-    filter: raw
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/10o-encontro-de-reflexao-profetica-para-lideres
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">

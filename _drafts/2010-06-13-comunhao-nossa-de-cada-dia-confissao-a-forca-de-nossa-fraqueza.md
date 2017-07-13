@@ -3,13 +3,39 @@ ID: 857
 post_title: >
   “Comunhão nossa de cada dia” –
   Confissão, a força de nossa fraqueza
-author: ""
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: https://www.gruponews.com.br/?p=857
-categories: ""
 published: false
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o sétimo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 Cada pessoa tem pontos fortes e pontos fracos, o que é natural a todos. De acordo com a valorização que a sociedade dá a determinada característica, o indivíduo será potencialmente considerado bem-sucedido ou não. Porém, quando nos convertemos, torna-se necessário que tais características sejam submetidas ao Espírito para que o fruto produzido venha da vida de Jesus e não de nossa força natural.

@@ -1,36 +1,40 @@
 ---
 ID: 3194
 post_title: O dízimo na Bíblia e na História
-author:
-  - 
-    term_id: 853
-    name: Hugo
-    slug: hugo
-    term_group: 0
-    term_taxonomy_id: 867
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 1011
-    name: Hugo
-    slug: hugo
-    term_group: 0
-    term_taxonomy_id: 866
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-dizimo-na-biblia-e-na-historia
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-07-04 17:40:48
 ---
 Antes de mais nada, devo esclarecer que não sou contra a prática de dizimar, mas ao longo dos anos, depois de muito meditar sobre o assunto, me desfiz de todo tabu a respeito dele. Tenho hoje a convicção de que o dízimo deve ser usado como uma referência de primícias ao cristão que deseja, voluntariamente, participar do privilégio de ministrar aos santos com suas finanças. Entretanto, não encontro bases bíblicas ou históricas que possam legitimar a maneira como o dízimo é ensinado e coletado pela igreja institucional. Minhas  razões para alegar isso estão abaixo:

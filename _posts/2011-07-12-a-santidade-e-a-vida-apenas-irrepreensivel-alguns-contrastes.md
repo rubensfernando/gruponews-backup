@@ -1,80 +1,40 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 601
-    name: contrastes
-    slug: contrastes
-    term_group: 0
-    term_taxonomy_id: 608
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 602
-    name: irrepreensível
-    slug: irrepreensivel
-    term_group: 0
-    term_taxonomy_id: 609
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 335
-    name: pessoas
-    slug: pessoas
-    term_group: 0
-    term_taxonomy_id: 338
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 127
-    name: Santidade
-    slug: santidade
-    term_group: 0
-    term_taxonomy_id: 130
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 600
-    name: santo
-    slug: santo
-    term_group: 0
-    term_taxonomy_id: 607
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 18:54:18
 ---
 No artigo anterior, visitamos algumas cenas bíblicas em que pudemos perceber um contraste entre a vida apenas irrepreensível e a vida de santidade, tomando como fronteira mais evidente a presença ou a ausência da natureza de doação que um relacionamento com o Deus que se dá proporciona. Queremos agora explorar outros aspectos dessa distinção. As oposições, nem sempre muito fáceis de serem estabelecidas com nitidez neste assunto (as fronteiras, já o dissemos, são bem tênues), vão lançar luz sobre o fato de que o reino de Deus começa quando a justiça dos escribas e fariseus é excedida. A dificuldade maior é que estamos trabalhando com a diferenciação de duas posturas altamente positivas. Deixar de ser santo para ser “somente” irrepreensível é ainda continuar gozando de uma condição pra lá de favorável. E, num tempo como o nosso, em que o bem e o dever são átonos, o saldo do irrepreensível é incalculável. Insistimos, porém, no fato de que muitos fazem da vida irrepreensível um alvo (e deveriam fazer mesmo), mas não elegem o caminho da santidade para chegarem a ela. A santidade é uma conquista do Deus Santo em nós; a irrepreensibilidade, consequentemente, apenas torna manifesto e patente aos olhos aquilo que já é uma realidade em nosso interior pela via relacional da santidade.

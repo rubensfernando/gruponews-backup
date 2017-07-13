@@ -1,25 +1,40 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author:
-  - 
-    term_id: 883
-    name: Oscar Wilde
-    slug: oscar-wilde
-    term_group: 0
-    term_taxonomy_id: 897
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-gigante-egoista
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 18:59:02
 ---
 Todas as tardes, à saída da escola, as crianças estavam acostumadas a ir brincar no jardim do gigante. Era um jardim grande e muito bonito, coberto de grama verde e suave. Dispersas sobre a grama, brilhavam belas flores como estrelas e havia uma dúzia de pessegueiros que, na primavera, cobriam-se de delicados botões rosáceos e, no outono, davam saborosos frutos.

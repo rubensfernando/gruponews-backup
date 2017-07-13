@@ -1,135 +1,40 @@
 ---
 ID: 163
 post_title: 'Você sabia&#8230;'
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 250
-    name: Bíblia
-    slug: biblia
-    term_group: 0
-    term_taxonomy_id: 253
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 86
-    name: Curiosidade
-    slug: curiosidade
-    term_group: 0
-    term_taxonomy_id: 87
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 261
-    name: Evangelho
-    slug: evangelho
-    term_group: 0
-    term_taxonomy_id: 264
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 200
-    name: História
-    slug: historia
-    term_group: 0
-    term_taxonomy_id: 203
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 262
-    name: Impressa
-    slug: impressa
-    term_group: 0
-    term_taxonomy_id: 265
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 260
-    name: Jerusalém
-    slug: jerusalem
-    term_group: 0
-    term_taxonomy_id: 263
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 57
-    name: Palavra
-    slug: palavra
-    term_group: 0
-    term_taxonomy_id: 58
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 263
-    name: Personagem
-    slug: personagem
-    term_group: 0
-    term_taxonomy_id: 266
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 255
-    name: Testamento
-    slug: testamento
-    term_group: 0
-    term_taxonomy_id: 258
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 259
-    name: Versículo
-    slug: versiculo
-    term_group: 0
-    term_taxonomy_id: 262
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/voce-sabia
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:31:45
 ---
 ...que dos 3.779 versículos dos 4 Evangelhos, mais de 50% foram proferidos por Jesus, ou seja, um total de 1.934 versículos?

@@ -1,47 +1,40 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
-author:
-  - 
-    term_id: 988
-    name: Cátia Marquezino Lopes
-    slug: catia-marquezino-lopes
-    term_group: 0
-    term_taxonomy_id: 1006
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 987
-    name: edicao-79
-    slug: edicao-79
-    term_group: 0
-    term_taxonomy_id: 1005
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 182
-    name: Testemunho
-    slug: testemunho
-    term_group: 0
-    term_taxonomy_id: 185
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 4
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 14:11:52
 ---
 Às vezes somos ensinados a viver em meio à tempestade. A imagem que me vem é a de um mar bem agitado. Talvez para o leitor seja a de qualquer outro fenômeno da natureza que possa igualmente ilustrar esses momentos difíceis por que passamos.

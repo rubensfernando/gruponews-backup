@@ -1,102 +1,40 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author:
-  - 
-    term_id: 637
-    name: Equipe GrupoNews
-    slug: equipe-gruponews
-    term_group: 0
-    term_taxonomy_id: 646
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 57
-    filter: raw
-tags:
-  - 
-    term_id: 370
-    name: Curso
-    slug: curso
-    term_group: 0
-    term_taxonomy_id: 374
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 284
-    name: Evangelismo
-    slug: evangelismo
-    term_group: 0
-    term_taxonomy_id: 287
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 372
-    name: ovelhas
-    slug: ovelhas
-    term_group: 0
-    term_taxonomy_id: 376
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 371
-    name: Pedro
-    slug: pedro
-    term_group: 0
-    term_taxonomy_id: 375
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 1007
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 330
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 352
-    name: radio
-    slug: radio
-    term_group: 0
-    term_taxonomy_id: 355
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 359
-    name: tv
-    slug: tv
-    term_group: 0
-    term_taxonomy_id: 362
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/reevangelizando
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2010-03-30 22:15:01
 ---
 O curso <em>Reevangelizando</em> tem o objetivo de atualizar nossa visão de evangelização, segundo o que a Bíblia ensina sobre o assunto. Quem, o que e como evangelizar. O curso começou no dia 22 de Março (Segunda-feira),  e acontecerá semanalmente às segundas. O horário é das 20h às 22h.

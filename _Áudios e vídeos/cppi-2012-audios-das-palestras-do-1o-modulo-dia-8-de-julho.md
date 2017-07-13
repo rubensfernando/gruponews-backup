@@ -1,58 +1,40 @@
 ---
 ID: 2571
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 8 de julho'
-author:
-  - 
-    term_id: 640
-    name: Christopher Walker
-    slug: christopher-walker
-    term_group: 0
-    term_taxonomy_id: 650
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 7
-    filter: raw
-  - 
-    term_id: 646
-    name: Eliana Walker
-    slug: eliana-walker
-    term_group: 0
-    term_taxonomy_id: 656
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 645
-    name: Eliza Walker
-    slug: eliza-walker
-    term_group: 0
-    term_taxonomy_id: 655
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 2
-    filter: raw
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-8-de-julho
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2012-07-11 18:21:17
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

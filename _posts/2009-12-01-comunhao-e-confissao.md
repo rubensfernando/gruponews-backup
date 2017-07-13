@@ -1,135 +1,40 @@
 ---
 ID: 152
 post_title: Comunhão e Confissão
-author:
-  - 
-    term_id: 327
-    name: Pedro Arruda
-    slug: pedro-arruda
-    term_group: 0
-    term_taxonomy_id: 629
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 39
-    filter: raw
-tags:
-  - 
-    term_id: 241
-    name: Acolher
-    slug: acolher
-    term_group: 0
-    term_taxonomy_id: 244
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 89
-    name: Arrependimento
-    slug: arrependimento
-    term_group: 0
-    term_taxonomy_id: 90
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 5
-    filter: raw
-  - 
-    term_id: 1005
-    name: Comunhão
-    slug: comunhao
-    term_group: 0
-    term_taxonomy_id: 239
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 243
-    name: Confidencial
-    slug: confidencial
-    term_group: 0
-    term_taxonomy_id: 246
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 240
-    name: Confissão
-    slug: confissao
-    term_group: 0
-    term_taxonomy_id: 243
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 238
-    name: Forte
-    slug: forte
-    term_group: 0
-    term_taxonomy_id: 241
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 237
-    name: Fraqueza
-    slug: fraqueza
-    term_group: 0
-    term_taxonomy_id: 240
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-  - 
-    term_id: 242
-    name: Luz
-    slug: luz
-    term_group: 0
-    term_taxonomy_id: 245
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
-  - 
-    term_id: 121
-    name: Perdão
-    slug: perdao
-    term_group: 0
-    term_taxonomy_id: 124
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 6
-    filter: raw
-  - 
-    term_id: 239
-    name: Segredo
-    slug: segredo
-    term_group: 0
-    term_taxonomy_id: 242
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/comunhao-e-confissao
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:14:20
 ---
 <em>Comunhão, nossa de cada dia - Confissão, a força de nossa fraqueza à comunhão</em>

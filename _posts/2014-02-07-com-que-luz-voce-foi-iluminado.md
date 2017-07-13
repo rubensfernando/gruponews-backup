@@ -1,47 +1,40 @@
 ---
 ID: 3626
 post_title: Com que luz você foi iluminado?
-author:
-  - 
-    term_id: 623
-    name: Maurício Bronzatto
-    slug: mauricio-bronzatto
-    term_group: 0
-    term_taxonomy_id: 631
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 25
-    filter: raw
-tags:
-  - 
-    term_id: 893
-    name: edicao-77
-    slug: edicao-77
-    term_group: 0
-    term_taxonomy_id: 907
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 8
-    filter: raw
-  - 
-    term_id: 986
-    name: editorial
-    slug: editorial
-    term_group: 0
-    term_taxonomy_id: 1004
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 3
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/com-que-luz-voce-foi-iluminado
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-02-07 15:54:54
 ---
 Na última edição (Grupo News nº 76, julho de 2013), refletimos sobre a necessidade de uma nova relação com o trabalho, levando em consideração a possibilidade de que nossas atividades profissionais terão continuidade e se integrarão à realidade do Reino Milenar. Vimos que o tempo presente é o momento de aprendermos muitas qualidades e valores que serão exercidos em plenitude no tempo vindouro. Essa maneira de enxergar o Milênio, sem uma descontinuidade em relação ao que nos foi confiado antes disso, aumenta nossa responsabilidade em discernir aquilo para que fomos criados. A propósito, você saberia dizer para que sem lançar mão de conhecidos chavões como “para a glória de Deus”?

@@ -1,50 +1,40 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-author:
-  - 
-    term_id: 923
-    name: Pe. Léo
-    slug: pe-leo
-    term_group: 0
-    term_taxonomy_id: 938
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 916
-    name: edicao-49
-    slug: edicao-49
-    term_group: 0
-    term_taxonomy_id: 931
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 10
-    filter: raw
-  - 
-    term_id: 922
-    name: >
-      ESTAS HISTÓRIAS... TU AS INCULCARÁS A
-      TEUS FILHOS (cf. Dt 6:6-7)
-    slug: >
-      estas-historias-tu-as-inculcaras-a-teus-filhos-cf-dt-66-7
-    term_group: 0
-    term_taxonomy_id: 937
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/a-vinganca-do-amor
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 21:53:55
 ---
 No distrito de Columbia, nos Estados Unidos, um garoto de 14 anos, membro de uma gangue, assassinou um adolescente inocente como prova de coragem para ser aceito pelo grupo.

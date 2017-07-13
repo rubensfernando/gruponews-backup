@@ -1,36 +1,40 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-author:
-  - 
-    term_id: 1025
-    name: Carlos Eduardo Pereira (“Casé”)
-    slug: carlos-eduardo-pereira-case
-    term_group: 0
-    term_taxonomy_id: 1030
-    taxonomy: autor
-    description: ""
-    parent: 0
-    count: 1
-    filter: raw
-tags:
-  - 
-    term_id: 1027
-    name: edicao-82
-    slug: edicao-82
-    term_group: 0
-    term_taxonomy_id: 1032
-    taxonomy: post_tag
-    description: ""
-    parent: 0
-    count: 12
-    filter: raw
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/cracolandia-pelo-moco-do-profeta
-categories: ""
 published: true
+categories:
+  - Artigos
+  - Bases Cristãs
+  - CDs de músicas
+  - Comunhão
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+  - Família
+  - Geral
+  - Igreja
+  - Igreja nos lares
+  - Jornal GrupoNews
+  - Livros
+  - Notícias
+  - O Deus mal compreendido
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+  - O Ministério do Espírito Santo
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - Publicações
+  - Um lugar chamado Nárnia
+  - Unidade
+  - Vida
+  - Vivendo como igreja relacional
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:37:10
 ---
 <p class="p1"><span class="s1">“E o servo do homem de Deus se levantou muito cedo e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu servo lhe disse: Ai, meu senhor! Que faremos?” (2 Rs 6:15)</span></p>
