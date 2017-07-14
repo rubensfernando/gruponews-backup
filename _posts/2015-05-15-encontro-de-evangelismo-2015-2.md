@@ -2,13 +2,13 @@
 ID: 3686
 post_title: Encontro de Evangelismo 2015
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1920x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1920x1080.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x1280.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x1280.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

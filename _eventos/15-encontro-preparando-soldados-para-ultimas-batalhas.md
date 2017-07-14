@@ -4,13 +4,13 @@ post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1920x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1920x1080.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x1280.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x1280.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-720x720.jpg
 post_excerpt: ""
 layout: event
 permalink: >

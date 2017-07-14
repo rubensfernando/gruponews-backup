@@ -2,13 +2,13 @@
 ID: 1379
 post_title: Revelação maior que a de Daniel
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/02/harold-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >

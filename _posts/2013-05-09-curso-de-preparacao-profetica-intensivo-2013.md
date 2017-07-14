@@ -4,13 +4,13 @@ post_title: >
   Curso de Preparação Profética
   Intensivo 2013
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013-720x340.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013-720x340.jpg
 post_excerpt: ""
 layout: post
 permalink: >

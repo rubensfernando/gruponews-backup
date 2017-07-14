@@ -2,13 +2,13 @@
 ID: 631
 post_title: Grupo de Dança Shekina
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -2,13 +2,13 @@
 ID: 156
 post_title: Curiosidades sobre a Bíblia
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia-720x650.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

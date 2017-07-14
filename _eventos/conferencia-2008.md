@@ -2,13 +2,13 @@
 ID: 456
 post_title: Conferência 2008
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008-720x307.jpg
 post_excerpt: ""
 layout: event
 permalink: >

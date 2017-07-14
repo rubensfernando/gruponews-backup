@@ -2,13 +2,13 @@
 ID: 2474
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,13 +2,13 @@
 ID: 60
 post_title: Criação de Filhos
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-960x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

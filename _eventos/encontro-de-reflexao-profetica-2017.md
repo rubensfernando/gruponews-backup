@@ -2,13 +2,13 @@
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1920x1080.png
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1920x1080.png
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x1084.png
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x1084.png
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-720x720.png
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-720x720.png
 post_excerpt: ""
 layout: event
 permalink: >

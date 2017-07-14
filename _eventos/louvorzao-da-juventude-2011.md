@@ -4,13 +4,13 @@ post_title: >
   2º Louvorzão da Juventude –
   Pré-Encontro
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011-720x300.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011-720x300.jpg
 post_excerpt: ""
 layout: event
 permalink: >

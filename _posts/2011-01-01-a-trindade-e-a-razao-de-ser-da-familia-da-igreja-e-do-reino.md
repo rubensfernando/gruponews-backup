@@ -4,13 +4,13 @@ post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/01/gino-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,13 +2,13 @@
 ID: 3554
 post_title: 'Conferência 2013 &#8211; Palestra 4 &#8211; Jim Holl'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-1280x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-1280x503.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-1280x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-1280x503.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-720x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl-720x503.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

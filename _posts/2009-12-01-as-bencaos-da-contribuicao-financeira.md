@@ -4,13 +4,13 @@ post_title: >
   As Bênçãos da Contribuição
   Financeira
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira-720x550.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira-720x550.jpg
 post_excerpt: ""
 layout: post
 permalink: >

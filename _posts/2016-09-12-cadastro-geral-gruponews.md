@@ -2,13 +2,13 @@
 ID: 4751
 post_title: Cadastro Geral GrupoNews
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: >

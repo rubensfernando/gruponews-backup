@@ -2,13 +2,13 @@
 ID: 2981
 post_title: 'Encontro de Paternidade II &#8211; Edição 2013'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: >

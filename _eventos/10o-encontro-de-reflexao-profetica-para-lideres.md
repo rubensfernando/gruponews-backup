@@ -4,13 +4,13 @@ post_title: >
   10º Encontro de reflexão profética
   para líderes
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
 post_excerpt: ""
 layout: event
 permalink: >

@@ -2,13 +2,13 @@
 ID: 3415
 post_title: Quando depender é a única saída
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/08/marina-720x588.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina-720x588.jpg
 post_excerpt: ""
 layout: post
 permalink: >

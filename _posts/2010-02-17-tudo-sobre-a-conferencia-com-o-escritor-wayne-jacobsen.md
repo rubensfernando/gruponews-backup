@@ -4,13 +4,13 @@ post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-960x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

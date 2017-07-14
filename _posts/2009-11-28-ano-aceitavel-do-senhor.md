@@ -2,13 +2,13 @@
 ID: 88
 post_title: Ano Aceitável do Senhor
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor-720x650.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

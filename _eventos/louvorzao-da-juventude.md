@@ -2,13 +2,13 @@
 ID: 1131
 post_title: Louvorzão da Juventude
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 post_excerpt: ""
 layout: event
 permalink: >

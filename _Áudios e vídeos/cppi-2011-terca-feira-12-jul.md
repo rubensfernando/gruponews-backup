@@ -2,13 +2,13 @@
 ID: 1655
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de terça-feira 12 de julho'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

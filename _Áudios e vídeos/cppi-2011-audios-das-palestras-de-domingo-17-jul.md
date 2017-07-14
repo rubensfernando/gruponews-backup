@@ -2,13 +2,13 @@
 ID: 1773
 post_title: 'CPPI 2011- Áudios das palestras de domingo 17 julho'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

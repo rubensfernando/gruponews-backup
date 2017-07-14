@@ -4,13 +4,13 @@ post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: >

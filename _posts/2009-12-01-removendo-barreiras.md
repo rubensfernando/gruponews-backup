@@ -2,13 +2,13 @@
 ID: 172
 post_title: Removendo Barreiras
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras-960x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/removendo_barreiras-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

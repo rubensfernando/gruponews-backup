@@ -4,13 +4,13 @@ post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1666x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1666x1080.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x1152.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x1152.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

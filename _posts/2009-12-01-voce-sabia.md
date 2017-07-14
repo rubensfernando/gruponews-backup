@@ -2,13 +2,13 @@
 ID: 163
 post_title: 'Você sabia&#8230;'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia-720x600.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia-720x600.jpg
 post_excerpt: ""
 layout: post
 permalink: >

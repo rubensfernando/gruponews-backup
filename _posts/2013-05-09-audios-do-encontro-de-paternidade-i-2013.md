@@ -4,13 +4,13 @@ post_title: >
   Áudios do Encontro de Paternidade I
   2013
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/banner-paternidade_home-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,13 +2,13 @@
 ID: 4494
 post_title: 'Johannes Fichtenbauer &#8211; Parte 1'
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-1280x720.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-1280x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-1280x1080.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-1-720x720.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

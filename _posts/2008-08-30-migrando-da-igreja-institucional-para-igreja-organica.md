@@ -4,13 +4,13 @@ post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
 image-xl: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
 image-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
 image-sq-l: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica.jpg
 image-sq-m: >
-  https://s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2008/08/migrando-para-igreja-organica-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: >
