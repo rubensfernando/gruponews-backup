@@ -3,19 +3,24 @@ ID: 2658
 post_title: >
   Acompanhe a transmissão online do
   ENCRISTUS aqui no site GrupoNews
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/noticias/transmissao-do-encristus-2012
+permalink: noticias/transmissao-do-encristus-2012
 published: true
-post_date: 2012-08-15 12:00:18
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Notícias
 tags: [ ]
+author:
+  - Renata Ribeiro Arruda
+post_date: 2012-08-15 12:00:18
 ---
 O Encontro de Cristãos em Unidade e Santidade (ENCRITUS) é a comunhão entre irmãos cristãos, católicos e evangélicos, em busca de edificação mútua e partilha da Palavra e da oração. A quarta edição acontecerá entre os dias 24 e 26 de agosto no CEVA em Sorocaba.
 

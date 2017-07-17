@@ -1,18 +1,19 @@
 ---
 ID: 10
 post_title: Contato
-author: [ ]
-post_excerpt: ""
-layout: page
-permalink: https://www.gruponews.com.br/contato
-published: true
-post_date: 2009-09-19 17:06:30
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: page
+permalink: contato
+published: true
+categories:
+  - Geral
 tags: [ ]
+author: [ ]
+post_date: 2009-09-19 17:06:30
 ---
 <h3>Endereço para correspondência:</h3>
 Rua Padre Donizette Tavares de Lima, 143

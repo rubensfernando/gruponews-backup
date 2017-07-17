@@ -1,19 +1,21 @@
 ---
 ID: 4699
 post_title: '&#8220;Deus&#8221; mandou matar'
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/deus-mandou-matar
-published: true
-post_date: 2016-07-13 11:41:53
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: bases-cristas/deus-mandou-matar
+published: true
+categories:
+  - Bases Cristãs
+tags:
+  - edicao-82
+author:
+  - Pablo Massolar
+post_date: 2016-07-13 11:41:53
 ---
 <p class="p1"><span class="s1">A </span><span style="line-height: 1.5;">Idade Média, chamada também de Idade das Trevas pelos historiadores, foi profundamente manchada de sangue com a Santa Inquisição, realizada em nome do "Deus" dos "cristãos". Milhões foram torturados, queimados vivos e mortos por aqueles que julgavam prestar serviço a Deus com tais práticas.</span></p>
 <p class="p3"><span class="s1">Embora a Bíblia contenha a Palavra de Deus revelada ao homem, ela pode se tornar a antítese dela mesma se o texto for lido sem o filtro da Graça e da Lei do Amor. O Evangelho não é a letra impressa, a língua ou tradução usada, mas sim a mensagem transmitida muitas vezes sem papel e sem tinta. O Verbo se fez carne e habitou entre nós!</span></p>

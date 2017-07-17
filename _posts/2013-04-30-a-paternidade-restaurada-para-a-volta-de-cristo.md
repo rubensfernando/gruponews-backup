@@ -3,19 +3,24 @@ ID: 2867
 post_title: >
   A paternidade restaurada para a volta de
   Cristo
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/a-paternidade-restaurada-para-a-volta-de-cristo
-published: true
-post_date: 2013-04-30 08:00:20
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/a-paternidade-restaurada-para-a-volta-de-cristo
+published: true
+categories:
+  - Artigos
+  - Família
+tags:
+  - edicao-73
+  - paternidade
+author:
+  - Pedro Arruda
+post_date: 2013-04-30 08:00:20
 ---
 No capítulo 2 do livro de Atos, entre os versículos 17 e 21, o apóstolo Pedro faz menção da profecia de Joel para explicar à multidão reunida em Jerusalém o que estava acontecendo:
 

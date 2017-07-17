@@ -1,19 +1,25 @@
 ---
 ID: 4891
 post_title: ESCOLA MINISTÉRIO IMPACTO | CPPI 2017
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2.png
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2.png
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2.png
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2-720x400.png
 post_excerpt: ""
 layout: event
 permalink: >
-  https://www.gruponews.com.br/eventos/escola-ministerio-impacto-cppi-2017
+  eventos/escola-ministerio-impacto-cppi-2017
 published: true
-post_date: 2017-04-06 20:17:32
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 categories: [ ]
-tags: [ ]
+tags:
+  - featured
+author:
+  - Equipe GrupoNews
+post_date: 2017-04-06 20:17:32
 ---
 <strong>PREPARADOS PARA O FIM?
 Desenvolvendo uma mentalidade escatológica e um estilo de vida prepa</strong><strong>rado para o Reino.</strong><em>

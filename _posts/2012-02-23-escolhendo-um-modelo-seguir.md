@@ -1,19 +1,22 @@
 ---
 ID: 2104
 post_title: Escolhendo um modelo seguir
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/escolhendo-um-modelo-seguir
-published: true
-post_date: 2012-02-23 23:45:19
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: artigos/escolhendo-um-modelo-seguir
+published: true
+categories:
+  - Artigos
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
 tags: [ ]
+author:
+  - Ezequiel Netto
+post_date: 2012-02-23 23:45:19
 ---
 <em>Este artigo é o décimo primeiro de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares. </em>
 

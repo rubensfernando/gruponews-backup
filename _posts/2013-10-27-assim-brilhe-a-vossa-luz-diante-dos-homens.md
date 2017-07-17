@@ -3,19 +3,26 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
-published: true
-post_date: 2013-10-27 09:00:14
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
+published: true
+categories:
+  - Vida
+tags:
+  - Comunhão
+  - edicao-76
+  - Luz
+  - revelação
+  - Vida
+author:
+  - Maurício Bronzatto
+post_date: 2013-10-27 09:00:14
 ---
 É relativamente grande, ao longo das Escrituras, o número de interações de Deus com o homem, estando este às voltas com as peculiaridades do mundo do emprego. Não raro observa-se um chamado, uma confrontação, um ensinamento, uma analogia carregada de verdade espiritual, que têm origem a partir das práticas do trabalho cotidiano em que o homem bíblico está inserido, prova inquestionável de que Deus não está interessado em dividir a vida em sagrada e secular, hierarquizando momentos mais ou menos propícios para a manifestação de sua glória.
 

@@ -3,19 +3,32 @@ ID: 95
 post_title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
-published: true
-post_date: 2009-12-01 21:16:09
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
+published: true
+categories:
+  - Artigos
+  - Espírito Santo
+tags:
+  - Atitude
+  - Esperança
+  - Espírito
+  - Glória
+  - Habitar
+  - Interior
+  - Morar
+  - Nova
+  - Transformar
+  - Vida
+author:
+  - Rosane Faria
+post_date: 2009-12-01 21:16:09
 ---
 Em Colossenses 1:27, Paulo nos fala da revelação dada por Deus aos apóstolos sobre o mistério que esteve oculto em Deus desde o pecado, e assim se manteve até que fosse possível a compreensão e manifestação dele ao mundo. O mistério não era o Deus Todo Poderoso encarnar, viver, morrer e ressuscitar, mas sim o Espírito deste Deus-Homem habitar no homem. Não metaforicamente, mas em realidade.
 

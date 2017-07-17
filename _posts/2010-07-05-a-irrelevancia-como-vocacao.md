@@ -1,19 +1,21 @@
 ---
 ID: 3221
 post_title: A irrelevância como vocação
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/a-irrelevancia-como-vocacao
-published: true
-post_date: 2010-07-05 15:07:18
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/vida/a-irrelevancia-como-vocacao
+published: true
+categories:
+  - Vida
 tags: [ ]
+author:
+  - Henri Nouwen
+post_date: 2010-07-05 15:07:18
 ---
 <h3>O caminho descendente</h3>
 Depois de 20 anos no mundo acadêmico como professor de psicologia pastoral, teologia pastoral e espiritualidade cristã, comecei a sentir uma profunda ameaça interior. Quando entrei na casa dos 50 e reconheci a improbabilidade de dobrar a minha idade, eu me vi face a face com uma simples questão: “O fato de estar ficando mais velho tem me aproximado mais de Jesus?” Depois de 25 anos de sacerdócio, descobri que ainda tinha uma vida pobre de oração, que vivia um tanto isoladamente das outras pessoas e me preocupava muito com questões polêmicas atuais. Todos diziam que eu realmente estava agindo muito bem, mas alguma coisa dentro de mim me dizia que o meu sucesso colocava a minha alma em perigo. Comecei a me perguntar se a minha falta de oração contemplativa, a minha solidão e a minha constante mudança de envolvimento para aquilo que parecia mais urgente no momento eram sinais de que o Espírito Santo estava sendo, pouco a pouco, sufocado. Era muito difícil para eu ver isto claramente e, embora nunca falasse sobre o inferno, ou só me referisse a ele de brincadeira, um dia acordei com a sensação de que estava vivendo num lugar muito escuro, e que os termos “em crise” e “estafa” eram uma tradução psicológica conveniente para a morte espiritual. No meio disto, eu orava: “Senhor, mostra-me onde queres que eu vá e eu te seguirei, mas, por favor, sê claro e objetivo sobre isto!” Bem, Deus foi. Na pessoa de Jean Vanier, o fundador das comunidades L’Arche para deficientes mentais, Deus disse: “Vá e viva entre os pobres de espírito, e eles o curarão”. A chamada foi tão clara e nítida que eu não tive escolha a não ser segui-la. Por isso mudei-me de Harvard para L’Arche, dos melhores e mais brilhantes homens e mulheres que pretendiam governar o mundo, para homens e mulheres que tinham pouca ou nenhuma capacidade de falar e que eram considerados, no máximo, como inconsequentes para as necessidades de nossa sociedade.

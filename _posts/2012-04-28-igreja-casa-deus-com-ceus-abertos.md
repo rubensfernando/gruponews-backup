@@ -1,19 +1,25 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-1000x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/artigos/igreja-casa-deus-com-ceus-abertos
+  artigos/igreja-casa-deus-com-ceus-abertos
 published: true
-post_date: 2012-04-28 14:30:12
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Artigos
 tags: [ ]
+author:
+  - Ezequiel Netto
+post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>
 “Partiu, pois, Jacó de Berseba, e foi a Harã; e chegou a um lugar onde passou a noite, porque já o sol era posto; e tomou uma das pedras daquele lugar, e a pôs por seu travesseiro, e deitou-se naquele lugar. E sonhou: e eis uma escada posta na terra, cujo topo tocava nos céus; e eis que os anjos de Deus subiam e desciam por ela; e eis que o SENHOR estava em cima dela, e disse: Eu sou o SENHOR Deus de Abraão teu pai, e o Deus de Isaque; esta terra, em que estás deitado, darei a ti e à tua descendência; acordando, pois, Jacó do seu sono, disse: Na verdade o SENHOR está neste lugar; e eu não o sabia.

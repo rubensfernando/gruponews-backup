@@ -1,19 +1,37 @@
 ---
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2-720x666.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
+  artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
+categories:
+  - Artigos
+  - Família
+tags:
+  - Desquite
+  - Divórcio
+  - Ex-cônjuges
+  - Familiares
+  - Filhos
+  - reino de Deus
+  - Separação
+  - União
+  - Vítima
+  - Vontade
+author:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
 post_date: 2011-01-30 22:38:33
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>
 Já faz tempo que casar com a possibilidade de se divorciar é uma realidade, uma garantia legal e o principal motivo do aumento do número de recasamentos (formação de novos pares após o fim da união anterior. Lembramos que nossa discussão é apenas sobre a primeira união). Talvez o leitor não tenha pensado em tal situação como geradora de sofrimento, mas ele é quase inevitável quando ocorre o divórcio. O desafio colocado é o de como entender as suas causas e investir em comportamentos preventivos.

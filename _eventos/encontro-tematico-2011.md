@@ -1,19 +1,21 @@
 ---
 ID: 1565
 post_title: Encontro Temático 2011
-author: [ ]
-post_excerpt: ""
-layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/encontro-tematico-2011
-published: true
-post_date: 2011-06-16 00:00:18
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: event
+permalink: eventos/encontro-tematico-2011
+published: true
+categories:
+  - Geral
+tags:
+  - Filhos
+author:
+  - Equipe GrupoNews
+post_date: 2011-06-16 00:00:18
 ---
 <h3>Os temas que serão abordados</h3>
 - A preparação da igreja para a volta de Jesus

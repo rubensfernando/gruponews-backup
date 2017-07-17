@@ -1,19 +1,28 @@
 ---
 ID: 3415
 post_title: Quando depender é a única saída
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina-720x588.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/bases-cristas/quando-depender-e-a-unica-saida
+  bases-cristas/quando-depender-e-a-unica-saida
 published: true
+categories:
+  - Bases Cristãs
+tags:
+  - depender
+  - edicao-76
+  - Testemunho
+author:
+  - Marina Venuto Silva
 post_date: 2014-01-25 00:29:01
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Havia acabado de lavar o rosto, quando alguém avisou que precisavam falar comigo. Estávamos na manhã do segundo dia de um encontro de adolescentes em Sorocaba. Abri a porta do dormitório e dei de cara com dois irmãos que também ajudavam na organização do evento. Contaram que meu sogro estava hospitalizado porque havia passado muito mal naquela madrugada. Meu marido já estava com ele e preferiu que me avisassem somente de manhã. A notícia foi um choque.
 

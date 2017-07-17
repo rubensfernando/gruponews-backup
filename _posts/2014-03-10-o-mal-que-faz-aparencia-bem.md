@@ -1,19 +1,26 @@
 ---
 ID: 3590
 post_title: O mal que faz a aparência do bem
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/o-mal-que-faz-aparencia-bem
-published: true
-post_date: 2014-03-10 09:01:20
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/o-mal-que-faz-aparencia-bem
+published: true
+categories:
+  - Bases Cristãs
+tags:
+  - bem e mal
+  - edicao-75
+  - inocência
+  - intergridade
+  - paternidade
+author:
+  - Maurício Bronzatto
+post_date: 2014-03-10 09:01:20
 ---
 Jesus forneceu, entre outros, um aspecto inconfundível que distingue os filhos de Deus, mesmo daqueles que exteriormente procuram imitá-los: ao contrário dos servos, os filhos ficam na casa para sempre (Jo 8.35). Antes, porém, é necessário que o Filho os liberte, introduzindo-os na comunhão de seu Pai, sem o que não gozarão da peculiar intimidade da casa (v.36).
 

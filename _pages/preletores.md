@@ -1,19 +1,18 @@
 ---
 ID: 1058
 post_title: Preletores
-author: [ ]
-post_excerpt: ""
-layout: page
-permalink: >
-  https://www.gruponews.com.br/conferencia2010/preletores
-published: true
-post_date: 2010-09-11 18:11:49
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
+post_excerpt: ""
+layout: page
+permalink: conferencia2010/preletores
+published: true
 categories: [ ]
 tags: [ ]
+author: [ ]
+post_date: 2010-09-11 18:11:49
 ---
 <strong>Gino Iafrancesco Villegas </strong>
 

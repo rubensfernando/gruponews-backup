@@ -3,19 +3,22 @@ ID: 4316
 post_title: >
   O dar e a generosidade na igreja
   relacional
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
-published: true
-post_date: 2015-02-17 12:56:28
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
+published: true
+categories:
+  - Vivendo como igreja relacional
+tags:
+  - edicao-80
+author:
+  - Wayne Jacobsen
+post_date: 2015-02-17 12:56:28
 ---
 <p class="small">Este é o 4º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os artigos anteriores</a></p>
 

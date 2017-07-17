@@ -1,19 +1,22 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
-published: true
-post_date: 2014-02-20 00:46:48
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
+published: true
+categories:
+  - O Deus mal compreendido
+tags:
+  - edicao-77
+author:
+  - Darin Hufford
+post_date: 2014-02-20 00:46:48
 ---
 <blockquote>Esta é a 4ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante).</blockquote>
 Fiquei chocado quando ela entrou em meu escritório. A aparência era de uma pessoa cansada, os olhos pareciam velas se apagando, como se toda expectativa por algo bom estivesse extinta. Usava uma bolsa enorme para esconder os hematomas e arranhões. Estava inquieta e nervosa, tropeçando nas palavras. Ofereci-lhe uma xícara de café para aliviar a tensão. Então ela começou a contar sua história: “Eu convivi com um cara...”. O que veio depois foi uma lista de crueldades ditas e feitas a ela por aquele “cara” nos últimos seis meses. E como se ela não tivesse dito nada do que acabara de me contar, saíram de sua boca, quase numa irreverência, as seguintes palavras: “Mas eu sei que ele me ama”.

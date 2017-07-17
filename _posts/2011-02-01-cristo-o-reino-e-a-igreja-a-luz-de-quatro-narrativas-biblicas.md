@@ -3,19 +3,34 @@ ID: 1382
 post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
+  igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
 published: true
+categories:
+  - Bases Cristãs
+  - Igreja
+  - Vida
+tags:
+  - >
+    Conferência "Cristo, o Reino e a
+    Igreja"
+  - cristo
+  - escrituras
+  - Igreja
+  - Reino
+author:
+  - Padre Marcial Maçaneiro
 post_date: 2011-02-01 01:45:51
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia; min-height: 12.0px} p.p3 {margin: 2.8px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 10.5px Georgia} p.p4 {margin: 0.0px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 9.0px Helvetica} -->A agenda com que Deus sonhou para nós no seu reino é muito ousada. Eu gostaria de refletir sobre isso a partir de quatro narrativas propostas por Jesus em que se poderão observar correspondentemente quatro emblemas: o ano da graça do Senhor, conforme descrito em Lucas 4 e Levítico 25; a experiência do samaritano, que ensina a igreja a ser casa de misericórdia; a comensalidade, ou seja, as experiências em que Jesus está à mesa conosco, das quais nasce a ceia como seu memorial e presença pascal na igreja; e, finalmente, o jardim, narrativa recorrente ao longo das Escrituras, que mostra o tipo de relação que o homem tem com Deus quando mora neste lugar aprazível.
 

@@ -1,18 +1,24 @@
 ---
 ID: 4713
 post_title: A despessoalização de Deus
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1-1920x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1-1280x1280.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/jornal/despessoalizacao-de-deus-2
+  publicacoes/jornal/despessoalizacao-de-deus-2
 published: true
+categories:
+  - Jornal GrupoNews
+tags:
+  - edicao-82
+author: [ ]
 post_date: 2015-12-14 09:16:20
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Quando as informações sobre Deus substituem um relacionamento de amizade com Ele

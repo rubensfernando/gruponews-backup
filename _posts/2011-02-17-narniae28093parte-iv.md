@@ -1,18 +1,32 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
+permalink: 'bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
 published: true
+categories:
+  - Um lugar chamado Nárnia
+tags:
+  - aslam
+  - C.S. Lewis
+  - caspian
+  - cronicas
+  - filme
+  - narnia
+  - principe
+  - Príncipe Caspian
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-02-17 21:29:03
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>
 <em>Este artigo é o quarto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

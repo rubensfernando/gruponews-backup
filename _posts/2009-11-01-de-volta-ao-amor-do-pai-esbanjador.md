@@ -1,19 +1,36 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_setembro_outubro_2009_versao_final_grafica_Page_01-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/de-volta-ao-amor-do-pai-esbanjador
+  publicacoes/de-volta-ao-amor-do-pai-esbanjador
 published: true
+categories:
+  - Jornal GrupoNews
+  - Publicações
+tags:
+  - abandonar
+  - Amor
+  - cristo
+  - diferença
+  - Dons
+  - Graça
+  - irmão
+  - outro
+  - Proféticos
+  - Vida
+author:
+  - Equipe GrupoNews
 post_date: 2009-11-01 12:00:01
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 - O amor do Pai esbanjador
 - A árvore de natal na casa do Cristo

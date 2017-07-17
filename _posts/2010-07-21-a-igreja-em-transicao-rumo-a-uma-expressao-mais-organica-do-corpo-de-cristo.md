@@ -1,19 +1,54 @@
 ---
 ID: 932
 post_title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/jornal-maio-junho-2010-capa.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/jornal-maio-junho-2010-capa-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/jornal-maio-junho-2010-capa.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/jornal-maio-junho-2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo
+  publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo
 published: true
+categories:
+  - Jornal GrupoNews
+  - Publicações
+tags:
+  - ajuda
+  - Bem
+  - chamado
+  - cisco
+  - compaixão
+  - Comunidade
+  - conforto
+  - Corpo
+  - cristo
+  - Cura
+  - curado
+  - deus
+  - Ekklesia
+  - Fé
+  - Igreja
+  - irmão
+  - Jesus
+  - mensageiro
+  - mensagem
+  - olho
+  - orgânica
+  - Pecado
+  - pecador
+  - Perdão
+  - pergunta
+  - pessoa
+  - ser
+  - tanque
+author:
+  - Equipe GrupoNews
 post_date: 2010-07-21 12:00:23
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 - A comunidade do perdão e do confronto
 - Devolvendo o bem pelo mal recebido

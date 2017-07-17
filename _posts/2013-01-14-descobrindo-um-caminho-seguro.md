@@ -1,19 +1,24 @@
 ---
 ID: 2874
 post_title: Descobrindo um caminho seguro
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/espirito-santo/descobrindo-um-caminho-seguro
-published: true
-post_date: 2013-01-14 00:18:51
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  espirito-santo/descobrindo-um-caminho-seguro
+published: true
+categories:
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+tags:
+  - deus
+  - mensagem
+author:
+  - Ezequiel Netto
+post_date: 2013-01-14 00:18:51
 ---
 <i>Este artigo é o décimo segundo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>
 

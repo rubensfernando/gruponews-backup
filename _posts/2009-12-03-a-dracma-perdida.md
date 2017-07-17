@@ -1,19 +1,35 @@
 ---
 ID: 41
 post_title: A dracma perdida
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/familia/a-dracma-perdida
+permalink: familia/a-dracma-perdida
 published: true
+categories:
+  - Família
+tags:
+  - A dracma perdida
+  - Acender
+  - Casa
+  - Dracma
+  - Encontrar
+  - Noiva
+  - Noivo
+  - Parábola
+  - Perdida
+  - Procurar
+  - Reino
+author:
+  - Maurício Bronzatto
 post_date: 2009-12-03 22:40:13
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Em Lucas 15, encontramos um conjunto de parábolas afins, que tratam do mesmo assunto: de coisas que perdemos e da busca que precisamos empreender para encontrá-las.
 

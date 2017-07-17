@@ -3,19 +3,21 @@ ID: 4697
 post_title: >
   Por que a igreja no lar não é a
   resposta?
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta
-published: true
-post_date: 2016-07-13 11:39:20
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta
+published: true
+categories:
+  - Vivendo como igreja relacional
+tags:
+  - edicao-82
+author: [ ]
+post_date: 2016-07-13 11:39:20
 ---
 <p class="small">Este é o 6º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os artigos anteriores</a></p>
 <p class="p2"><span class="s1">A</span><span class="s1">pós 20 anos de incontáveis orações sem uma solução, concluí que ou Deus estava me ignorando, ou eu estava buscando a coisa errada. A ansiedade foi minha companheira constante, e digo muito honestamente que isso não foi divertido. Ela me dava socos no estômago quando eu menos esperava, e seus delírios me mantinham acordado durante a noite. Sempre que vinham as circunstâncias que provocavam ansiedade, eu implorava a Deus que mudasse isso, que eu não ficasse ansioso. Raramente, ou nunca, ele respondia a essas orações. Finalmente, eu concluí que o problema não estava nas circunstâncias, mas na ansiedade em si mesma. Minhas orações mudaram. Parei de implorar para Deus mudar minhas circunstâncias e, em vez disso, pedia para remover minha ansiedade. Dessa vez, levou apenas uma década para eu perceber que essas orações não estavam funcionando, e cresci incrivelmente frustrado por Deus parecer indiferente aos meus assuntos. Eu não sabia que, no coração de Deus, meu problema não eram as circunstâncias que permitiam que minha ansiedade emergisse, e nem a ansiedade em si. </span></p>

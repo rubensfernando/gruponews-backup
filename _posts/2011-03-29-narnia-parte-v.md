@@ -1,19 +1,34 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-v
+  bases-cristas/um-lugar-chamado-narnia/narnia-parte-v
 published: true
+categories:
+  - Um lugar chamado Nárnia
+tags:
+  - A Viagem do Peregrino da Alvorada
+  - alvorada
+  - aslam
+  - cronicas
+  - filme
+  - Livro
+  - narnia
+  - peregrino
+  - viagem
+author:
+  - Renata Ribeiro Arruda
 post_date: 2011-03-29 22:18:18
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <h3>O dragão que há em nós</h3>
 <em>Este artigo é o quinto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

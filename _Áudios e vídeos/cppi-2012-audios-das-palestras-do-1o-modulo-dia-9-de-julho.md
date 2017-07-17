@@ -1,19 +1,24 @@
 ---
 ID: 2600
 post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 9 de julho'
-author: [ ]
-post_excerpt: ""
-layout: audioevideo
-permalink: >
-  https://www.gruponews.com.br/audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
-published: true
-post_date: 2012-07-14 20:38:23
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: audioevideo
+permalink: >
+  audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
+published: true
+categories:
+  - Publicações
 tags: [ ]
+author:
+  - Abnério Cabral
+  - Eliana Walker
+  - Eliza Walker
+  - Pedro Arruda
+post_date: 2012-07-14 20:38:23
 ---
 Confira os áudio das palestras do dia 9 de julho, 1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.
 

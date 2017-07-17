@@ -1,19 +1,23 @@
 ---
 ID: 3566
 post_title: Imersão 2014
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/imersao-2014
+permalink: eventos/imersao-2014
 published: true
-post_date: 2013-12-03 13:10:18
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 categories: [ ]
 tags: [ ]
+author:
+  - Equipe GrupoNews
+post_date: 2013-12-03 13:10:18
 ---
 <h3>O que é Imersão?</h3>
 É um encontro intensivo dedicado ao ensino da Palavra, oração, reflexão, louvor e muita comunhão.

@@ -1,19 +1,35 @@
 ---
 ID: 701
 post_title: A necessidade da igreja como família
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/jornal-marco-abril-2010-capa.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/jornal-marco-abril-2010-capa-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/jornal-marco-abril-2010-capa.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/jornal-marco-abril-2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores
+  publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores
 published: true
+categories:
+  - Jornal GrupoNews
+  - Publicações
+tags:
+  - dom
+  - Dons
+  - Família
+  - Igreja
+  - namoro
+  - narnia
+  - paternidade
+  - profético
+  - Salvação
+author:
+  - Equipe GrupoNews
 post_date: 2010-05-01 12:00:13
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 A necessidade da igreja como família: Pais de mãos estendidas ao invés de líderes condutores
 

@@ -1,19 +1,21 @@
 ---
 ID: 1506
 post_title: Compartilhando a cruz no Brasil
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/compartilhando-a-cruz-no-brasil
-published: true
-post_date: 2010-02-02 15:22:31
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: artigos/compartilhando-a-cruz-no-brasil
+published: true
+categories:
+  - Artigos
+  - Vida
 tags: [ ]
+author:
+  - Wayne Jacobsen
+post_date: 2010-02-02 15:22:31
 ---
 <em>As impressões de Wayne Jacobsen sobre sua passagem pelo Brasil</em>
 

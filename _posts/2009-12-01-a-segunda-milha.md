@@ -1,19 +1,30 @@
 ---
 ID: 86
 post_title: A Segunda Milha
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/a-segunda-milha
-published: true
-post_date: 2009-12-01 20:58:59
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: igreja/a-segunda-milha
+published: true
+categories:
+  - Igreja
+tags:
+  - Caminhar
+  - Conceito
+  - Ganhar
+  - Graça
+  - Lei
+  - Milha
+  - Obrigação
+  - Perder
+  - Praticar
+  - Relacionamento
+author:
+  - Pedro Arruda
+post_date: 2009-12-01 20:58:59
 ---
 “<em>E, se qualquer te obrigar a caminhar uma milha, vai com ele duas</em>.” (Mateus 5:41)
 

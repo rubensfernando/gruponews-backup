@@ -1,19 +1,24 @@
 ---
 ID: 3039
 post_title: Músicas
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  https://www.gruponews.com.br/audioevideo/paternidade-2013-musicas
+permalink: audioevideo/paternidade-2013-musicas
 published: true
-post_date: 2013-03-22 08:00:04
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 categories: [ ]
 tags: [ ]
+author:
+  - Denis Bastos
+  - Erika Oliveira
+post_date: 2013-03-22 08:00:04
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/002Louvor-Todas-as-Musicas.mp3]
 

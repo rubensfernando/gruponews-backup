@@ -1,19 +1,34 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna-720x600.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/familia/hombridade-e-a-casa-digna
+permalink: familia/hombridade-e-a-casa-digna
 published: true
+categories:
+  - Família
+tags:
+  - Casa
+  - Credibilidade
+  - Digna
+  - Família
+  - Hombridade
+  - Homem
+  - Hospitaleira
+  - Influência
+  - Pastoreio
+  - Prestígio
+author:
+  - Pedro Arruda
 post_date: 2009-11-28 16:44:05
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Mt.9:35-10:42; At.13 e 14; I Tm.3:1-13; Tt.2:10
 

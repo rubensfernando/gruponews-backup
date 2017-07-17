@@ -1,19 +1,23 @@
 ---
 ID: 3626
 post_title: Com que luz você foi iluminado?
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/com-que-luz-voce-foi-iluminado
-published: true
-post_date: 2014-02-07 15:54:54
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/vida/com-que-luz-voce-foi-iluminado
+published: true
+categories:
+  - Vida
+tags:
+  - edicao-77
+  - editorial
+author:
+  - Maurício Bronzatto
+post_date: 2014-02-07 15:54:54
 ---
 Na última edição (Grupo News nº 76, julho de 2013), refletimos sobre a necessidade de uma nova relação com o trabalho, levando em consideração a possibilidade de que nossas atividades profissionais terão continuidade e se integrarão à realidade do Reino Milenar. Vimos que o tempo presente é o momento de aprendermos muitas qualidades e valores que serão exercidos em plenitude no tempo vindouro. Essa maneira de enxergar o Milênio, sem uma descontinuidade em relação ao que nos foi confiado antes disso, aumenta nossa responsabilidade em discernir aquilo para que fomos criados. A propósito, você saberia dizer para que sem lançar mão de conhecidos chavões como “para a glória de Deus”?
 

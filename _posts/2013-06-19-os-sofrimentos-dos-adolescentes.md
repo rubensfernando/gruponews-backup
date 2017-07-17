@@ -1,19 +1,26 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/os-sofrimentos-dos-adolescentes
-published: true
-post_date: 2013-06-19 00:03:28
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: artigos/os-sofrimentos-dos-adolescentes
+published: true
+categories:
+  - Artigos
+  - Família
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+tags:
+  - edicao-75
+author:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+post_date: 2013-06-19 00:03:28
 ---
 <i>Este artigo é o sexto de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.  </i>
 

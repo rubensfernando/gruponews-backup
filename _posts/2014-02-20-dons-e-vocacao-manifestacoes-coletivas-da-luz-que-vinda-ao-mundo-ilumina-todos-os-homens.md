@@ -1,19 +1,26 @@
 ---
 ID: 4239
 post_title: 'Dons e vocação: Manifestações coletivas da  Luz que, vinda ao mundo, ilumina a todos os homens'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1920x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x1280.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
+  publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
 published: true
+categories:
+  - Jornal GrupoNews
+tags:
+  - Dons
+author:
+  - Maurício Bronzatto
 post_date: 2014-02-20 15:51:43
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Veja os artigos dessa edição:
 <ul>

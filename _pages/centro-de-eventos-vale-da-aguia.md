@@ -1,19 +1,22 @@
 ---
 ID: 1399
 post_title: Centro de Eventos Vale da Águia
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-1920x706.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-1280x706.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-1280x706.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-720x706.jpg
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.gruponews.com.br/eventos/centro-de-eventos-vale-da-aguia
+permalink: eventos/centro-de-eventos-vale-da-aguia
 published: true
-post_date: 2011-03-20 16:54:08
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 categories: [ ]
 tags: [ ]
+author: [ ]
+post_date: 2011-03-20 16:54:08
 ---
 <h2>Endereço</h2>
 Rua Paulo Varchavtchik, Cx 21

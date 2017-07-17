@@ -1,19 +1,21 @@
 ---
 ID: 4700
 post_title: O cético e o lúcido
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/o-cetico-e-o-lucido
-published: true
-post_date: 2016-07-14 09:20:43
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: bases-cristas/o-cetico-e-o-lucido
+published: true
+categories:
+  - Bases Cristãs
+tags:
+  - edicao-82
+author:
+  - Autor desconhecido
+post_date: 2016-07-14 09:20:43
 ---
 <p class="p1"><span class="s1">No ventre de uma mulher grávida, estavam dois bebês.</span></p>
 <p class="p1"><span class="s1">O primeiro pergunta ao outro:</span></p>

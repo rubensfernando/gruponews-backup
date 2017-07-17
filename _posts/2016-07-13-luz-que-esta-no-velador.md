@@ -1,19 +1,21 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/espirito-santo/luz-que-esta-no-velador
-published: true
-post_date: 2016-07-13 11:30:51
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: espirito-santo/luz-que-esta-no-velador
+published: true
+categories:
+  - Espírito Santo
+tags:
+  - edicao-82
+author:
+  - Rosana Coelho Correa de Oliveira
+post_date: 2016-07-13 11:30:51
 ---
 <p class="p1"><span class="s1">E</span><span class="s1">ntre diversas instruções que Jesus Cristo deixou aos seus discípulos quando esteve na Terra, uma das mais claras e objetivas está em Mateus 5:13-16. Ao dizer-lhes que eles eram o sal da terra e a luz do mundo, Jesus também lhes conferiu a responsabilidade de resplandecer sua luz diante dos homens, e isso de tal forma que, vendo essa luz, os homens glorificassem a Deus.</span></p>
 <p class="p3"><span class="s1">Jesus não está apenas entregando uma missão aos seus discípulos. Ele está ensinando a eles uma maneira de viver, mostrando-lhes como deve ser seu estilo de vida. Ser sal e luz não era uma tarefa para alguns momentos específicos de suas vidas, mas a essência do que deveriam se tornar. Jesus fez questão de reforçar sua orientação, dizendo que o sal que perde o sabor para nada serve. No mesmo sentido, não se acende a luz para colocá-la debaixo do alqueire, mas sim no velador, para que ilumine a todos os que estão na casa. É com base nessa condição que Jesus comissiona seus discípulos para irem às nações e fazerem novos discípulos (Mt 28:19-20). </span></p>

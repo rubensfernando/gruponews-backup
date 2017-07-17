@@ -1,19 +1,19 @@
 ---
 ID: 1177
 post_title: 'O Projeto de Reevangelização &#8211; aulas de segunda-feira'
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/geral/aulas-de-segunda-feira
-published: true
-post_date: 2010-11-01 00:00:10
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: geral/aulas-de-segunda-feira
+published: true
+categories:
+  - Geral
 tags: [ ]
+author: [ ]
+post_date: 2010-11-01 00:00:10
 ---
 Toda segunda-feira a partir das 20h tem aula ao vivo aqui na Webtv! Fique por dentro e participe, as aulas são transmitidas diretamente do Espaço GrupoNews.
 

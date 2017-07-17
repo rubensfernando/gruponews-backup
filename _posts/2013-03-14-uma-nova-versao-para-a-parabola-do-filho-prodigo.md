@@ -3,19 +3,22 @@ ID: 2865
 post_title: >
   Uma nova versão para a parábola do
   filho pródigo
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
-published: true
-post_date: 2013-03-14 00:08:23
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
+published: true
+categories:
+  - Artigos
+tags:
+  - edicao-73
+author:
+  - Renata Ribeiro Arruda
+post_date: 2013-03-14 00:08:23
 ---
 Que história linda é a do filho pródigo! Ela é conhecidíssima por causa do poder da sua mensagem. Todos nós somos maus e precisamos ser perdoados, sentimos conforto ao ver que o bem está a nos esperar na figura do pai amoroso.
 

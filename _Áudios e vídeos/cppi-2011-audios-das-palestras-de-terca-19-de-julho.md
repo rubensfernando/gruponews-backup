@@ -1,19 +1,25 @@
 ---
 ID: 1816
 post_title: 'CPPI 2011 &#8211; Áudios das palestras de terça 19 de Julho'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-19.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-19.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-19.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-19-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https://www.gruponews.com.br/audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
+  audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
 published: true
-post_date: 2011-07-21 23:57:21
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Publicações
 tags: [ ]
+author:
+  - Equipe GrupoNews
+post_date: 2011-07-21 23:57:21
 ---
 Confira as palestras ministradas no dia 19 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.
 <h3>Abnério Cabral</h3>

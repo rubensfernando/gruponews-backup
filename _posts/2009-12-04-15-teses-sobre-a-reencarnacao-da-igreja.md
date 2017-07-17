@@ -3,19 +3,35 @@ ID: 413
 post_title: >
   15 teses sobre a reencarnação da
   igreja
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1707x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x1280.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
+  igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
 published: true
+categories:
+  - Igreja nos lares
+tags:
+  - Casa
+  - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+  - Igreja
+  - Lar
+  - Lares
+  - reencarnação
+  - reencarnar
+  - Simson
+  - Wolfgang
+  - Wolfgang Simson
+author:
+  - Wolfgang Simson
 post_date: 2009-12-04 23:40:39
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Deus transforma a igreja e isso, por sua vez, transformará o mundo. Milhões de cristãos em todo o mundo sentem que uma nova e surpreendente Reforma está se aproximando. Afirmam: “A igreja como a conhecemos impede uma igreja como Deus a quer”. É admirável o grande número de cristãos que parece perceber que Deus está tentando dizer-lhes a mesma coisa. Desse modo forma-se uma nova consciência coletiva para uma revelação existente há milênios, um eco espiritual coletivo.
 

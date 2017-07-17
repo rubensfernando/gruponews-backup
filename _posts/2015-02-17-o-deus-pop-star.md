@@ -1,19 +1,22 @@
 ---
 ID: 4313
 post_title: O Deus pop star?
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-deus-pop-star
-published: true
-post_date: 2015-02-17 12:56:02
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  bases-cristas/o-deus-mal-compreendido/o-deus-pop-star
+published: true
+categories:
+  - O Deus mal compreendido
+tags:
+  - edicao-80
+author:
+  - Darin Hufford
+post_date: 2015-02-17 12:56:02
 ---
 <div class="small">Esta é a 6ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante). <a href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para ler os resumos anteriores.</a></div>
 <div class="small"></div>

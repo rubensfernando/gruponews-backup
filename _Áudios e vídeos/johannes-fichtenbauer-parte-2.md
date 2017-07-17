@@ -1,17 +1,24 @@
 ---
 ID: 4497
 post_title: 'Johannes Fichtenbauer &#8211; Parte 2'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-2.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-2-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-2-1280x1080.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-2-720x720.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https://www.gruponews.com.br/audioevideo/johannes-fichtenbauer-parte-2
+  audioevideo/johannes-fichtenbauer-parte-2
 published: true
-post_date: 2015-09-19 00:37:46
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Igreja
 tags: [ ]
+author:
+  - Christopher Walker
+  - Johannes Fichtenbauer
+post_date: 2015-09-19 00:37:46
 ---

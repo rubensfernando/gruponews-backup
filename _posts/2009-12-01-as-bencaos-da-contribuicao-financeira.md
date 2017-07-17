@@ -3,19 +3,38 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira-720x550.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/igreja/as-bencaos-da-contribuicao-financeira
+  igreja/as-bencaos-da-contribuicao-financeira
 published: true
+categories:
+  - Bases Cristãs
+  - Igreja
+tags:
+  - Alegria
+  - Contribuição
+  - Contribuir
+  - Dízimo
+  - Estudo
+  - Estudos
+  - Falta
+  - Finanças
+  - Prosperidade
+  - Regular
+  - Sobra
+  - Sustentar
+author:
+  - Pedro Arruda
 post_date: 2009-12-01 21:07:58
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <h3>A contribuição e a natureza de Deus</h3>
 A contribuição não é algo natural do ponto de vista humano, mas faz parte da natureza de Deus. Doar é próprio de Deus. Como prova máxima, Ele nos deu seu Filho amado. Mesmo sendo rico, Jesus se fez pobre por nós para que nos tornássemos ricos. A igreja primitiva praticou esse princípio com muita diligência. Enquanto nos recusamos a dar, não estamos compartilhando do espírito de Cristo, mas manifestando a nossa carnalidade.

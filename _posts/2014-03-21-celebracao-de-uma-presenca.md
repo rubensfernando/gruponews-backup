@@ -1,19 +1,25 @@
 ---
 ID: 3597
 post_title: A celebração de uma presença
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/celebracao-de-uma-presenca
-published: true
-post_date: 2014-03-21 00:04:32
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: bases-cristas/celebracao-de-uma-presenca
+published: true
+categories:
+  - Bases Cristãs
+tags:
+  - Comunidade
+  - edicao-75
+  - experiência
+  - Milagre
+  - presença
+author:
+  - Pr. Rui Luis Rodrigues
+post_date: 2014-03-21 00:04:32
 ---
 Dois homens estão a caminho de uma aldeia chamada Emaús. Carregam no peito uma tristeza muito nossa conhecida: a tristeza da desilusão, dos sonhos desfeitos, das esperanças destroçadas.
 

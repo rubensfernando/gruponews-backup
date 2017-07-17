@@ -1,19 +1,25 @@
 ---
 ID: 1679
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de quinta-feira 14 de julho'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https://www.gruponews.com.br/audioevideo/cppi-2011-audio-das-palestras-de-quinta-feira-14-de-julho
+  audioevideo/cppi-2011-audio-das-palestras-de-quinta-feira-14-de-julho
 published: true
-post_date: 2011-07-16 12:00:40
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Publicações
 tags: [ ]
+author:
+  - Equipe GrupoNews
+post_date: 2011-07-16 12:00:40
 ---
 Confira as palestras ministradas no dia 14 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.
 

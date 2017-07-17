@@ -1,19 +1,19 @@
 ---
 ID: 1474
 post_title: Sobre a coautoria em “A Cabana”
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/geral/sobre-a-coautoria-em-a-cabana
-published: true
-post_date: 2010-02-02 00:15:52
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: geral/sobre-a-coautoria-em-a-cabana
+published: true
+categories:
+  - Geral
 tags: [ ]
+author: [ ]
+post_date: 2010-02-02 00:15:52
 ---
 Depois de finalizar “Por que você não quer mais ir à igreja?”, envolvi-me com o livro “A cabana”, que é uma história que um amigo escreveu para os filhos dele. Ele me entregou os originais e apenas disse: “Espero que você tenha interesse em ler”. Eu amei as percepções da natureza do Pai que aquele livro me trouxe. Perguntei a William se podia publicar. “Não vou publicar, eu escrevi para os meus filhos”, ele respondeu. Além disso, ele não estava bem certo se valia a pena. Eu o fiz acreditar que valia muito a pena.
 

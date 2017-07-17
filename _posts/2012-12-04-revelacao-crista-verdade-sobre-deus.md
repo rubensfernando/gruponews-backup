@@ -3,19 +3,21 @@ ID: 2107
 post_title: >
   A revelação cristã e a verdade sobre
   Deus
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/revelacao-crista-verdade-sobre-deus
-published: true
-post_date: 2012-12-04 23:47:16
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/revelacao-crista-verdade-sobre-deus
+published: true
+categories:
+  - Artigos
 tags: [ ]
+author:
+  - Nuno Tovar de Lemos
+post_date: 2012-12-04 23:47:16
 ---
 Há tempos alguém me perguntou (seguindo a sugestão de um filme que tinha visto) se Deus não seria um ser sádico que nos criou para se divertir conosco e assim calar a sua solidão. Como responder? Não adiantará muito, talvez, contra-argumentar que Deus é bom. Essa pessoa encontrará vários exemplos para insistir que Deus é sádico.
 

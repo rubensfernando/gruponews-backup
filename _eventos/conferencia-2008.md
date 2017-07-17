@@ -1,19 +1,27 @@
 ---
 ID: 456
 post_title: Conferência 2008
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008-720x307.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/conferencia-2008
+permalink: eventos/conferencia-2008
 published: true
+categories:
+  - Geral
+tags:
+  - conter
+  - Movimento
+  - suas
+author:
+  - Equipe GrupoNews
 post_date: 2008-10-01 01:18:13
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 A Conferência "A igreja do nosso tempo" é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.
 

@@ -1,19 +1,22 @@
 ---
 ID: 1976
 post_title: Subitamente afastado da correnteza
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/subitamente-afastado-da-correnteza
-published: true
-post_date: 2012-01-07 00:00:31
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/subitamente-afastado-da-correnteza
+published: true
+categories:
+  - Artigos
+tags:
+  - edicao-71
+author:
+  - Paulo Roberto da Silva
+post_date: 2012-01-07 00:00:31
 ---
 Eu, Neide e as crianças, nós todos, juntos, estávamos descendo rio abaixo, levados pela correnteza. Éramos pequenos pedaços de madeira num rio bem largo e vigoroso. Eu e a Neide, pedaços um pouco maiores; as crianças, pedaços menores. Alternávamo-nos nas posições: às vezes eu ficava à frente, outras vezes era a Neide. Mesmo as crianças, em algum momento, tomavam a dianteira. Entretanto sempre estávamos juntos e próximos uns dos outros, conforme a força da correnteza que nos levava.
 

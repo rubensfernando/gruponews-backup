@@ -1,19 +1,32 @@
 ---
 ID: 112
 post_title: Eu e minha Casa Serviremos ao Senhor
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/eu-e-minha-casa-serviremos-ao-senhor
-published: true
-post_date: 2009-12-01 21:34:18
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  artigos/eu-e-minha-casa-serviremos-ao-senhor
+published: true
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - Amor
+  - Casa
+  - Conversão
+  - Família
+  - Igreja
+  - Pai
+  - Servir
+  - Unidade
+  - Visão
+  - Vontade
+author:
+  - Maurício Bronzatto
+post_date: 2009-12-01 21:34:18
 ---
 A família é o alvo principal de Deus. Antes mesmo que surgisse a primeira família na face da terra, a Trindade já existia como família. Ao dizer: “Façamos o homem à nossa imagem e semelhança”, a Trindade conferenciava sobre criar uma família à semelhança da celestial a fim de ensiná-la sobre os princípios que regem a família eterna: o da comunhão e do amor. As famílias precisam existir sobre esses dois fundamentos que são a essência do relacionamento entre Deus, o Pai, Deus, o Filho e Deus, o Espírito Santo.
 

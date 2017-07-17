@@ -1,19 +1,20 @@
 ---
 ID: 1883
 post_title: O gigante egoísta
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/o-gigante-egoista
-published: true
-post_date: 2011-07-12 18:59:02
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: artigos/o-gigante-egoista
+published: true
+categories:
+  - Artigos
 tags: [ ]
+author:
+  - Oscar Wilde
+post_date: 2011-07-12 18:59:02
 ---
 Todas as tardes, à saída da escola, as crianças estavam acostumadas a ir brincar no jardim do gigante. Era um jardim grande e muito bonito, coberto de grama verde e suave. Dispersas sobre a grama, brilhavam belas flores como estrelas e havia uma dúzia de pessegueiros que, na primavera, cobriam-se de delicados botões rosáceos e, no outono, davam saborosos frutos.
 

@@ -3,19 +3,22 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
-published: true
-post_date: 2016-07-13 11:29:39
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
+published: true
+categories:
+  - Unidade
+tags:
+  - edicao-82
+author:
+  - José Carlos Marion
+post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>
 <p class="p3"><span class="s1">D</span><span class="s1">eus faz coisas extraordinárias em nosso meio quando buscamos caminhar em unidade. Se usufruímos dessa realidade dentro de nossas denominações, imagine o que Deus fará quando estivermos juntos entre várias denominações; que eficácia terá uma oração se estivermos unidos! </span></p>

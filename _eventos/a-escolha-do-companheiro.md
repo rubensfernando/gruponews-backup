@@ -1,19 +1,25 @@
 ---
 ID: 903
 post_title: A escolha do companheiro
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha-720x307.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/a-escolha-do-companheiro
+permalink: eventos/a-escolha-do-companheiro
 published: true
+categories:
+  - Geral
+tags:
+  - Nosso
+author:
+  - Equipe GrupoNews
 post_date: 2010-07-07 23:05:16
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Você é o nosso convidado para comparecer ao Espaço Grupo News e participar, dia 12/07 (segunda-feira) a partir das 20h, do compartilhamento do seguinte tema "<em>A escolha do companheiro</em>".
 

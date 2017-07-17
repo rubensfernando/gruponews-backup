@@ -1,19 +1,22 @@
 ---
 ID: 3917
 post_title: Construindo a casa do Senhor
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/igreja-nos-lares/construindo-casa-senhor
-published: true
-post_date: 2014-09-06 11:38:32
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: >
+  igreja/igreja-nos-lares/construindo-casa-senhor
+published: true
+categories:
+  - Igreja nos lares
+tags:
+  - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+author:
+  - Rosane Faria
+post_date: 2014-09-06 11:38:32
 ---
 <b>“Se o Senhor não edificar a casa, em vão trabalham os que a edificam” (Sl 127:1)</b>
 

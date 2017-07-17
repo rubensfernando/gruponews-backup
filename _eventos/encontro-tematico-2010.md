@@ -1,19 +1,26 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/encontro-tematico-2010
+permalink: eventos/encontro-tematico-2010
 published: true
+categories:
+  - Geral
+tags:
+  - Tudo
+  - Viver
+author:
+  - Equipe GrupoNews
 post_date: 2010-05-23 13:24:12
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <h3>Encontro Temático 2010 - A Igreja de hoje e a de sempre: discernindo a sua geração e redescobrindo a antiga vocação</h3>
 Dias: 25/06/2010 a 27/06/2010

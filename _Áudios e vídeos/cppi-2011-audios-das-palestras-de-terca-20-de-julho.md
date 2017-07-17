@@ -3,19 +3,24 @@ ID: 1849
 post_title: >
   CPPI 2011 – Áudios das palestras de
   Quarta 20 de Julho
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https://www.gruponews.com.br/audioevideo/cppi-2011-audios-das-palestras-de-terca-20-de-julho
+  audioevideo/cppi-2011-audios-das-palestras-de-terca-20-de-julho
 published: true
-post_date: 2011-07-25 19:35:36
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Publicações
 tags: [ ]
+author: [ ]
+post_date: 2011-07-25 19:35:36
 ---
 Confira as palestras ministradas no dia 20 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.
 <h3>Pedro Arruda</h3>

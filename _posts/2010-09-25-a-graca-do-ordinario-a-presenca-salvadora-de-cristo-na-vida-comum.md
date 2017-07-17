@@ -1,19 +1,25 @@
 ---
 ID: 1122
 post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
+  publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
 published: true
-post_date: 2010-09-25 23:08:32
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
+categories:
+  - Jornal GrupoNews
+  - Publicações
 tags: [ ]
+author: [ ]
+post_date: 2010-09-25 23:08:32
 ---
 - <a href="http://www.gruponews.com.br/2010/07/muito-mais-humanos-do-que-costumamos-admitir.html">Muito mais humanos do que costumamos admitir</a>
 - <a href="http://www.gruponews.com.br/2010/07/o-meu-calice-transborda.html">O meu cálice transborda</a>

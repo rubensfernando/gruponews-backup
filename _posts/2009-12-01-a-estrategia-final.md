@@ -1,19 +1,34 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/a-estrategia-final
+permalink: igreja/a-estrategia-final
 published: true
+categories:
+  - Igreja
+tags:
+  - Atitude
+  - Batalha
+  - Estratégia
+  - Guerra
+  - Homem
+  - Igreja
+  - Inimigo
+  - Louvor
+  - Oração
+  - Palavra
+author:
+  - Carlos Araripe
 post_date: 2009-12-01 20:42:53
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.
 

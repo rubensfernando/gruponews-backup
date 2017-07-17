@@ -4,19 +4,29 @@ post_title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-1000x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gruponews.com.br/artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
+  artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
 published: true
+categories:
+  - Artigos
+tags:
+  - Jesus
+  - milenar
+  - Milênio
+  - retorno
+  - volta
+author: [ ]
 post_date: 2012-04-04 12:00:05
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
-categories: [ ]
-tags: [ ]
 ---
 <blockquote>As três últimas fases da história são: Israel, Igreja e Reino Milenar Messiânico, vindo depois a eternidade. Assim como os judeus não compreendiam o período da igreja e por isso queriam pular diretamente para o reino messiânico, os cristãos não estão compreendendo o reino milenar messiânico e, de maneira geral, imaginam saltar da ressurreição diretamente para a eternidade. É extensa a abordagem que a bíblia faz do reino milenar messiânico. Talvez a melhor e mais imediata maneira de compreendê-lo seja através do período precursor de quarenta dias que Jesus conviveu na condição de ressuscitado entre os seus discípulos. (Mt 17.1-9; 28; Mc 16; Lc 24; At 1.1-14; Jo 20; 21; At 9.1-16; 1 Co 15.3-58; Ap 20.1-6)</blockquote>
 Quando de sua encarnação, o ministério de Jesus foi anunciar o reino de Deus com palavras e ações com a intenção de implantá-lo dentro do homem. Em seguida, através do ministério do Espírito Santo, este reino começou a ser externado para, finalmente, na volta de Jesus, consolidar-se, de forma completa, tanto interiormente no homem como exteriormente no mundo.

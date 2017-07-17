@@ -1,17 +1,26 @@
 ---
 ID: 3551
 post_title: 'Conferência 2013 &#8211; Palestra 9 &#8211; John Noble'
-author: [ ]
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-720x503.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  https://www.gruponews.com.br/audioevideo/conferencia-2013-palestra-9-john-noble
+  audioevideo/conferencia-2013-palestra-9-john-noble
 published: true
-post_date: 2013-11-18 16:21:03
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 categories: [ ]
-tags: [ ]
+tags:
+  - Igreja
+  - liderança
+  - orgânica
+  - Vida
+author:
+  - John Noble
+post_date: 2013-11-18 16:21:03
 ---

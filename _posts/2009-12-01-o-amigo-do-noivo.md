@@ -1,19 +1,31 @@
 ---
 ID: 116
 post_title: O Amigo do Noivo
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/o-amigo-do-noivo
-published: true
-post_date: 2009-12-01 21:44:37
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
-tags: [ ]
+post_excerpt: ""
+layout: post
+permalink: artigos/o-amigo-do-noivo
+published: true
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - Amigo
+  - Função
+  - Louvor
+  - Ministério
+  - Missão
+  - Noivo
+  - Obediência
+  - Oração
+  - Palavra
+  - Preparar
+author:
+  - Clélia Arruda
+post_date: 2009-12-01 21:44:37
 ---
 Na Bíblia, encontramos esta figura referenciada por João Batista. Para sabermos um pouco mais sobre ela devemos ler no Livro de Gênesis, capítulo 24, a história do servo de Abraão, incumbido por ele de providenciar uma esposa para Isaque, seu filho.
 

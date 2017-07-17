@@ -1,17 +1,18 @@
 ---
 ID: 1472
 post_title: Sobre esta edição especial
-author: [ ]
-post_excerpt: ""
-layout: post
-permalink: https://www.gruponews.com.br/?p=1472
-published: false
 image-xl: ""
 image-l: ""
 image-sq-l: ""
 image-sq-m: ""
-categories: [ ]
+post_excerpt: ""
+layout: post
+permalink: ?p=1472
+published: false
+categories:
+  - Geral
 tags: [ ]
+author: [ ]
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} -->O conteúdo que ora disponibilizamos é a versão escrita da Conferência 2009, evento realizado nos dias 05 e 06 de dezembro no sítio Vale da Águia, em Sorocaba, SP. Os textos, obviamente com pequenas adaptações, são bastante fiéis às exposições de Wayne Jacobsen, nosso convidado especial, autor de “Por que você não quer mais ir à igreja?”, obra que inspirou a terceira edição deste acontecimento anual.
 
