@@ -1,9 +1,18 @@
 ---
 ID: 1122
 post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-09-25 23:08:32
 ---
 - <a href="http://www.gruponews.com.br/2010/07/muito-mais-humanos-do-que-costumamos-admitir.html">Muito mais humanos do que costumamos admitir</a>

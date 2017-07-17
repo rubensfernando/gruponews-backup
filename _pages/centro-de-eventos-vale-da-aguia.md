@@ -1,9 +1,18 @@
 ---
 ID: 1399
 post_title: Centro de Eventos Vale da Águia
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
+permalink: >
+  https://www.gruponews.com.br/eventos/centro-de-eventos-vale-da-aguia
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-03-20 16:54:08
 ---
 <h2>Endereço</h2>

@@ -1,9 +1,18 @@
 ---
 ID: 1974
 post_title: Problemas no coração do profeta
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/problemas-no-coracao-do-profeta
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-12-28 00:00:22
 ---
 <em>Este artigo é o décimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </em>

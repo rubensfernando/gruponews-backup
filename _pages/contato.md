@@ -1,9 +1,17 @@
 ---
 ID: 10
 post_title: Contato
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
+permalink: https://www.gruponews.com.br/contato
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-09-19 17:06:30
 ---
 <h3>Endereço para correspondência:</h3>

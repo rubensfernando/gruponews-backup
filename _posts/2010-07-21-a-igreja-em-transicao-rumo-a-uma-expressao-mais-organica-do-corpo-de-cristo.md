@@ -1,9 +1,18 @@
 ---
 ID: 932
 post_title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-07-21 12:00:23
 ---
 - A comunidade do perdão e do confronto

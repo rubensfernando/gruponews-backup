@@ -1,9 +1,18 @@
 ---
 ID: 3599
 post_title: Os sofrimentos dos adolescentes
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/os-sofrimentos-dos-adolescentes
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-06-19 00:03:28
 ---
 <i>Este artigo é o sexto de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.  </i>

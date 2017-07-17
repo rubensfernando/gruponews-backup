@@ -1,8 +1,17 @@
 ---
 ID: 2770
 post_title: 'Transmissão ao vivo da Conferência &#8220;A Trindade e o Reino de Deus&#8221;'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/noticias/transmissao-ao-vivo-da-conferencia-a-trindade-e-o-reino-de-deus
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-11-02 12:11:55
 ---

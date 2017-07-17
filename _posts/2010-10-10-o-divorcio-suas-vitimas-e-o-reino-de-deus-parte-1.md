@@ -1,9 +1,18 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-10-10 16:10:20
 ---
 Este artigo é o primeiro de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias se considerarmos também as separações conjugais de “uniões estáveis”. Em cada parte da nossa discussão estabeleceremos paralelos entre aquilo que o Novo Testamento registra a respeito, e os resultados da mais importante pesquisa dos últimos quarenta anos sobre o assunto. Trata-se do trabalho coordenado durante vinte anos pela norte-americana, Dra. Judith S. Wallerstein, que apresentou os dados de suas descobertas em várias obras. Utilizaremos o livro “<em>Sonhos e realidades no divórcio</em>”, escrito em parceria com Sandra Blakeslee, e publicado no Brasil pela Saraiva em 1991.

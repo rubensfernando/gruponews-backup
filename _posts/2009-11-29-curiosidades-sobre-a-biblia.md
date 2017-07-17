@@ -1,9 +1,18 @@
 ---
 ID: 156
 post_title: Curiosidades sobre a Bíblia
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/curiosidades-sobre-a-biblia
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

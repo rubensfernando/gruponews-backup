@@ -1,9 +1,18 @@
 ---
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-01-30 22:38:33
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>

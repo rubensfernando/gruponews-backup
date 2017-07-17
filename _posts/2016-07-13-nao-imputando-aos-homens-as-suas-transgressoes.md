@@ -3,9 +3,18 @@ ID: 4693
 post_title: >
   Não imputando aos homens as suas
   transgressões
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>

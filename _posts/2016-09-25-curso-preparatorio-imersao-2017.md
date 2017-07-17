@@ -1,9 +1,18 @@
 ---
 ID: 4779
 post_title: 'Curso Preparatório &#8211; Imersão 2017'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/geral/curso-preparatorio-imersao-2017
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2016-09-25 14:02:00
 ---
 Dos dias 07 a 15 de Janeiro de 2017, será realizado o Imersão de Verão. Para participar do encontro é obrigatória a participação nos cursos preparatórios.

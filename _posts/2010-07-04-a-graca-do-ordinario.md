@@ -1,9 +1,18 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/a-graca-do-ordinario
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-07-04 17:39:40
 ---
 <i>“Quando aprendermos a aceitar o comum, deixarmos de cultuar nossas celebridades e olharmos mais para a Bíblia, então daremos os primeiros passos na direção do crescimento espiritual.”</i>

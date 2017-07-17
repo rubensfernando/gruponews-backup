@@ -3,9 +3,18 @@ ID: 1922
 post_title: >
   O eloquente silêncio de Jesus sobre a
   verdade
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 18:49:48
 ---
 Pilatos fez a Jesus uma pergunta que, aos mais desavisados, parece ter deixado Jesus sem resposta: “Que é a verdade?” (Jo 18.38). Neste caso, o silêncio de Jesus fazia parte da resposta, pois “como cordeiro foi levado ao matadouro; e, como ovelha muda perante os seus tosquiadores, ele não abriu a boca” (Is 53.7).

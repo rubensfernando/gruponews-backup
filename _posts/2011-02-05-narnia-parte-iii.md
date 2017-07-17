@@ -1,9 +1,18 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-iii
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>

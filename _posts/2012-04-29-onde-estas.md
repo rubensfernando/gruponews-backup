@@ -3,9 +3,18 @@ ID: 2374
 post_title: >
   Onde estás? Os problemas em fugir de um
   problema
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/vida/onde-estas
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-04-29 19:51:20
 ---
 No princípio, Deus amou. Por causa do Seu amor, Ele criou. No livro de Gênesis, Deus lança diversas afirmações comparadas ao som de uma orquestra. “Haja luz” (Gn. 1:3) foi a primeira afirmativa e, como uma nota musical, soou das cordas vocais do Criador em direção a terra. Logo em seguida, Deus ordenou: “haja uma expansão no meio das águas” (Gn. 1:6), e a melodia apressou-se em obedecer a ordem divina, separando águas e águas.

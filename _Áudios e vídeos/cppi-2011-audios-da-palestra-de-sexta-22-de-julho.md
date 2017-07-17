@@ -3,9 +3,18 @@ ID: 1864
 post_title: >
   CPPI 2011 – Áudios da palestra de
   Sexta 22 de Julho
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
+permalink: >
+  https://www.gruponews.com.br/audioevideo/cppi-2011-audios-da-palestra-de-sexta-22-de-julho
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-26 18:04:42
 ---
 Confira as palestras ministradas no último dia do Curso de Preparação Profética Intensivo 2011!

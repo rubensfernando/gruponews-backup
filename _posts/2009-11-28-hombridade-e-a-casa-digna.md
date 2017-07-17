@@ -1,9 +1,18 @@
 ---
 ID: 44
 post_title: Hombridade e a Casa Digna
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/familia/hombridade-e-a-casa-digna
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-11-28 16:44:05
 ---
 Mt.9:35-10:42; At.13 e 14; I Tm.3:1-13; Tt.2:10

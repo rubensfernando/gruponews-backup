@@ -1,9 +1,18 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-09-01 00:00:51
 ---
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- O outro como altar e como cura da esterilidade</div>

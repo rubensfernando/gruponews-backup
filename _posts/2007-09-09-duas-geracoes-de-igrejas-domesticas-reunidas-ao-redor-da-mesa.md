@@ -3,9 +3,18 @@ ID: 3959
 post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2007-09-09 22:58:48
 ---
 Em visita ao casal Offini e Elza Franco, pioneiros do movimento de igrejas nas casas no Brasil, no início dos anos 70, Wolfgang pôde compartilhar um pouco do que tem visto e experimentado nos países em que tem trabalhado. Externou também o agradecimento pela contribuição que a geração anterior proporcionou à atual. Aproveitou para conferir o que tem sido anunciado pelos profetas da igreja brasileira com o que tem ouvido ao redor do mundo. Wolf sonha com uma igreja que deixe de lado o programa, o evento e se transforme em estilo de vida. Ele tem desafiado as pessoas a conhecerem essa igreja, que não pode ter outro fundamento senão o apostólico e profético. Para ele, somente a palavra apostólica pode produzir esta igreja.

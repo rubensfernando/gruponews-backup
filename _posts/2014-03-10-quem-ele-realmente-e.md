@@ -1,9 +1,18 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-03-10 09:01:18
 ---
 Certa noite, em meu escritório, eu estava deprimido pelo que vi naquela conferência (<a title="A mentira que falamos" href="http://www.gruponews.com.br/2013/10/a-mentira-que-falamos.html">ver parte 1</a>). Não podia me abalar, mas a maior parte das pessoas eram de minha congregação e estavam espiritualmente miseráveis. Algo precisava ser feito, mas o quê? Eu também estava miserável e abatido como todos eles.

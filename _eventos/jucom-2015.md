@@ -1,9 +1,18 @@
 ---
 ID: 4407
 post_title: Jucom 2015
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/jucom-2015
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2015-06-29 02:10:05
 ---
 <strong>Juventude em Comunhão - Edição 2015</strong>

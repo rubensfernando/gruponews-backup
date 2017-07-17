@@ -1,9 +1,18 @@
 ---
 ID: 4691
 post_title: Os amigos do mestre
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/os-amigos-do-mestre
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:27:09
 ---
 <p class="p1"><span class="s1">Dentre os seus discípulos, Jesus escolheu os doze apóstolos e, por fim, os chamou de amigos.</span></p>

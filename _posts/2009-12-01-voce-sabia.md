@@ -1,9 +1,18 @@
 ---
 ID: 163
 post_title: 'Você sabia&#8230;'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/voce-sabia
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:31:45
 ---
 ...que dos 3.779 versículos dos 4 Evangelhos, mais de 50% foram proferidos por Jesus, ou seja, um total de 1.934 versículos?

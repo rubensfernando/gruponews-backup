@@ -1,9 +1,18 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/um-mesmo-coracao-para-pais-e-filhos
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:21:53
 ---
 “E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição” (Ml 4:6). “Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo” (Jr 31:1).

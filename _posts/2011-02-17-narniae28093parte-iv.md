@@ -1,9 +1,17 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>

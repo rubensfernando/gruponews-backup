@@ -1,9 +1,18 @@
 ---
 ID: 3686
 post_title: Encontro de Evangelismo 2015
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/noticias/encontro-de-evangelismo-2015-2
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2015-05-15 10:40:36
 ---
 Considerando o que o Apóstolo Paulo fala em Romanos 1:16 que o evangelho “é poder de Deus para salvação de todo aquele que nele crê”, temos o dever de anunciá-lo em alto e bom som a todos.

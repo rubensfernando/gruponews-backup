@@ -1,9 +1,18 @@
 ---
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-01-22 21:29:50
 ---
 <h3>A Nárnia que o guarda-roupa esconde</h3>

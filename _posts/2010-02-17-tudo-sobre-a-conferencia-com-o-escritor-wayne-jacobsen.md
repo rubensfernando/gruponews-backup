@@ -3,9 +3,18 @@ ID: 519
 post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-02-17 00:00:08
 ---
 <ul>

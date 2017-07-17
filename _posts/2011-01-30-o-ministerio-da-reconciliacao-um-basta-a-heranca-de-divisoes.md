@@ -1,9 +1,18 @@
 ---
 ID: 1287
 post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-01-30 12:00:05
 ---
 - A reforma da unidade da igreja

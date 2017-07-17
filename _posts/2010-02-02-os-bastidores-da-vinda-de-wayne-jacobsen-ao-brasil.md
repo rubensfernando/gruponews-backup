@@ -3,9 +3,18 @@ ID: 1481
 post_title: >
   Os bastidores da vinda de Wayne Jacobsen
   ao Brasil
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-02-02 00:20:08
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia; min-height: 12.0px} -->A primeira vez que ouvi falar sobre o Wayne e o seu livro foi através de um despretensioso e-mail que um amigo, o Maurício, enviou-me no final de julho de 2009. Mal imaginava aonde aquelas poucas linhas me levariam. Considerei ler o livro em algum momento no futuro, afinal as indicações do Maurício costumam ser muito boas. Naquela ocasião, eu estava passando um mês no exterior e já preocupado com a quantidade de tarefas que me aguardavam quando retornasse ao Brasil. Assim que cheguei em casa, o e-mail seguinte do Maurício me sondava sobre a possibilidade de intermediar a vinda do autor para participar da nossa Conferência. Francamente fui tentado a declinar desse pedido, pois estava chegando de viagem, retomando o trabalho com alguns incêndios a serem apagados, e a Neide, minha esposa, encontrava-se na fase final da gravidez. Trazia muitas preocupações comigo, e várias coisas exigiam minha atenção. Assumir a responsabilidade de manter contato com o Wayne seria mais uma tarefa na minha já tumultuada agenda. Expus ao Maurício os meus motivos para não assumir aquela incumbência e fiquei torcendo para que ele fosse compreensivo comigo. Para a minha alegria futura, ele não foi tão condescendente quanto eu gostaria. Tive que aceitar o encargo. (Que bom!).

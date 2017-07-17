@@ -1,9 +1,18 @@
 ---
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/vida-abundante-uma-vida-comprometida-com-deus
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:26:29
 ---
 A existência do homem é um fator de muitas indagações. Teria o homem surgido do macaco? Ou quem sabe de uma explosão cósmica? A existência do homem continua a ser um mistério para muitas pessoas.

@@ -1,9 +1,18 @@
 ---
 ID: 818
 post_title: Encontro Temático 2010
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/encontro-tematico-2010
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-05-23 13:24:12
 ---
 <h3>Encontro Temático 2010 - A Igreja de hoje e a de sempre: discernindo a sua geração e redescobrindo a antiga vocação</h3>

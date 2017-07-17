@@ -1,9 +1,18 @@
 ---
 ID: 3972
 post_title: 'Almeida: a obra de uma vida'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/almeida-obra-de-uma-vida
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-11-29 21:55:58
 ---
 João Ferreira de Almeida é conhecido pela autoria de uma das mais lidas traduções da Bíblia em português, ele teve uma vida movimentada e morreu sem terminar a tarefa que abraçou ainda muito jovem.

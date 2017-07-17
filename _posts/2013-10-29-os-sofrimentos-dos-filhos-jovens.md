@@ -1,9 +1,18 @@
 ---
 ID: 3408
 post_title: Os sofrimentos dos filhos jovens
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/familia/os-sofrimentos-dos-filhos-jovens
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-10-29 07:00:16
 ---
 <i>Este artigo é o sétimo de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>

@@ -1,9 +1,18 @@
 ---
 ID: 2725
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04 &#8211; Matutino'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/curso-o-reino-milenar-messianico-aula05-matutino
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-09-23 23:45:07
 ---
 <strong>Tema:</strong>  A presença de Jesus na Terra - 1ª e 2ª vindas + DVD - Asher Intrater - Plano Eterno de Deus de unir os Céus e a Terra (+) O Reino de Deus e Jerusalém Espiritual (parte5) – O Cordeiro de Deus morto antes da fundação do mundo. O sistema geracional para a formação da população humana. A rebeldia de Satanás seguida pelas nações. O resgate das nações. O significado da salvação e o Reino Messiânico. A implantação do reino via coração do homem até a sua efetivação objetiva.

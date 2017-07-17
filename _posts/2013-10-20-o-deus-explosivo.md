@@ -1,9 +1,18 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-deus-explosivo
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-10-20 09:00:43
 ---
 <blockquote><i>Esta seção traz a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido recentemente para o português sob o título “Mais perto de Deus”, Ed. Sextante, 2012).</i></blockquote>

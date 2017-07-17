@@ -3,9 +3,18 @@ ID: 3631
 post_title: >
   Desordens sociais causadas pelo
   divórcio
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/desordens-sociais-causadas-pelo-divorcio
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-02-07 15:41:04
 ---
 <blockquote>Este artigo é o oitavo de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</blockquote>

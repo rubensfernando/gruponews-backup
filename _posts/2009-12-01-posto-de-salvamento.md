@@ -1,9 +1,18 @@
 ---
 ID: 169
 post_title: Posto de Salvamento
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/posto-de-salvamento
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 22:05:55
 ---
 Evangelismo é ou não a nossa vocação? Será que com o passar dos anos nós “terceirizamos” este trabalho? Ou será que estamos tão ocupados em realizar nosso trabalho na Igreja que não temos tempo para falar de Jesus a outras vidas? Hoje não é incomum nos depararmos com uma pessoa que não conhece a Jesus e falarmos: Para conhecer a Jesus você tem que ir a um Encontro de Evangelismo. Não que esses eventos não sejam abençoados e cheios da presença de Deus, mas e a nossa participação? Qual tem sido sua participação quando o tema é evangelizar vidas? Abaixo, um texto para sua reflexão.

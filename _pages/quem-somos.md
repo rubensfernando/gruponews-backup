@@ -1,9 +1,17 @@
 ---
 ID: 2
 post_title: Quem Somos
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
+permalink: https://www.gruponews.com.br/quem-somos
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-09-19 14:57:56
 ---
 Somos uma comunhão de grupos cristãos espalhados pelo Brasil. Grupos familiares que se reúnem nas casas. Não temos uma sede, templo ou denominação. Tampouco somos igreja em células. Não temos a intenção de servirmos de modelo à prática da igreja. Não encorajamos ninguém a desistir da jornada empreendida no interior das instituições eclesiásticas em que atuam, quer sejam católicas ou evangélicas, pois o testemunho cristão não depende delas e muito menos é impedido por elas.

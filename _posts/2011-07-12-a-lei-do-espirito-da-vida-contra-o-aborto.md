@@ -3,9 +3,18 @@ ID: 1601
 post_title: >
   A “lei do Espírito da vida” contra
   o aborto
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/a-lei-do-espirito-da-vida-contra-o-aborto
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 19:00:40
 ---
 O que mais me chateou na discussão sobre o aborto, trazida para dentro do debate político nas eleições de 2010, foi a onda crescente de mensagens via e-mails transmitidas e retransmitidas diariamente por aqueles que se dizem cristãos, povo de Deus, e, no entanto, não demonstram o menor cuidado de reflexão e avaliação sobre o assunto. Para quem não está inteirado, ou não conhece nada além daquilo que circula na internet, faz-se necessário um pouco mais de informação.

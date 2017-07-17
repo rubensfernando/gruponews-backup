@@ -1,9 +1,18 @@
 ---
 ID: 2689
 post_title: 'Curso “O Reino Milenar Messiânico” #aula04'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/noticias/curso-reino-milenar-messianico-aula04
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-08-20 21:29:58
 ---
 <strong>Tema:</strong> Igreja, antecipação microcósmica do Reino Milenar Messiânico universal – O sistema econômico do reino praticado em Jerusalém. A igreja como embaixada do reino futuro. O evangelho profético do reino de Deus. O evangelho histórico que pregamos. A bíblia como testemunha dos cristãos. Os cristãos como testemunho da Bíblia. O afastamento dos judeus e a perda da concepção de reino na Igreja.

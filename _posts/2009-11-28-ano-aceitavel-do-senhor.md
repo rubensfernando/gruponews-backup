@@ -1,9 +1,18 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/ano-aceitavel-do-senhor
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-11-28 17:50:34
 ---
 O mundo vive hoje uma crise econômica, social e financeira muito grande. Como nós, cristãos, podemos viver junto a tudo isso? Certamente que não estamos isentos dos problemas que atingem o mundo atual, mas cremos que nós podemos mudar a maneira de ver esses problemas, mudando nossa expectativa, nossa esperança e os nossos valores de vida. E confiar nas pessoas, então? Como está fácil nos decepcionarmos com alguém.

@@ -1,9 +1,18 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/espirito-santo/luz-que-esta-no-velador
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:30:51
 ---
 <p class="p1"><span class="s1">E</span><span class="s1">ntre diversas instruções que Jesus Cristo deixou aos seus discípulos quando esteve na Terra, uma das mais claras e objetivas está em Mateus 5:13-16. Ao dizer-lhes que eles eram o sal da terra e a luz do mundo, Jesus também lhes conferiu a responsabilidade de resplandecer sua luz diante dos homens, e isso de tal forma que, vendo essa luz, os homens glorificassem a Deus.</span></p>

@@ -1,9 +1,18 @@
 ---
 ID: 4256
 post_title: O divino ciumento?
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-divino-ciumento
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-09-10 10:30:11
 ---
 Esta é a 5ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante)

@@ -1,9 +1,18 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/deixa-que-eu-pago
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:25:51
 ---
 Essa frase, ouvida após ser apresentada a conta de consumo, na maioria das vezes, é motivada mais pela educação do que pela disponibilidade financeira da pessoa. Ao contrário, a mesma frase motiva uma atitude de omissão em alguns quando a ouvem e se fazem de desentendidos, querendo crer na abundância do outro.

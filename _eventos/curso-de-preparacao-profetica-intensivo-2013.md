@@ -3,9 +3,18 @@ ID: 2983
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2013
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-02-04 20:34:21
 ---
 <h2>Matérias</h2>

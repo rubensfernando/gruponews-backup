@@ -3,9 +3,18 @@ ID: 3168
 post_title: >
   Muito mais humanos do que costumamos
   admitir
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/muito-mais-humanos-do-que-costumamos-admitir
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-07-01 17:15:06
 ---
 Certa vez quando viajava com um amigo para atender a um dos muitos compromissos que estavam atulhando a minha agenda à ocasião, segredei-lhe que desejava imensamente não estar naquela estrada, com destino e horário certos, ainda mais sob tão ensolarada manhã de sábado. Se pudesse, disse-lhe, estaria numa feira livre, de chinelos e bermuda, andando de um lado para o outro, à toa, bisbilhotando nas barracas, esbarrando em pessoas, parando para comer um pastel de palmito, provando pedaços de queijo fresco, salame, doce de leite, uva, laranja lima... Este amigo entendeu o espírito do que eu estava tentando lhe dizer e acrescentou: “... fazendo coisas de gente, não é mesmo?”

@@ -3,9 +3,18 @@ ID: 3413
 post_title: >
   A dinâmica institucional e a dinâmica
   familiar
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-10-22 07:00:11
 ---
 <p class="small">Este é o 1º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os anteriores</a></p>

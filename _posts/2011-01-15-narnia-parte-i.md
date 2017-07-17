@@ -1,9 +1,18 @@
 ---
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/narnia-parte-i
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

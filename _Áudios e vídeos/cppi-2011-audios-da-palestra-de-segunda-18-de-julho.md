@@ -1,9 +1,18 @@
 ---
 ID: 1811
 post_title: 'CPPI 2011 &#8211; Áudios da palestra de segunda 18 de julho'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
+permalink: >
+  https://www.gruponews.com.br/audioevideo/cppi-2011-audios-da-palestra-de-segunda-18-de-julho
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-21 12:05:04
 ---
 Confira as palestras ministradas no dia 18 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba.

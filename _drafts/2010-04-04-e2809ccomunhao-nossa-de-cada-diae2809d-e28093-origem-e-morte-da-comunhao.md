@@ -3,9 +3,17 @@ ID: 664
 post_title: >
   “Comunhão nossa de cada dia” –
   Origem e morte da comunhão
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: https://www.gruponews.com.br/?p=664
 published: false
+categories: [ ]
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o primeiro de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilhará suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã.</em></blockquote>
 Penso que nunca se falou tanto sobre comunhão como nestes dias. Parece até mesmo um clamor pelo preenchimento de um vazio, até então não atendido, nos corações de uma maneira geral. No meu íntimo, chego a considerar que a redescoberta deste assunto será de uma importância ainda maior do que foi a restauração iniciada pelo movimento Pentecostal na virada para o século XX.

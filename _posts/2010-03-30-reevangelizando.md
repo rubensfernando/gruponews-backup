@@ -1,9 +1,18 @@
 ---
 ID: 601
 post_title: Reevangelizando
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/noticias/reevangelizando
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-03-30 22:15:01
 ---
 O curso <em>Reevangelizando</em> tem o objetivo de atualizar nossa visão de evangelização, segundo o que a Bíblia ensina sobre o assunto. Quem, o que e como evangelizar. O curso começou no dia 22 de Março (Segunda-feira),  e acontecerá semanalmente às segundas. O horário é das 20h às 22h.

@@ -1,9 +1,18 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/igreja-casa-deus-com-ceus-abertos
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>

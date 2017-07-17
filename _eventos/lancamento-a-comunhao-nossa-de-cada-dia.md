@@ -1,9 +1,18 @@
 ---
 ID: 983
 post_title: 'Lançamento do Livro: A Comunhão Nossa de Cada Dia – a reforma da unidade da igreja'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/lancamento-a-comunhao-nossa-de-cada-dia
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2010-08-18 23:23:21
 ---
 <strong>de Pedro Arruda. Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>

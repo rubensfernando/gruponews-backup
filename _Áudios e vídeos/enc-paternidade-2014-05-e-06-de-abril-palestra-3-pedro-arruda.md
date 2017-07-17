@@ -1,8 +1,17 @@
 ---
 ID: 3662
 post_title: 'Enc.Paternidade 2014 05 e 06 de Abril &#8211; Palestra 3 &#8211; Pedro Arruda'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
+permalink: >
+  https://www.gruponews.com.br/audioevideo/enc-paternidade-2014-05-e-06-de-abril-palestra-3-pedro-arruda
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-04-10 16:04:35
 ---

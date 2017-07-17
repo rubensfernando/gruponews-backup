@@ -1,9 +1,18 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/o-sonho-de-deus
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-09-09 22:41:41
 ---
 Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v. 5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v. 22).

@@ -3,9 +3,18 @@ ID: 1587
 post_title: >
   Curso de Preparação Profética
   Intensivo 2011
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2011
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-10 00:46:26
 ---
 Confira a partir do dia 11 as 9h a transmissão ao vivo do Curso de Preparação Profética Intensivo. O curso terá como tema "A preparação para a Volta de Cristo".

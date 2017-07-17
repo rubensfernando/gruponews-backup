@@ -1,9 +1,18 @@
 ---
 ID: 1758
 post_title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
+permalink: >
+  https://www.gruponews.com.br/audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-20 08:10:31
 ---
 Confira as palestras ministradas no dia 16 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

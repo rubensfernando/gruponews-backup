@@ -1,9 +1,18 @@
 ---
 ID: 3899
 post_title: 'Casa, Família &#038; Construção'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/familia/casa-familia-construcao
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2014-08-30 17:12:36
 ---
 Cada geração é um elo na história. Assim, nenhuma geração é uma ilha, não apenas no sentido geográfico, mas também histórico. Somos resultado da geração anterior como a futura o será da nossa. Vemos cada uma superando a outra: os filhos estudam mais, crescem e atingem estaturas maiores que seus pais. Mas é assim também do ponto de vista espiritual? Conseguimos dar-lhes condições culturais, nutricionais e até mesmo herança melhores que recebemos. Mas que legado espiritual nós estamos deixando aos nossos filhos? Serão eles mais apaixonados por Jesus do que nós? Para fazer a diferença não bastará que sejam iguais a nós, pois isso significará manterem-se no mesmo lugar. Portanto, para aproximarem-se mais da volta de Jesus, eles terão de ser melhores do que nós, e para isso dependerão daquilo que lhes transmitirmos.

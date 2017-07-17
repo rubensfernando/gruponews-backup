@@ -1,9 +1,18 @@
 ---
 ID: 378
 post_title: Mãe de Muitos Filhos
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/mae-de-muitos-filhos
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-05 01:44:05
 ---
 A ascendência de Elza, sua infância, a preparação da adolescência, sua formação como professora, o casamento com Franco e constate busca de respostas levaram-na a um intenso trabalho social na paróquia de São João Batista, em Barueri. Em meio a tudo isso, a renovação Carismática, que estava fervilhando nas denominações protestantes, chegou também a Igreja Católica, depois do auspicioso Concílio Vaticano II.

@@ -3,9 +3,18 @@ ID: 3336
 post_title: >
   Inscrições para a aula Espaço para
   Deus
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/aula-espaco-para-deus
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2013-07-09 23:20:44
 ---
 Inscreva-se para aulas sobre Espaço para Deus do CPP Modular Barueri. Serão duas aulas nos dias 17 e 31 de agosto, das 9h as 13h.

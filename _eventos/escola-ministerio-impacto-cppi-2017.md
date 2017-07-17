@@ -1,9 +1,18 @@
 ---
 ID: 4891
 post_title: ESCOLA MINISTÉRIO IMPACTO | CPPI 2017
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/escola-ministerio-impacto-cppi-2017
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2017-04-06 20:17:32
 ---
 <strong>PREPARADOS PARA O FIM?

@@ -1,9 +1,18 @@
 ---
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/publicacoes/vamos-louvar-ministerio-omega-de-louvor
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-03 01:30:20
 ---
 Baixe os MP3s do 1º CD do Ministério Ômega de Louvor:

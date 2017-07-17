@@ -3,9 +3,17 @@ ID: 864
 post_title: >
   “Comunhão nossa de cada dia” –
   Reconhecendo Cristo no Outro
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: https://www.gruponews.com.br/?p=864
 published: false
+categories: [ ]
+tags: [ ]
+author: [ ]
 ---
 <blockquote><em>Este artigo é o oitavo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 A comunhão é o reconhecimento da presença viva de Jesus Cristo na Igreja que começa quando se aprende a identificar Cristo nos outros irmãos. A prática do evangelho baseia-se essencialmente em mutualidade, o que nos configura como corpo e, sobretudo, corpo de Cristo, pois estamos ligados a uma única cabeça que é ele. Jamais o mundo verá Cristo na Igreja enquanto os cristãos não forem capazes de reconhecê-lo uns nos outros. É a comunhão que dava, aos primeiros cristãos, a convicção de que a presença de Cristo entre eles não era menor do que fora antes de sua ascensão.

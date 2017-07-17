@@ -1,9 +1,18 @@
 ---
 ID: 1885
 post_title: O milagre da visita
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-milagre-da-visita
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2011-07-12 18:58:01
 ---
 <em>“Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo.” (Lc 1.68)</em>

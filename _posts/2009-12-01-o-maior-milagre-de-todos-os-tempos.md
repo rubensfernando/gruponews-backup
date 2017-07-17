@@ -1,9 +1,18 @@
 ---
 ID: 122
 post_title: O maior milagre de todos os tempos
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/artigos/o-maior-milagre-de-todos-os-tempos
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2009-12-01 21:49:09
 ---
 Normalmente, entende-se por milagre algo sobrenatural que vai além da capacidade de ação do homem. Vamos então refletir sobre isso para, através da comparação dos milagres que conhecemos, tentar saber qual deles é o maior de todos os tempos. Na Bíblia, temos muitas citações de sinais e milagres que até hoje continuam acontecendo, mas qual seria o maior?

@@ -1,9 +1,18 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/bases-cristas/cracolandia-pelo-moco-do-profeta
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2016-07-13 11:37:10
 ---
 <p class="p1"><span class="s1">“E o servo do homem de Deus se levantou muito cedo e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu servo lhe disse: Ai, meu senhor! Que faremos?” (2 Rs 6:15)</span></p>

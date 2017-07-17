@@ -1,9 +1,18 @@
 ---
 ID: 3856
 post_title: Segundo Jesus, o que precisamos mudar?
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
+permalink: >
+  https://www.gruponews.com.br/igreja/segundo-jesus-o-que-precisamos-mudar
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2008-08-30 12:12:43
 ---
 Eu não me lembro de os meus filhos me verem pregar. Faz uns 12 ou 15 anos que eu não prego. Então a gente vai mudar um pouquinho as coisas: vocês virem as cadeiras. Talvez um semicírculo. Eu não estava querendo todo mundo olhando pra mim (rs). É difícil ser o primeiro. Pedro, você tinha que fazer na ordem do inglês. No inglês é pelo sobrenome. Aí o Arruda ir ser o primeiro. Eu gostaria que tivéssemos outros microfones por aí. Quando eu falar alguma coisa que você quiser comentar, se você sente que o Espírito está dizendo a você algo, Jesus mandou quem está falando ficar quieto e quem recebeu alguma coisa falar. Então espero que vocês comecem a praticar isso. Eu sei que é difícil. Eu preferia ficar quieto nesta manhã, mas acho que há algumas coisas para estar falando, mas se tiver outros microfones... (eu estou falando sério, não é um método ou alguma estratégia). Eu realmente espero que vocês façam perguntas.

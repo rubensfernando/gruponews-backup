@@ -1,9 +1,18 @@
 ---
 ID: 2385
 post_title: I Encontro de Adoração
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
+permalink: >
+  https://www.gruponews.com.br/eventos/encontro-adoracao
 published: true
+categories: [ ]
+tags: [ ]
+author: [ ]
 post_date: 2012-05-02 12:00:10
 ---
 Oportunidade: Procuram-se adoradores!
