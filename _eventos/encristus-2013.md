@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/encristus-2013
+permalink: eventos/encristus-2013
 published: true
 categories: [ ]
 tags: [ ]

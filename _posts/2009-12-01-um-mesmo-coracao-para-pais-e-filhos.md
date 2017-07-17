@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/um-mesmo-coracao-para-pais-e-filhos.html
+  artigos/um-mesmo-coracao-para-pais-e-filhos.html
 published: true
 categories:
   - Artigos

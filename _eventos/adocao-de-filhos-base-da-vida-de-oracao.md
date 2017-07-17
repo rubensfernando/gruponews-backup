@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/adocao-de-filhos-base-da-vida-de-oracao
+  eventos/adocao-de-filhos-base-da-vida-de-oracao
 published: true
 categories: [ ]
 tags: [ ]

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2010/preletores
+permalink: conferencia2010/preletores
 published: true
 categories: [ ]
 tags: [ ]

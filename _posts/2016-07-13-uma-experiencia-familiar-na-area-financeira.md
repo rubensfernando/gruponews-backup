@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /familia/uma-experiencia-familiar-na-area-financeira.html
+  familia/uma-experiencia-familiar-na-area-financeira.html
 published: true
 categories:
   - Família

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2008/a-ultima-mensagem
+permalink: conferencia2008/a-ultima-mensagem
 published: true
 categories: [ ]
 tags: [ ]

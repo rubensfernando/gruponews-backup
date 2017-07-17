@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/em-busca-da-perfeita-varonilidade-de-cristo.html
+  bases-cristas/vida/em-busca-da-perfeita-varonilidade-de-cristo.html
 published: true
 categories:
   - Bases Cristãs

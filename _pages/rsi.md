@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /rsi
+permalink: rsi
 published: true
 categories: [ ]
 tags: [ ]

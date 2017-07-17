@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/encontro-de-paternidade-agosto-2013.html
+  noticias/encontro-de-paternidade-agosto-2013.html
 published: true
 categories:
   - Notícias

@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/imersao-2014
+permalink: eventos/imersao-2014
 published: true
 categories: [ ]
 tags: [ ]

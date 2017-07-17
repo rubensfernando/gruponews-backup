@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /familia/os-sofrimentos-dos-filhos-jovens.html
+  familia/os-sofrimentos-dos-filhos-jovens.html
 published: true
 categories:
   - Família

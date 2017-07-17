@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/o-deus-mal-compreendido/o-deus-pop-star.html
+  bases-cristas/o-deus-mal-compreendido/o-deus-pop-star.html
 published: true
 categories:
   - O Deus mal compreendido

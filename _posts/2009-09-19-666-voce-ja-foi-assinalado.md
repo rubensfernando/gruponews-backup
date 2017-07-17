@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/666-voce-ja-foi-assinalado.html
+  bases-cristas/666-voce-ja-foi-assinalado.html
 published: true
 categories:
   - Bases Cristãs

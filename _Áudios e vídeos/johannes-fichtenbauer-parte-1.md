@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/johannes-fichtenbauer-parte-1
+  audioevideo/johannes-fichtenbauer-parte-1
 published: true
 categories:
   - Igreja

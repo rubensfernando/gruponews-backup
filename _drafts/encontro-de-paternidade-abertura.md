@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: '/?post_type=audioevideo&p=3032'
+permalink: '?post_type=audioevideo&p=3032'
 published: false
 categories: [ ]
 tags: [ ]

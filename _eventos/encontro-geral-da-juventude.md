@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/encontro-geral-da-juventude
+permalink: eventos/encontro-geral-da-juventude
 published: true
 categories: [ ]
 tags: [ ]

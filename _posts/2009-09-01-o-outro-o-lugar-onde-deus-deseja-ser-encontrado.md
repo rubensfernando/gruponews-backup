@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado.html
+  publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado.html
 published: true
 categories:
   - Jornal GrupoNews

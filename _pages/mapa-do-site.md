@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /mapa-do-site
+permalink: mapa-do-site
 published: true
 categories: [ ]
 tags: [ ]

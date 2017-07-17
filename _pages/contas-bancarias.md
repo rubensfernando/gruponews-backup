@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /contas-bancarias
+permalink: contas-bancarias
 published: true
 categories: [ ]
 tags: [ ]

@@ -11,8 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-reino-milenar-aula01.html
+permalink: noticias/curso-reino-milenar-aula01.html
 published: true
 categories:
   - Notícias

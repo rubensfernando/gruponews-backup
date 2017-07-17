@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/relacionamentos-afetados-pelo-divorcio.html
+  artigos/relacionamentos-afetados-pelo-divorcio.html
 published: true
 categories:
   - Artigos

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/espaco-para-deus.html
+permalink: bases-cristas/espaco-para-deus.html
 published: true
 categories:
   - Bases Cristãs

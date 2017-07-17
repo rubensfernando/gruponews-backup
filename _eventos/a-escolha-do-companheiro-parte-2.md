@@ -11,8 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha-720x307.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/a-escolha-do-companheiro-parte-2
+permalink: eventos/a-escolha-do-companheiro-parte-2
 published: true
 categories:
   - Notícias

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/curso-reino-milenar-messianico-aula02.html
+  noticias/curso-reino-milenar-messianico-aula02.html
 published: true
 categories:
   - Notícias

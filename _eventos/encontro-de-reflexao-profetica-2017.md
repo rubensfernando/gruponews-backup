@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/encontro-de-reflexao-profetica-2017
+  eventos/encontro-de-reflexao-profetica-2017
 published: true
 categories: [ ]
 tags: [ ]

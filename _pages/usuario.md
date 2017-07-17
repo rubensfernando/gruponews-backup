@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /usuario
+permalink: usuario
 published: true
 categories: [ ]
 tags: [ ]

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /assine-jornal
+permalink: assine-jornal
 published: true
 categories: [ ]
 tags: [ ]

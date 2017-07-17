@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/cppm-barueri.html
+permalink: noticias/cppm-barueri.html
 published: true
 categories:
   - Notícias

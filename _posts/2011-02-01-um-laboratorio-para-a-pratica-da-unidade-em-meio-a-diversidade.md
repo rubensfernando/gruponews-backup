@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade.html
+  igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade.html
 published: true
 categories:
   - Bases Cristãs

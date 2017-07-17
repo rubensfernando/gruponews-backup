@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/das-feridas-ao-abraco-profetico.html
+  artigos/das-feridas-ao-abraco-profetico.html
 published: true
 categories:
   - Artigos

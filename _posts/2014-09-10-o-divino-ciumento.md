@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/o-deus-mal-compreendido/o-divino-ciumento.html
+  bases-cristas/o-deus-mal-compreendido/o-divino-ciumento.html
 published: true
 categories:
   - O Deus mal compreendido

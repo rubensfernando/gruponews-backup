@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /geral/cppi-2013-o-ministerio-de-elias-christopher-walker.html
+  geral/cppi-2013-o-ministerio-de-elias-christopher-walker.html
 published: true
 categories: [ ]
 tags: [ ]

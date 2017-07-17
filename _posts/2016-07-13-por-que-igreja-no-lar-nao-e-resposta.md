@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta.html
+  igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta.html
 published: true
 categories:
   - Vivendo como igreja relacional

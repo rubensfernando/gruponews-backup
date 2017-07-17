@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/o-milagre-de-caminhar-com-os-pes-no-chao.html
+  artigos/o-milagre-de-caminhar-com-os-pes-no-chao.html
 published: true
 categories:
   - Artigos

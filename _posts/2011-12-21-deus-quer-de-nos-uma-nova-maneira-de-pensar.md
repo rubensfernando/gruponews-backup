@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar.html
+  artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar.html
 published: true
 categories:
   - Artigos

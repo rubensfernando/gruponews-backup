@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/espontaneidade.html
+permalink: bases-cristas/espontaneidade.html
 published: true
 categories:
   - Bases Cristãs

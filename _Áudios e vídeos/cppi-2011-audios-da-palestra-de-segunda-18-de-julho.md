@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/cppi-2011-audios-da-palestra-de-segunda-18-de-julho
+  audioevideo/cppi-2011-audios-da-palestra-de-segunda-18-de-julho
 published: true
 categories:
   - Publicações

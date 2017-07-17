@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/cppi-2013-o-ministerio-de-elias-christopher-walker-2013-07-09
+  eventos/cppi-2013-o-ministerio-de-elias-christopher-walker-2013-07-09
 published: true
 categories: [ ]
 tags: [ ]

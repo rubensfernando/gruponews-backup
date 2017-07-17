@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito.html
+  artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito.html
 published: true
 categories:
   - Artigos

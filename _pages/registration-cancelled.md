@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /eventos/registration-cancelled
+permalink: eventos/registration-cancelled
 published: true
 categories: [ ]
 tags: [ ]

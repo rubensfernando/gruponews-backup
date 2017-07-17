@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores.html
+  publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores.html
 published: true
 categories:
   - Jornal GrupoNews

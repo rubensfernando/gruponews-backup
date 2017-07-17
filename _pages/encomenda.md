@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /encomenda
+permalink: encomenda
 published: true
 categories: [ ]
 tags: [ ]

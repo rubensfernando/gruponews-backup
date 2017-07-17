@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/conferencia
+permalink: eventos/conferencia
 published: true
 categories: [ ]
 tags: [ ]

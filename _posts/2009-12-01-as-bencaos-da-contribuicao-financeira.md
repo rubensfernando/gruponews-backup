@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/as-bencaos-da-contribuicao-financeira.html
+  igreja/as-bencaos-da-contribuicao-financeira.html
 published: true
 categories:
   - Bases Cristãs

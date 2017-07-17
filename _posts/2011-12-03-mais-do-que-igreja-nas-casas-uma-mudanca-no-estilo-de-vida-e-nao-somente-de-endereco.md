@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco.html
+  artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco.html
 published: true
 categories:
   - Artigos

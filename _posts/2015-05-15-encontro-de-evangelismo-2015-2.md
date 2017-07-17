@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/encontro-de-evangelismo-2015-2.html
+  noticias/encontro-de-evangelismo-2015-2.html
 published: true
 categories:
   - Notícias

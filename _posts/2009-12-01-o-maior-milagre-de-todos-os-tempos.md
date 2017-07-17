@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/o-maior-milagre-de-todos-os-tempos.html
+  artigos/o-maior-milagre-de-todos-os-tempos.html
 published: true
 categories:
   - Artigos

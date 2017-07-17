@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio.html
+  familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio.html
 published: true
 categories:
   - >

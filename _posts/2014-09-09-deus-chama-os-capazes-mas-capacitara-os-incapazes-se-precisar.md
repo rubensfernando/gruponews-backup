@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar.html
+  espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar.html
 published: true
 categories:
   - Espírito Santo

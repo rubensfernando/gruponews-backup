@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/transmissao-do-encristus-2012.html
+  noticias/transmissao-do-encristus-2012.html
 published: true
 categories:
   - Notícias

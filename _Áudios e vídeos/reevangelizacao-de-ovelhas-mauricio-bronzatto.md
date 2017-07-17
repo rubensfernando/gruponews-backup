@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/reevangelizacao-de-ovelhas-mauricio-bronzatto
+  audioevideo/reevangelizacao-de-ovelhas-mauricio-bronzatto
 published: true
 categories:
   - Geral

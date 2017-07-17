@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/igreja-nos-lares/construindo-casa-senhor.html
+  igreja/igreja-nos-lares/construindo-casa-senhor.html
 published: true
 categories:
   - Igreja nos lares

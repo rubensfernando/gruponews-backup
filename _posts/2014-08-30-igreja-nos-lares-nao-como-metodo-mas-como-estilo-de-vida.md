@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida.html
+  igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida.html
 published: true
 categories:
   - Igreja nos lares

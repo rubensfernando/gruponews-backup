@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/os-diferentes-relacionamentos-conjugais.html
+  artigos/os-diferentes-relacionamentos-conjugais.html
 published: true
 categories:
   - Artigos

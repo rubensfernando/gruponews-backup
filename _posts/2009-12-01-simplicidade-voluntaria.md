@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/simplicidade-voluntaria.html
+permalink: artigos/simplicidade-voluntaria.html
 published: true
 categories:
   - Artigos

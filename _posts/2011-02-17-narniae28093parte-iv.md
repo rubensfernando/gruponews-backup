@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: '/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv.html'
+permalink: 'bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv.html'
 published: true
 categories:
   - Um lugar chamado Nárnia

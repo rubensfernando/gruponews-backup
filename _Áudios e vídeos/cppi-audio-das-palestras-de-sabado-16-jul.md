@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
+  audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
 published: true
 categories:
   - Publicações

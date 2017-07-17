@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/a-irrelevancia-como-vocacao.html
+  bases-cristas/vida/a-irrelevancia-como-vocacao.html
 published: true
 categories:
   - Vida

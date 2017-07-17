@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /rsi/como-participar
+permalink: rsi/como-participar
 published: true
 categories: [ ]
 tags: [ ]

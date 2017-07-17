@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/servindo-a-deus-em-meio-a-dor.html
+  artigos/servindo-a-deus-em-meio-a-dor.html
 published: true
 categories:
   - Artigos

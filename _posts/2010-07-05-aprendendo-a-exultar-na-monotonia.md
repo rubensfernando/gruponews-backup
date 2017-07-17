@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/aprendendo-a-exultar-na-monotonia.html
+  artigos/aprendendo-a-exultar-na-monotonia.html
 published: true
 categories:
   - Artigos

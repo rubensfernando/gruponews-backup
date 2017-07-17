@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2010/inscricao
+permalink: conferencia2010/inscricao
 published: true
 categories: [ ]
 tags: [ ]

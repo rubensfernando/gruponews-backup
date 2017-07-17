@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/em-busca-evangelho-puro.html
+  bases-cristas/em-busca-evangelho-puro.html
 published: true
 categories:
   - Bases Cristãs

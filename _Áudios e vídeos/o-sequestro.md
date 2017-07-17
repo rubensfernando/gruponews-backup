@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/o-sequestro
+permalink: audioevideo/o-sequestro
 published: true
 categories:
   - Geral

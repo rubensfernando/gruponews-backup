@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /familia/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino.html
+  familia/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino.html
 published: true
 categories:
   - Bases Cristãs

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/curso-de-preparacao-profetica-intensivo-2013.html
+  noticias/curso-de-preparacao-profetica-intensivo-2013.html
 published: true
 categories:
   - Notícias

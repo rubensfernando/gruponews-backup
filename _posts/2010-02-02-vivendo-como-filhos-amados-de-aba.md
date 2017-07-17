@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/vivendo-como-filhos-amados-de-aba.html
+  artigos/vivendo-como-filhos-amados-de-aba.html
 published: true
 categories:
   - Artigos

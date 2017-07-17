@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e.html
+  bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e.html
 published: true
 categories:
   - O Deus mal compreendido

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/cppi-2011-segunda-feira-11-jul
+  audioevideo/cppi-2011-segunda-feira-11-jul
 published: true
 categories:
   - Publicações

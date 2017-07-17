@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /cadastrar
+permalink: cadastrar
 published: true
 categories: [ ]
 tags: [ ]

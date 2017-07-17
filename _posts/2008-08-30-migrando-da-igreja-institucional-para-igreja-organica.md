@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/migrando-da-igreja-institucional-para-igreja-organica.html
+  igreja/migrando-da-igreja-institucional-para-igreja-organica.html
 published: true
 categories:
   - Igreja

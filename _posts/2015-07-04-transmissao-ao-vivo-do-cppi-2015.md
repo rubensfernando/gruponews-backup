@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/transmissao-ao-vivo-do-cppi-2015.html
+  noticias/transmissao-ao-vivo-do-cppi-2015.html
 published: true
 categories:
   - Notícias

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/encontro-tematico-2011
+permalink: eventos/encontro-tematico-2011
 published: true
 categories:
   - Geral

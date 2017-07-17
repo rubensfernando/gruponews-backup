@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: '/?post_type=audioevideo&p=4357'
+permalink: '?post_type=audioevideo&p=4357'
 published: false
 categories: [ ]
 tags:

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/a-comunhao-nossa-de-cada-dia.html
+  publicacoes/a-comunhao-nossa-de-cada-dia.html
 published: true
 categories:
   - Livros

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
+  audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
 published: true
 categories:
   - Publicações

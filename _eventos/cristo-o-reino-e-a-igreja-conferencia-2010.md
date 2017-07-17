@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/cristo-o-reino-e-a-igreja-conferencia-2010
+  eventos/cristo-o-reino-e-a-igreja-conferencia-2010
 published: true
 categories:
   - Geral

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/jornal/nosso-governo-com-cristo-no-milenio.html
+  publicacoes/jornal/nosso-governo-com-cristo-no-milenio.html
 published: true
 categories:
   - Jornal GrupoNews

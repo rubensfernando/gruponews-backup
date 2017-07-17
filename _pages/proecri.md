@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /proecri
+permalink: proecri
 published: true
 categories: [ ]
 tags: [ ]

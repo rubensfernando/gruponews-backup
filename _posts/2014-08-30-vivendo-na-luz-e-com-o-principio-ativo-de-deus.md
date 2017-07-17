@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus.html
+  bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus.html
 published: true
 categories:
   - Comunhão

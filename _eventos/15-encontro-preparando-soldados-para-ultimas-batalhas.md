@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
+  eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
 published: true
 categories: [ ]
 tags: [ ]

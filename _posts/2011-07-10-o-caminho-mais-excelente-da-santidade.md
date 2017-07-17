@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/o-caminho-mais-excelente-da-santidade.html
+  artigos/o-caminho-mais-excelente-da-santidade.html
 published: true
 categories:
   - Artigos

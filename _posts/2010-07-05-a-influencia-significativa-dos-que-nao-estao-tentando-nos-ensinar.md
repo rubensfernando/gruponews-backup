@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar.html
+  artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar.html
 published: true
 categories:
   - Artigos

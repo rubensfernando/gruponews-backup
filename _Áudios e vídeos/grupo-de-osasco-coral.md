@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/grupo-de-osasco-coral
+permalink: audioevideo/grupo-de-osasco-coral
 published: true
 categories:
   - Geral

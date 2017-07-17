@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja.html
+  igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja.html
 published: true
 categories:
   - Igreja nos lares

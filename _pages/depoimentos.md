@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2008/depoimentos
+permalink: conferencia2008/depoimentos
 published: true
 categories: [ ]
 tags: [ ]

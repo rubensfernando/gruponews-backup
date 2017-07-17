@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/de-volta-ao-amor-do-pai-esbanjador.html
+  publicacoes/de-volta-ao-amor-do-pai-esbanjador.html
 published: true
 categories:
   - Jornal GrupoNews

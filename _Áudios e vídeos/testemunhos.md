@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/testemunhos
+permalink: audioevideo/testemunhos
 published: true
 categories: [ ]
 tags: [ ]

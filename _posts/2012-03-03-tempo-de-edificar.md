@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao-720x469.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/tempo-de-edificar.html
+permalink: artigos/tempo-de-edificar.html
 published: true
 categories:
   - Artigos

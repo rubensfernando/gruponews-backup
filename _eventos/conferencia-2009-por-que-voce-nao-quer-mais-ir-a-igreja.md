@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
+  eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
 published: true
 categories:
   - Geral

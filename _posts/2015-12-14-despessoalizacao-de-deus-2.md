@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/jornal/despessoalizacao-de-deus-2.html
+  publicacoes/jornal/despessoalizacao-de-deus-2.html
 published: true
 categories:
   - Jornal GrupoNews

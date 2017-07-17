@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/problemas-no-coracao-do-profeta.html
+  artigos/problemas-no-coracao-do-profeta.html
 published: true
 categories:
   - Artigos

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes.html
+  publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes.html
 published: true
 categories:
   - Jornal GrupoNews

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/conferencia-2013-palestra-1-john-noble
+  audioevideo/conferencia-2013-palestra-1-john-noble
 published: true
 categories: [ ]
 tags:

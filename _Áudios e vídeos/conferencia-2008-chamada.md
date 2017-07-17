@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/conferencia-2008-chamada
+permalink: audioevideo/conferencia-2008-chamada
 published: true
 categories:
   - Geral

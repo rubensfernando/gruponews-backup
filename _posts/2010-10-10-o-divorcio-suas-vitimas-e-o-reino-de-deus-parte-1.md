@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1.html
+  artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1.html
 published: true
 categories:
   - Artigos

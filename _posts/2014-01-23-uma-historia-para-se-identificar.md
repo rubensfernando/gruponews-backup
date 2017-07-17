@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /geral/uma-historia-para-se-identificar.html
+  geral/uma-historia-para-se-identificar.html
 published: true
 categories:
   - Geral

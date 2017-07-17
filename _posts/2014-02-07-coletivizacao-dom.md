@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/coletivizacao-dom.html
+  bases-cristas/vida/coletivizacao-dom.html
 published: true
 categories:
   - Vida

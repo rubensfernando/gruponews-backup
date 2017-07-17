@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/a-horizontalidade-da-vida-de-oracao
+  eventos/a-horizontalidade-da-vida-de-oracao
 published: true
 categories: [ ]
 tags: [ ]

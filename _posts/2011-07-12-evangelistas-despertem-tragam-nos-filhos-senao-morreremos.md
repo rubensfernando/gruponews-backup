@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos.html
+  artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos.html
 published: true
 categories:
   - Artigos

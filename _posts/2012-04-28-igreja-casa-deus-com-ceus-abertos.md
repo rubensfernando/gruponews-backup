@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/igreja-casa-deus-com-ceus-abertos.html
+  artigos/igreja-casa-deus-com-ceus-abertos.html
 published: true
 categories:
   - Artigos

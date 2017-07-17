@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/curiosidades-sobre-a-biblia.html
+  bases-cristas/curiosidades-sobre-a-biblia.html
 published: true
 categories:
   - Bases Cristãs

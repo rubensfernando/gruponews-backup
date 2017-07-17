@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/editora-do-classicos
+permalink: eventos/editora-do-classicos
 published: true
 categories: [ ]
 tags: [ ]

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/reevangelizando-aula-2-parte-1
+  audioevideo/reevangelizando-aula-2-parte-1
 published: true
 categories:
   - Geral

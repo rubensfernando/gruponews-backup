@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /?page_id=3273
+permalink: ?page_id=3273
 published: false
 categories: [ ]
 tags: [ ]

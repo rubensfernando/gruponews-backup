@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade.html
+  noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade.html
 published: true
 categories:
   - Notícias

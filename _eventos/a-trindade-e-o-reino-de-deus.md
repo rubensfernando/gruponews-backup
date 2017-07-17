@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/a-trindade-e-o-reino-de-deus
+permalink: eventos/a-trindade-e-o-reino-de-deus
 published: true
 categories: [ ]
 tags: [ ]

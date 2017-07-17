@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/cidadaos-do-ceu.html
+permalink: artigos/cidadaos-do-ceu.html
 published: true
 categories:
   - Artigos

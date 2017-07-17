@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/curso-o-reino-milenar-messianico-aula-1-virtual
+  eventos/curso-o-reino-milenar-messianico-aula-1-virtual
 published: true
 categories: [ ]
 tags: [ ]

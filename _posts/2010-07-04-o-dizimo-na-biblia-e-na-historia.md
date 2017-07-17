@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/o-dizimo-na-biblia-e-na-historia.html
+  artigos/o-dizimo-na-biblia-e-na-historia.html
 published: true
 categories:
   - Artigos

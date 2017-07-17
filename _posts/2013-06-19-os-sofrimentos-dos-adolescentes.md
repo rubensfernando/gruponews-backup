@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/os-sofrimentos-dos-adolescentes.html
+  artigos/os-sofrimentos-dos-adolescentes.html
 published: true
 categories:
   - Artigos

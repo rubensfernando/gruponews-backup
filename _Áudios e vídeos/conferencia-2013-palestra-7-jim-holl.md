@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/conferencia-2013-palestra-7-jim-holl
+  audioevideo/conferencia-2013-palestra-7-jim-holl
 published: true
 categories: [ ]
 tags:

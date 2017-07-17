@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/ano-aceitavel-do-senhor.html
+  bases-cristas/ano-aceitavel-do-senhor.html
 published: true
 categories:
   - Bases Cristãs

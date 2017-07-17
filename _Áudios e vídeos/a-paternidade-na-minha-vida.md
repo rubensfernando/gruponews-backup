@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/a-paternidade-na-minha-vida
+permalink: audioevideo/a-paternidade-na-minha-vida
 published: true
 categories: [ ]
 tags: [ ]

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/a-felicidade-crista.html
+  bases-cristas/vida/a-felicidade-crista.html
 published: true
 categories:
   - Bases Cristãs

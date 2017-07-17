@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/eu-e-minha-casa-serviremos-ao-senhor.html
+  artigos/eu-e-minha-casa-serviremos-ao-senhor.html
 published: true
 categories:
   - Artigos

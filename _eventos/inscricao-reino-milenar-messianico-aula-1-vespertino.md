@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
+  eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
 published: true
 categories: [ ]
 tags: [ ]

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-meu-calice-transborda.html
+permalink: artigos/o-meu-calice-transborda.html
 published: true
 categories:
   - Artigos

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /espirito-santo/luz-que-esta-no-velador.html
+  espirito-santo/luz-que-esta-no-velador.html
 published: true
 categories:
   - Espírito Santo

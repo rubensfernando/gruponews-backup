@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >
-  /conferencia2010/inscricao/enviada-com-sucesso
+  conferencia2010/inscricao/enviada-com-sucesso
 published: true
 categories: [ ]
 tags: [ ]

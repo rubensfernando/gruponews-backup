@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais.html
+  artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais.html
 published: true
 categories:
   - Artigos

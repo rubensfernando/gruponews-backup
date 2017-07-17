@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-720x503.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/conferencia-2013
+permalink: eventos/conferencia-2013
 published: true
 categories: [ ]
 tags: [ ]

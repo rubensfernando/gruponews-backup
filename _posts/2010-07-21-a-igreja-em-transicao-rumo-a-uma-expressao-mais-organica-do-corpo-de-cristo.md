@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo.html
+  publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo.html
 published: true
 categories:
   - Jornal GrupoNews

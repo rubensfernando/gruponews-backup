@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /?p=1472
+permalink: ?p=1472
 published: false
 categories:
   - Geral

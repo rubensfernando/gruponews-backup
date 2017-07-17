@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/vida-abundante-uma-vida-comprometida-com-deus.html
+  artigos/vida-abundante-uma-vida-comprometida-com-deus.html
 published: true
 categories:
   - Artigos

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /geral/uma-autora-em-minha-jornada.html
+permalink: geral/uma-autora-em-minha-jornada.html
 published: true
 categories:
   - Geral

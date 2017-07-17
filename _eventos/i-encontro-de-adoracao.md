@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/i-encontro-de-adoracao
+permalink: eventos/i-encontro-de-adoracao
 published: true
 categories: [ ]
 tags: [ ]

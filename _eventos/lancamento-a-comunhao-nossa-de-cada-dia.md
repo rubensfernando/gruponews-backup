@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  /eventos/lancamento-a-comunhao-nossa-de-cada-dia
+  eventos/lancamento-a-comunhao-nossa-de-cada-dia
 published: true
 categories:
   - Geral

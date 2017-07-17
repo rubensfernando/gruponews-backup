@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /usuario/editar
+permalink: usuario/editar
 published: true
 categories: [ ]
 tags: [ ]

@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/novidades-curso-rmm.html
+permalink: noticias/novidades-curso-rmm.html
 published: true
 categories:
   - Notícias

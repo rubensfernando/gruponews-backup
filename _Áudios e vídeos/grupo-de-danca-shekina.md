@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-DancaSheikFestinArt2000934-127.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/grupo-de-danca-shekina
+permalink: audioevideo/grupo-de-danca-shekina
 published: true
 categories:
   - Geral

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/curta-nossa-pagina-no-facebook.html
+  noticias/curta-nossa-pagina-no-facebook.html
 published: true
 categories:
   - Notícias

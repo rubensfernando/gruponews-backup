@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/encontro-de-paternidade-palestra-1-pedro-arruda
+  audioevideo/encontro-de-paternidade-palestra-1-pedro-arruda
 published: true
 categories: [ ]
 tags: [ ]

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/quem-ama-e-renuncia-permanece.html
+  artigos/quem-ama-e-renuncia-permanece.html
 published: true
 categories:
   - Artigos

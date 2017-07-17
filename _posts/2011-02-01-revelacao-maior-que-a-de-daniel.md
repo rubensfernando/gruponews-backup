@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/revelacao-maior-que-a-de-daniel.html
+  bases-cristas/vida/revelacao-maior-que-a-de-daniel.html
 published: true
 categories:
   - Bases Cristãs

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/subitamente-afastado-da-correnteza.html
+  artigos/subitamente-afastado-da-correnteza.html
 published: true
 categories:
   - Artigos

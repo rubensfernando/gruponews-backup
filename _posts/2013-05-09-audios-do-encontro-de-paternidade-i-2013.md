@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/audios-do-encontro-de-paternidade-i-2013.html
+  noticias/audios-do-encontro-de-paternidade-i-2013.html
 published: true
 categories:
   - Notícias

@@ -7,8 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia/protegendo-sementes-de-deus.html
+permalink: familia/protegendo-sementes-de-deus.html
 published: true
 categories:
   - Família

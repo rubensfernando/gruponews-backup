@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/posto_de_salvamento-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/posto-de-salvamento.html
+permalink: artigos/posto-de-salvamento.html
 published: true
 categories:
   - Artigos

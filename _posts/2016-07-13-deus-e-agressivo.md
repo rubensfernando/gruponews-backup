@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/o-deus-mal-compreendido/deus-e-agressivo.html
+  bases-cristas/o-deus-mal-compreendido/deus-e-agressivo.html
 published: true
 categories:
   - O Deus mal compreendido

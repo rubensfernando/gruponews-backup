@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho.html
+  publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho.html
 published: true
 categories:
   - Jornal GrupoNews

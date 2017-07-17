@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum.html
+  publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum.html
 published: true
 categories:
   - Jornal GrupoNews

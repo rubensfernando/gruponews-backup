@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /noticias/15-encontro-preparando-soldados-para-ultimas-batalhas.html
+  noticias/15-encontro-preparando-soldados-para-ultimas-batalhas.html
 published: true
 categories:
   - Notícias

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/jucom-2015
+permalink: eventos/jucom-2015
 published: true
 categories: [ ]
 tags: [ ]

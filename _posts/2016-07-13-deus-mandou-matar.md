@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/deus-mandou-matar.html
+permalink: bases-cristas/deus-mandou-matar.html
 published: true
 categories:
   - Bases Cristãs

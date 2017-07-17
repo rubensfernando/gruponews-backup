@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/a-oracao-de-maria.html
+permalink: bases-cristas/a-oracao-de-maria.html
 published: true
 categories:
   - Bases Cristãs

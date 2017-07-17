@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/testemunhos
+permalink: eventos/testemunhos
 published: true
 categories: [ ]
 tags: [ ]

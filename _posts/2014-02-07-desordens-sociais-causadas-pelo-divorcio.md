@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/desordens-sociais-causadas-pelo-divorcio.html
+  familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/desordens-sociais-causadas-pelo-divorcio.html
 published: true
 categories:
   - >

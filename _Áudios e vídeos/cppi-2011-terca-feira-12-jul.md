@@ -11,8 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-12-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-terca-feira-12-jul
+permalink: audioevideo/cppi-2011-terca-feira-12-jul
 published: true
 categories:
   - Publicações

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos.html
+  artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos.html
 published: true
 categories:
   - Artigos

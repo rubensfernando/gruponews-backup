@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/a-necessidade-de-ter-comunhao-com-deus-nos-ultimos-dias
+  audioevideo/a-necessidade-de-ter-comunhao-com-deus-nos-ultimos-dias
 published: true
 categories: [ ]
 tags: [ ]

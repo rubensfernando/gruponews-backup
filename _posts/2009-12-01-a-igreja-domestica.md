@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: /igreja/a-igreja-domestica.html
+permalink: igreja/a-igreja-domestica.html
 published: true
 categories:
   - Igreja

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/comunhao-e-confissao.html
+permalink: artigos/comunhao-e-confissao.html
 published: true
 categories:
   - Artigos

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo.html
+  bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo.html
 published: true
 categories:
   - Comunhão

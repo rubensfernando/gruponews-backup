@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /publicacoes/jornal/viciados-no-mundo-virtual.html
+  publicacoes/jornal/viciados-no-mundo-virtual.html
 published: true
 categories:
   - Jornal GrupoNews

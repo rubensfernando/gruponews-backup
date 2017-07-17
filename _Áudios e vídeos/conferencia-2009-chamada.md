@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141-720x540.png
 post_excerpt: ""
 layout: audioevideo
-permalink: /audioevideo/conferencia-2009-chamada
+permalink: audioevideo/conferencia-2009-chamada
 published: true
 categories:
   - Geral

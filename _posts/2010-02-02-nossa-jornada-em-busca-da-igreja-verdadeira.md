@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /igreja/nossa-jornada-em-busca-da-igreja-verdadeira.html
+  igreja/nossa-jornada-em-busca-da-igreja-verdadeira.html
 published: true
 categories:
   - Igreja

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /obrigado
+permalink: obrigado
 published: true
 categories: [ ]
 tags: [ ]

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-deus-explosivo.html
+permalink: artigos/o-deus-explosivo.html
 published: true
 categories:
   - Artigos

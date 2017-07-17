@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2014/04/143175968.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/palestra-educacional
+permalink: eventos/palestra-educacional
 published: true
 categories: [ ]
 tags: [ ]

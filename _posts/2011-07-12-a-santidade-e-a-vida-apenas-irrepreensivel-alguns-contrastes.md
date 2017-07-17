@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes.html
+  artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes.html
 published: true
 categories:
   - Artigos

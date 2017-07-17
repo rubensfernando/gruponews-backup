@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  /audioevideo/curso-reino-milenar-messinico-aula01-parte-3
+  audioevideo/curso-reino-milenar-messinico-aula01-parte-3
 published: true
 categories: [ ]
 tags: [ ]

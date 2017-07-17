@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes.html
+  bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes.html
 published: true
 categories:
   - Vida

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/um-lugar-chamado-narnia/narnia-parte-vi.html
+  bases-cristas/um-lugar-chamado-narnia/narnia-parte-vi.html
 published: true
 categories:
   - Um lugar chamado Nárnia

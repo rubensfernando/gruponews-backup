@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /familia/casa-familia-construcao.html
+permalink: familia/casa-familia-construcao.html
 published: true
 categories:
   - Família

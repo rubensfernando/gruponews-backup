@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  /bases-cristas/quando-depender-e-a-unica-saida.html
+  bases-cristas/quando-depender-e-a-unica-saida.html
 published: true
 categories:
   - Bases Cristãs

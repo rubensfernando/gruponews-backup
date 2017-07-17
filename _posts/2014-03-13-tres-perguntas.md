@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/tres-perguntas.html
+permalink: bases-cristas/tres-perguntas.html
 published: true
 categories:
   - Bases Cristãs
