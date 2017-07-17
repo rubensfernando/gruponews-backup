@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/cppi-2011-audios-das-palestras-de-domingo-17-jul
+  /audioevideo/cppi-2011-audios-das-palestras-de-domingo-17-jul
 published: true
 categories:
   - Publicações

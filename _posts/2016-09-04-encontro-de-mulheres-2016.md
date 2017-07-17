@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: geral/encontro-de-mulheres-2016
+permalink: /geral/encontro-de-mulheres-2016.html
 published: true
 categories:
   - Geral

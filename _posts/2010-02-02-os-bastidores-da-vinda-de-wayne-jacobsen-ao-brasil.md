@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil
+  /geral/os-bastidores-da-vinda-de-wayne-jacobsen-ao-brasil.html
 published: true
 categories:
   - Geral

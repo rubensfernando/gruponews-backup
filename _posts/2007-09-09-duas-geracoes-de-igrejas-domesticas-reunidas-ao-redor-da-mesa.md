@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
+  /igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa.html
 published: true
 categories:
   - Igreja nos lares

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/cppi-2012-1-modulo-7-de-julho
+  /audioevideo/cppi-2012-1-modulo-7-de-julho
 published: true
 categories:
   - Publicações

@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/a-graca-do-ordinario
+permalink: /artigos/a-graca-do-ordinario.html
 published: true
 categories:
   - Artigos

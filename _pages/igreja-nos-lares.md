@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: igreja-nos-lares
+permalink: /igreja-nos-lares
 published: true
 categories:
   - Geral

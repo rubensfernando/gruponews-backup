@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  espirito-santo/descobrindo-um-caminho-seguro
+  /espirito-santo/descobrindo-um-caminho-seguro.html
 published: true
 categories:
   - Desenvolvendo os dons proféticos

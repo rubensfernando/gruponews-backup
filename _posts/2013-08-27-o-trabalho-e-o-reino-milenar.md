@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/o-trabalho-e-o-reino-milenar
+permalink: >
+  /artigos/o-trabalho-e-o-reino-milenar.html
 published: true
 categories:
   - Artigos

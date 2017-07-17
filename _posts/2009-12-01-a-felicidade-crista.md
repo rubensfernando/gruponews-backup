@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/vida/a-felicidade-crista
+permalink: >
+  /bases-cristas/vida/a-felicidade-crista.html
 published: true
 categories:
   - Bases Cristãs

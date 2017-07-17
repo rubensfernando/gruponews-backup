@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: conferencia2009
+permalink: /conferencia2009
 published: true
 categories: [ ]
 tags: [ ]

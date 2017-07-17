@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/secularizacao-na-igreja
+permalink: /artigos/secularizacao-na-igreja.html
 published: true
 categories:
   - Artigos

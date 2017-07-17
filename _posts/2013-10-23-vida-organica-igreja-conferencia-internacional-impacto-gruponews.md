@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  noticias/vida-organica-igreja-conferencia-internacional-impacto-gruponews
+  /noticias/vida-organica-igreja-conferencia-internacional-impacto-gruponews.html
 published: true
 categories:
   - Notícias

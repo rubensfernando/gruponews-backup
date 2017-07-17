@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/servindo-a-deus-em-meio-a-dor
+permalink: >
+  /artigos/servindo-a-deus-em-meio-a-dor.html
 published: true
 categories:
   - Artigos

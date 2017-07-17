@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-musicos
+permalink: /eventos/encontro-de-musicos
 published: true
 categories: [ ]
 tags: [ ]

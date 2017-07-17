@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/israel-a-igreja-e-os-ultimos-dias
+  /eventos/israel-a-igreja-e-os-ultimos-dias
 published: true
 categories:
   - Geral

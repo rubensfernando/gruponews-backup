@@ -11,7 +11,7 @@ image-sq-m: >
   https://www.gruponews.com.br/wp-content/uploads/2016/02/banner-paternidade-2016-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: geral/encontro-de-paternidade-2016
+permalink: /geral/encontro-de-paternidade-2016.html
 published: true
 categories:
   - Geral

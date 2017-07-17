@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: page
 permalink: >
-  eventos/conferencias/casas-que-transformam-o-mundo-igreja-nos-lares
+  /eventos/conferencias/casas-que-transformam-o-mundo-igreja-nos-lares
 published: true
 categories: [ ]
 tags: [ ]

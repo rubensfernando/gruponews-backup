@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
+  /igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas.html
 published: true
 categories:
   - Bases Cristãs

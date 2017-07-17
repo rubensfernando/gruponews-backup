@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/falando-mais-sobre-os-sofrimentos-da-crianca
+  /artigos/falando-mais-sobre-os-sofrimentos-da-crianca.html
 published: true
 categories:
   - Artigos

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
+  /bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento.html
 published: true
 categories:
   - Vida

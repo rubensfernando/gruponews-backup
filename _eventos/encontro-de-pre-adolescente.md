@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-pre-adolescente
+permalink: /eventos/encontro-de-pre-adolescente
 published: true
 categories: [ ]
 tags: [ ]

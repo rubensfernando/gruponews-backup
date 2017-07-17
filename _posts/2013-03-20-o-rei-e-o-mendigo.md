@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/o-rei-e-o-mendigo
+permalink: /artigos/o-rei-e-o-mendigo.html
 published: true
 categories:
   - Artigos

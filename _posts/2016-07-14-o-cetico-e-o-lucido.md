@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/o-cetico-e-o-lucido
+permalink: /bases-cristas/o-cetico-e-o-lucido.html
 published: true
 categories:
   - Bases Cristãs

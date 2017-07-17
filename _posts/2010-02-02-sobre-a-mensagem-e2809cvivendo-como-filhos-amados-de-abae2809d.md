@@ -9,7 +9,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: 'artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d'
+permalink: '/artigos/sobre-a-mensagem-%e2%80%9cvivendo-como-filhos-amados-de-aba%e2%80%9d.html'
 published: true
 categories:
   - Artigos

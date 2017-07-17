@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/celebracao-de-uma-presenca
+permalink: >
+  /bases-cristas/celebracao-de-uma-presenca.html
 published: true
 categories:
   - Bases Cristãs

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/escola-ministerio-impacto-cppi-2017
+  /eventos/escola-ministerio-impacto-cppi-2017
 published: true
 categories: [ ]
 tags:

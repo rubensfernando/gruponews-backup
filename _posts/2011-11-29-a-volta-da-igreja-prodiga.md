@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/a-volta-da-igreja-prodiga
+permalink: /artigos/a-volta-da-igreja-prodiga.html
 published: true
 categories:
   - Artigos

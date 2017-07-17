@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
+  /igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou.html
 published: true
 categories:
   - Igreja

@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
+  /bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada.html
 published: true
 categories:
   - Vida

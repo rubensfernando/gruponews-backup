@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/vivendo-como-igreja-relacional/o-espirito-de-familia
+  /igreja/vivendo-como-igreja-relacional/o-espirito-de-familia.html
 published: true
 categories:
   - Vivendo como igreja relacional

@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
+  /bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens.html
 published: true
 categories:
   - Vida

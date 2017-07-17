@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca-720x666.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/sofrimentos-crianca-pequena
+permalink: >
+  /artigos/sofrimentos-crianca-pequena.html
 published: true
 categories:
   - Artigos

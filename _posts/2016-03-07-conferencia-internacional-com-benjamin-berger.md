@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  geral/conferencia-internacional-com-benjamin-berger
+  /geral/conferencia-internacional-com-benjamin-berger.html
 published: true
 categories:
   - Geral

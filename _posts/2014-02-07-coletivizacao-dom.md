@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/vida/coletivizacao-dom
+permalink: >
+  /bases-cristas/vida/coletivizacao-dom.html
 published: true
 categories:
   - Vida

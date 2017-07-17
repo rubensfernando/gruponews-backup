@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
+  /bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente.html
 published: true
 categories:
   - Vida

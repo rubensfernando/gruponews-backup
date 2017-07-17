@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: noticias/encontro-de-evangelismo-2015-2
+permalink: >
+  /noticias/encontro-de-evangelismo-2015-2.html
 published: true
 categories:
   - Notícias

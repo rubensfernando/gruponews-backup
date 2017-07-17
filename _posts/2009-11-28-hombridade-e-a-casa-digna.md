@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna-720x600.jpg
 post_excerpt: ""
 layout: post
-permalink: familia/hombridade-e-a-casa-digna
+permalink: /familia/hombridade-e-a-casa-digna.html
 published: true
 categories:
   - Família

@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/09/banner-site-imersao-2015-2-720x720.png
 post_excerpt: ""
 layout: page
-permalink: inscricoes-para-os-eventos
+permalink: /inscricoes-para-os-eventos
 published: true
 categories: [ ]
 tags: [ ]

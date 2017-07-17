@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/lidando-com-o-proprio-veneno
+  /bases-cristas/vida/lidando-com-o-proprio-veneno.html
 published: true
 categories:
   - Vida

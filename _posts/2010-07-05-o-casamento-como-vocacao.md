@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: familia/o-casamento-como-vocacao
+permalink: /familia/o-casamento-como-vocacao.html
 published: true
 categories:
   - Família

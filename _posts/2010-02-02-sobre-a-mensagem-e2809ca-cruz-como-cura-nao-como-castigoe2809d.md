@@ -9,7 +9,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: 'artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d'
+permalink: '/artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d.html'
 published: true
 categories:
   - Artigos

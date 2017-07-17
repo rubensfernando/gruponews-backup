@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-paternidade-2-2013
+permalink: /eventos/encontro-de-paternidade-2-2013
 published: true
 categories: [ ]
 tags: [ ]

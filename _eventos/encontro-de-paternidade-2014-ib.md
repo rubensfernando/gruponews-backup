@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-paternidade-2014-ib
+permalink: /eventos/encontro-de-paternidade-2014-ib
 published: true
 categories: [ ]
 tags: [ ]

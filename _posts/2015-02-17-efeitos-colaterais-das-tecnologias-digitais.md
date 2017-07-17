@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais
+  /bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais.html
 published: true
 categories:
   - Vida

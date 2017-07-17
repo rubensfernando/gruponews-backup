@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/despessoalizacao-de-deus
+permalink: >
+  /bases-cristas/despessoalizacao-de-deus.html
 published: true
 categories:
   - Bases Cristãs

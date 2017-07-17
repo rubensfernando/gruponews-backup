@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/o-caminho-do-senhor-e-o-caminho-do-impio
+  /artigos/o-caminho-do-senhor-e-o-caminho-do-impio.html
 published: true
 categories:
   - Artigos

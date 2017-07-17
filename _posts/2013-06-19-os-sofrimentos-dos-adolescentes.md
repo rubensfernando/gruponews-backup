@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/os-sofrimentos-dos-adolescentes
+permalink: >
+  /artigos/os-sofrimentos-dos-adolescentes.html
 published: true
 categories:
   - Artigos

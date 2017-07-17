@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-720x720.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/2017-encristus
+permalink: /eventos/2017-encristus
 published: true
 categories: [ ]
 tags: [ ]

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/o-sacerdocio-de-todos-os-cristaos
+  /bases-cristas/o-sacerdocio-de-todos-os-cristaos.html
 published: true
 categories:
   - Bases Cristãs

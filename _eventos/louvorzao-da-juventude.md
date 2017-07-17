@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/louvorzao-da-juventude
+permalink: /eventos/louvorzao-da-juventude
 published: true
 categories:
   - Geral

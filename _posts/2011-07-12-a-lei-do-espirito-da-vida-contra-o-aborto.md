@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/a-lei-do-espirito-da-vida-contra-o-aborto
+  /artigos/a-lei-do-espirito-da-vida-contra-o-aborto.html
 published: true
 categories:
   - Artigos

@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/vida/onde-estas
+permalink: /bases-cristas/vida/onde-estas.html
 published: true
 categories:
   - Vida

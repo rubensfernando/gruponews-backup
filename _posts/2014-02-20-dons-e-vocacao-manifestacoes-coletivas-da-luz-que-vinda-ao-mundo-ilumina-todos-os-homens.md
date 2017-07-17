@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
+  /publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens.html
 published: true
 categories:
   - Jornal GrupoNews

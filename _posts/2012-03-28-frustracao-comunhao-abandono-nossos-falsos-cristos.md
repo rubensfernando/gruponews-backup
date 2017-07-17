@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
+  /artigos/frustracao-comunhao-abandono-nossos-falsos-cristos.html
 published: true
 categories:
   - Artigos

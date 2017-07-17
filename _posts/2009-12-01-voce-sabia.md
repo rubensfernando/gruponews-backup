@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia-720x600.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/voce-sabia
+permalink: /bases-cristas/voce-sabia.html
 published: true
 categories:
   - Bases Cristãs

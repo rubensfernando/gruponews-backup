@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/curso-biblico-preparatorio-2015-aulas-1-e-2
+  /audioevideo/curso-biblico-preparatorio-2015-aulas-1-e-2
 published: true
 categories: [ ]
 tags: [ ]

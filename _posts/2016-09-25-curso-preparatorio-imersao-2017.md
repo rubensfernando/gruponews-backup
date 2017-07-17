@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner_curso_site-720x350.jpg
 post_excerpt: ""
 layout: post
-permalink: geral/curso-preparatorio-imersao-2017
+permalink: >
+  /geral/curso-preparatorio-imersao-2017.html
 published: true
 categories:
   - Geral

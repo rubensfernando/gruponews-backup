@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/a-paternidade-restaurada-para-a-volta-de-cristo
+  /artigos/a-paternidade-restaurada-para-a-volta-de-cristo.html
 published: true
 categories:
   - Artigos

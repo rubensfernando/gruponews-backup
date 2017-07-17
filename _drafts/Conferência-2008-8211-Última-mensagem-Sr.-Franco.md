@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: '?post_type=audioevideo&p=592'
+permalink: '/?post_type=audioevideo&p=592'
 published: false
 categories:
   - Geral

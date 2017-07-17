@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/03/sitio-ceva-destaque-720x706.jpg
 post_excerpt: ""
 layout: page
-permalink: eventos/centro-de-eventos-vale-da-aguia
+permalink: /eventos/centro-de-eventos-vale-da-aguia
 published: true
 categories: [ ]
 tags: [ ]

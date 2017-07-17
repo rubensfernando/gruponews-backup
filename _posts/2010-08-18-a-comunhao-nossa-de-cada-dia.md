@@ -13,7 +13,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/08/capa_comunhao1-560x720.jpg
 post_excerpt: ""
 layout: post
-permalink: publicacoes/a-comunhao-nossa-de-cada-dia
+permalink: >
+  /publicacoes/a-comunhao-nossa-de-cada-dia.html
 published: true
 categories:
   - Livros

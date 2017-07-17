@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
+  /publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja.html
 published: true
 categories:
   - Jornal GrupoNews

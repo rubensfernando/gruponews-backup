@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-8-de-julho
+  /audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-8-de-julho
 published: true
 categories:
   - Publicações

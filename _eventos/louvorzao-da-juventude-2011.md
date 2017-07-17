@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/05/back_fuca2011-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/louvorzao-da-juventude-2011
+permalink: /eventos/louvorzao-da-juventude-2011
 published: true
 categories:
   - Geral

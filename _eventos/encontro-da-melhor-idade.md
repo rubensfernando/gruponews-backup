@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-da-melhor-idade
+permalink: /eventos/encontro-da-melhor-idade
 published: true
 categories: [ ]
 tags: [ ]

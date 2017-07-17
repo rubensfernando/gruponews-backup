@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/enc-paternidade-2014-05-e-06-abril-palestra-2-pedro-arruda
+  /audioevideo/enc-paternidade-2014-05-e-06-abril-palestra-2-pedro-arruda
 published: true
 categories: [ ]
 tags: [ ]

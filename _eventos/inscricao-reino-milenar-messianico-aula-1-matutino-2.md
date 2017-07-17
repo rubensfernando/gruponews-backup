@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
+  /eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
 published: true
 categories: [ ]
 tags: [ ]

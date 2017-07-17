@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
+  /espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas.html
 published: true
 categories:
   - Desenvolvendo os dons proféticos

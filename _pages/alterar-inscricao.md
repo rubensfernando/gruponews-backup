@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: usuario/alterar-inscricao
+permalink: /usuario/alterar-inscricao
 published: true
 categories:
   - Geral

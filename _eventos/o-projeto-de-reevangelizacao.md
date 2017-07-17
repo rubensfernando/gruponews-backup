@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/o-projeto-de-reevangelizacao
+permalink: /eventos/o-projeto-de-reevangelizacao
 published: true
 categories:
   - Notícias

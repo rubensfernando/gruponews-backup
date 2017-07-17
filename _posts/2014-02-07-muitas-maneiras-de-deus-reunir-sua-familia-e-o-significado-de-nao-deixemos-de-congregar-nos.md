@@ -11,7 +11,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos
+  /igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos.html
 published: true
 categories:
   - Vivendo como igreja relacional

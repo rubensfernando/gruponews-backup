@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: ?p=380
+permalink: /?p=380
 published: false
 categories:
   - Livros

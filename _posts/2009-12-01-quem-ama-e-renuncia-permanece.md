@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/quem-ama-e-renuncia-permanece
+permalink: >
+  /artigos/quem-ama-e-renuncia-permanece.html
 published: true
 categories:
   - Artigos

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: audioevideo/horizontalidade-vida-oracao
+permalink: /audioevideo/horizontalidade-vida-oracao
 published: true
 categories: [ ]
 tags: [ ]

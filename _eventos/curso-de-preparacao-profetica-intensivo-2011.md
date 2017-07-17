@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/curso-de-preparacao-profetica-intensivo-2011
+  /eventos/curso-de-preparacao-profetica-intensivo-2011
 published: true
 categories:
   - Notícias

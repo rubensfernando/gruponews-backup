@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/se-o-senhor-estivesse-aqui
+  /bases-cristas/vida/se-o-senhor-estivesse-aqui.html
 published: true
 categories:
   - Vida

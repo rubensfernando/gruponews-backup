@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/em-seus-passos-o-que-jesus-jamais-faria
+  /bases-cristas/em-seus-passos-o-que-jesus-jamais-faria.html
 published: true
 categories:
   - Bases Cristãs

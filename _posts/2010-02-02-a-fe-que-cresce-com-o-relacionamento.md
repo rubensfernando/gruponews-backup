@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/a-fe-que-cresce-com-o-relacionamento
+  /artigos/a-fe-que-cresce-com-o-relacionamento.html
 published: true
 categories:
   - Artigos

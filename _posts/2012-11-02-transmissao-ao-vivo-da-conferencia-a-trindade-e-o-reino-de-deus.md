@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  noticias/transmissao-ao-vivo-da-conferencia-a-trindade-e-o-reino-de-deus
+  /noticias/transmissao-ao-vivo-da-conferencia-a-trindade-e-o-reino-de-deus.html
 published: true
 categories:
   - Notícias

@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_dracma_perdida-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: familia/a-dracma-perdida
+permalink: /familia/a-dracma-perdida.html
 published: true
 categories:
   - Família

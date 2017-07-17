@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/deixa-que-eu-pago
+permalink: /bases-cristas/deixa-que-eu-pago.html
 published: true
 categories:
   - Bases Cristãs

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  noticias/transmissao-ao-vivo-do-encristus-regional-2013
+  /noticias/transmissao-ao-vivo-do-encristus-regional-2013.html
 published: true
 categories:
   - Notícias

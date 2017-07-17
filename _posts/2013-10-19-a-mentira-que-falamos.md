@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos
+  /bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos.html
 published: true
 categories:
   - O Deus mal compreendido

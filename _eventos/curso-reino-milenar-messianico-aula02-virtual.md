@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/curso-reino-milenar-messianico-aula02-virtual
+  /eventos/curso-reino-milenar-messianico-aula02-virtual
 published: true
 categories: [ ]
 tags: [ ]

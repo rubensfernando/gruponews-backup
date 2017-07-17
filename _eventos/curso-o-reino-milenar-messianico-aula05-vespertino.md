@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/curso-o-reino-milenar-messianico-aula05-vespertino
+  /eventos/curso-o-reino-milenar-messianico-aula05-vespertino
 published: true
 categories: [ ]
 tags: [ ]

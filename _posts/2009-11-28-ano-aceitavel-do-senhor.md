@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/ano-aceitavel-do-senhor
+permalink: >
+  /bases-cristas/ano-aceitavel-do-senhor.html
 published: true
 categories:
   - Bases Cristãs

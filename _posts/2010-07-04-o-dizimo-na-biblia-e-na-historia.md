@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/o-dizimo-na-biblia-e-na-historia
+permalink: >
+  /artigos/o-dizimo-na-biblia-e-na-historia.html
 published: true
 categories:
   - Artigos

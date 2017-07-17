@@ -11,7 +11,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado-720x500.jpg
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/666-voce-ja-foi-assinalado
+permalink: >
+  /bases-cristas/666-voce-ja-foi-assinalado.html
 published: true
 categories:
   - Bases Cristãs

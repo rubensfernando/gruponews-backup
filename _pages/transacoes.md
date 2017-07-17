@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: eventos/transacoes
+permalink: /eventos/transacoes
 published: true
 categories: [ ]
 tags: [ ]

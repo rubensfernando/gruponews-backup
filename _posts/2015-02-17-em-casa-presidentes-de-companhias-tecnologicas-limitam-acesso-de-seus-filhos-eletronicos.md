@@ -11,7 +11,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos
+  /bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos.html
 published: true
 categories:
   - Vida

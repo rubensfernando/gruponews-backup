@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-paternidade-2017-2
+permalink: /eventos/encontro-de-paternidade-2017-2
 published: true
 categories: [ ]
 tags: [ ]

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
+  /publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen.html
 published: true
 categories:
   - Jornal GrupoNews

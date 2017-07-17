@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/10o-encontro-de-reflexao-profetica-para-lideres
+  /eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
 categories: [ ]
 tags:

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: '?post_type=event&p=4097'
+permalink: '/?post_type=event&p=4097'
 published: false
 categories: [ ]
 tags: [ ]

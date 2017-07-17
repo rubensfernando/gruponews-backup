@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/pos-imersao-2
+permalink: /eventos/pos-imersao-2
 published: true
 categories: [ ]
 tags: [ ]

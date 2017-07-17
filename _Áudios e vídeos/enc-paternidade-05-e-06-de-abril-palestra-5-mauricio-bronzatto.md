@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/enc-paternidade-05-e-06-de-abril-palestra-5-mauricio-bronzatto
+  /audioevideo/enc-paternidade-05-e-06-de-abril-palestra-5-mauricio-bronzatto
 published: true
 categories: [ ]
 tags: [ ]

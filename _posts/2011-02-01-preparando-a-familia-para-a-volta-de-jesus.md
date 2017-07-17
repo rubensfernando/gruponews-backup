@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  familia/preparando-a-familia-para-a-volta-de-jesus
+  /familia/preparando-a-familia-para-a-volta-de-jesus.html
 published: true
 categories:
   - Família

@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: audioevideo/perdao-condicionante-oracao
+permalink: /audioevideo/perdao-condicionante-oracao
 published: true
 categories: [ ]
 tags: [ ]

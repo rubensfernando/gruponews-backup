@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: familia/criacao-de-filhos
+permalink: /familia/criacao-de-filhos.html
 published: true
 categories:
   - Família

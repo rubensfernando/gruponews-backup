@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  publicacoes/vamos-louvar-ministerio-omega-de-louvor
+  /publicacoes/vamos-louvar-ministerio-omega-de-louvor.html
 published: true
 categories:
   - CDs de músicas

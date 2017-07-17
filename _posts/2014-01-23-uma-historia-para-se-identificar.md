@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: geral/uma-historia-para-se-identificar
+permalink: >
+  /geral/uma-historia-para-se-identificar.html
 published: true
 categories:
   - Geral

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/cracolandia-pelo-moco-do-profeta
+  /bases-cristas/cracolandia-pelo-moco-do-profeta.html
 published: true
 categories:
   - Bases Cristãs

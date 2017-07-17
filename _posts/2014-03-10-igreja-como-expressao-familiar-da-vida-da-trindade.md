@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  geral/igreja-como-expressao-familiar-da-vida-da-trindade
+  /geral/igreja-como-expressao-familiar-da-vida-da-trindade.html
 published: true
 categories:
   - Geral

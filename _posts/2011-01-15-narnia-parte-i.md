@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: artigos/narnia-parte-i
+permalink: /artigos/narnia-parte-i.html
 published: true
 categories:
   - Artigos

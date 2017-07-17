@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: igreja/a-segunda-milha
+permalink: /igreja/a-segunda-milha.html
 published: true
 categories:
   - Igreja

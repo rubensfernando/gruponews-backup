@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
+  /artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem.html
 published: true
 categories:
   - Artigos

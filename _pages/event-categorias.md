@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: eventos/event-categorias
+permalink: /eventos/event-categorias
 published: true
 categories: [ ]
 tags: [ ]

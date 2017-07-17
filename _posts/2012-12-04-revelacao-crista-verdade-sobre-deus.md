@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/revelacao-crista-verdade-sobre-deus
+  /artigos/revelacao-crista-verdade-sobre-deus.html
 published: true
 categories:
   - Artigos

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/vida/com-que-luz-voce-foi-iluminado
+  /bases-cristas/vida/com-que-luz-voce-foi-iluminado.html
 published: true
 categories:
   - Vida

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/a-danca-da-trindade-e-a-igreja-parte-1
+  /audioevideo/a-danca-da-trindade-e-a-igreja-parte-1
 published: true
 categories:
   - Espírito Santo

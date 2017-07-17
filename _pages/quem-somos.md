@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-720x720.jpg
 post_excerpt: ""
 layout: page
-permalink: quem-somos
+permalink: /quem-somos
 published: true
 categories:
   - Geral

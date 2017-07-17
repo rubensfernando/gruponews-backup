@@ -13,7 +13,8 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: noticias/transmissao-do-encristus-2012
+permalink: >
+  /noticias/transmissao-do-encristus-2012.html
 published: true
 categories:
   - Notícias

@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
+  /audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
 published: true
 categories: [ ]
 tags:

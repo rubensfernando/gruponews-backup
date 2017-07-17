@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
+  /artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo.html
 published: true
 categories:
   - Artigos

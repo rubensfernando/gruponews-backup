@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/os-amigos-do-mestre
+permalink: /bases-cristas/os-amigos-do-mestre.html
 published: true
 categories:
   - Bases Cristãs

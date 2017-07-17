@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/01/banner_conferencia2008-720x307.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/conferencia-2008
+permalink: /eventos/conferencia-2008
 published: true
 categories:
   - Geral

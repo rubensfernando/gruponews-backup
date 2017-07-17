@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/9imersaodeverao
+permalink: /eventos/9imersaodeverao
 published: true
 categories:
   - Geral

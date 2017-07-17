@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-adolescentes
+permalink: /eventos/encontro-de-adolescentes
 published: true
 categories: [ ]
 tags: [ ]

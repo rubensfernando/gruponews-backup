@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+  /familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa.html
 published: true
 categories:
   - Família

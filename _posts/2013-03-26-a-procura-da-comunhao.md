@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/a-procura-da-comunhao
+permalink: /artigos/a-procura-da-comunhao.html
 published: true
 categories:
   - Artigos

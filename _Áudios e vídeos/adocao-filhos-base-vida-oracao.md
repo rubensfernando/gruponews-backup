@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/adocao-filhos-base-vida-oracao
+  /audioevideo/adocao-filhos-base-vida-oracao
 published: true
 categories: [ ]
 tags: [ ]

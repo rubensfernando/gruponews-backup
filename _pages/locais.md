@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: eventos/locais
+permalink: /eventos/locais
 published: true
 categories: [ ]
 tags: [ ]

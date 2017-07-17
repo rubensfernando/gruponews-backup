@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: geral/aulas-de-segunda-feira
+permalink: /geral/aulas-de-segunda-feira.html
 published: true
 categories:
   - Geral

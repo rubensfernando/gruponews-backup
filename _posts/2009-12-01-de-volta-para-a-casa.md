@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/de-volta-para-a-casa
+permalink: /artigos/de-volta-para-a-casa.html
 published: true
 categories:
   - Artigos

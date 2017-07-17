@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/conferencia-internacional-2016
+  /audioevideo/conferencia-internacional-2016
 published: true
 categories: [ ]
 tags:

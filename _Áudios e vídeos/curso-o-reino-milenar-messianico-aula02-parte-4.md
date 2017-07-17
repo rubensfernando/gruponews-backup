@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/curso-o-reino-milenar-messianico-aula02-parte-4
+  /audioevideo/curso-o-reino-milenar-messianico-aula02-parte-4
 published: true
 categories: [ ]
 tags: [ ]

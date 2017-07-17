@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/a-condicao-para-fazer-parte-do-reino-de-deus
+  /igreja/a-condicao-para-fazer-parte-do-reino-de-deus.html
 published: true
 categories:
   - Igreja

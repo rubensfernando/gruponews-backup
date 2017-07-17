@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/muito-mais-humanos-do-que-costumamos-admitir
+  /artigos/muito-mais-humanos-do-que-costumamos-admitir.html
 published: true
 categories:
   - Artigos

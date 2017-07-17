@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/perdao-como-condicionante-da-oracao
+  /eventos/perdao-como-condicionante-da-oracao
 published: true
 categories: [ ]
 tags: [ ]

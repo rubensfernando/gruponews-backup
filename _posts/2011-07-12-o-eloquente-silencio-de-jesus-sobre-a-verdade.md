@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
+  /artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade.html
 published: true
 categories:
   - Artigos

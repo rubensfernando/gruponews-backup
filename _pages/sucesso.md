@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: contato/sucesso
+permalink: /contato/sucesso
 published: true
 categories:
   - Geral

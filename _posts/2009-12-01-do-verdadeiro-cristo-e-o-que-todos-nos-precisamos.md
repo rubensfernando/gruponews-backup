@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
+  /artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos.html
 published: true
 categories:
   - Artigos

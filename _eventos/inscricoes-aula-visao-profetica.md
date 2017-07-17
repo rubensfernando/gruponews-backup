@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/inscricoes-aula-visao-profetica
+permalink: /eventos/inscricoes-aula-visao-profetica
 published: true
 categories: [ ]
 tags: [ ]

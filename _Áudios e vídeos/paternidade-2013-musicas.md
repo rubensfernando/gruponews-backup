@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: audioevideo/paternidade-2013-musicas
+permalink: /audioevideo/paternidade-2013-musicas
 published: true
 categories: [ ]
 tags: [ ]

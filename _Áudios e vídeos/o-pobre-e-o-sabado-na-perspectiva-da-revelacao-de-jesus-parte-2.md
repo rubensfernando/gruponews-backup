@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/o-pobre-e-o-sabado-na-perspectiva-da-revelacao-de-jesus-parte-2
+  /audioevideo/o-pobre-e-o-sabado-na-perspectiva-da-revelacao-de-jesus-parte-2
 published: true
 categories: [ ]
 tags: [ ]

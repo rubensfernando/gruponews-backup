@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/as-duas-faces-da-igreja-a-publica-e-a-oculta
+  /audioevideo/as-duas-faces-da-igreja-a-publica-e-a-oculta
 published: true
 categories: [ ]
 tags: [ ]

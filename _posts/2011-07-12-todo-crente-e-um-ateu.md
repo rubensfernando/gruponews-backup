@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/todo-crente-e-um-ateu
+permalink: /artigos/todo-crente-e-um-ateu.html
 published: true
 categories:
   - Artigos

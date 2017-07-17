@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: eventos-finalizando-a-inscricao
+permalink: /eventos-finalizando-a-inscricao
 published: true
 categories: [ ]
 tags: [ ]

@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/quando-o-ordinario-e-extraordinario
+  /artigos/quando-o-ordinario-e-extraordinario.html
 published: true
 categories:
   - Artigos

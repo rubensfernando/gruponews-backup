@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/09/banner-cadastro-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: geral/cadastro-geral-gruponews
+permalink: /geral/cadastro-geral-gruponews.html
 published: true
 categories:
   - Geral

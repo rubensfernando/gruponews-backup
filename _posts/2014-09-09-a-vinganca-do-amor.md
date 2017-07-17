@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/a-vinganca-do-amor
+permalink: /bases-cristas/a-vinganca-do-amor.html
 published: true
 categories:
   - Bases Cristãs

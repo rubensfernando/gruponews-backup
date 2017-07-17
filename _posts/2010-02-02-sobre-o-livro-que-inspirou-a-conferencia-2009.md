@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  geral/sobre-o-livro-que-inspirou-a-conferencia-2009
+  /geral/sobre-o-livro-que-inspirou-a-conferencia-2009.html
 published: true
 categories:
   - Geral

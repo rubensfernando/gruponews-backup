@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/cppi-2011-audios-da-palestra-de-quinta-21de-julho
+  /audioevideo/cppi-2011-audios-da-palestra-de-quinta-21de-julho
 published: true
 categories:
   - Publicações

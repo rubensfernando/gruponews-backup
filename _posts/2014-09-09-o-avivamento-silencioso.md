@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: espirito-santo/o-avivamento-silencioso
+permalink: >
+  /espirito-santo/o-avivamento-silencioso.html
 published: true
 categories:
   - Espírito Santo

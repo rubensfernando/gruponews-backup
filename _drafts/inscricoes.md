@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: '?post_type=event&p=4675'
+permalink: '/?post_type=event&p=4675'
 published: false
 categories: [ ]
 tags: [ ]

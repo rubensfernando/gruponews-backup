@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: copyright
+permalink: /copyright
 published: true
 categories: [ ]
 tags: [ ]

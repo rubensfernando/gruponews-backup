@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: audioevideo/reino-objeto-oracao
+permalink: /audioevideo/reino-objeto-oracao
 published: true
 categories: [ ]
 tags: [ ]

@@ -14,7 +14,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/curso-de-preparacao-profetica-intensivo-2013
+  /eventos/curso-de-preparacao-profetica-intensivo-2013
 published: true
 categories: [ ]
 tags: [ ]

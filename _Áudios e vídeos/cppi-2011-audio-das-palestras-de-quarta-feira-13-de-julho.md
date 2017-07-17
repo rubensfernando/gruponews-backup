@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: audioevideo
 permalink: >
-  audioevideo/cppi-2011-audio-das-palestras-de-quarta-feira-13-de-julho
+  /audioevideo/cppi-2011-audio-das-palestras-de-quarta-feira-13-de-julho
 published: true
 categories:
   - Publicações

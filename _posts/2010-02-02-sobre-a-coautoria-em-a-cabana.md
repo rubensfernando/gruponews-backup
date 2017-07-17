@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: geral/sobre-a-coautoria-em-a-cabana
+permalink: >
+  /geral/sobre-a-coautoria-em-a-cabana.html
 published: true
 categories:
   - Geral

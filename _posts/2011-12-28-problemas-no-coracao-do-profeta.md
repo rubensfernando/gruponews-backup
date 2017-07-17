@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/problemas-no-coracao-do-profeta
+permalink: >
+  /artigos/problemas-no-coracao-do-profeta.html
 published: true
 categories:
   - Artigos

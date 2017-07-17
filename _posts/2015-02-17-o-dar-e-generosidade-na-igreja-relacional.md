@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
+  /igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional.html
 published: true
 categories:
   - Vivendo como igreja relacional

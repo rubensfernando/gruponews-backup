@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  bases-cristas/o-mal-que-faz-aparencia-bem
+  /bases-cristas/o-mal-que-faz-aparencia-bem.html
 published: true
 categories:
   - Bases Cristãs

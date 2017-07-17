@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
+  /igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar.html
 published: true
 categories:
   - Vivendo como igreja relacional

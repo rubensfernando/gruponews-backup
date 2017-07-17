@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: eventos/inscricao-sucesso
+permalink: /eventos/inscricao-sucesso
 published: true
 categories:
   - Geral

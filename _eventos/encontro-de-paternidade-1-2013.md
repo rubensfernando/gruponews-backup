@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-de-paternidade-1-2013
+permalink: /eventos/encontro-de-paternidade-1-2013
 published: true
 categories: [ ]
 tags: [ ]

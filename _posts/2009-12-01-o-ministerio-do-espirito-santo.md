@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
+  /espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo.html
 published: true
 categories:
   - O Ministério do Espírito Santo

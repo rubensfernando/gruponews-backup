@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  noticias/transmissao-ao-vivo-da-conferencia-2009
+  /noticias/transmissao-ao-vivo-da-conferencia-2009.html
 published: true
 categories:
   - Notícias

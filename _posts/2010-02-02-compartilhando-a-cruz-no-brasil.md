@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/compartilhando-a-cruz-no-brasil
+permalink: >
+  /artigos/compartilhando-a-cruz-no-brasil.html
 published: true
 categories:
   - Artigos

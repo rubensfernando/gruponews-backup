@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/curso-reino-milenar-messianico-aula02-matutino
+  /eventos/curso-reino-milenar-messianico-aula02-matutino
 published: true
 categories: [ ]
 tags: [ ]

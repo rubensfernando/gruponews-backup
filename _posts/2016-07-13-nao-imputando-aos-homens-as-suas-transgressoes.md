@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
+  /igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes.html
 published: true
 categories:
   - Unidade

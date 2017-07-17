@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/encontro-tematico-2010
+permalink: /eventos/encontro-tematico-2010
 published: true
 categories:
   - Geral

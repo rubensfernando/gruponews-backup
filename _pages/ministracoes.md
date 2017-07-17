@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: conferencia2008/ministracoes
+permalink: /conferencia2008/ministracoes
 published: true
 categories: [ ]
 tags: [ ]

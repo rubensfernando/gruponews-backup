@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: noticias/curta-nossa-pagina-no-facebook
+permalink: >
+  /noticias/curta-nossa-pagina-no-facebook.html
 published: true
 categories:
   - Notícias

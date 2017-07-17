@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: ?page_id=8
+permalink: /?page_id=8
 published: false
 categories:
   - Geral

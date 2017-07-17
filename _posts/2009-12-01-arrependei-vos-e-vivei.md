@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/arrependei-vos-e-vivei
+permalink: /artigos/arrependei-vos-e-vivei.html
 published: true
 categories:
   - Artigos

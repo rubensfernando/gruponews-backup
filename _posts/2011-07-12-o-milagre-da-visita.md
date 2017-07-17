@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: artigos/o-milagre-da-visita
+permalink: /artigos/o-milagre-da-visita.html
 published: true
 categories:
   - Artigos

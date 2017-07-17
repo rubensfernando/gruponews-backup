@@ -12,7 +12,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
+  /publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos.html
 published: true
 categories:
   - Jornal GrupoNews

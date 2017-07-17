@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: audioevideo
-permalink: audioevideo/orando-vencer-divisao
+permalink: /audioevideo/orando-vencer-divisao
 published: true
 categories: [ ]
 tags: [ ]

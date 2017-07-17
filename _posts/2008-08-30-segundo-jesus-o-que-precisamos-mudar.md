@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  igreja/segundo-jesus-o-que-precisamos-mudar
+  /igreja/segundo-jesus-o-que-precisamos-mudar.html
 published: true
 categories:
   - Comunhão

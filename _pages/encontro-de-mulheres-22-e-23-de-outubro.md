@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista-720x720.jpg
 post_excerpt: ""
 layout: page
-permalink: encontro-de-mulheres-22-e-23-de-outubro
+permalink: /encontro-de-mulheres-22-e-23-de-outubro
 published: true
 categories: [ ]
 tags: [ ]

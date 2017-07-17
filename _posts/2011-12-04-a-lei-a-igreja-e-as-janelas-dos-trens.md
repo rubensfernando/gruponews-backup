@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/a-lei-a-igreja-e-as-janelas-dos-trens
+  /artigos/a-lei-a-igreja-e-as-janelas-dos-trens.html
 published: true
 categories:
   - Artigos

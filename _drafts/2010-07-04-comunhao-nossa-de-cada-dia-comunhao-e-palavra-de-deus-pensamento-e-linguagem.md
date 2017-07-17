@@ -7,7 +7,7 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: ?p=875
+permalink: /?p=875
 published: false
 categories:
   - Artigos

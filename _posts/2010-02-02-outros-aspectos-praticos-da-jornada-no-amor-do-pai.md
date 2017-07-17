@@ -10,7 +10,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
+  /artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai.html
 published: true
 categories:
   - Artigos

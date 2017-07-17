@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/naama-a-dedicacao-profissional-transformada-em-devocao-apaixonada
+  /artigos/naama-a-dedicacao-profissional-transformada-em-devocao-apaixonada.html
 published: true
 categories:
   - Artigos

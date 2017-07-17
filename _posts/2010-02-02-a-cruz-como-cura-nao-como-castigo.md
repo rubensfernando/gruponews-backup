@@ -8,7 +8,7 @@ image-sq-m: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/a-cruz-como-cura-nao-como-castigo
+  /artigos/a-cruz-como-cura-nao-como-castigo.html
 published: true
 categories:
   - Artigos

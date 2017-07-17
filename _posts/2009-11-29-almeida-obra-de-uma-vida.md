@@ -7,7 +7,8 @@ image-sq-l: ""
 image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: bases-cristas/almeida-obra-de-uma-vida
+permalink: >
+  /bases-cristas/almeida-obra-de-uma-vida.html
 published: true
 categories:
   - Bases Cristãs

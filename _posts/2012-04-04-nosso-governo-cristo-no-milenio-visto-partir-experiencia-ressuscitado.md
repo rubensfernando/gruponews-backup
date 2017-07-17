@@ -15,7 +15,7 @@ image-sq-m: >
 post_excerpt: ""
 layout: post
 permalink: >
-  artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
+  /artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado.html
 published: true
 categories:
   - Artigos

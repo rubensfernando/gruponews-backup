@@ -13,7 +13,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: eventos/aula-espaco-para-deus
+permalink: /eventos/aula-espaco-para-deus
 published: true
 categories: [ ]
 tags: [ ]
