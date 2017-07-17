@@ -1,25 +1,9 @@
 ---
 ID: 2004
 post_title: '9º Imersão de Verão &#8211; 07 a 15 de Janeiro de 2012'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/9imersaodeverao
 published: true
-categories:
-  - Geral
-tags:
-  - Louvor
-author:
-  - Equipe GrupoNews
 post_date: 2011-12-14 22:04:12
 ---
 <h3>O que é Imersão?</h3>

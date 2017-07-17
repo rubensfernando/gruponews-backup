@@ -1,31 +1,9 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - aslam
-  - C.S. Lewis
-  - caspian
-  - cronicas
-  - filme
-  - narnia
-  - principe
-  - Príncipe Caspian
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>

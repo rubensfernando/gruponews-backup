@@ -1,24 +1,9 @@
 ---
 ID: 1131
 post_title: Louvorzão da Juventude
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/louvorzao-da-juventude
 published: true
-categories:
-  - Geral
-tags: [ ]
-author:
-  - Equipe GrupoNews
 post_date: 2010-09-26 23:17:34
 ---
 <h3>Onde?</h3>

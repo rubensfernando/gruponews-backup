@@ -1,21 +1,9 @@
 ---
 ID: 3032
 post_title: 'Encontro de Paternidade &#8211; Abertura'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton-1280x483.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton-1280x483.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: 'https://www.gruponews.com.br/?post_type=audioevideo&p=3032'
 published: false
-categories: [ ]
-tags: [ ]
-author: [ ]
 ---
 Abertura do Encontro de Paternidade 2013 com o Ailton Jacob.
 

@@ -1,24 +1,9 @@
 ---
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-1000x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/igreja-casa-deus-com-ceus-abertos
 published: true
-categories:
-  - Artigos
-tags: [ ]
-author:
-  - Ezequiel Netto
 post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>

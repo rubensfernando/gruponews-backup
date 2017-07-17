@@ -1,40 +1,9 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
 published: true
-categories:
-  - O Ministério do Espírito Santo
-tags:
-  - Coletivo
-  - Comunhão
-  - Converter
-  - Coração
-  - Corpo
-  - Derramar
-  - Diariamente
-  - Espírito
-  - Estudos
-  - Habitar
-  - Individual
-  - Ministério
-  - Plural
-  - Relacionamento
-  - Templo
-  - Transformação
-author:
-  - Pedro Arruda
 post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)

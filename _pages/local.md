@@ -1,18 +1,9 @@
 ---
 ID: 1103
 post_title: Local
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.gruponews.com.br/conferencia2010/local
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
 post_date: 2010-09-16 18:09:05
 ---
 <strong>Centro de Eventos Vale da Águia</strong>

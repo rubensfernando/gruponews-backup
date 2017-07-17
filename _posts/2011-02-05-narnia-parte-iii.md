@@ -1,34 +1,9 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte3.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte3.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte3.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte3-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-iii
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - aslam
-  - cavalo
-  - cronicas
-  - Curiosidade
-  - filme
-  - lewis
-  - Livro
-  - menino
-  - narnia
-  - O cavalo e seu menino
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>

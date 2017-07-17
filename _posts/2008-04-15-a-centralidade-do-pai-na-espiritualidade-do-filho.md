@@ -3,34 +3,9 @@ ID: 568
 post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho
 published: true
-categories:
-  - Jornal GrupoNews
-  - Publicações
-tags:
-  - Amor
-  - centralidade
-  - deus
-  - entrega
-  - fraternidade
-  - jó
-  - Jornal GrupoNews
-  - Pai
-  - paternidade
-author:
-  - Equipe GrupoNews
 post_date: 2008-04-15 00:00:40
 ---
 <ul>

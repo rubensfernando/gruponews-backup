@@ -1,35 +1,9 @@
 ---
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - aslam
-  - C.S. Lewis
-  - cronicas
-  - Curiosidade
-  - feiticeira
-  - filme
-  - guarda-roupa
-  - leao
-  - Livro
-  - narnia
-  - O leão a feiticeira e o guarda-roupa
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-01-22 21:29:50
 ---
 <h3>A Nárnia que o guarda-roupa esconde</h3>

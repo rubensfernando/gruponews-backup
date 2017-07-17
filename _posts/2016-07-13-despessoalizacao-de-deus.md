@@ -1,21 +1,9 @@
 ---
 ID: 4692
 post_title: A despessoalização de Deus
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/despessoalizacao-de-deus
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - edicao-82
-author:
-  - Pedro Arruda
 post_date: 2016-07-13 11:28:26
 ---
 <p class="p1"><span class="s1">Você já teve um encontro pessoal com Jesus?</span></p>

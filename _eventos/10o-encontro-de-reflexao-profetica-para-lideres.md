@@ -3,24 +3,9 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
-categories: [ ]
-tags:
-  - deus
-author:
-  - Revista Impacto
 post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">

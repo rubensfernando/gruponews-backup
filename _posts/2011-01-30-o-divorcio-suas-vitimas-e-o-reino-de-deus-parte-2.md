@@ -1,36 +1,9 @@
 ---
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2-720x666.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
-categories:
-  - Artigos
-  - Família
-tags:
-  - Desquite
-  - Divórcio
-  - Ex-cônjuges
-  - Familiares
-  - Filhos
-  - reino de Deus
-  - Separação
-  - União
-  - Vítima
-  - Vontade
-author:
-  - Juarez Gomes
-  - Maria de Carvalho Gomes
 post_date: 2011-01-30 22:38:33
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>

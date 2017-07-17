@@ -1,35 +1,9 @@
 ---
 ID: 1379
 post_title: Revelação maior que a de Daniel
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold-720x307.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/revelacao-maior-que-a-de-daniel
 published: true
-categories:
-  - Bases Cristãs
-  - Vida
-tags:
-  - anglicanos
-  - Conferência "Cristo
-  - >
-    Conferência "Cristo, o Reino e a
-    Igreja"
-  - cristo
-  - Igreja
-  - Livro de Daniel
-  - o Reino e a Igreja"
-  - Reino
-author:
-  - Harold Walker
 post_date: 2011-02-01 01:30:18
 ---
 Uma leitura atenta de Daniel 11.32-35 e 12.3-13 deixa em evidência alguns adjetivos com que o texto bíblico, apesar de partir das referências que a tradição da velha aliança e o momento histórico lhe permitiam, caracteriza, de maneira singular, o povo de Deus dos últimos dias: “conhecedores”, “sábios”, “entendidos”. A pouca ocorrência desses termos em outros livros parece apontar para um aspecto muito importante, e ao que tudo indica, reservado para assumir grande relevo no tempo presente. Vejamos.

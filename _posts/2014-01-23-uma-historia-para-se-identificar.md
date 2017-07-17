@@ -1,21 +1,9 @@
 ---
 ID: 2868
 post_title: Uma história para se identificar
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/geral/uma-historia-para-se-identificar
 published: true
-categories:
-  - Geral
-tags:
-  - deus
-author:
-  - Renata Ribeiro Arruda
 post_date: 2014-01-23 00:24:37
 ---
 Gosto de me identificar com um livro. E eu entrei na livraria buscando isso. Queria algum que cativasse minha atenção nas primeiras páginas – pois o último que comprei li quase até o fim esperando o momento em que ficaria interessada, mas não encontrei na obra algum fato ou sensação que a aproximasse de mim. Foi então que me voltei novamente para a estante de “literatura estrangeira”; eu já havia passado por lá na ocasião em que comprei o livro errado.

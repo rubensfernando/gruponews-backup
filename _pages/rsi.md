@@ -1,17 +1,9 @@
 ---
 ID: 1040
 post_title: RSI
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: https://www.gruponews.com.br/rsi
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
 post_date: 2010-09-11 13:52:44
 ---
 <h3>O Propósito</h3>

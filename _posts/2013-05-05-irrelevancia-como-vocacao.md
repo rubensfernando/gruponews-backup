@@ -1,20 +1,9 @@
 ---
 ID: 3218
 post_title: A irrelevância como vocação
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/irrelevancia-como-vocacao
 published: true
-categories:
-  - Vida
-tags: [ ]
-author:
-  - Henri Nouwen
 post_date: 2013-05-05 00:15:25
 ---
 <h2>O caminho descendente</h2>

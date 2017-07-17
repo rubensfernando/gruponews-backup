@@ -1,24 +1,9 @@
 ---
 ID: 4315
 post_title: Como não ser vítima do divórcio
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio
 published: true
-categories:
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-tags:
-  - edicao-80
-author:
-  - Juarez Gomes
-  - Maria de Carvalho Gomes
 post_date: 2015-02-17 12:56:22
 ---
 Este artigo é o último de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. Clique aqui para ler os artigos anteriores

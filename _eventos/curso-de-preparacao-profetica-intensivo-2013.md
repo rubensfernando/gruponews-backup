@@ -3,23 +3,9 @@ ID: 2983
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013-720x340.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/curso-de-preparacao-profetica-intensivo-2013
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Equipe GrupoNews
 post_date: 2013-02-04 20:34:21
 ---
 <h2>Matérias</h2>

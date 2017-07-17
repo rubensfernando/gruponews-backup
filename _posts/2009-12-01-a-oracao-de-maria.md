@@ -1,34 +1,9 @@
 ---
 ID: 55
 post_title: A Oração de Maria
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/a-oracao-de-maria
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - Assentar-se
-  - Dialogo
-  - Ensinar
-  - Escolher
-  - Falar
-  - Maria
-  - Monólogo
-  - Oração
-  - Ouvir
-  - Palavra
-author:
-  - Pedro Arruda
 post_date: 2009-12-01 20:56:11
 ---
 “E aconteceu que, indo eles de caminho, entrou Jesus numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa; e tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra. Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude. E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas, mas uma só é necessária; e Maria escolheu a boa parte, a qual não lhe será tirada. (Lc.10:38-42)

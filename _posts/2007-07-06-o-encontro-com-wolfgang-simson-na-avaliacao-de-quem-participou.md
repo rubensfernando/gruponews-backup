@@ -3,22 +3,9 @@ ID: 3922
 post_title: >
   O encontro com Wolfgang Simson na
   avaliação de quem participou
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
 published: true
-categories:
-  - Igreja
-tags:
-  - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-  - edicao-49
-  - testemunhos
-author: [ ]
 post_date: 2007-07-06 11:38:25
 ---
 <h2>Costurando as redes de comunhão em amor</h2>

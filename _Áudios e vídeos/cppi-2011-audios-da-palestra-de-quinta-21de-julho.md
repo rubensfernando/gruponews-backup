@@ -3,23 +3,9 @@ ID: 1862
 post_title: >
   CPPI 2011 – Áudios da palestra de
   Quinta 21de Julho
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  https://www.gruponews.com.br/audioevideo/cppi-2011-audios-da-palestra-de-quinta-21de-julho
 published: true
-categories:
-  - Publicações
-tags: [ ]
-author: [ ]
 post_date: 2011-07-26 18:00:36
 ---
 Confira as palestras ministradas no dia 21 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP

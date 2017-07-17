@@ -1,33 +1,9 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-v
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - A Viagem do Peregrino da Alvorada
-  - alvorada
-  - aslam
-  - cronicas
-  - filme
-  - Livro
-  - narnia
-  - peregrino
-  - viagem
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>

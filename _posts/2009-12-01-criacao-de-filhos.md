@@ -1,41 +1,9 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/familia/criacao-de-filhos
 published: true
-categories:
-  - Família
-tags:
-  - adolescente
-  - Autoridade
-  - Casal
-  - Criação
-  - Desobediência
-  - Disciplina
-  - Educação
-  - Ensinar
-  - Estudos
-  - Família
-  - Filhos
-  - Infância
-  - Limites
-  - Obediência
-  - Pais
-  - Relacionamento
-author:
-  - Afonso Porto
-  - Claudia Porto
 post_date: 2009-12-01 20:46:31
 ---
 É essencial que o casal seja unânime na forma como vai educar os filhos. Sem unidade, não pode haver respeito dos filhos à autoridade dos pais. Mesmo pequenino, o filho percebe na hora se o pai e a mãe não estão concordando entre si e aproveita a brecha para não obedecer. O casal precisa conversar sobre a necessidade de se ter unidade nos assuntos que apresentam discordância para que a família não venha a ser destruída.

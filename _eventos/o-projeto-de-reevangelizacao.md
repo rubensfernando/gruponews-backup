@@ -1,27 +1,9 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/o-projeto-de-reevangelizacao
 published: true
-categories:
-  - Notícias
-tags:
-  - deste
-  - Nosso
-  - volta
-author:
-  - Equipe GrupoNews
 post_date: 2010-06-06 17:31:14
 ---
 Dando continuidade ao curso <a href="http://www.gruponews.com.br/2010/03/reevangelizando.html">Reevangelizando</a>, daremos início a partir desta segunda-feira uma nova fase do projeto iniciado em março deste ano. Semanalmente, toda segunda-feira a partir das 20h, você é o nosso convidado para <strong>O PROJETO DE REEVANGELIZAÇÃO</strong> e sua divulgação.

@@ -1,35 +1,9 @@
 ---
 ID: 156
 post_title: Curiosidades sobre a Bíblia
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/curiosidades-sobre-a-biblia
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - Almeida
-  - Bíblia
-  - Capítulos
-  - Curiosidade
-  - Escreveu
-  - Inspirados
-  - Livro
-  - Palavra
-  - Testamento
-  - Tradução
-  - Versículos
-author:
-  - Sociedade Bíblica do Brasil
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

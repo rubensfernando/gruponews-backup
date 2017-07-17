@@ -1,31 +1,9 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/o-valor-do-dinheiro
 published: true
-categories:
-  - Artigos
-  - Bases Cristãs
-tags:
-  - Contribuir
-  - Dar
-  - Dinheiro
-  - Escravidão
-  - Moeda
-  - Receber
-  - Reino
-  - Riqueza
-  - Servir
-  - Tudo
-author:
-  - Pedro Arruda
 post_date: 2009-12-01 21:54:34
 ---
 <h3>Deitou Tudo Quanto Possuía</h3>

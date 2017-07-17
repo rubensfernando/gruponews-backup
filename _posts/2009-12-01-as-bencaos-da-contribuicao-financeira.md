@@ -3,37 +3,9 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/as_bencaos_da_contribuicao_financeira-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/as-bencaos-da-contribuicao-financeira
 published: true
-categories:
-  - Bases Cristãs
-  - Igreja
-tags:
-  - Alegria
-  - Contribuição
-  - Contribuir
-  - Dízimo
-  - Estudo
-  - Estudos
-  - Falta
-  - Finanças
-  - Prosperidade
-  - Regular
-  - Sobra
-  - Sustentar
-author:
-  - Pedro Arruda
 post_date: 2009-12-01 21:07:58
 ---
 <h3>A contribuição e a natureza de Deus</h3>

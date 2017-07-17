@@ -3,20 +3,9 @@ ID: 4310
 post_title: >
   Efeitos colaterais das tecnologias
   digitais
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais
 published: true
-categories:
-  - Vida
-tags:
-  - edicao-80
-author: [ ]
 post_date: 2015-02-17 12:55:33
 ---
 O investigador Sang Yoon Han, apesar de seus 25 anos de experiência, não conseguia entender o que havia acontecido naquele minúsculo apartamento na pequena cidade de Hwaseong, no subúrbio de Seul, capital da Coreia do Sul. De fato, o bebê deitado com o ventre e o rosto voltados para baixo, em posição horizontal, imóvel, sobre um fino colchonete no chão frio, estava morto. A incomum finura de seus braços, seu rostinho pálido e imóvel apoiado de lado no chão, a sua quietude e a ausência de respiração indicavam que estava morto, ainda que tais indícios não fornecessem nenhuma pista adicional nem apontassem para o desencadeamento dos acontecimentos.

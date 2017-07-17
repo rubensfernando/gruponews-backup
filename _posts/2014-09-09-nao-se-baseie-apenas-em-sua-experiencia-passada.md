@@ -3,22 +3,9 @@ ID: 3955
 post_title: >
   Não se baseie apenas em sua
   experiência passada
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
 published: true
-categories:
-  - Vida
-tags:
-  - edicao-49
-  - QUEM TEM OUVIDOS PARA OUVIR... OUÇA!
-author:
-  - Alexandre Rangel
 post_date: 2014-09-09 22:54:40
 ---
 Contam que certa vez duas moscas caíram num copo de leite. A primeira era forte e valente. Assim, logo ao cair, nadou até a borda do copo. Mas como a superfície era muito lisa, e ela tinha as asas bastante molhadas, não conseguiu sair do copo. Acreditando que não havia jeito, a mosca desanimou, parou de nadar e de se debater e afundou.

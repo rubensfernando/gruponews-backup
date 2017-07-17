@@ -1,21 +1,9 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/espaco-para-deus
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - edicao-49
-author:
-  - Douglas Castillero
 post_date: 2014-09-09 21:36:08
 ---
 <p class="lead">Buscando primeiro o altar para a restauração de todas as coisas</p>

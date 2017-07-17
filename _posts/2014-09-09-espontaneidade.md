@@ -1,21 +1,9 @@
 ---
 ID: 3949
 post_title: Espontaneidade
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/espontaneidade
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - edicao-49
-author:
-  - Ricardo Alexandre de Oliveira
 post_date: 2014-09-09 22:21:29
 ---
 Espontaneidade é um assunto bastante difícil de ser tratado. A própria palavra espontaneidade parece exageradamente escorregadia. Não sei se você já travou com algum amigo um daqueles papos filosóficos sobre a espontaneidade, mas, se o fez, com certeza encontrou bastante dificuldade em conceituá-la e inseri-la na vida cotidiana.

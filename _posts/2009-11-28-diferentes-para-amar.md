@@ -1,34 +1,9 @@
 ---
 ID: 104
 post_title: Diferentes para Amar
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar-720x450.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/diferentes-para-amar
 published: true
-categories:
-  - Igreja
-tags:
-  - Aceitar
-  - Amar
-  - Amor
-  - Atitude
-  - Diferenças
-  - Falso
-  - Manifestar
-  - Marginalizado
-  - Necessidade
-  - Verdade
-author:
-  - Pedro Arruda
 post_date: 2009-11-28 18:16:29
 ---
 Ao nos criar, Deus assinou a sua autoria marcando uma coisa muito importante: a nossa singularidade. Cada um de nós é diferente de outro porque não somos criados numa produção em série, mas cada um mereceu particularmente a atenção de Deus impedindo nossa repetição . Por ironia, é exatamente aquilo que traz a marca de Deus em nós e dá a potencialidade para a realização do amor, que torna-se também a maior dificuldade para a concretização do amor de Deus.

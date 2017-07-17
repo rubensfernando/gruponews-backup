@@ -1,35 +1,9 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
 published: true
-categories:
-  - Jornal GrupoNews
-  - Publicações
-tags:
-  - Amor
-  - ateu
-  - deus
-  - Dons
-  - Encontrar
-  - legado
-  - narnia
-  - novo
-  - o outro
-  - Proféticos
-author:
-  - Equipe GrupoNews
 post_date: 2009-09-01 00:00:51
 ---
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- O outro como altar e como cura da esterilidade</div>

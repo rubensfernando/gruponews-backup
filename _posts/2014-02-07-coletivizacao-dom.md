@@ -1,27 +1,9 @@
 ---
 ID: 3627
 post_title: A coletivização do dom
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-1280x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-1280x1080.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/04/coletividade-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/vida/coletivizacao-dom
 published: true
-categories:
-  - Vida
-tags:
-  - Coletivo
-  - Comunhão
-  - dom
-  - edicao-77
-author: [ ]
 post_date: 2014-02-07 15:20:18
 ---
 Nas Olimpíadas de 2012, o Brasil trouxe para casa 17 medalhas, sendo 3 de ouro, 5 de prata e 9 de bronze. No ranking geral, permaneceu em 22º lugar, atrás da Coreia do Sul, país cujo território é cerca de 85 vezes menor e cuja população corresponde a um terço da nossa. Você já se perguntou qual é o motivo de um país tão grande, como é o Brasil, ficar atrás de um país tão pequeno, como a Coreia do Sul, em praticamente todas as edições dos jogos olímpicos? A principal palavra da resposta é <b>incentivo</b>.

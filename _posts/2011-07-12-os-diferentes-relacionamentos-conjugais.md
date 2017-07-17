@@ -1,25 +1,9 @@
 ---
 ID: 1919
 post_title: Os diferentes relacionamentos conjugais
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/os-diferentes-relacionamentos-conjugais
 published: true
-categories:
-  - Artigos
-  - Família
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-tags: [ ]
-author:
-  - Juarez Gomes
-  - Maria de Carvalho Gomes
 post_date: 2011-07-12 18:52:00
 ---
 <em>Este artigo faz parte de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</em>

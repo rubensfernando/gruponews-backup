@@ -3,30 +3,9 @@ ID: 1374
 post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino-720x307.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/familia/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino
 published: true
-categories:
-  - Bases Cristãs
-  - Família
-  - Igreja
-tags:
-  - >
-    Conferência "Cristo, o Reino e a
-    Igreja"
-  - trindade
-author:
-  - Gino Iafrancesco
 post_date: 2011-01-01 01:15:19
 ---
 <blockquote><em>“Também disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança...</em>”

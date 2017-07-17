@@ -3,21 +3,9 @@ ID: 3898
 post_title: >
   Vivendo na luz e com o princípio ativo
   de Deus
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus
 published: true
-categories:
-  - Comunhão
-tags:
-  - Conferência "A igreja do nosso tempo"
-author:
-  - Paulo Manzini
 post_date: 2014-08-30 16:56:25
 ---
 Meu nome é Paulo Manzini, moro em Jundiaí. Eu sou professor universitário na área da Administração e tenho militado nas questões referentes às empresas e à igreja, que também está querendo ser empresa. Estou há 50 anos em Jundiaí.

@@ -1,34 +1,9 @@
 ---
 ID: 127
 post_title: “Quem ama e renuncia, permanece”
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: 'https://www.gruponews.com.br/artigos/%e2%80%9cquem-ama-e-renuncia-permanece%e2%80%9d'
 published: true
-categories:
-  - Artigos
-  - Bases Cristãs
-tags:
-  - Águas
-  - Amor
-  - Arrependimento
-  - Confessar
-  - Graça
-  - Nascer
-  - Perdão
-  - Perdida
-  - Resgate
-  - Salvação
-author:
-  - Maurício Bronzatto
 post_date: 2009-12-01 22:11:40
 ---
 DEUS está à caça das ovelhas desgarradas. Ele procura, diligentemente, uma de cada vez, e quando as encontra, põe-nas nos ombros, cheio de alegria e vai para casa. E então, segue-se o banquete celestial. Não faltam anjos para a celebração. Há, portanto, nos céus, maior alegria por um só pecador que se arrependa do que por noventa e nove justos que “não necessitam de arrependimento”. Essas últimas palavras de Jesus “não necessitam de arrependimento”, soam mais como uma alfinetada no comportamento meramente religioso dos fariseus que não poupavam críticas ao fato de Jesus se sentar com os cobradores de impostos e publicanos. Ainda sobre a alegria contagiante de Deus ao receber de volta as ovelhas desgarradas, Lc 15:20 nos diz “...quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou”. Jesus nos ensina que tão logo Deus percebe seus filhos dando meia-volta no sentido de voltar para o lar, Ele sai em desabalada carreira para tomá-los nos braços e celebrar o retorno.

@@ -1,21 +1,9 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
 published: true
-categories:
-  - O Deus mal compreendido
-tags:
-  - edicao-77
-author:
-  - Darin Hufford
 post_date: 2014-02-20 00:46:48
 ---
 <blockquote>Esta é a 4ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante).</blockquote>

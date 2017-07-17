@@ -1,28 +1,9 @@
 ---
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x1080.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/publicacoes/jornal/nosso-governo-com-cristo-no-milenio
 published: true
-categories:
-  - Jornal GrupoNews
-tags:
-  - deus
-  - Governo
-  - Nosso
-  - suas
-author:
-  - Equipe GrupoNews
 post_date: 2012-03-20 00:00:45
 ---
 <ul>

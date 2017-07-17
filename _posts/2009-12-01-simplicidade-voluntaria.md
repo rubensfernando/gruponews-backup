@@ -1,35 +1,9 @@
 ---
 ID: 133
 post_title: Simplicidade voluntária
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/simplicidade_voluntaria-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/simplicidade-voluntaria
 published: true
-categories:
-  - Artigos
-  - Vida
-tags:
-  - Consumo
-  - Cotidiano
-  - Humildade
-  - Ilusão
-  - Relacionamento
-  - Simplicidade
-  - Superficial
-  - Televisão
-  - Tempo
-  - Vida
-author:
-  - Ricardo Camargo
 post_date: 2009-12-01 22:19:19
 ---
 O objetivo deste artigo está em buscar reconhecer quais as coisas (materiais ou não) que o impedem de caminhar mais livremente e com maior satisfação, o que pode facilitar sua caminhada pela segunda milha. Textos Básicos: Filipenses 4:11 e Hebreus 13:5

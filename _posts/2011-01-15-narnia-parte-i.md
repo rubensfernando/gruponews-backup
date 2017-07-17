@@ -1,34 +1,9 @@
 ---
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/narnia-parte-i
 published: true
-categories:
-  - Artigos
-  - Um lugar chamado Nárnia
-tags:
-  - aslam
-  - C.S. Lewis
-  - cronicas
-  - Curiosidade
-  - filme
-  - Livro
-  - mago
-  - narnia
-  - sobrinho
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

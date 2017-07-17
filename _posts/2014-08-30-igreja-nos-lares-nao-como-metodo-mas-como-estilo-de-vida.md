@@ -1,21 +1,9 @@
 ---
 ID: 3896
 post_title: 'Igreja nos Lares &#8211; Não como método, mas como estilo de vida'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida
 published: true
-categories:
-  - Igreja nos lares
-tags:
-  - Conferência "A igreja do nosso tempo"
-author:
-  - João A. de Souza Filho
 post_date: 2014-08-30 16:40:05
 ---
 Sempre que este tema é apresentado ou discutido, a idéia que vem à mente das pessoas é que a igreja nos lares é apenas um adendo ou uma estrutura funcional que auxilia a igreja – e aqui me refiro à igreja como organização – em sua missão na terra. Sim, porque a idéia de templo como local de reunião, seja um galpão, um salão ou uma construção especialmente feita para a reunião, obscurece o valor do lar e o arremete a um segundo ou terceiro plano. Neste estudo abordaremos a igreja como reunião no lar à luz do Israel do A.T., da prática de igreja nos dois primeiros séculos e o lugar que tiveram os lares ou as casas ao longo da história.

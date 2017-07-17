@@ -1,32 +1,9 @@
 ---
 ID: 1539
 post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte7.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte7.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte7.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte7-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-vii
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - A última batalha
-  - aslam
-  - Batalha
-  - cronicas
-  - filme
-  - Livro
-  - narnia
-  - ultima
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-04-20 22:51:26
 ---
 <h2>No fim, todos encontram o que realmente procuram</h2>

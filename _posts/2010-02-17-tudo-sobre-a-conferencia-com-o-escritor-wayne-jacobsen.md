@@ -3,51 +3,9 @@ ID: 519
 post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
 published: true
-categories:
-  - Jornal GrupoNews
-  - Publicações
-tags:
-  - a cabana
-  - abba
-  - amado
-  - Amor
-  - cabana
-  - church
-  - conferencia
-  - 'Conferência 2009 - Por que Você Não Quer Mais Ir À Igreja?'
-  - cristo
-  - cruz
-  - Cura
-  - deus
-  - edicao-64
-  - filho
-  - Igreja
-  - Jacobsen
-  - pessoa
-  - pessoas
-  - Relacionamento
-  - religião
-  - Shack
-  - "So You Don't Want to Go to Church Anymore"
-  - The Shack
-  - Vida
-  - Wayne
-  - Wayne Jacobsen
-author:
-  - Equipe GrupoNews
 post_date: 2010-02-17 00:00:08
 ---
 <ul>

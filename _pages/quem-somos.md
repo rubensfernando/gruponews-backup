@@ -1,22 +1,9 @@
 ---
 ID: 2
 post_title: Quem Somos
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-1920x1080.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-1280x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-1280x1280.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/09/lightstock_73334_medium_rubens_fernando_maciel_alencar-720x720.jpg
 post_excerpt: ""
 layout: page
-permalink: https://www.gruponews.com.br/quem-somos
 published: true
-categories:
-  - Geral
-tags: [ ]
-author: [ ]
 post_date: 2009-09-19 14:57:56
 ---
 Somos uma comunhão de grupos cristãos espalhados pelo Brasil. Grupos familiares que se reúnem nas casas. Não temos uma sede, templo ou denominação. Tampouco somos igreja em células. Não temos a intenção de servirmos de modelo à prática da igreja. Não encorajamos ninguém a desistir da jornada empreendida no interior das instituições eclesiásticas em que atuam, quer sejam católicas ou evangélicas, pois o testemunho cristão não depende delas e muito menos é impedido por elas.

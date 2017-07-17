@@ -1,32 +1,9 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte6.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte6.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte6.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte6-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-vi
 published: true
-categories:
-  - Um lugar chamado Nárnia
-tags:
-  - A Cadeira de Prata
-  - aslam
-  - cadeira
-  - cronicas
-  - filme
-  - Livro
-  - narnia
-  - prata
-author:
-  - Renata Ribeiro Arruda
 post_date: 2011-04-07 23:29:26
 ---
 <h3>A realidade do mundo superior</h3>

@@ -1,22 +1,9 @@
 ---
 ID: 1482
 post_title: Vivendo como filhos amados de Aba
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/vivendo-como-filhos-amados-de-aba
 published: true
-categories:
-  - Artigos
-  - Bases Cristãs
-  - Vida
-tags: [ ]
-author:
-  - Wayne Jacobsen
 post_date: 2010-02-02 00:25:11
 ---
 A melhor apresentação do evangelho que já ouvi veio da boca de um ateu. Isso talvez surpreenda a muitos, como,  à ocasião, aconteceu comigo. Há cinco anos, tomei um avião em Los Angeles com destino a Pittsburg. Sentei-me perto de um homem que trazia uma revista secular cuja capa anunciava a história sobre o conflito entre cristãos e a política nos Estados Unidos. Na primeira oportunidade, perguntei se poderia ler assim que ele tivesse terminado. Depois de certificar-se do meu interesse pelo artigo, disparou: “Eu odeio vocês, cristãos”. Eu nem havia dito a ele que era cristão, e ele já me odiava. “Por quê?”, eu quis saber. Ele demonstrou ressentimento pelo fato de, em sua opinião, os cristãos quererem forçar as outras pessoas a viverem de acordo com as crenças deles.

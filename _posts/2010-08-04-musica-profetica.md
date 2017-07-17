@@ -1,20 +1,9 @@
 ---
 ID: 4132
 post_title: A música profética
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/espirito-santo/desenvolvendo-os-dons-profeticos/musica-profetica
 published: true
-categories:
-  - Desenvolvendo os dons proféticos
-tags: [ ]
-author:
-  - Ezequiel Netto
 post_date: 2010-08-04 16:05:23
 ---
 <i>Este artigo é o oitavo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.</i> <i>  </i>

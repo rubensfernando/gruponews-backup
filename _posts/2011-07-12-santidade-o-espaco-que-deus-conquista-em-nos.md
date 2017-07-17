@@ -1,24 +1,9 @@
 ---
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
 published: true
-categories:
-  - Jornal GrupoNews
-tags: [ ]
-author:
-  - Equipe GrupoNews
 post_date: 2011-07-12 18:58:51
 ---
 <ul>

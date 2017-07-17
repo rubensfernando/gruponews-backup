@@ -3,23 +3,9 @@ ID: 1969
 post_title: >
   Deus quer de nós uma nova maneira de
   pensar
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
 published: true
-categories:
-  - Artigos
-  - Bases Cristãs
-tags:
-  - edicao-71
-  - pensar
-author:
-  - Ezequiel Netto
 post_date: 2011-12-21 22:35:24
 ---
 <h3><span class="Apple-style-span" style="font-size: 15px;">A pregação do evangelho</span></h3>

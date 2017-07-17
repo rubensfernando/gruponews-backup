@@ -1,18 +1,9 @@
 ---
 ID: 1042
 post_title: Como participar
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.gruponews.com.br/rsi/como-participar
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
 post_date: 2010-09-11 13:54:13
 ---
 <div id="texto">

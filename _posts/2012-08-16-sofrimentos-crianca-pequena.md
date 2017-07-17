@@ -1,29 +1,9 @@
 ---
 ID: 2086
 post_title: Sofrimentos da criança pequena
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca-720x666.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/sofrimentos-crianca-pequena
 published: true
-categories:
-  - Artigos
-  - Família
-  - >
-    O divórcio, suas vítimas e o Reino de
-    Deus
-tags: [ ]
-author:
-  - Juarez Gomes
-  - Maria de Carvalho Gomes
 post_date: 2012-08-16 00:40:36
 ---
 <i>Este artigo é o quarto de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</i>

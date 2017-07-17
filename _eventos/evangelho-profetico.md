@@ -3,22 +3,9 @@ ID: 3463
 post_title: >
   Inscrições para a aula Evangelho
   Profético
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: event
-permalink: >
-  https://www.gruponews.com.br/eventos/evangelho-profetico
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
 post_date: 2013-09-23 13:11:02
 ---
 Inscreva-se para participar das aulas Evangelho Profético do CPP Modular Barueri. Serão duas aulas nos dias 5 e 26 de outubro, das 9h as 12h.

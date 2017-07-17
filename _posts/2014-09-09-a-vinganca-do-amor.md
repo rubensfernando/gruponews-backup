@@ -1,24 +1,9 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/bases-cristas/a-vinganca-do-amor
 published: true
-categories:
-  - Bases Cristãs
-tags:
-  - edicao-49
-  - >
-    ESTAS HISTÓRIAS... TU AS INCULCARÁS A
-    TEUS FILHOS (cf. Dt 6:6-7)
-author:
-  - Pe. Léo
 post_date: 2014-09-09 21:53:55
 ---
 No distrito de Columbia, nos Estados Unidos, um garoto de 14 anos, membro de uma gangue, assassinou um adolescente inocente como prova de coragem para ser aceito pelo grupo.

@@ -1,35 +1,9 @@
 ---
 ID: 135
 post_title: Um mesmo coração para pais e filhos
-image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
-image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-960x720.jpg
-image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
-image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.gruponews.com.br/artigos/um-mesmo-coracao-para-pais-e-filhos
 published: true
-categories:
-  - Artigos
-  - Família
-tags:
-  - Conversão
-  - Famílias
-  - Filhos
-  - Inimigo
-  - Mudança
-  - Pais
-  - Relacionamento
-  - Restauração
-  - Transformação
-  - Vontade
-author:
-  - Juarez Gomes
 post_date: 2009-12-01 22:21:53
 ---
 “E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição” (Ml 4:6). “Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo” (Jr 31:1).
