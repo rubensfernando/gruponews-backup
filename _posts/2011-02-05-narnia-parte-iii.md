@@ -1,19 +1,19 @@
 ---
 ID: 1306
 post_title: 'Parte III &#8211; De Calormânia a Nárnia: o caminho para a verdadeira identidade'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-iii
 published: true
+post_date: 2011-02-05 22:08:21
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>
 <em>Este artigo é o terceiro de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”. </em>

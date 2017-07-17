@@ -3,19 +3,19 @@ ID: 4696
 post_title: >
   Uma experiência familiar na área
   financeira
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/uma-experiencia-familiar-na-area-financeira
 published: true
+post_date: 2016-07-13 11:40:19
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2016-07-13 11:40:19
 ---
 <p class="p1"><span class="s1"><i>“Por que gastais o dinheiro naquilo que não é pão? E o produto do vosso trabalho naquilo que não pode satisfazer? Ouvi-me atentamente, e comei o que é bom... Inclinai os vossos ouvidos e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei um pacto perpétuo.” (Is 55:2-3)</i></span></p>
 <p class="p1"><span class="s1">Nesta época de Natal, é muito comum que a mídia, através das mais variadas formas de propagandas e anúncios, provoque a população a “gastar, gastar, gastar e gastar”.</span></p>

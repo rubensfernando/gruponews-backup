@@ -1,19 +1,19 @@
 ---
 ID: 4691
 post_title: Os amigos do mestre
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/os-amigos-do-mestre
 published: true
+post_date: 2016-07-13 11:27:09
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2016-07-13 11:27:09
 ---
 <p class="p1"><span class="s1">Dentre os seus discípulos, Jesus escolheu os doze apóstolos e, por fim, os chamou de amigos.</span></p>
 <p class="p1"><span class="s1">Discípulo descreve a relação entre o aprendiz e seu mestre. Apóstolo diz respeito à função de alguém que foi enviado por outro, enquanto que amigo descreve a condição de relacionamento com alguém.</span></p>

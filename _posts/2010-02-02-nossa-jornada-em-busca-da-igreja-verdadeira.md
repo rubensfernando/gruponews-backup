@@ -3,19 +3,19 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/nossa-jornada-em-busca-da-igreja-verdadeira
 published: true
+post_date: 2010-02-02 00:00:11
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-02-02 00:00:11
 ---
 Século 16 – período das grandes descobertas. No princípio, era a Igreja Católica. Mas nem ela nem o Papa estavam com Deus, segundo os protestantes que chegaram. Por outro lado, para os católicos, eram os protestantes que se haviam afastado da Santa Igreja. Esses dois grupos de cristãos estão brigando durante 500 anos pelo direito de serem considerados os detentores do cristianismo verdadeiro.
 

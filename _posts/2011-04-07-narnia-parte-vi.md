@@ -1,19 +1,19 @@
 ---
 ID: 1516
 post_title: 'Parte VI &#8211; A realidade do mundo superior'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-vi
 published: true
+post_date: 2011-04-07 23:29:26
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-04-07 23:29:26
 ---
 <h3>A realidade do mundo superior</h3>
 <em>Este artigo é o sexto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

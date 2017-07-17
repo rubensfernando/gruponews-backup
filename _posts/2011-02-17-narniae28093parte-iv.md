@@ -1,18 +1,18 @@
 ---
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv'
 published: true
+post_date: 2011-02-17 21:29:03
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>
 <em>Este artigo é o quarto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

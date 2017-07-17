@@ -3,19 +3,19 @@ ID: 973
 post_title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/a-comunhao-nossa-de-cada-dia
 published: true
+post_date: 2010-08-18 23:03:33
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-08-18 23:03:33
 ---
 <strong>Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>
 

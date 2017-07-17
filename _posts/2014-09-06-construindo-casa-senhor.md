@@ -1,19 +1,19 @@
 ---
 ID: 3917
 post_title: Construindo a casa do Senhor
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/igreja-nos-lares/construindo-casa-senhor
 published: true
+post_date: 2014-09-06 11:38:32
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-06 11:38:32
 ---
 <b>“Se o Senhor não edificar a casa, em vão trabalham os que a edificam” (Sl 127:1)</b>
 

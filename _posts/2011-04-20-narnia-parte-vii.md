@@ -1,19 +1,19 @@
 ---
 ID: 1539
 post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-vii
 published: true
+post_date: 2011-04-20 22:51:26
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-04-20 22:51:26
 ---
 <h2>No fim, todos encontram o que realmente procuram</h2>
 <em>Este artigo é o sétimo e último de uma sequência sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

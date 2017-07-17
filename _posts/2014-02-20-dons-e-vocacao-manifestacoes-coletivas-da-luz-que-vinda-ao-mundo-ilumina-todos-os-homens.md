@@ -1,19 +1,19 @@
 ---
 ID: 4239
 post_title: 'Dons e vocação: Manifestações coletivas da  Luz que, vinda ao mundo, ilumina a todos os homens'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
 published: true
+post_date: 2014-02-20 15:51:43
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-02-20 15:51:43
 ---
 Veja os artigos dessa edição:
 <ul>

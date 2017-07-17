@@ -1,19 +1,19 @@
 ---
 ID: 1408
 post_title: 'Cobertura da Conferência &#8220;Cristo o Reino e a Igreja&#8221;'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
 published: true
+post_date: 2011-02-03 00:20:06
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-02-03 00:20:06
 ---
 - <a href="http://www.gruponews.com.br/2011/02/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade.html">Um laboratório para a prática da unidade em meio à diversidade</a>
 - <a href="http://www.gruponews.com.br/2011/02/preparando-a-familia-para-a-volta-de-jesus.html"> Preparando a família para a volta de Jesus</a>

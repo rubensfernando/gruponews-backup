@@ -1,19 +1,19 @@
 ---
 ID: 3928
 post_title: Espaço para Deus
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/espaco-para-deus
 published: true
+post_date: 2014-09-09 21:36:08
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-09 21:36:08
 ---
 <p class="lead">Buscando primeiro o altar para a restauração de todas as coisas</p>
 Restauração é um dos temas básicos da Bíblia: <i>“Eis que faço novas todas as coisas” (Ap 21:5) -</i> o novo céu e a nova terra, a nova Jerusalém. Podemos também verificar em Gênesis que o que Deus formou <i>(o céu e a terra)</i> era perfeito, porém, com a queda de Lúcifer e a terça parte dos anjos, a terra tornou-se sem forma e vazia <i>(Gn 1.2),</i> e Deus começou a restauração, dia após dia, para que seu plano fosse realizado <i>(Gn 1.3-31; 2.1-25).</i> Deus deseja e tem um sonho, o de governar  toda a terra e sobre um povo que se chama pelo seu nome, povo santo, igreja gloriosa, a fim de dar o seu descanso à humanidade.

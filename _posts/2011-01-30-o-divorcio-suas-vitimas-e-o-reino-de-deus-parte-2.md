@@ -1,19 +1,19 @@
 ---
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
+post_date: 2011-01-30 22:38:33
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-01-30 22:38:33
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>
 Já faz tempo que casar com a possibilidade de se divorciar é uma realidade, uma garantia legal e o principal motivo do aumento do número de recasamentos (formação de novos pares após o fim da união anterior. Lembramos que nossa discussão é apenas sobre a primeira união). Talvez o leitor não tenha pensado em tal situação como geradora de sofrimento, mas ele é quase inevitável quando ocorre o divórcio. O desafio colocado é o de como entender as suas causas e investir em comportamentos preventivos.

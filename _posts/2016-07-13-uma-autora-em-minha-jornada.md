@@ -1,19 +1,19 @@
 ---
 ID: 4698
 post_title: Uma autora em minha jornada
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/geral/uma-autora-em-minha-jornada
 published: true
+post_date: 2016-07-13 11:32:32
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2016-07-13 11:32:32
 ---
 <p class="p1"><span class="s1">C</span><span class="s1">oisa rara hoje em dia é conhecer quem pregue com tamanha paixão sobre a Verdade. Lembro-me bem do meu espanto quando ouvi pela primeira vez Ariadna de Oliveira falar sobre a compaixão pelos perdidos. Havia algo diferente em seu discurso, era um pouco da essência dEle ali... Aquilo foi divinamente cativante para mim...</span></p>
 <p class="p3"><span class="s1">Ao ler seus artigos e como a presença dAquele que É vibrava em suas linhas, admirei ainda mais a missão dessa autora. Tive a vontade e a oportunidade de me aprofundar em seus escritos através do seu livro "DE VOLTA PRA CASA - Uma fascinante viagem para o seu destino em Deus" e conhecer em palavras a identidade peregrina (como ela mesma se reconhece) da Ariadna.</span></p>

@@ -1,19 +1,19 @@
 ---
 ID: 3601
 post_title: À sombra do Cristo
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/sombra-cristo
 published: true
+post_date: 2014-03-17 08:53:30
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-03-17 08:53:30
 ---
 Em Hulve, cidade da Índia, o governador determinou que se plantassem nas ruas, ladeando as grandes lojas, contra o sol, filas de árvores santas dos hindus, e assim proteger o povo contra o sol causticante. Tão logo cumprida a tarefa, houve uma revolta geral no centro da cidade. Houve pânico, e verdadeiros protestos surgiram por parte dos comerciantes, que organizaram uma comissão que representasse a classe, escreveram um manifesto e foram logo entregar ao governador, dizendo-lhe:
 

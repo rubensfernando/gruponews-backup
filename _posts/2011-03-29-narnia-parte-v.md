@@ -1,19 +1,19 @@
 ---
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-v
 published: true
+post_date: 2011-03-29 22:18:18
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>
 <em>Este artigo é o quinto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>

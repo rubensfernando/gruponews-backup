@@ -1,17 +1,17 @@
 ---
 ID: 4583
 post_title: Encontro de Adolescentes 2016
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: 'https://www.gruponews.com.br/?post_type=event&p=4583'
 published: false
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
 ---
 <strong>Próxima Reunião do encontro de Adolescentes:</strong>
 Data: 08/05 as 15h30

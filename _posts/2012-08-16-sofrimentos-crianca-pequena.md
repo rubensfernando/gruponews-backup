@@ -1,19 +1,19 @@
 ---
 ID: 2086
 post_title: Sofrimentos da criança pequena
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/sofrimentos-crianca-pequena
 published: true
+post_date: 2012-08-16 00:40:36
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-08-16 00:40:36
 ---
 <i>Este artigo é o quarto de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</i>
 

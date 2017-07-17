@@ -1,19 +1,19 @@
 ---
 ID: 2874
 post_title: Descobrindo um caminho seguro
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/descobrindo-um-caminho-seguro
 published: true
+post_date: 2013-01-14 00:18:51
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-01-14 00:18:51
 ---
 <i>Este artigo é o décimo segundo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>
 

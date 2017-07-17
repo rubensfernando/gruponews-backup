@@ -1,19 +1,19 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/servindo-a-deus-em-meio-a-dor
 published: true
+post_date: 2009-12-01 22:17:07
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 22:17:07
 ---
 A dor, as lutas, os problemas, as doenças, a perda nos fazem dependentes de Deus. Estas situações nos confrontam e nos obrigam a enxergarmos espiritualmente cada situação e percebermos a nossa fragilidade, a nossa necessidade de Deus e o quanto precisamos do seu perdão. Pedro, Jó e José nos trazem grandes ensinamentos através de suas lutas e vitórias:
 

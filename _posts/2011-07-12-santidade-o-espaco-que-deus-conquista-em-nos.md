@@ -1,19 +1,19 @@
 ---
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
 published: true
+post_date: 2011-07-12 18:58:51
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-07-12 18:58:51
 ---
 <ul>
 	<li><a href="http://www.gruponews.com.br/2011/07/o-caminho-mais-excelente-da-santidade.html">O caminho mais excelente da santidade</a></li>

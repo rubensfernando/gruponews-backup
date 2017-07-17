@@ -1,19 +1,19 @@
 ---
 ID: 60
 post_title: Criação de Filhos
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/familia/criacao-de-filhos
 published: true
+post_date: 2009-12-01 20:46:31
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 20:46:31
 ---
 É essencial que o casal seja unânime na forma como vai educar os filhos. Sem unidade, não pode haver respeito dos filhos à autoridade dos pais. Mesmo pequenino, o filho percebe na hora se o pai e a mãe não estão concordando entre si e aproveita a brecha para não obedecer. O casal precisa conversar sobre a necessidade de se ter unidade nos assuntos que apresentam discordância para que a família não venha a ser destruída.
 

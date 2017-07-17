@@ -3,19 +3,19 @@ ID: 2312
 post_title: >
   Curso “O Reino Milenar Messiânico”
   Aula 1 – Vespertino
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
 published: true
+post_date: 2012-04-15 22:18:19
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-04-15 22:18:19
 ---
 O tema da aula 1 será “O Reino no Plano Geral de Deus” – Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.
 

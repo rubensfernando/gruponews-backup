@@ -1,19 +1,19 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/666-voce-ja-foi-assinalado
 published: true
+post_date: 2009-09-19 14:57:56
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-09-19 14:57:56
 ---
 “A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)
 

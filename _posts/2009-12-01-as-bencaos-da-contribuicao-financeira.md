@@ -3,19 +3,19 @@ ID: 141
 post_title: >
   As Bênçãos da Contribuição
   Financeira
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/as-bencaos-da-contribuicao-financeira
 published: true
+post_date: 2009-12-01 21:07:58
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 21:07:58
 ---
 <h3>A contribuição e a natureza de Deus</h3>
 A contribuição não é algo natural do ponto de vista humano, mas faz parte da natureza de Deus. Doar é próprio de Deus. Como prova máxima, Ele nos deu seu Filho amado. Mesmo sendo rico, Jesus se fez pobre por nós para que nos tornássemos ricos. A igreja primitiva praticou esse princípio com muita diligência. Enquanto nos recusamos a dar, não estamos compartilhando do espírito de Cristo, mas manifestando a nossa carnalidade.

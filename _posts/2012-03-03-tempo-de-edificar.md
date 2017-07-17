@@ -1,19 +1,19 @@
 ---
 ID: 2109
 post_title: Tempo de edificar
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/tempo-de-edificar
 published: true
+post_date: 2012-03-03 15:50:10
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-03-03 15:50:10
 ---
 Como é prazeroso quando somos surpreendidos pela Palavra de Deus, seja da maneira mais convencional – por meio da leitura bíblica – ou quando ela nos é revelada através dos irmãos em uma conversa, um gesto de amor, uma poesia, uma música, um filme, uma manifestação singela da natureza... Enfim, das mais diversas maneiras, inclusive as mais inesperadas, afinal de contas o Deus a quem pertencemos tem uma criatividade ilimitada e uma imensa capacidade de nos surpreender a cada instante. A nós cabe apenas estarmos atentos e abrirmos o coração para percebê-lo em nosso “caminho”.
 

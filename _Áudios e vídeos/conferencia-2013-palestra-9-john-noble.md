@@ -1,17 +1,17 @@
 ---
 ID: 3551
 post_title: 'Conferência 2013 &#8211; Palestra 9 &#8211; John Noble'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/conferencia-2013-palestra-9-john-noble
 published: true
+post_date: 2013-11-18 16:21:03
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-11-18 16:21:03
 ---

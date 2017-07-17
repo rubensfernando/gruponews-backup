@@ -1,17 +1,17 @@
 ---
 ID: 4857
 post_title: Encontro de Jovens
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/encontro-de-jovens
 published: true
+post_date: 2017-02-20 10:59:08
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2017-02-20 10:59:08
 ---

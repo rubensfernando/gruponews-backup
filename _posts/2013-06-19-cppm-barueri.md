@@ -3,19 +3,19 @@ ID: 3290
 post_title: >
   Curso de Preparação Profética Modular
   em Barueri
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/cppm-barueri
 published: true
+post_date: 2013-06-19 00:00:32
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-06-19 00:00:32
 ---
 Para quem não tem disponibilidade de dedicar 1 ano para cursar o <a title="Curso de Preparação Profética - Monte Mor" href="http://www.cppmontemor.com.br/" target="_blank">Curso de Preparação Profética</a>&nbsp;(CPP) integral em Monte Mor, em fevereiro de 2013 foi aberta uma turma de CPP Modular em Sumaré para alcançar a pessoas da região de Campinas e Americana.
 

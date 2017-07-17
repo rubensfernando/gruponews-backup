@@ -1,19 +1,19 @@
 ---
 ID: 2392
 post_title: I Encontro de Adoração
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/i-encontro-de-adoracao
 published: true
+post_date: 2012-05-02 11:59:00
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-05-02 11:59:00
 ---
 <h3>Oportunidade: Procuram-se adoradores!</h3>
 Nos últimos anos, o conceito de louvor - infelizmente - foi reduzido à música. O fato não seria tão trágico não fosse a motivação comercial que se esconde por trás de sua inspiração. Porém, existe um prejuízo ainda maior: o louvor tem sido apresentado como mais um "produto gospel" na prateleira de artigos evangélicos, produzido para agradar a alma sem, necessariamente, partir do coração.

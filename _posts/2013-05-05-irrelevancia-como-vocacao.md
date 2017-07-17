@@ -1,19 +1,19 @@
 ---
 ID: 3218
 post_title: A irrelevância como vocação
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/vida/irrelevancia-como-vocacao
 published: true
+post_date: 2013-05-05 00:15:25
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-05-05 00:15:25
 ---
 <h2>O caminho descendente</h2>
 Depois de 20 anos no mundo acadêmico como professor de psicologia pastoral, teologia pastoral e espiritualidade cristã, comecei a sentir uma profunda ameaça interior. Quando entrei na casa dos 50 e reconheci a improbabilidade de dobrar a minha idade, eu me vi face a face com uma simples questão: “O fato de estar ficando mais velho tem me aproximado mais de Jesus?”

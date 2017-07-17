@@ -1,19 +1,19 @@
 ---
 ID: 4701
 post_title: Cracolândia pelo moço do profeta
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/cracolandia-pelo-moco-do-profeta
 published: true
+post_date: 2016-07-13 11:37:10
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2016-07-13 11:37:10
 ---
 <p class="p1"><span class="s1">“E o servo do homem de Deus se levantou muito cedo e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu servo lhe disse: Ai, meu senhor! Que faremos?” (2 Rs 6:15)</span></p>
 <p class="p3"><span class="s1">F</span><span class="s1">omos à Cracolândia com a missão de evangelizar, socorrer, aprender, falar do amor de Deus em Cristo, ser solidários, na esperança de fazer a diferença para aquelas pessoas. Minha surpresa ao chegar a um lugar de medo, pavor, choro, lamento, horror e esquecimento foi enorme. Vi muita dor, tristeza, morte e desolação. Seria o inferno na Terra? Poderia ficar dizendo e repetindo muitas vezes o que senti e, ainda sim, não chegaria nem perto da realidade daquele lugar.</span></p>

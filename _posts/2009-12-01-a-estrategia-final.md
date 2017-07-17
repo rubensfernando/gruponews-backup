@@ -1,19 +1,19 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-estrategia-final
 published: true
+post_date: 2009-12-01 20:42:53
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 20:42:53
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.
 

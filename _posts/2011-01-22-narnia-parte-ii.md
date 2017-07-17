@@ -1,19 +1,19 @@
 ---
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
 published: true
+post_date: 2011-01-22 21:29:50
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-01-22 21:29:50
 ---
 <h3>A Nárnia que o guarda-roupa esconde</h3>
 <em>Este artigo é o segundo de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”. </em>

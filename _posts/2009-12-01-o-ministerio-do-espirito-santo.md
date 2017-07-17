@@ -1,19 +1,19 @@
 ---
 ID: 148
 post_title: O Ministério do Espírito Santo
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
 published: true
+post_date: 2009-12-01 21:52:37
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)
 

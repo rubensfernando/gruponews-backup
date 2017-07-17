@@ -1,19 +1,19 @@
 ---
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-o-reino-milenar-messianico
 published: true
+post_date: 2012-02-02 11:20:38
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-02-02 11:20:38
 ---
 O período da Igreja, no qual vivemos, deve ser entendido como um tempo de preparação para o Reino Milenar Messiânico, que terá início com a volta de Jesus a esta Terra. Neste Reino, o próprio Jesus irá implantar pessoalmente sobre todos – ressuscitados, transformados e também não-crentes que sobreviverão à grande tribulação detalhada em Apocalipse – seu governo de amor e justiça. Sendo assim, é necessário que aqueles que acreditam na segunda vinda de Jesus alinhem-se com a boa, perfeita e agradável vontade do Pai, expressa por meio da vida de Cristo, e se apressem em viver desde já dentro do sistema desse Reino sonhado por Deus desde a fundação do mundo.
 

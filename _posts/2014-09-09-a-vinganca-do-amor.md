@@ -1,19 +1,19 @@
 ---
 ID: 3945
 post_title: A vingança do amor
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/a-vinganca-do-amor
 published: true
+post_date: 2014-09-09 21:53:55
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-09 21:53:55
 ---
 No distrito de Columbia, nos Estados Unidos, um garoto de 14 anos, membro de uma gangue, assassinou um adolescente inocente como prova de coragem para ser aceito pelo grupo.
 

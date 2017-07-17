@@ -1,19 +1,19 @@
 ---
 ID: 3177
 post_title: O meu cálice transborda
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-meu-calice-transborda
 published: true
+post_date: 2010-07-01 17:31:59
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-07-01 17:31:59
 ---
 Você já notou como a sua mesa está molhada? Deus quer que você fique. Seu cálice transborda de alegria. Transborda de graça. Não deve o seu coração transbordar de gratidão?
 

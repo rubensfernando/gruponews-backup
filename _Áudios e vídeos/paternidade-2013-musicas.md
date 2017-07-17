@@ -1,19 +1,19 @@
 ---
 ID: 3039
 post_title: Músicas
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: audioevideo
 permalink: >
   https://www.gruponews.com.br/audioevideo/paternidade-2013-musicas
 published: true
+post_date: 2013-03-22 08:00:04
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-03-22 08:00:04
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/002Louvor-Todas-as-Musicas.mp3]
 

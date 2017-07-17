@@ -1,19 +1,19 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/a-igreja-domestica
 published: true
+post_date: 2009-12-01 20:52:45
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 20:52:45
 ---
 A intenção desta pesquisa é a busca da igreja que está no coração de Deus. Não se trata apenas de uma pesquisa acadêmica, mas também do desejo forte de viver esta proposta e encorajar outros a estarem no mesmo caminho. Aquele trilhado pelos primeiros cristãos. Essa igreja é a única viável nestes dias. Ela não pode buscar a diferença com o mundo apenas nos usos e costumes, antes de tudo, precisa pensar e ver diferente do mundo. Uma igreja não conformada com este mundo, mas com entendimento renovado para experimentar a boa, agradável e perfeita vontade de Deus.
 

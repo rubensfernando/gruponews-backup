@@ -1,19 +1,19 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/a-procura-da-comunhao
 published: true
+post_date: 2013-03-26 07:00:16
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-03-26 07:00:16
 ---
 O que é comunhão? De forma simples, responderei que comunhão é o relacionamento entre cristãos. Um dos versículos que exemplifica tal realidade é Atos 2.46:
 

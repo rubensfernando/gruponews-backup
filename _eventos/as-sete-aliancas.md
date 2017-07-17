@@ -3,19 +3,19 @@ ID: 3356
 post_title: >
   Inscrições para a aula As Sete
   Alianças
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/as-sete-aliancas
 published: true
+post_date: 2013-07-09 23:20:38
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-07-09 23:20:38
 ---
 Inscreva-se para participar das aulas As Sete Alianças do CPP Modular Barueri. Serão duas aulas nos dias 7 e 21 de setembro, das 9h as 13h.
 <h2>Informações</h2>

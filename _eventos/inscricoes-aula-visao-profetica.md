@@ -3,19 +3,19 @@ ID: 3519
 post_title: >
   Inscrições para a aula Visão
   Profética
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/inscricoes-aula-visao-profetica
 published: true
+post_date: 2013-10-25 17:47:20
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-10-25 17:47:20
 ---
 Inscreva-se para participar das aulas Visão Profética do CPP Modular Barueri. Serão duas aulas nos dias 2 e 23 de novembro, das 9h as 12h.
 <h2>Informações</h2>

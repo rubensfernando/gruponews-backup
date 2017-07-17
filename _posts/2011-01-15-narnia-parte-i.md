@@ -1,19 +1,19 @@
 ---
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/narnia-parte-i
 published: true
+post_date: 2011-01-15 23:21:30
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>
 <em>Este artigo é o primeiro de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”. </em>

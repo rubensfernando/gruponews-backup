@@ -1,19 +1,19 @@
 ---
 ID: 142
 post_title: Cidadãos do Céu
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/cidadaos-do-ceu
 published: true
+post_date: 2009-12-01 21:10:49
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-12-01 21:10:49
 ---
 Este texto anônimo, extraído da carta a Diogneto (passagens 5 e 6) e escrito por volta do ano 200, em Alexandria, mostra como os cristãos eram vistos por seus contemporâneos.
 

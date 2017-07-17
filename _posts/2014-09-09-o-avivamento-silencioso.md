@@ -1,19 +1,19 @@
 ---
 ID: 4253
 post_title: O avivamento silencioso
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/espirito-santo/o-avivamento-silencioso
 published: true
+post_date: 2014-09-09 14:09:35
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-09 14:09:35
 ---
 Jesus contou uma parábola (Mt 13.47-50) comparando o reino dos céus com uma rede que, lançada ao mar, apanha uma grande quantidade de peixes de toda espécie. Em seguida, os pescadores sentam na praia e separam os peixes, colocando os bons no cesto e atirando fora os ruins.
 

@@ -1,19 +1,19 @@
 ---
 ID: 1596
 post_title: O caminho mais excelente da santidade
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/artigos/o-caminho-mais-excelente-da-santidade
 published: true
+post_date: 2011-07-10 02:06:51
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2011-07-10 02:06:51
 ---
 Não há como não reconhecer: vivemos uma crise de excelência na sociedade contemporânea. Não na esfera das coisas. Estas vão muito bem, obrigado. Refiro-me ao que é da ordem do humano. Os relacionamentos quase nunca vão além do mínimo, atitudes magnânimas são como diamantes encontrados no lixo, dedicações apaixonadas a alguém ou a alguma causa constituem-se como artigo do passado, exemplos inspiradores de um tempo assumido como melhor. Alguns estudiosos aludem a um crepúsculo do dever, à agonia da moral, a um decréscimo da virtude. Paradoxalmente, nunca se falou tanto em ética, o que poderia pressupor uma realidade efetivamente orientada por sua influência.
 

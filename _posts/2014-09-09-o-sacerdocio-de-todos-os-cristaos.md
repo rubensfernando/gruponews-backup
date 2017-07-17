@@ -1,19 +1,19 @@
 ---
 ID: 4255
 post_title: O sacerdócio de todos os cristãos
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/o-sacerdocio-de-todos-os-cristaos
 published: true
+post_date: 2014-09-09 14:15:08
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-09 14:15:08
 ---
 Há uma grande discussão em torno do diálogo entre Pedro e Jesus registrado no Evangelho segundo São Mateus (16.13-20), no qual Pedro afirma ser Jesus o Cristo de Deus, recebendo como resposta que ele, Pedro, é uma pedra sobre a qual Jesus edificaria a igreja. O segmento católico se apropriou desse texto para fundamentar que Pedro foi o primeiro de uma sucessão de papas, legitimando, assim, este sistema. Isso provocou no segmento protestante uma interpretação diferente, que passou a concorrer com aquela disseminada pela teologia católica.
 

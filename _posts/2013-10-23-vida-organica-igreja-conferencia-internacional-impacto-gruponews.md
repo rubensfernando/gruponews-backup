@@ -1,19 +1,19 @@
 ---
 ID: 3514
 post_title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/vida-organica-igreja-conferencia-internacional-impacto-gruponews
 published: true
+post_date: 2013-10-23 00:38:53
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2013-10-23 00:38:53
 ---
 <h2>Preletores<b><br clear="all" /></b></h2>
 <h3>John Noble</h3>

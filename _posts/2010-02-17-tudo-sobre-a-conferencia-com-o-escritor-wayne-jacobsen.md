@@ -3,19 +3,19 @@ ID: 519
 post_title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
 published: true
+post_date: 2010-02-17 00:00:08
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-02-17 00:00:08
 ---
 <ul>
 	<li><a title="Nossa jornada em busca da igreja verdadeira" href="http://www.gruponews.com.br/2010/02/nossa-jornada-em-busca-da-igreja-verdadeira.html">Nossa jornada em busca da igreja verdadeira</a></li>

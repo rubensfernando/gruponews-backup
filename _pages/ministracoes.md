@@ -1,19 +1,19 @@
 ---
 ID: 993
 post_title: Ministrações
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: page
 permalink: >
   https://www.gruponews.com.br/conferencia2008/ministracoes
 published: true
+post_date: 2010-09-07 11:56:07
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-09-07 11:56:07
 ---
 <a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf" target="_blank"></a><a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf">Garry Fray - Segundo Jesus, o que precisamos mudar?</a>
 

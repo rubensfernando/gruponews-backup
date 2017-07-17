@@ -1,19 +1,19 @@
 ---
 ID: 2623
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-reino-milenar-messianico-aula03
 published: true
+post_date: 2012-07-26 09:00:06
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-07-26 09:00:06
 ---
 <strong>Tema:</strong> O Significado do Reino para os Judeus – Como os judeus formaram seu conceito sobre o Reino Messiânico, levando em consideração o conteúdo das Escrituras e dos Profetas e as experiências seculares que conheceram através de outros reinos predominantes desde o Egito até os Romanos. A razão da escolha dos judeus para ser uma nação contrastante com as demais e as conseqüências de se afastar dessa vocação.
 

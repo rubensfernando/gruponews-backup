@@ -1,19 +1,19 @@
 ---
 ID: 4254
 post_title: Sentindo o corpo, estando no corpo
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo
 published: true
+post_date: 2014-09-09 14:11:52
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-09-09 14:11:52
 ---
 Às vezes somos ensinados a viver em meio à tempestade. A imagem que me vem é a de um mar bem agitado. Talvez para o leitor seja a de qualquer outro fenômeno da natureza que possa igualmente ilustrar esses momentos difíceis por que passamos.
 

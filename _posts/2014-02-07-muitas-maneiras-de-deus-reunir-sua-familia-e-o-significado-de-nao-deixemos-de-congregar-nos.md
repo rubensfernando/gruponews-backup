@@ -4,19 +4,19 @@ post_title: >
   As muitas maneiras de Deus reunir sua
   família e o significado de “não
   deixemos de congregar-nos”
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos
 published: true
+post_date: 2014-02-07 15:43:17
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2014-02-07 15:43:17
 ---
 <p class="small">Este é o 2º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os artigos anteriores</a></p>
 

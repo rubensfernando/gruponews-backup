@@ -1,19 +1,19 @@
 ---
 ID: 394
 post_title: De volta ao amor do Pai esbanjador
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/publicacoes/de-volta-ao-amor-do-pai-esbanjador
 published: true
+post_date: 2009-11-01 12:00:01
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2009-11-01 12:00:01
 ---
 - O amor do Pai esbanjador
 - A árvore de natal na casa do Cristo

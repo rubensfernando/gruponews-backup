@@ -3,19 +3,19 @@ ID: 3876
 post_title: >
   Migrando da igreja institucional para a
   igreja orgânica
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/igreja/migrando-da-igreja-institucional-para-igreja-organica
 published: true
+post_date: 2008-08-30 13:37:06
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2008-08-30 13:37:06
 ---
 Eu estava pensando sobre quebrantamento enquanto vinha pra Conferência, então errei o caminho e cheguei aqui bem humilhado. Deus tem umas maneiras engraçadas de fazer a gente andar com o coração no céu e os pés na terra.
 

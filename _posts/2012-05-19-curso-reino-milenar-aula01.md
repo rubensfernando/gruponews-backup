@@ -1,19 +1,19 @@
 ---
 ID: 2190
 post_title: 'Curso “O Reino Milenar Messiânico” #aula01'
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: >
   https://www.gruponews.com.br/noticias/curso-reino-milenar-aula01
 published: true
+post_date: 2012-05-19 00:00:58
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2012-05-19 00:00:58
 ---
 <strong>Tema:</strong> O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.
 <strong>Palestrante:</strong> Pedro Arruda

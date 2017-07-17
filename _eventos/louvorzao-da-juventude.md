@@ -1,19 +1,19 @@
 ---
 ID: 1131
 post_title: Louvorzão da Juventude
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/louvorzao-da-juventude
 published: true
+post_date: 2010-09-26 23:17:34
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-09-26 23:17:34
 ---
 <h3>Onde?</h3>
 Teatro Fuca

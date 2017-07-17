@@ -1,19 +1,19 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: event
 permalink: >
   https://www.gruponews.com.br/eventos/o-projeto-de-reevangelizacao
 published: true
+post_date: 2010-06-06 17:31:14
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-06-06 17:31:14
 ---
 Dando continuidade ao curso <a href="http://www.gruponews.com.br/2010/03/reevangelizando.html">Reevangelizando</a>, daremos início a partir desta segunda-feira uma nova fase do projeto iniciado em março deste ano. Semanalmente, toda segunda-feira a partir das 20h, você é o nosso convidado para <strong>O PROJETO DE REEVANGELIZAÇÃO</strong> e sua divulgação.
 

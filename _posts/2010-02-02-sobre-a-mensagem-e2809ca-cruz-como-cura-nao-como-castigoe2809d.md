@@ -3,18 +3,18 @@ ID: 1496
 post_title: >
   Sobre a mensagem “A cruz como cura,
   não como castigo”
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+author: [ ]
 post_excerpt: ""
 layout: post
 permalink: 'https://www.gruponews.com.br/artigos/sobre-a-mensagem-%e2%80%9ca-cruz-como-cura-nao-como-castigo%e2%80%9d'
 published: true
+post_date: 2010-02-02 00:40:54
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 categories: [ ]
 tags: [ ]
-author: [ ]
-post_date: 2010-02-02 00:40:54
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia; min-height: 12.0px} span.Apple-tab-span {white-space:pre} --><strong>CONFERENCISTA: Gostaria que você comentasse o texto de Isaías 53.5: “O castigo que nos traz a paz estava sobre ele”. </strong>
 
