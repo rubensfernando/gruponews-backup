@@ -16,8 +16,7 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2015-07-04 11:11:08
 ---

@@ -23,7 +23,7 @@ tags:
   - Milênio
   - reinado
   - Reino
-author: [ ]
+author: ""
 post_date: 2012-04-13 20:53:04
 ---
 Curso "O Reino Milenar Messiânico"

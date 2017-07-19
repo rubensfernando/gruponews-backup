@@ -16,8 +16,7 @@ tags:
   - Comunhão
   - edicao-49
   - sonho de Deus
-author:
-  - Moacir Alves Faria
+author: ""
 post_date: 2014-09-09 22:41:41
 ---
 Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v. 5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v. 22).

@@ -14,13 +14,12 @@ layout: audioevideo
 permalink: >
   audioevideo/conferencia-2013-palestra-9-john-noble
 published: true
-categories: [ ]
+categories: ""
 tags:
   - Igreja
   - liderança
   - orgânica
   - Vida
-author:
-  - John Noble
+author: ""
 post_date: 2013-11-18 16:21:03
 ---

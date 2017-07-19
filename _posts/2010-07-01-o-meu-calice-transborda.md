@@ -12,9 +12,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
-  - Max Lucado
+tags: ""
+author: ""
 post_date: 2010-07-01 17:31:59
 ---
 Você já notou como a sua mesa está molhada? Deus quer que você fique. Seu cálice transborda de alegria. Transborda de graça. Não deve o seu coração transbordar de gratidão?

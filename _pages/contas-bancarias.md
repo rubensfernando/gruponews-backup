@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: contas-bancarias
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-08-06 21:45:57
 ---
 <h2>Pagamento de encontros e livros ou ofertas</h2>

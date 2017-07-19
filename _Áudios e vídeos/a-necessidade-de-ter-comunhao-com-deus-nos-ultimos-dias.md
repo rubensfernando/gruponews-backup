@@ -16,10 +16,9 @@ layout: audioevideo
 permalink: >
   audioevideo/a-necessidade-de-ter-comunhao-com-deus-nos-ultimos-dias
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Ricardo Correia
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-03-23 09:00:22
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/007Ricardo-Correia-ricardinho.mp3]

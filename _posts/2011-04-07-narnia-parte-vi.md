@@ -25,8 +25,7 @@ tags:
   - Livro
   - narnia
   - prata
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-04-07 23:29:26
 ---
 <h3>A realidade do mundo superior</h3>

@@ -27,8 +27,7 @@ tags:
   - paternidade
   - profético
   - Salvação
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-05-01 12:00:13
 ---
 A necessidade da igreja como família: Pais de mãos estendidas ao invés de líderes condutores

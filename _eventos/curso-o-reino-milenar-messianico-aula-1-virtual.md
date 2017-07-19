@@ -16,9 +16,9 @@ layout: event
 permalink: >
   eventos/curso-o-reino-milenar-messianico-aula-1-virtual
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-04-15 22:23:50
 ---
 O tema da aula 1 será “O Reino no Plano Geral de Deus” – Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

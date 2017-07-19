@@ -14,9 +14,8 @@ categories:
   - Artigos
   - Família
   - Igreja nos lares
-tags: [ ]
-author:
-  - Pedro Arruda
+tags: ""
+author: ""
 post_date: 2011-12-03 20:11:36
 ---
 <h3>Templo nas casas</h3>

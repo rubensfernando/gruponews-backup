@@ -22,7 +22,7 @@ tags:
   - Milênio
   - online
   - Reino
-author: [ ]
+author: ""
 post_date: 2012-05-19 00:00:58
 ---
 <strong>Tema:</strong> O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

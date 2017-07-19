@@ -12,8 +12,8 @@ permalink: >
 published: true
 categories:
   - Publicações
-tags: [ ]
-author:
+tags: ""
+authors:
   - Christopher Walker
   - Eliana Walker
   - Eliza Walker

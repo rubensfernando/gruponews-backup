@@ -11,8 +11,8 @@ permalink: ?page_id=8
 published: false
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---
 <!--cforms name="Fale Conosco"-->
 

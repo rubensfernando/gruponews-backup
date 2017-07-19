@@ -15,9 +15,8 @@ published: true
 categories:
   - Artigos
   - Bases Cristãs
-tags: [ ]
-author:
-  - Carlos Augusto
+tags: ""
+author: ""
 post_date: 2011-07-12 18:53:13
 ---
 Ultimamente, depois de observar algumas pessoas que apenas aparentemente fazem parte da igreja (como poderiam, se ainda não experimentaram o novo nascimento?), tenho sido despertado a falar, orar e até pregar àqueles que, embora com chamado de evangelista na casa do Senhor, não têm cumprido bem seu ministério. Esta reflexão, portanto, é dirigida a você, evangelista.

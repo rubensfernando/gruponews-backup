@@ -11,8 +11,8 @@ permalink: fotos
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2009-09-19 17:07:39
 ---
 <a href="http://www.gruponews.com.br/fotos">&lt; Voltar</a>

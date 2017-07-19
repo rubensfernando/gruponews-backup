@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: conferencia2010/preletores
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-11 18:11:49
 ---
 <strong>Gino Iafrancesco Villegas </strong>

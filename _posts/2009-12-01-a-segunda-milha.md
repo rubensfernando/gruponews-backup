@@ -22,8 +22,7 @@ tags:
   - Perder
   - Praticar
   - Relacionamento
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2009-12-01 20:58:59
 ---
 “<em>E, se qualquer te obrigar a caminhar uma milha, vai com ele duas</em>.” (Mateus 5:41)

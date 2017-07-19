@@ -15,9 +15,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/aula-espaco-para-deus
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-07-09 23:20:44
 ---
 Inscreva-se para aulas sobre Espaço para Deus do CPP Modular Barueri. Serão duas aulas nos dias 17 e 31 de agosto, das 9h as 13h.

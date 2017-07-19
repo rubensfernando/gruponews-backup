@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: audioevideo
 permalink: '?post_type=audioevideo&p=4359'
 published: false
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 ---

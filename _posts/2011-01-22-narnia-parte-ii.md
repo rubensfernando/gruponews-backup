@@ -28,8 +28,7 @@ tags:
   - Livro
   - narnia
   - O leão a feiticeira e o guarda-roupa
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-01-22 21:29:50
 ---
 <h3>A Nárnia que o guarda-roupa esconde</h3>

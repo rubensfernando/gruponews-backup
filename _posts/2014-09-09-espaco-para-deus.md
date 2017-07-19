@@ -13,8 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-49
-author:
-  - Douglas Castillero
+author: ""
 post_date: 2014-09-09 21:36:08
 ---
 <p class="lead">Buscando primeiro o altar para a restauração de todas as coisas</p>

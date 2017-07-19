@@ -15,9 +15,8 @@ permalink: eventos/encontro-adoracao
 published: true
 categories:
   - Geral
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2012-05-02 12:00:10
 ---
 Oportunidade: Procuram-se adoradores!

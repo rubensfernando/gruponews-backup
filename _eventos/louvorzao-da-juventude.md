@@ -15,9 +15,8 @@ permalink: eventos/louvorzao-da-juventude
 published: true
 categories:
   - Geral
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2010-09-26 23:17:34
 ---
 <h3>Onde?</h3>

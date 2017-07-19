@@ -14,11 +14,10 @@ layout: event
 permalink: >
   eventos/escola-ministerio-impacto-cppi-2017
 published: true
-categories: [ ]
+categories: ""
 tags:
   - featured
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2017-04-06 20:17:32
 ---
 <strong>PREPARADOS PARA O FIM?

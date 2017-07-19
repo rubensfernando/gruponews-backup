@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: conferencia2008/ministracoes
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-07 11:56:07
 ---
 <a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf" target="_blank"></a><a href="http://www.gruponews.com.br/wp-content/uploads/2010/09/gary-fray_segundo-jesus.pdf">Garry Fray - Segundo Jesus, o que precisamos mudar?</a>

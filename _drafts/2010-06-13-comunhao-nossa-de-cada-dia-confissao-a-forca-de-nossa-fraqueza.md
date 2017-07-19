@@ -15,8 +15,8 @@ categories:
   - Artigos
   - Bases Cristãs
   - Comunhão
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---
 <blockquote><em>Este artigo é o sétimo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 Cada pessoa tem pontos fortes e pontos fracos, o que é natural a todos. De acordo com a valorização que a sociedade dá a determinada característica, o indivíduo será potencialmente considerado bem-sucedido ou não. Porém, quando nos convertemos, torna-se necessário que tais características sejam submetidas ao Espírito para que o fruto produzido venha da vida de Jesus e não de nossa força natural.

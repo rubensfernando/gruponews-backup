@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: conferencia2010/local
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-16 18:09:05
 ---
 <strong>Centro de Eventos Vale da Águia</strong>

@@ -33,8 +33,7 @@ tags:
   - Relacionamento
   - Templo
   - Transformação
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)

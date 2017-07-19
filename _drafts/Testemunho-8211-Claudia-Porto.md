@@ -9,9 +9,8 @@ post_excerpt: ""
 layout: audioevideo
 permalink: '?post_type=audioevideo&p=4357'
 published: false
-categories: [ ]
+categories: ""
 tags:
   - Testemunho
-author:
-  - Claudia Porto
+author: ""
 ---

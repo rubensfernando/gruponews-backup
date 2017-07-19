@@ -18,8 +18,8 @@ permalink: >
 published: true
 categories:
   - Publicações
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2011-07-26 18:04:42
 ---
 Confira as palestras ministradas no último dia do Curso de Preparação Profética Intensivo 2011!

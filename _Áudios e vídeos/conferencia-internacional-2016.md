@@ -14,10 +14,10 @@ layout: audioevideo
 permalink: >
   audioevideo/conferencia-internacional-2016
 published: true
-categories: [ ]
+categories: ""
 tags:
   - featured
-author:
+authors:
   - Benjamim Berger
   - Harold Walker
   - Irma Ádola

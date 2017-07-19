@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/conferencia-2013
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-02-04 20:57:08
 ---
 <div class="success">

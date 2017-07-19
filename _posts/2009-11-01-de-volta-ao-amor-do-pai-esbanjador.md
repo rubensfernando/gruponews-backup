@@ -28,8 +28,7 @@ tags:
   - outro
   - Proféticos
   - Vida
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2009-11-01 12:00:01
 ---
 - O amor do Pai esbanjador

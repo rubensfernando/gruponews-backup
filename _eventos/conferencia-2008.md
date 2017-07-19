@@ -19,8 +19,7 @@ tags:
   - conter
   - Movimento
   - suas
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2008-10-01 01:18:13
 ---
 A Conferência "A igreja do nosso tempo" é uma busca de caminhos que possibilitem vínculos entre as pessoas interessadas em repensar e atualizar o movimento da igreja em direção às suas origens, propondo uma prática mais próxima à do Novo Testamento e menos comprometida com as tradições, estruturas ou modernismos que dela se distanciam.

@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: obrigado
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-06-08 18:22:12
 ---
 [ESPRESSO_THANK_YOU]

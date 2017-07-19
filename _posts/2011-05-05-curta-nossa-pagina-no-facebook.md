@@ -12,7 +12,7 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2011-05-05 00:00:25
 ---

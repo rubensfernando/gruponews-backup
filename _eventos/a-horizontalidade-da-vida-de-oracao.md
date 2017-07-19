@@ -10,8 +10,8 @@ layout: event
 permalink: >
   eventos/a-horizontalidade-da-vida-de-oracao
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-08-19 20:00:02
 ---

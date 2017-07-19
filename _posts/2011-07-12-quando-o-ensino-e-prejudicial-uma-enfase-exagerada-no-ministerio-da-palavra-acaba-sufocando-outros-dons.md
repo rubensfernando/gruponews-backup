@@ -15,9 +15,8 @@ categories:
   - Bases Cristãs
   - Desenvolvendo os dons proféticos
   - Espírito Santo
-tags: [ ]
-author:
-  - Ezequiel Netto
+tags: ""
+author: ""
 post_date: 2011-07-12 18:55:52
 ---
 <em>Este artigo é o nono de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.</em> <em> </em>

@@ -9,10 +9,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encristus-2013
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Equipe GrupoNews
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-02-04 20:48:52
 ---
 Em breve mais informações e inscrições.

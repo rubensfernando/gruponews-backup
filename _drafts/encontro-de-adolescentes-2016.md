@@ -11,8 +11,8 @@ permalink: '?post_type=event&p=4583'
 published: false
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---
 <strong>Próxima Reunião do encontro de Adolescentes:</strong>
 Data: 08/05 as 15h30

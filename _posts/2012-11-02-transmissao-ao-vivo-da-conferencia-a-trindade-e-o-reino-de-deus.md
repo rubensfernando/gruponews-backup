@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2012-11-02 12:11:55
 ---

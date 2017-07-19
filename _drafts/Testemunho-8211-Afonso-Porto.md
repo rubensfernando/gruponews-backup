@@ -9,9 +9,8 @@ post_excerpt: ""
 layout: audioevideo
 permalink: '?post_type=audioevideo&p=4360'
 published: false
-categories: [ ]
+categories: ""
 tags:
   - Testemunho
-author:
-  - Afonso Porto
+author: ""
 ---

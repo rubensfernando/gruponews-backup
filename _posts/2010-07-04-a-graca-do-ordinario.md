@@ -16,9 +16,8 @@ published: true
 categories:
   - Artigos
   - Igreja
-tags: [ ]
-author:
-  - Ricardo Barbosa de Sousa
+tags: ""
+author: ""
 post_date: 2010-07-04 17:39:40
 ---
 <i>“Quando aprendermos a aceitar o comum, deixarmos de cultuar nossas celebridades e olharmos mais para a Bíblia, então daremos os primeiros passos na direção do crescimento espiritual.”</i>

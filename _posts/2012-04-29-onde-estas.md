@@ -23,8 +23,7 @@ tags:
   - onde est
   - princ
   - trindade
-author:
-  - Marina Venuto Silva
+author: ""
 post_date: 2012-04-29 19:51:20
 ---
 No princípio, Deus amou. Por causa do Seu amor, Ele criou. No livro de Gênesis, Deus lança diversas afirmações comparadas ao som de uma orquestra. “Haja luz” (Gn. 1:3) foi a primeira afirmativa e, como uma nota musical, soou das cordas vocais do Criador em direção a terra. Logo em seguida, Deus ordenou: “haja uma expansão no meio das águas” (Gn. 1:6), e a melodia apressou-se em obedecer a ordem divina, separando águas e águas.

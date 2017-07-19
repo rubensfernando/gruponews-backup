@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: page
 permalink: eventos/centro-de-eventos-vale-da-aguia
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2011-03-20 16:54:08
 ---
 <h2>Endereço</h2>

@@ -11,8 +11,7 @@ permalink: webtv
 published: true
 categories:
   - Geral
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2009-11-23 15:59:42
 ---

@@ -28,7 +28,7 @@ tags:
   - União
   - Vítima
   - Vontade
-author:
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2011-01-30 22:38:33

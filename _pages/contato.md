@@ -11,8 +11,8 @@ permalink: contato
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2009-09-19 17:06:30
 ---
 <h3>Endereço para correspondência:</h3>

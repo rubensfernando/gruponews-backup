@@ -12,8 +12,8 @@ permalink: >
 published: true
 categories:
   - Publicações
-tags: [ ]
-author:
+tags: ""
+authors:
   - Abnério Cabral
   - Christopher Walker
   - Harold Walker

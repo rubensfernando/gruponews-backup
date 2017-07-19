@@ -28,8 +28,7 @@ tags:
   - Testamento
   - Tradução
   - Versículos
-author:
-  - Sociedade Bíblica do Brasil
+author: ""
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

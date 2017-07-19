@@ -16,7 +16,7 @@ categories:
     Deus
 tags:
   - edicao-80
-author:
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2015-02-17 12:56:22

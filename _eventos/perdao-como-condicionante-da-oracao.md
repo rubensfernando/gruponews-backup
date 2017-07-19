@@ -10,8 +10,8 @@ layout: event
 permalink: >
   eventos/perdao-como-condicionante-da-oracao
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-08-19 20:53:29
 ---

@@ -19,7 +19,6 @@ categories:
 tags:
   - espirito santo
   - trindade
-author:
-  - Christopher Walker
+author: ""
 post_date: 2015-04-11 15:00:40
 ---

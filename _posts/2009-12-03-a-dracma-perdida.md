@@ -27,8 +27,7 @@ tags:
   - Perdida
   - Procurar
   - Reino
-author:
-  - Maurício Bronzatto
+author: ""
 post_date: 2009-12-03 22:40:13
 ---
 Em Lucas 15, encontramos um conjunto de parábolas afins, que tratam do mesmo assunto: de coisas que perdemos e da busca que precisamos empreender para encontrá-las.

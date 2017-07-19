@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: events
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2011-03-19 16:31:03
 ---
 <span style="color: #444444;">[ESPRESSO_EVENTS]</span>

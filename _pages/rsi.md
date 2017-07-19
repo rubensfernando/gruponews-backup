@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: rsi
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-11 13:52:44
 ---
 <h3>O Propósito</h3>

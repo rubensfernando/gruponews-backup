@@ -9,7 +9,7 @@ post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=4394'
 published: false
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 ---

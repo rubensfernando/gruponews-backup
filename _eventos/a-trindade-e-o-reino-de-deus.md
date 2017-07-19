@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/a-trindade-e-o-reino-de-deus
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-09-18 00:00:48
 ---
 <h3>Preletores</h3>

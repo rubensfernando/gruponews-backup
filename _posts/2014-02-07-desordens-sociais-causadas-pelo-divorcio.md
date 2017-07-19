@@ -23,7 +23,7 @@ categories:
 tags:
   - edicao-77
   - problemas sociais
-author:
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2014-02-07 15:41:04

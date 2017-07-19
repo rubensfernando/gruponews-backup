@@ -27,8 +27,7 @@ tags:
   - Restauração
   - Salvação
   - Transformação
-author:
-  - Cristina Juliani
+author: ""
 post_date: 2009-11-28 17:50:34
 ---
 O mundo vive hoje uma crise econômica, social e financeira muito grande. Como nós, cristãos, podemos viver junto a tudo isso? Certamente que não estamos isentos dos problemas que atingem o mundo atual, mas cremos que nós podemos mudar a maneira de ver esses problemas, mudando nossa expectativa, nossa esperança e os nossos valores de vida. E confiar nas pessoas, então? Como está fácil nos decepcionarmos com alguém.

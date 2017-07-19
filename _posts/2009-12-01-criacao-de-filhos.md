@@ -32,7 +32,7 @@ tags:
   - Obediência
   - Pais
   - Relacionamento
-author:
+authors:
   - Afonso Porto
   - Claudia Porto
 post_date: 2009-12-01 20:46:31

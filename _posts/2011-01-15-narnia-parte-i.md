@@ -26,8 +26,7 @@ tags:
   - mago
   - narnia
   - sobrinho
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

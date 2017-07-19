@@ -14,10 +14,9 @@ layout: audioevideo
 permalink: >
   audioevideo/o-pobre-e-o-sabado-na-perspectiva-da-revelacao-de-jesus-parte-1
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Pedro Arruda
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-03-21 07:45:26
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/004Pedro-Arruda-Parte-1.mp3]

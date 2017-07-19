@@ -11,6 +11,6 @@ permalink: '?post_type=audioevideo&p=1210'
 published: false
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---

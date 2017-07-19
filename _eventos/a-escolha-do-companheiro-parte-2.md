@@ -18,8 +18,7 @@ categories:
 tags:
   - Nosso
   - temperamento
-author:
-  - Ezequiel Netto
+author: ""
 post_date: 2010-08-07 21:00:08
 ---
 Você é o nosso convidado para comparecer ao Espaço Grupo News e participar, dia 09/08 (segunda-feira) a partir das 20h, do compartilhamento do seguinte tema <em>“A escolha do companheiro - Parte 2”</em>. A escolha do(a) companheiro(a) que virá a se tornar o futuro cônjuge está diretamente ligada ao propósito de Deus e tem repercussões eternas, por isso é tão importante e se constitui num campo de disputas que movimentam as esferas celestiais. Você já considerou atentamente o assunto?

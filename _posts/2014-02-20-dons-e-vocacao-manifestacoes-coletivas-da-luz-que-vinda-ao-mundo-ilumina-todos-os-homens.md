@@ -18,8 +18,7 @@ categories:
   - Jornal GrupoNews
 tags:
   - Dons
-author:
-  - Maurício Bronzatto
+author: ""
 post_date: 2014-02-20 15:51:43
 ---
 Veja os artigos dessa edição:

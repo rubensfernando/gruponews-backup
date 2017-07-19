@@ -46,8 +46,7 @@ tags:
   - Vida
   - Wayne
   - Wayne Jacobsen
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-02-17 00:00:08
 ---
 <ul>

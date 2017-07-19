@@ -13,9 +13,8 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-de-paternidade-2-2013
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Equipe GrupoNews
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-06-16 00:25:21
 ---

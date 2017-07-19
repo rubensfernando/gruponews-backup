@@ -23,8 +23,7 @@ tags:
   - Pedro Arruda
   - radio
   - tv
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-03-30 22:15:01
 ---
 O curso <em>Reevangelizando</em> tem o objetivo de atualizar nossa visão de evangelização, segundo o que a Bíblia ensina sobre o assunto. Quem, o que e como evangelizar. O curso começou no dia 22 de Março (Segunda-feira),  e acontecerá semanalmente às segundas. O horário é das 20h às 22h.

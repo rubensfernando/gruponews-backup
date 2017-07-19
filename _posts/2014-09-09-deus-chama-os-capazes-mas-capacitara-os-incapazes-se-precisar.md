@@ -16,8 +16,7 @@ categories:
   - Espírito Santo
 tags:
   - edicao-79
-author:
-  - Ricardo Oliveira
+author: ""
 post_date: 2014-09-09 14:28:00
 ---
 “Deus não escolhe os capacitados; capacita os escolhidos.” Você provavelmente já deve ter ouvido essa frase pelo menos uma vez na sua vida. Geralmente é usada em momentos de superação, nos quais alguém que se julgava incapaz de fazer algo é alçado pela inspiração e poder divinos a cumprir com excelência uma determinada tarefa. Apesar da boa intenção, esta frase contém ao menos dois grandes equívocos, seja porque o autor, de fato, não entendia muito bem a natureza dos dons e aptidões humanas, seja porque uma eventual tradução não foi feliz.

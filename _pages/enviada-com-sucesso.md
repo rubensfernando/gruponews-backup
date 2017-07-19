@@ -10,9 +10,9 @@ layout: page
 permalink: >
   conferencia2010/inscricao/enviada-com-sucesso
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-11 19:41:30
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>

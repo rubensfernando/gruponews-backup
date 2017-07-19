@@ -14,9 +14,8 @@ layout: audioevideo
 permalink: >
   audioevideo/enc-paternidade-2014-05-e-06-de-abril-palestra-3-pedro-arruda
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Pedro Arruda
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-04-10 16:04:35
 ---

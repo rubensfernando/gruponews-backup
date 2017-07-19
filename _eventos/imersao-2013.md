@@ -15,9 +15,8 @@ permalink: eventos/imersao-2013
 published: true
 categories:
   - Geral
-tags: [ ]
-author:
-  - Renata Ribeiro Arruda
+tags: ""
+author: ""
 post_date: 2012-11-27 21:57:14
 ---
 <h3>O que é Imersão?</h3>

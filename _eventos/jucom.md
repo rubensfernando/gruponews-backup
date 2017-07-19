@@ -9,8 +9,8 @@ post_excerpt: ""
 layout: event
 permalink: eventos/jucom
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2017-02-20 12:07:23
 ---

@@ -16,11 +16,10 @@ layout: event
 permalink: >
   eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
-categories: [ ]
+categories: ""
 tags:
   - deus
-author:
-  - Revista Impacto
+author: ""
 post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">

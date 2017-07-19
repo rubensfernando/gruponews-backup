@@ -14,10 +14,9 @@ layout: audioevideo
 permalink: >
   audioevideo/curso-o-reino-milenar-messinico-aula01-parte-1
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Pedro Arruda
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-05-25 12:57:48
 ---
 O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

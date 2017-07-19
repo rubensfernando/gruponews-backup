@@ -23,8 +23,7 @@ tags:
   - Riqueza
   - Servir
   - Tudo
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2009-12-01 21:54:34
 ---
 <h3>Deitou Tudo Quanto Possuía</h3>

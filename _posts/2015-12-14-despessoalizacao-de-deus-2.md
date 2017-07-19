@@ -18,7 +18,7 @@ categories:
   - Jornal GrupoNews
 tags:
   - edicao-82
-author: [ ]
+author: ""
 post_date: 2015-12-14 09:16:20
 ---
 Quando as informações sobre Deus substituem um relacionamento de amizade com Ele

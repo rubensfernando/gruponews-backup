@@ -15,9 +15,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/evangelho-profetico
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-09-23 13:11:02
 ---
 Inscreva-se para participar das aulas Evangelho Profético do CPP Modular Barueri. Serão duas aulas nos dias 5 e 26 de outubro, das 9h as 12h.

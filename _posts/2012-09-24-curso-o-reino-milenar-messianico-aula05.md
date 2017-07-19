@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2012-09-24 00:36:14
 ---
 <strong>Tema:</strong>  A presença de Jesus na Terra - 1ª e 2ª vindas + DVD - Asher Intrater - Plano Eterno de Deus de unir os Céus e a Terra (+) O Reino de Deus e Jerusalém Espiritual (parte5) – O Cordeiro de Deus morto antes da fundação do mundo. O sistema geracional para a formação da população humana. A rebeldia de Satanás seguida pelas nações. O resgate das nações. O significado da salvação e o Reino Messiânico. A implantação do reino via coração do homem até a sua efetivação objetiva.

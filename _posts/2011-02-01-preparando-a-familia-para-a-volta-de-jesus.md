@@ -28,8 +28,7 @@ tags:
   - interlocutor
   - o Reino e a Igreja"
   - Reino
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2011-02-01 01:00:09
 ---
 Nas conversas de que venho participando ultimamente a respeito do reino de Deus e do papel que nele cabe à família exercer, um assunto tem-se evidenciado: a volta de Jesus. As impressões compartilhadas avivam a esperança de que o retorno de Jesus passe a figurar em nossas agendas como evento a se cumprir num futuro bem mais próximo do que antes imagináramos.

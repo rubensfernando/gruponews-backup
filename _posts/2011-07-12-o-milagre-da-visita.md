@@ -11,9 +11,8 @@ permalink: artigos/o-milagre-da-visita.html
 published: true
 categories:
   - Artigos
-tags: [ ]
-author:
-  - Pe. Inácio José do Vale
+tags: ""
+author: ""
 post_date: 2011-07-12 18:58:01
 ---
 <em>“Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo.” (Lc 1.68)</em>

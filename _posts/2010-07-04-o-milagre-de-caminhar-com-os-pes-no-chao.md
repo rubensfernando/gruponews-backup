@@ -15,8 +15,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
+tags: ""
+authors:
   - Donald P. McNeill
   - Douglas A. Morrison
   - Henri J. M. Nouwen

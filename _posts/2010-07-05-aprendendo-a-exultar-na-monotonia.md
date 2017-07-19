@@ -13,9 +13,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
-  - Renata Ribeiro Arruda
+tags: ""
+author: ""
 post_date: 2010-07-05 15:13:07
 ---
 Eu adoro as crianças, elas parecem ter uma energia, um sorriso, uma paciência que ainda não foram corrompidos pelo senso de <i>adultice</i>. Talvez por isso eu queira ter filhos logo e também por isso me sinta um pouco madrinha das minhas primas mais novas, Miriã e Mirella, pelas quais demonstro grande e notável apego.

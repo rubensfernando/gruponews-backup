@@ -11,8 +11,8 @@ permalink: geral/aulas-de-segunda-feira.html
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2010-11-01 00:00:10
 ---
 Toda segunda-feira a partir das 20h tem aula ao vivo aqui na Webtv! Fique por dentro e participe, as aulas são transmitidas diretamente do Espaço GrupoNews.

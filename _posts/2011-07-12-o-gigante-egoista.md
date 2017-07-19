@@ -11,9 +11,8 @@ permalink: artigos/o-gigante-egoista.html
 published: true
 categories:
   - Artigos
-tags: [ ]
-author:
-  - Oscar Wilde
+tags: ""
+author: ""
 post_date: 2011-07-12 18:59:02
 ---
 Todas as tardes, à saída da escola, as crianças estavam acostumadas a ir brincar no jardim do gigante. Era um jardim grande e muito bonito, coberto de grama verde e suave. Dispersas sobre a grama, brilhavam belas flores como estrelas e havia uma dúzia de pessegueiros que, na primavera, cobriam-se de delicados botões rosáceos e, no outono, davam saborosos frutos.

@@ -12,9 +12,8 @@ permalink: >
 published: true
 categories:
   - Vida
-tags: [ ]
-author:
-  - Henri Nouwen
+tags: ""
+author: ""
 post_date: 2013-05-05 00:15:25
 ---
 <h2>O caminho descendente</h2>

@@ -20,8 +20,7 @@ tags:
   - festin
   - Osasco
   - veja como
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-03-31 19:35:31
 ---
 No Festin’Art de 2000 o grupo de Osasco preparou uma apresentação com um Coral. Veja como foi.

@@ -14,9 +14,9 @@ layout: event
 permalink: >
   eventos/curso-o-reino-milenar-messianico-aula05-vespertino
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-09-23 23:45:04
 ---
 <strong>Tema:</strong>  A presença de Jesus na Terra - 1ª e 2ª vindas + DVD - Asher Intrater - Plano Eterno de Deus de unir os Céus e a Terra (+) O Reino de Deus e Jerusalém Espiritual (parte5) – O Cordeiro de Deus morto antes da fundação do mundo. O sistema geracional para a formação da população humana. A rebeldia de Satanás seguida pelas nações. O resgate das nações. O significado da salvação e o Reino Messiânico. A implantação do reino via coração do homem até a sua efetivação objetiva.

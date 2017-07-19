@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: rsi/como-participar
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-09-11 13:54:13
 ---
 <div id="texto">

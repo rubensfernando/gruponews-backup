@@ -14,9 +14,9 @@ layout: event
 permalink: >
   eventos/curso-reino-milenar-messianico-aula02-matutino
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-05-23 23:36:12
 ---
 <strong>Tema:</strong> O Governo e a Vontade de Deus - O livre arbítrio e sua relação com o Reino de Deus. O "mundo perfeito" para o exercício do livre arbítrio. O homem e seus microreinos. Redescobrindo a rebelião interior. Uma mente apropriada para experimentar a vontade de Deus. O prazer de Deus e do homem na consolidação do Reino.

@@ -18,7 +18,7 @@ tags:
   - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
   - edicao-49
   - testemunhos
-author: [ ]
+author: ""
 post_date: 2007-07-06 11:38:25
 ---
 <h2>Costurando as redes de comunhão em amor</h2>

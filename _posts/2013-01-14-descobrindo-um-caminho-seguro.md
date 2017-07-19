@@ -16,8 +16,7 @@ categories:
 tags:
   - deus
   - mensagem
-author:
-  - Ezequiel Netto
+author: ""
 post_date: 2013-01-14 00:18:51
 ---
 <i>Este artigo é o décimo segundo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>

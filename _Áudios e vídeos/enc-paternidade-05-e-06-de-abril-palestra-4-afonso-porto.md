@@ -14,10 +14,9 @@ layout: audioevideo
 permalink: >
   audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
 published: true
-categories: [ ]
+categories: ""
 tags:
   - paternidade
-author:
-  - Afonso Porto
+author: ""
 post_date: 2014-04-10 16:13:48
 ---

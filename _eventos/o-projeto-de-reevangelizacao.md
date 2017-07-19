@@ -19,8 +19,7 @@ tags:
   - deste
   - Nosso
   - volta
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-06-06 17:31:14
 ---
 Dando continuidade ao curso <a href="http://www.gruponews.com.br/2010/03/reevangelizando.html">Reevangelizando</a>, daremos início a partir desta segunda-feira uma nova fase do projeto iniciado em março deste ano. Semanalmente, toda segunda-feira a partir das 20h, você é o nosso convidado para <strong>O PROJETO DE REEVANGELIZAÇÃO</strong> e sua divulgação.

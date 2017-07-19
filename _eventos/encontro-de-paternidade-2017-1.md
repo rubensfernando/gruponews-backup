@@ -9,8 +9,8 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-de-paternidade-2017-1
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2017-02-20 11:01:19
 ---

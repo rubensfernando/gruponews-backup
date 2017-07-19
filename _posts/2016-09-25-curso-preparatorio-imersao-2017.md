@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2016-09-25 14:02:00
 ---
 Dos dias 07 a 15 de Janeiro de 2017, será realizado o Imersão de Verão. Para participar do encontro é obrigatória a participação nos cursos preparatórios.

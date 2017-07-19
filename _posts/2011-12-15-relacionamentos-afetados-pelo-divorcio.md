@@ -18,7 +18,7 @@ categories:
     Deus
 tags:
   - edicao-71
-author:
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2011-12-15 00:00:20

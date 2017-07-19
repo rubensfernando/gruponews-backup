@@ -14,7 +14,7 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-82
-author: [ ]
+author: ""
 post_date: 2016-07-13 11:36:08
 ---
 <p class="p1">Esta é a 8ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante). <a href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para ler os resumos anteriores.</a></p>

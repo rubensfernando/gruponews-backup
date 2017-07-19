@@ -21,7 +21,7 @@ tags:
   - Família
   - jovem
   - problemas
-author:
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2013-10-29 07:00:16

@@ -11,8 +11,8 @@ permalink: artigos/o-rei-e-o-mendigo.html
 published: true
 categories:
   - Artigos
-tags: [ ]
-author:
+tags: ""
+authors:
   - Autor desconhecido
   - >
     Recontada por Júnior César Villaça da

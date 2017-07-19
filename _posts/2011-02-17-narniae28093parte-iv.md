@@ -24,8 +24,7 @@ tags:
   - narnia
   - principe
   - Príncipe Caspian
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>

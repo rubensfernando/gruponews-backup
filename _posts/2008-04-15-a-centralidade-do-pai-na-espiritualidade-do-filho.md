@@ -29,8 +29,7 @@ tags:
   - Jornal GrupoNews
   - Pai
   - paternidade
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2008-04-15 00:00:40
 ---
 <ul>

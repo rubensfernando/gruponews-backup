@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: page
 permalink: inscricoes-para-os-eventos
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2015-08-06 00:11:20
 ---
 [contact-form-7 id="4436" title="Inscrição Encontro 2015"]

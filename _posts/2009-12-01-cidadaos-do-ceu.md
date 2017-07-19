@@ -23,8 +23,7 @@ tags:
   - Testemunho
   - Valores
   - Vida
-author:
-  - Valmir Mathiazi
+author: ""
 post_date: 2009-12-01 21:10:49
 ---
 Este texto anônimo, extraído da carta a Diogneto (passagens 5 e 6) e escrito por volta do ano 200, em Alexandria, mostra como os cristãos eram vistos por seus contemporâneos.

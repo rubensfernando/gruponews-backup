@@ -14,9 +14,8 @@ layout: audioevideo
 permalink: >
   audioevideo/conferencia-2013-palestra-3-jim-holl
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Jim Holl
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-11-18 00:12:10
 ---

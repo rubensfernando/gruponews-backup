@@ -22,8 +22,7 @@ tags:
   - israel
   - Jesus
   - seara
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2010-04-12 12:00:33
 ---
 Reevangelização de Ovelhas - Jesus nos envia a fazer o que ele fazia: Pedir ao Pai para enviar obreiros à sua seara, ou seja, anunciar o reino de Deus as ovelhas perdidas da casa de Israel que compunham uma multidão que freqüentava as sinagogas onde aprendiam orar, ler a bíblia, dizimar, ofertar, mas que não sabiam sobre o reino de Deus – a Vontade de Deus.

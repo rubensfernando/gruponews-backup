@@ -16,9 +16,8 @@ permalink: >
 published: true
 categories:
   - Jornal GrupoNews
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2011-07-12 18:58:51
 ---
 <ul>

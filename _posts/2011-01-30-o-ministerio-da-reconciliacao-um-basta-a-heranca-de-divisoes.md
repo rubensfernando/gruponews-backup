@@ -29,8 +29,7 @@ tags:
   - Reconciliação
   - União
   - vítimas
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2011-01-30 12:00:05
 ---
 - A reforma da unidade da igreja

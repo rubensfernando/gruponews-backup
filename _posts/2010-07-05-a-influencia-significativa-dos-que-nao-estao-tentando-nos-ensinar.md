@@ -15,9 +15,8 @@ published: true
 categories:
   - Artigos
   - Bases Cristãs
-tags: [ ]
-author:
-  - Moacir Alves Faria
+tags: ""
+author: ""
 post_date: 2010-07-05 15:12:44
 ---
 Já  faz algum tempo que uso, na disciplina de Didática, num curso de Pedagogia em que ministro aulas, uma comparação feita pela minha esposa entre a beterraba e o chuchu, quando ela tenta explicar como é que os cristãos poderão modificar o comportamento das pessoas com as quais convivem. Vamos a ela. “O chuchu é um legume meio sem graça, sem sabor e que precisa de um bom tempero para ser apreciado. Já a beterraba é extremamente contagiante, tem sabor e cor fortes e se colocada em contato com o chuchu, afeta o coitado, deixando-o vermelhinho. Aliás, ela deixa vermelho tudo o que toca. Se alguém comer uma bacia de chuchu, dificilmente vai-se lembrar disso no outro dia, porém se comer uma única beterraba, ela se encarregará de fazê-lo lembrar-se disso no primeiro xixi que fizer, pois tingirá sua urina de vermelho”.

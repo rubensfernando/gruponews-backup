@@ -15,9 +15,8 @@ permalink: audioevideo/cppi-2011-terca-feira-12-jul
 published: true
 categories:
   - Publicações
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2011-07-14 12:00:57
 ---
 Confira as palestras ministradas no dia 12 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

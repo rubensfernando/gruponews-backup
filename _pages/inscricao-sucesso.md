@@ -11,8 +11,8 @@ permalink: eventos/inscricao-sucesso
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2010-06-06 13:53:46
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>

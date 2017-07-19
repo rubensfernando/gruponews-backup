@@ -18,8 +18,7 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author:
-  - Equipe GrupoNews
+tags: ""
+author: ""
 post_date: 2013-06-16 12:15:34
 ---

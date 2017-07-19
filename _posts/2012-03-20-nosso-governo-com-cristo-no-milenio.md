@@ -21,8 +21,7 @@ tags:
   - Governo
   - Nosso
   - suas
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2012-03-20 00:00:45
 ---
 <ul>

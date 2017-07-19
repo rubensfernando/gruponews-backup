@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Igreja
-tags: [ ]
-author:
+tags: ""
+authors:
   - Christopher Walker
   - Johannes Fichtenbauer
 post_date: 2015-09-19 00:35:53

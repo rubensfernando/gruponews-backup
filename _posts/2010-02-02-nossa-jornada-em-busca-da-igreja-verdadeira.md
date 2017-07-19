@@ -25,8 +25,7 @@ tags:
     Por que Você Não Quer Mais Ir À
     Igreja?
   - sem igreja
-author:
-  - Ezequiel Netto
+author: ""
 post_date: 2010-02-02 00:00:11
 ---
 Século 16 – período das grandes descobertas. No princípio, era a Igreja Católica. Mas nem ela nem o Papa estavam com Deus, segundo os protestantes que chegaram. Por outro lado, para os católicos, eram os protestantes que se haviam afastado da Santa Igreja. Esses dois grupos de cristãos estão brigando durante 500 anos pelo direito de serem considerados os detentores do cristianismo verdadeiro.

@@ -17,7 +17,7 @@ categories:
   - Vida
 tags:
   - edicao-80
-author: [ ]
+author: ""
 post_date: 2015-02-17 12:55:56
 ---
 NICK BILTON

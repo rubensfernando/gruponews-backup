@@ -13,8 +13,7 @@ categories:
   - Geral
 tags:
   - Filhos
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2011-06-16 00:00:18
 ---
 <h3>Os temas que serão abordados</h3>

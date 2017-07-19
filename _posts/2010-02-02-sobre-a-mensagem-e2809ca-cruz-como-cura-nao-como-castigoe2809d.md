@@ -14,9 +14,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
-  - Wayne Jacobsen
+tags: ""
+author: ""
 post_date: 2010-02-02 00:40:54
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia; min-height: 12.0px} span.Apple-tab-span {white-space:pre} --><strong>CONFERENCISTA: Gostaria que você comentasse o texto de Isaías 53.5: “O castigo que nos traz a paz estava sobre ele”. </strong>

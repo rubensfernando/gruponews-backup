@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2012-07-26 09:00:06
 ---
 <strong>Tema:</strong> O Significado do Reino para os Judeus – Como os judeus formaram seu conceito sobre o Reino Messiânico, levando em consideração o conteúdo das Escrituras e dos Profetas e as experiências seculares que conheceram através de outros reinos predominantes desde o Egito até os Romanos. A razão da escolha dos judeus para ser uma nação contrastante com as demais e as conseqüências de se afastar dessa vocação.

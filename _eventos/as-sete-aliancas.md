@@ -15,9 +15,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/as-sete-aliancas
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-07-09 23:20:38
 ---
 Inscreva-se para participar das aulas As Sete Alianças do CPP Modular Barueri. Serão duas aulas nos dias 7 e 21 de setembro, das 9h as 13h.

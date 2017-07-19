@@ -32,8 +32,7 @@ tags:
   - Regular
   - Sobra
   - Sustentar
-author:
-  - Pedro Arruda
+author: ""
 post_date: 2009-12-01 21:07:58
 ---
 <h3>A contribuição e a natureza de Deus</h3>

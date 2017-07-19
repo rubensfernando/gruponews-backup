@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: mapa-do-site
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2010-11-14 19:34:34
 ---
 [html_sitemap]

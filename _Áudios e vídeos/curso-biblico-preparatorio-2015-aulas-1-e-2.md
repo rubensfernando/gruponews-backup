@@ -10,9 +10,9 @@ layout: audioevideo
 permalink: >
   audioevideo/curso-biblico-preparatorio-2015-aulas-1-e-2
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2015-11-18 17:11:25
 ---
 Os áudios foram gravados no dia 7 de novembro de 2015

@@ -10,9 +10,9 @@ layout: audioevideo
 permalink: >
   audioevideo/curso-biblico-preparatorio-2015-aulas-3-e-4
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2015-11-18 19:01:03
 ---
 Os áudios foram gravados no dia 14 de novembro de 2015.

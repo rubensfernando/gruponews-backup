@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Notícias
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2013-10-23 00:38:53
 ---
 <h2>Preletores<b><br clear="all" /></b></h2>

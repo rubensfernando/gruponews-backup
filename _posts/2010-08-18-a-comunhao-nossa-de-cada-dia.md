@@ -19,9 +19,8 @@ published: true
 categories:
   - Livros
   - Publicações
-tags: [ ]
-author:
-  - Pedro Arruda
+tags: ""
+author: ""
 post_date: 2010-08-18 23:03:33
 ---
 <strong>Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>

@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/testemunhos
 published: true
-categories: [ ]
-tags: [ ]
-author:
+categories: ""
+tags: ""
+authors:
   - Christopher Walker
   - José Carlos Marion
   - Mauricio Pontello

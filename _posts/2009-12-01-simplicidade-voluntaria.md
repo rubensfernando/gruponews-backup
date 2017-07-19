@@ -27,8 +27,7 @@ tags:
   - Televisão
   - Tempo
   - Vida
-author:
-  - Ricardo Camargo
+author: ""
 post_date: 2009-12-01 22:19:19
 ---
 O objetivo deste artigo está em buscar reconhecer quais as coisas (materiais ou não) que o impedem de caminhar mais livremente e com maior satisfação, o que pode facilitar sua caminhada pela segunda milha. Textos Básicos: Filipenses 4:11 e Hebreus 13:5

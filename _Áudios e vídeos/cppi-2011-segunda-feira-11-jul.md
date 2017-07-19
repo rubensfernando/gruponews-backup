@@ -16,8 +16,8 @@ permalink: >
 published: true
 categories:
   - Publicações
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2011-07-14 08:00:07
 ---
 Confira as palestras ministradas no dia 11 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

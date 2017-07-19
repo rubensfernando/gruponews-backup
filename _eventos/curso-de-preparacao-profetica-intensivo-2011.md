@@ -21,8 +21,7 @@ categories:
 tags:
   - clique aqui
   - volta
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2011-07-10 00:46:26
 ---
 Confira a partir do dia 11 as 9h a transmissão ao vivo do Curso de Preparação Profética Intensivo. O curso terá como tema "A preparação para a Volta de Cristo".

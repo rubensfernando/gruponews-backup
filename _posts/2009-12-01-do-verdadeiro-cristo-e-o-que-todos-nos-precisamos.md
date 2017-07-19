@@ -26,8 +26,7 @@ tags:
   - Mentira
   - Olhar
   - Salvação
-author:
-  - Afonso Porto
+author: ""
 post_date: 2009-12-01 21:31:34
 ---
 “<em>Pois surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos</em>” (Mt 24:24).

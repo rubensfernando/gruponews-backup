@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: usuario/editar
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-03-04 20:28:08
 ---
 <strong>[theme-my-profile] </strong>

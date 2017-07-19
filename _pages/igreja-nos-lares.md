@@ -11,8 +11,8 @@ permalink: igreja-nos-lares
 published: true
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2009-11-29 23:28:58
 ---
 Há quase quarenta anos realizamos reuniões nos lares como auxílio à prática da vida cristã, o mesmo costume observado nos cristãos primitivos antes dos templos instituídos pelo Imperador Constantino. Absorvidos pelo cristianismo, os templos de Constantino perpetuaram a ideia de templo como lugar obrigatório para a realização de reuniões cristãs. Porém, nossa proposta busca restaurar a diginidade da família - "célula-mãe" da sociedade -  priorizando o trabalho de formação espiritual de "homens novos para um mundo novo" encontrado em Deus.

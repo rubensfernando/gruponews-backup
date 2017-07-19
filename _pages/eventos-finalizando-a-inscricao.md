@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: eventos-finalizando-a-inscricao
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-06-08 18:22:10
 ---
 [ESPRESSO_CHECKOUT]

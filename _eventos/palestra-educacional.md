@@ -13,10 +13,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/palestra-educacional
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Afonso Porto
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-04-29 12:23:55
 ---
 Palestra apresenta um ambiente pouco afetuoso e pouco educativo, onde não há diálogo!

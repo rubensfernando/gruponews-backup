@@ -18,8 +18,7 @@ categories:
 tags:
   - Tudo
   - Viver
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-05-23 13:24:12
 ---
 <h3>Encontro Temático 2010 - A Igreja de hoje e a de sempre: discernindo a sua geração e redescobrindo a antiga vocação</h3>

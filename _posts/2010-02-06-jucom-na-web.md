@@ -23,7 +23,7 @@ tags:
   - radio
   - tv
   - video
-author: [ ]
+author: ""
 post_date: 2010-02-06 13:02:17
 ---
 A partir de hoje (06/02), estamos de volta, todos os sábados ao vivo na Rádio GrupoNews. Você não pode perder a super re-estréia do programa, em novo horário: a partir das 17:30h. Estamos cheios de novidades, não perca!

@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: assine-jornal
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2015-04-11 12:43:56
 ---
 O jornal GrupoNews mudou!

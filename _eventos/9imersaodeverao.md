@@ -17,8 +17,7 @@ categories:
   - Geral
 tags:
   - Louvor
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2011-12-14 22:04:12
 ---
 <h3>O que é Imersão?</h3>

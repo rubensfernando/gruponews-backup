@@ -9,8 +9,8 @@ post_excerpt: ""
 layout: page
 permalink: usuario
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-03-04 20:25:27
 ---

@@ -19,8 +19,7 @@ categories:
 tags:
   - Riqueza
   - Testamento
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-04-10 15:27:47
 ---
 <h3>Transmissão</h3>

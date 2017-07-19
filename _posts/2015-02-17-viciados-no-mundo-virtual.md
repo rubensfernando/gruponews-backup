@@ -18,7 +18,7 @@ categories:
   - Jornal GrupoNews
 tags:
   - edicao-80
-author: [ ]
+author: ""
 post_date: 2015-02-17 10:41:31
 ---
 Com o aumento do uso de jogos eletrônicos e acesso à internet, a distração e a superficialidade estão se tornando uma epidemia mundial

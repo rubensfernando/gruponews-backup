@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: event
 permalink: eventos/i-encontro-de-adoracao
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-05-02 11:59:00
 ---
 <h3>Oportunidade: Procuram-se adoradores!</h3>

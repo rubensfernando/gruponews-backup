@@ -27,7 +27,7 @@ tags:
   - Igreja
   - Reino
   - Riqueza
-author:
+authors:
   - Equipe GrupoNews
   - Equipe organizadora
 post_date: 2011-02-01 00:45:02

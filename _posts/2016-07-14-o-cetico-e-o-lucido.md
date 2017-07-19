@@ -13,8 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-author:
-  - Autor desconhecido
+author: ""
 post_date: 2016-07-14 09:20:43
 ---
 <p class="p1"><span class="s1">No ventre de uma mulher grávida, estavam dois bebês.</span></p>

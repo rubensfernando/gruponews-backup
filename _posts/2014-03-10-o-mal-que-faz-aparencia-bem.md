@@ -18,8 +18,7 @@ tags:
   - inocência
   - intergridade
   - paternidade
-author:
-  - Maurício Bronzatto
+author: ""
 post_date: 2014-03-10 09:01:20
 ---
 Jesus forneceu, entre outros, um aspecto inconfundível que distingue os filhos de Deus, mesmo daqueles que exteriormente procuram imitá-los: ao contrário dos servos, os filhos ficam na casa para sempre (Jo 8.35). Antes, porém, é necessário que o Filho os liberte, introduzindo-os na comunhão de seu Pai, sem o que não gozarão da peculiar intimidade da casa (v.36).

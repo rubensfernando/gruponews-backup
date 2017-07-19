@@ -14,9 +14,9 @@ layout: event
 permalink: >
   eventos/encontro-de-reflexao-profetica-2017
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2017-01-05 16:53:08
 ---
 <em>Tema: Fundamentos Apostólicos para o Fim dos Tempos</em>

@@ -26,8 +26,7 @@ tags:
   - narnia
   - peregrino
   - viagem
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>

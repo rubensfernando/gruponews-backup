@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/paternidade-2013-musicas
 published: true
-categories: [ ]
-tags: [ ]
-author:
+categories: ""
+tags: ""
+authors:
   - Denis Bastos
   - Erika Oliveira
 post_date: 2013-03-22 08:00:04

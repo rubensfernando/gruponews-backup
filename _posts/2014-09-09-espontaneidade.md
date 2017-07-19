@@ -13,8 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-49
-author:
-  - Ricardo Alexandre de Oliveira
+author: ""
 post_date: 2014-09-09 22:21:29
 ---
 Espontaneidade é um assunto bastante difícil de ser tratado. A própria palavra espontaneidade parece exageradamente escorregadia. Não sei se você já travou com algum amigo um daqueles papos filosóficos sobre a espontaneidade, mas, se o fez, com certeza encontrou bastante dificuldade em conceituá-la e inseri-la na vida cotidiana.

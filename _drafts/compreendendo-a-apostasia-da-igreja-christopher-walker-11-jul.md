@@ -11,8 +11,8 @@ permalink: '?post_type=audioevideo&p=1745'
 published: false
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---
 <p>Parte B</p>
 <p><iframe src="http://blip.tv/play/grIcgsjqDAA.html" width="630" height="384" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#grIcgsjqDAA" style="display:none"></embed></p>

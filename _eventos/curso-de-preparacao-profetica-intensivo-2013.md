@@ -16,10 +16,9 @@ layout: event
 permalink: >
   eventos/curso-de-preparacao-profetica-intensivo-2013
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Equipe GrupoNews
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-02-04 20:34:21
 ---
 <h2>Matérias</h2>

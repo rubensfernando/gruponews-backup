@@ -14,9 +14,8 @@ layout: audioevideo
 permalink: >
   audioevideo/enc-paternidade-05-e-06-de-abril-palestra-6-mauricio-bronzatto
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Maurício Bronzatto
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-04-10 16:26:31
 ---

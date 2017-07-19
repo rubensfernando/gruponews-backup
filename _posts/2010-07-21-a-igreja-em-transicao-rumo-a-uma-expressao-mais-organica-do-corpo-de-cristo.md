@@ -46,8 +46,7 @@ tags:
   - pessoa
   - ser
   - tanque
-author:
-  - Equipe GrupoNews
+author: ""
 post_date: 2010-07-21 12:00:23
 ---
 - A comunidade do perdão e do confronto

@@ -11,6 +11,6 @@ permalink: ?p=4150
 published: false
 categories:
   - Geral
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 ---

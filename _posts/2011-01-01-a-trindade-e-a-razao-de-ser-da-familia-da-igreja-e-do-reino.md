@@ -25,8 +25,7 @@ tags:
     Conferência "Cristo, o Reino e a
     Igreja"
   - trindade
-author:
-  - Gino Iafrancesco
+author: ""
 post_date: 2011-01-01 01:15:19
 ---
 <blockquote><em>“Também disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança...</em>”

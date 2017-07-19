@@ -22,7 +22,7 @@ tags:
   - edicao-69
   - Igreja
   - Reino
-author: [ ]
+author: ""
 post_date: 2011-02-03 00:20:06
 ---
 - <a href="http://www.gruponews.com.br/2011/02/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade.html">Um laboratório para a prática da unidade em meio à diversidade</a>

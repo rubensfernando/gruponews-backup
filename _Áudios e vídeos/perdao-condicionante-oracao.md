@@ -9,10 +9,9 @@ post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/perdao-condicionante-oracao
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Harold Walker
+categories: ""
+tags: ""
+author: ""
 post_date: 2013-09-22 23:16:50
 ---
 Áudio da Ministração de Harold Walker no Encirstus 2013 - Sorocaba, Centro de Eventos Vale da Águia, dia 25 de agosto de 2013

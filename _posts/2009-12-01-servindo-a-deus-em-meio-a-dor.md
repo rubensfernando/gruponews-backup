@@ -28,8 +28,7 @@ tags:
   - Servir
   - Suportar
   - Tristeza
-author:
-  - Letícia França
+author: ""
 post_date: 2009-12-01 22:17:07
 ---
 A dor, as lutas, os problemas, as doenças, a perda nos fazem dependentes de Deus. Estas situações nos confrontam e nos obrigam a enxergarmos espiritualmente cada situação e percebermos a nossa fragilidade, a nossa necessidade de Deus e o quanto precisamos do seu perdão. Pedro, Jó e José nos trazem grandes ensinamentos através de suas lutas e vitórias:

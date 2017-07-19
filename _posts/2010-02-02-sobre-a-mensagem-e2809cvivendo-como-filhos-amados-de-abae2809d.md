@@ -14,9 +14,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
-  - Wayne Jacobsen
+tags: ""
+author: ""
 post_date: 2010-02-02 00:30:02
 ---
 <strong>CONFERENCISTA: E se eu não me sentir amado? Eu sei na minha mente que sou amado por Deus e talvez até tenha vivido momentos em que ele revelou a mim o seu amor, mas não sinto isso hoje, não estou vivendo nisso hoje. O que eu faço?</strong>

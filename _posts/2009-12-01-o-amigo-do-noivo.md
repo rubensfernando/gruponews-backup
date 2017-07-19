@@ -23,8 +23,7 @@ tags:
   - Oração
   - Palavra
   - Preparar
-author:
-  - Clélia Arruda
+author: ""
 post_date: 2009-12-01 21:44:37
 ---
 Na Bíblia, encontramos esta figura referenciada por João Batista. Para sabermos um pouco mais sobre ela devemos ler no Livro de Gênesis, capítulo 24, a história do servo de Abraão, incumbido por ele de providenciar uma esposa para Isaque, seu filho.

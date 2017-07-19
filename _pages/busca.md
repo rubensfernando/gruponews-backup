@@ -9,8 +9,8 @@ post_excerpt: ""
 layout: page
 permalink: busca
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-02-27 19:12:39
 ---

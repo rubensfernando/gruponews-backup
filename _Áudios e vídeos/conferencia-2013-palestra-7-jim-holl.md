@@ -14,13 +14,12 @@ layout: audioevideo
 permalink: >
   audioevideo/conferencia-2013-palestra-7-jim-holl
 published: true
-categories: [ ]
+categories: ""
 tags:
   - Igreja
   - liderança
   - orgânica
   - Vida
-author:
-  - Jim Holl
+author: ""
 post_date: 2013-11-18 16:07:15
 ---

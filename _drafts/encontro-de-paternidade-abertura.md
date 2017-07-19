@@ -13,9 +13,9 @@ post_excerpt: ""
 layout: audioevideo
 permalink: '?post_type=audioevideo&p=3032'
 published: false
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 ---
 Abertura do Encontro de Paternidade 2013 com o Ailton Jacob.
 

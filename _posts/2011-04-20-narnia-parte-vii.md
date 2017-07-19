@@ -25,8 +25,7 @@ tags:
   - Livro
   - narnia
   - ultima
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2011-04-20 22:51:26
 ---
 <h2>No fim, todos encontram o que realmente procuram</h2>

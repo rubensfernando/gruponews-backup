@@ -9,9 +9,9 @@ post_excerpt: ""
 layout: page
 permalink: proecri
 published: true
-categories: [ ]
-tags: [ ]
-author: [ ]
+categories: ""
+tags: ""
+author: ""
 post_date: 2012-01-19 00:09:48
 ---
 PROECRI (Programa de Envagelização de Crianças)

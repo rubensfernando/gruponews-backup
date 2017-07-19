@@ -18,8 +18,8 @@ categories:
   - >
     O divórcio, suas vítimas e o Reino de
     Deus
-tags: [ ]
-author:
+tags: ""
+authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
 post_date: 2013-03-13 00:00:26

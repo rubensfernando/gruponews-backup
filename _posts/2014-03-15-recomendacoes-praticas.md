@@ -14,8 +14,7 @@ categories:
   - Desenvolvendo os dons proféticos
 tags:
   - edicao-75
-author:
-  - Ezequiel Netto
+author: ""
 post_date: 2014-03-15 08:53:26
 ---
 <i>Este artigo encerra a sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>

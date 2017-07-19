@@ -16,8 +16,7 @@ tags:
   - >
     ESTAS HISTÓRIAS... TU AS INCULCARÁS A
     TEUS FILHOS (cf. Dt 6:6-7)
-author:
-  - Pe. Léo
+author: ""
 post_date: 2014-09-09 21:53:55
 ---
 No distrito de Columbia, nos Estados Unidos, um garoto de 14 anos, membro de uma gangue, assassinou um adolescente inocente como prova de coragem para ser aceito pelo grupo.

@@ -18,7 +18,6 @@ categories:
   - Espírito Santo
 tags:
   - trindade
-author:
-  - Christopher Walker
+author: ""
 post_date: 2015-04-11 17:00:02
 ---

@@ -16,9 +16,8 @@ permalink: >
 published: true
 categories:
   - Artigos
-tags: [ ]
-author:
-  - Ezequiel Netto
+tags: ""
+author: ""
 post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>

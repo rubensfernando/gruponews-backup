@@ -14,9 +14,8 @@ layout: audioevideo
 permalink: >
   audioevideo/encontro-de-paternidade-palestra-1-pedro-arruda
 published: true
-categories: [ ]
-tags: [ ]
-author:
-  - Pedro Arruda
+categories: ""
+tags: ""
+author: ""
 post_date: 2014-04-09 17:07:58
 ---

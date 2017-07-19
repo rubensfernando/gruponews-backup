@@ -28,8 +28,7 @@ tags:
   - Restauração
   - Transformação
   - Vontade
-author:
-  - Juarez Gomes
+author: ""
 post_date: 2009-12-01 22:21:53
 ---
 “E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição” (Ml 4:6). “Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo” (Jr 31:1).

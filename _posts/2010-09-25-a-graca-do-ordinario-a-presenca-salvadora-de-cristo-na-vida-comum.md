@@ -17,8 +17,8 @@ published: true
 categories:
   - Jornal GrupoNews
   - Publicações
-tags: [ ]
-author: [ ]
+tags: ""
+author: ""
 post_date: 2010-09-25 23:08:32
 ---
 - <a href="http://www.gruponews.com.br/2010/07/muito-mais-humanos-do-que-costumamos-admitir.html">Muito mais humanos do que costumamos admitir</a>

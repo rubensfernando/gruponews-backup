@@ -13,9 +13,8 @@ published: true
 categories:
   - Artigos
   - Vida
-tags: [ ]
-author:
-  - Wayne Jacobsen
+tags: ""
+author: ""
 post_date: 2010-02-02 15:22:31
 ---
 <em>As impressões de Wayne Jacobsen sobre sua passagem pelo Brasil</em>

@@ -16,8 +16,7 @@ categories:
   - Artigos
 tags:
   - edicao-73
-author:
-  - Renata Ribeiro Arruda
+author: ""
 post_date: 2013-03-14 00:08:23
 ---
 Que história linda é a do filho pródigo! Ela é conhecidíssima por causa do poder da sua mensagem. Todos nós somos maus e precisamos ser perdoados, sentimos conforto ao ver que o bem está a nos esperar na figura do pai amoroso.
