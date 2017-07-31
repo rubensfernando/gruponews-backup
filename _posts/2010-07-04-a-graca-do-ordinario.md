@@ -2,13 +2,13 @@
 ID: 3182
 post_title: A graça do ordinário
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-1024x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-1024x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/a-graca-do-ordinario.html
@@ -17,7 +17,14 @@ categories:
   - Artigos
   - Igreja
 tags: ""
-author: ""
+author:
+  - Ricardo Barbosa de Sousa
+wpcf-gn_post_autor:
+  - Ricardo Barbosa de Sousa
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2830777630"
 post_date: 2010-07-04 17:39:40
 ---
 <i>“Quando aprendermos a aceitar o comum, deixarmos de cultuar nossas celebridades e olharmos mais para a Bíblia, então daremos os primeiros passos na direção do crescimento espiritual.”</i>

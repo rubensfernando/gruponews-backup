@@ -18,6 +18,47 @@ authors:
   - Eliana Walker
   - Eliza Walker
   - Pedro Arruda
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - >
+    Christopher Walker, Eliza Walker, Pedro
+    Arruda, Eliana Walker
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+jwplayermodule_fb_headers_config:
+  - GrupoNewsAudio
+jwplayermodule_fb_headers_id:
+  - "2580"
+aktt_tweeted:
+  - "1"
+enclosure:
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/01_christopher-walker_domingo-8-de-julho.mp3
+    62112737
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/02_eliza-walker_domingo-8-de-julho.mp3
+    66913834
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/03_pedro-arruda_domingo-8-de-julho.mp3
+    74437727
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/04_eliana-walker_domingo-8-de-julho.mp3
+    68125707
+    audio/mpeg
+    
+dsq_thread_id:
+  - "5297332158"
+amazonS3_cache:
+  - 'a:4:{s:94:"//www.gruponews.com.br/wp-content/uploads/2012/07/01_christopher-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501495520;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/02_eliza-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501495520;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/03_pedro-arruda_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501495520;}s:89:"//www.gruponews.com.br/wp-content/uploads/2012/07/04_eliana-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501495520;}}'
 post_date: 2012-07-11 18:21:17
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

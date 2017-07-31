@@ -2,23 +2,38 @@
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009-720x361.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009-720x361.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
 published: true
+date_start: ""
 categories:
   - Geral
 tags:
   - Wayne Jacobsen
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'no'
+post_autor:
+  - Equipe da Comunicação
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/01/conferencia-2009.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-10-01 00:00:05
 ---
 De acordo com Eliane Brum (www.revistaepoca.com), escutar é talvez a capacidade mais fascinante do humano, porque nos dá a possibilidade de conexão. Logo, fechar-se à escuta é condenar-se à solidão. Muitas pessoas não escutam porque escutar é se arriscar. É se abrir para a possibilidade do espanto, escancarar-se para o mundo do outro. Para a jornalista, quem só tem certezas não dialoga. Não precisa. Conversas são para quem duvida de suas certezas, para quem realmente está aberto para ouvir – e não para fingir que ouve. Diálogos honestos têm mais pontos de interrogação que pontos finais. Escutar de verdade é se entregar, reinventar-se constantemente.

@@ -18,6 +18,42 @@ authors:
   - Eliana Walker
   - Eliza Walker
   - Pedro Arruda
+aktt_notify_twitter:
+  - 'yes'
+jwplayermodule_fb_headers_config:
+  - GrupoNewsAudio
+jwplayermodule_fb_headers_id:
+  - "2591"
+wpcf-gn_post_autor:
+  - >
+    Pedro Arruda, Eliza Walker, Abnério
+    Cabral, Eliana Walker
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+aktt_tweeted:
+  - "1"
+enclosure:
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/001Pedro-Arruda-segunda-dia-9.mp3
+    73969717
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/002Eliza-Walker-segunda-dia-9.mp3
+    63109883
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2012/07/004Eliana-Walker-segunda-dia-9.mp3
+    60337874
+    audio/mpeg
+    
+dsq_thread_id:
+  - "2802548875"
+amazonS3_cache:
+  - 'a:4:{s:83:"//www.gruponews.com.br/wp-content/uploads/2012/07/001Pedro-Arruda-segunda-dia-9.mp3";i:2591;s:86:"//www.gruponews.com.br/wp-content/uploads/2012/07/003Abnério-Cabral-segunda-dia-9.mp3";i:2592;s:84:"//www.gruponews.com.br/wp-content/uploads/2012/07/004Eliana-Walker-segunda-dia-9.mp3";i:2593;s:83:"//www.gruponews.com.br/wp-content/uploads/2012/07/002Eliza-Walker-segunda-dia-9.mp3";i:2594;}'
 post_date: 2012-07-14 20:38:23
 ---
 Confira os áudio das palestras do dia 9 de julho, 1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

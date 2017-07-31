@@ -9,8 +9,11 @@ post_excerpt: ""
 layout: event
 permalink: eventos/testemunhos
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2013-08-19 20:48:39
 ---

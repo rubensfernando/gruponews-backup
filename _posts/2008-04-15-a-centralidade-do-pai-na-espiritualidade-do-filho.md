@@ -4,13 +4,13 @@ post_title: >
   A centralidade do Pai na espiritualidade
   do Filho
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-960x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-960x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/05/jornal-gruponews-marco-abril-2009-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -29,7 +29,31 @@ tags:
   - Jornal GrupoNews
   - Pai
   - paternidade
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'no'
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/05/02marcoabril09.pdf
+post_autor:
+  - Equipe da Comunicação
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/05/jornal-gruponews-marco-abril-2009-imagem.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "2874035630"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/05/jornal-gruponews-marco-abril-2009.jpg
+jornal_data:
+  - 'Março / Abril - 2009'
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2008-04-15 00:00:40
 ---
 <ul>

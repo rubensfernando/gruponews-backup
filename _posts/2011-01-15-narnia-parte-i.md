@@ -2,13 +2,13 @@
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/narnia-parte-i.html
@@ -26,7 +26,25 @@ tags:
   - mago
   - narnia
   - sobrinho
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/banner_narnia_parte1.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2802546054"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>

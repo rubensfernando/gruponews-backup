@@ -13,6 +13,12 @@ published: true
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_audiovideo_data:
+  - "1447459200"
+dsq_thread_id:
+  - "5199393071"
+amazonS3_cache:
+  - 'a:2:{s:88:"//www.gruponews.com.br/wp-content/uploads/2015/11/curso-biblico-preparatorio-aula-04.mp3";i:4536;s:88:"//www.gruponews.com.br/wp-content/uploads/2015/11/curso-biblico-preparatorio-aula-03.mp3";i:4537;}'
 post_date: 2015-11-18 19:01:03
 ---
 Os áudios foram gravados no dia 14 de novembro de 2015.

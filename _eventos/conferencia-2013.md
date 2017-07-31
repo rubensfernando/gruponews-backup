@@ -2,20 +2,25 @@
 ID: 2988
 post_title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-1280x503.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-1280x503.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-1280x503.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-1280x503.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-720x503.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013-720x503.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/conferencia-2013
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2013-02-04 20:57:08
 ---
 <div class="success">

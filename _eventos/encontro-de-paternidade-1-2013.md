@@ -9,9 +9,15 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-de-paternidade-1-2013
 published: true
+date_start: ""
 categories: ""
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2013-02-04 18:20:25
 ---
 Em breve mais informações e inscrições.

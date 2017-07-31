@@ -2,13 +2,13 @@
 ID: 135
 post_title: Um mesmo coração para pais e filhos
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-960x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-960x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -28,7 +28,23 @@ tags:
   - Restauração
   - Transformação
   - Vontade
-author: ""
+author:
+  - Juarez Gomes
+post_autor:
+  - Juarez Gomes
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+wpcf-gn_post_autor:
+  - Juarez Gomes
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5897399051"
 post_date: 2009-12-01 22:21:53
 ---
 “E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição” (Ml 4:6). “Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo” (Jr 31:1).

@@ -4,13 +4,13 @@ post_title: >
   Inscrição para o Encontro de
   Paternidade 2017
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/07/001.png
 post_excerpt: ""
 layout: post
 permalink: >
@@ -20,6 +20,12 @@ categories:
   - Geral
 tags: ""
 author: ""
+slide_template:
+  - default
+dsq_thread_id:
+  - "6016015499"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-07-25 20:29:59
 ---
 Queridos irmãos amigos

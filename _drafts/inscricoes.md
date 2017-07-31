@@ -4,17 +4,18 @@ post_title: >
   Inscrição para o Encontro de Mulheres
   2016
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=4675'
 published: false
+date_start: ""
 categories: ""
 tags: ""
 author: ""

@@ -2,21 +2,42 @@
 ID: 1131
 post_title: Louvorzão da Juventude
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/louvorzao-da-juventude
 published: true
+date_start: ""
 categories:
   - Geral
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/09/back_fuca.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802546053"
+amazonS3_cache:
+  - 'a:4:{s:58:"//www.gruponews.com.br/wp-content/uploads/2010/09/fuca.jpg";i:1133;s:66:"//www.gruponews.com.br/wp-content/uploads/2010/09/fuca-300x225.jpg";i:1133;s:60:"//assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg";i:1133;s:77:"//s3.amazonaws.com/assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg";i:1133;}'
 post_date: 2010-09-26 23:17:34
 ---
 <h3>Onde?</h3>

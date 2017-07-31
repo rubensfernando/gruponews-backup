@@ -9,8 +9,11 @@ post_excerpt: ""
 layout: event
 permalink: eventos/jucom
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-02-20 12:07:23
 ---

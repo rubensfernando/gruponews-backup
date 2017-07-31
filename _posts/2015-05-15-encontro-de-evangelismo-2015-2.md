@@ -2,13 +2,13 @@
 ID: 3686
 post_title: Encontro de Evangelismo 2015
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1920x1080.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1920x1080.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x1280.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-1280x1280.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2015/05/encontro-evangelismo-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -17,7 +17,12 @@ published: true
 categories:
   - Notícias
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "2861238678"
+wpcf-gn_post_destaques:
+  - destaque_maior
 post_date: 2015-05-15 10:40:36
 ---
 Considerando o que o Apóstolo Paulo fala em Romanos 1:16 que o evangelho “é poder de Deus para salvação de todo aquele que nele crê”, temos o dever de anunciá-lo em alto e bom som a todos.

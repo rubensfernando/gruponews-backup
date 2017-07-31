@@ -2,13 +2,13 @@
 ID: 1455
 post_title: 'Parte V &#8211; O dragão que há em nós'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5-720x320.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_narnia_parte5-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -26,7 +26,25 @@ tags:
   - narnia
   - peregrino
   - viagem
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/03/banner_narnia_parte5.jpg
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "3036618929"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>

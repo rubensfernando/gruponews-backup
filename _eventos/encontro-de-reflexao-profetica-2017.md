@@ -2,21 +2,24 @@
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1920x1080.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1920x1080.png
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x1084.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x1084.png
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-720x720.png
+  http://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-720x720.png
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/encontro-de-reflexao-profetica-2017
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-01-05 16:53:08
 ---
 <em>Tema: Fundamentos Apostólicos para o Fim dos Tempos</em>

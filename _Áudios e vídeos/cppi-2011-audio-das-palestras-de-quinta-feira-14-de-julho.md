@@ -2,13 +2,13 @@
 ID: 1679
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de quinta-feira 14 de julho'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14-720x307.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
@@ -17,7 +17,48 @@ published: true
 categories:
   - Publicações
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/banner_CPPI_audios-14.jpg
+aktt_tweeted:
+  - "1"
+enclosure:
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker14072011manha.mp3
+    42216561
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker14072011manha.mp3
+    38756368
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/EliasafdeAssis14072011tarde.mp3
+    38380720
+    audio/mpeg
+    
+  - |
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira14072011noite.mp3
+    53204464
+    audio/mpeg
+    
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802546066"
+amazonS3_cache:
+  - 'a:4:{s:95:"//www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker14072011manha.mp3|titles=Haroldo";a:1:{s:9:"timestamp";i:1501491884;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker14072011manha.mp3|titles=RobertoWalker14072011manha";a:1:{s:9:"timestamp";i:1501491884;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/EliasafdeAssis14072011tarde.mp3|titles=EliasafdeAssis14072011tarde";a:1:{s:9:"timestamp";i:1501491884;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira14072011noite.mp3|titles=AriadnaOliveira14072011noite";a:1:{s:9:"timestamp";i:1501491884;}}'
 post_date: 2011-07-16 12:00:40
 ---
 Confira as palestras ministradas no dia 14 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

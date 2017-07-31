@@ -2,13 +2,13 @@
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2-720x320.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -28,7 +28,25 @@ tags:
   - Livro
   - narnia
   - O leão a feiticeira e o guarda-roupa
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Destaque2
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/banner_narnia_parte2.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2802545712"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-01-22 21:29:50
 ---
 <h3>A Nárnia que o guarda-roupa esconde</h3>

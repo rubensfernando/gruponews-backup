@@ -9,7 +9,10 @@ post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=3428'
 published: false
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+wpcf-gn_post_destaques:
+  - nao_destaque
 ---

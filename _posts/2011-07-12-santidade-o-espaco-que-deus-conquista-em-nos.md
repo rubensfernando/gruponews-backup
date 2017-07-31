@@ -2,13 +2,13 @@
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-960x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-960x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -17,7 +17,33 @@ published: true
 categories:
   - Jornal GrupoNews
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/versao1.jpg
+aktt_tweeted:
+  - "1"
+"og:type":
+  - article
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/versao1.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "2819386731"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/final-1.jpg
+wpcf-gn_post_destaques:
+  - destaque_maior
 post_date: 2011-07-12 18:58:51
 ---
 <ul>

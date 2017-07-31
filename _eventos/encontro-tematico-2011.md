@@ -9,11 +9,28 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-tematico-2011
 published: true
+date_start: ""
 categories:
   - Geral
 tags:
   - Filhos
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-06-16 00:00:18
 ---
 <h3>Os temas que serão abordados</h3>

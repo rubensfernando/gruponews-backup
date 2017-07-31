@@ -9,9 +9,13 @@ post_excerpt: ""
 layout: event
 permalink: eventos/jucom-2015
 published: true
+date_start: ""
 categories: ""
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2015-06-29 02:10:05
 ---
 <strong>Juventude em Comunhão - Edição 2015</strong>

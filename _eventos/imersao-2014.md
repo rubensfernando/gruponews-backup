@@ -2,20 +2,28 @@
 ID: 3566
 post_title: Imersão 2014
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/imersao-2014
 published: true
+date_start: ""
 categories: ""
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2013-12-03 13:10:18
 ---
 <h3>O que é Imersão?</h3>

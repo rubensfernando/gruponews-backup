@@ -2,21 +2,31 @@
 ID: 2385
 post_title: I Encontro de Adoração
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012-720x320.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/encontro-adoracao
 published: true
+date_start: ""
 categories:
   - Geral
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+aktt_tweeted:
+  - "1"
 post_date: 2012-05-02 12:00:10
 ---
 Oportunidade: Procuram-se adoradores!

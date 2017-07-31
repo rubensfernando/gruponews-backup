@@ -4,22 +4,30 @@ post_title: >
   10º Encontro de reflexão profética
   para líderes
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
+date_start: ""
 categories: ""
 tags:
   - deus
-author: ""
+author:
+  - Revista Impacto
+wpcf-gn_post_autor:
+  - Revista Impacto
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:76:"https://www.gruponews.com.br/wp-content/uploads/2013/02/banner-encontro.jpeg";i:2985;}'
 post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">

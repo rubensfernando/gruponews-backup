@@ -4,20 +4,30 @@ post_title: >
   Inscrições para a aula Visão
   Profética
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/inscricoes-aula-visao-profetica
 published: true
+date_start: ""
 categories: ""
 tags: ""
-author: ""
+author:
+  - Equipe CPP Modular
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:72:"https://www.gruponews.com.br/wp-content/uploads/2013/06/cppm-barueri.jpg";i:3325;}'
 post_date: 2013-10-25 17:47:20
 ---
 Inscreva-se para participar das aulas Visão Profética do CPP Modular Barueri. Serão duas aulas nos dias 2 e 23 de novembro, das 9h as 12h.

@@ -9,8 +9,13 @@ post_excerpt: ""
 layout: event
 permalink: eventos/pos-imersao-1
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""
+slide_template:
+  - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-02-20 10:56:43
 ---

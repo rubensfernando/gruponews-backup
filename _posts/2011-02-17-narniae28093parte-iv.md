@@ -2,13 +2,13 @@
 ID: 1341
 post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4-720x320.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: 'bases-cristas/um-lugar-chamado-narnia/narnia%e2%80%93parte-iv.html'
@@ -24,7 +24,25 @@ tags:
   - narnia
   - principe
   - Príncipe Caspian
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/banner_narnia_parte4.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2802546009"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-02-17 21:29:03
 ---
 <h3>Nosso tamanho é proporcional ao de Aslam</h3>

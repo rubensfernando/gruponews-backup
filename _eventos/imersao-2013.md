@@ -2,21 +2,29 @@
 ID: 2782
 post_title: Imersão 2013
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013-720x353.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/11/banner_imersao2013-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/imersao-2013
 published: true
+date_start: ""
 categories:
   - Geral
 tags: ""
-author: ""
+author:
+  - Renata Ribeiro Arruda
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:78:"https://www.gruponews.com.br/wp-content/uploads/2012/11/banner_imersao2013.jpg";i:2783;}'
 post_date: 2012-11-27 21:57:14
 ---
 <h3>O que é Imersão?</h3>

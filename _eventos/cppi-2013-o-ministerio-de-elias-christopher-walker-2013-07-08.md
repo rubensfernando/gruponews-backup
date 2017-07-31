@@ -10,6 +10,7 @@ layout: event
 permalink: >
   eventos/cppi-2013-o-ministerio-de-elias-christopher-walker-2013-07-08
 published: true
+date_start: ""
 categories: ""
 tags: ""
 author: ""

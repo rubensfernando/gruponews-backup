@@ -4,13 +4,13 @@ post_title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/gino.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/01/gino-720x307.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/01/gino-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -25,7 +25,25 @@ tags:
     Conferência "Cristo, o Reino e a
     Igreja"
   - trindade
-author: ""
+author:
+  - Gino Iafrancesco
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Irmão Gino
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/01/gino.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Gino Iafrancesco
+dsq_thread_id:
+  - "2803271127"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-01-01 01:15:19
 ---
 <blockquote><em>“Também disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança...</em>”

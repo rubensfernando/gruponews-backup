@@ -2,13 +2,13 @@
 ID: 1297
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2-720x666.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2-720x666.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -31,6 +31,25 @@ tags:
 authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Juarez Gomes e Maria de Carvalho Gomes
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/03/banner_divorcio_parte2.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Juarez Gomes e Maria de Carvalho Gomes
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802546007"
 post_date: 2011-01-30 22:38:33
 ---
 <h3>Os diferentes relacionamentos conjugais</h3>

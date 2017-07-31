@@ -2,13 +2,13 @@
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x1080.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x1080.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-720x720.jpg
+  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >
@@ -21,7 +21,21 @@ tags:
   - Governo
   - Nosso
   - suas
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "2805283355"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/capa-janeiro.jpg
+jornal_data:
+  - Novembro de 2011 à Fevereiro de 2012
+wpcf-gn_post_destaques:
+  - destaque_maior
 post_date: 2012-03-20 00:00:45
 ---
 <ul>
