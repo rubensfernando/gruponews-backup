@@ -2,13 +2,13 @@
 ID: 55
 post_title: A Oração de Maria
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: bases-cristas/a-oracao-de-maria.html

@@ -2,18 +2,17 @@
 ID: 818
 post_title: Encontro Temático 2010
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010-720x300.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/05/back_tematico2010-720x300.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/encontro-tematico-2010
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

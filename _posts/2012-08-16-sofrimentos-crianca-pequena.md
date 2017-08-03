@@ -2,13 +2,13 @@
 ID: 2086
 post_title: Sofrimentos da criança pequena
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca-720x666.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca-720x666.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/sofrimentos-crianca-pequena.html

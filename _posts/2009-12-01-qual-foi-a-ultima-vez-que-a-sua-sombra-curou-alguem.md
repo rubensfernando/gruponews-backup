@@ -4,13 +4,13 @@ post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem-720x650.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

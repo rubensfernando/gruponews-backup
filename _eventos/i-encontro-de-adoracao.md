@@ -2,18 +2,17 @@
 ID: 2392
 post_title: I Encontro de Adoração
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_adoracao2012-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/i-encontro-de-adoracao
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

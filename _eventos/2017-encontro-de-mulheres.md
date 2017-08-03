@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/2017-encontro-de-mulheres
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

@@ -2,13 +2,13 @@
 ID: 4730
 post_title: 'Lista de Espera &#8211; Encontro de Mulheres'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/07/banner-mulheres-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: geral/encontro-de-mulheres-2016.html

@@ -2,13 +2,13 @@
 ID: 3194
 post_title: O dízimo na Bíblia e na História
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-1024x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-1024x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/mendigo-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

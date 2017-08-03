@@ -4,13 +4,13 @@ post_title: >
   Conferência Internacional com Benjamin
   Berger
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
+  https://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
+  https://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
+  https://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site.png
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site-720x353.png
+  https://assets.gruponews.com.br/gruponews/uploads/2016/03/gn_rte_conferenciainternacinal_site-720x353.png
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,13 +2,13 @@
 ID: 1924
 post_title: 'Santidade: o espaço que Deus conquista em nós'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

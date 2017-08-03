@@ -2,13 +2,13 @@
 ID: 2265
 post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: noticias/novidades-curso-rmm.html

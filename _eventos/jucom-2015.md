@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/jucom-2015
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author:

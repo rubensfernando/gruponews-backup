@@ -4,13 +4,13 @@ post_title: >
   CPPI 2011 – Áudios da palestra de
   Quinta 21de Julho
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-21-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
@@ -56,7 +56,7 @@ wpcf-gn_post_destaques:
 dsq_thread_id:
   - "5732296551"
 amazonS3_cache:
-  - 'a:4:{s:112:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda21072011Manha.mp3|titles=PedroArruda21072011Manha";a:1:{s:9:"timestamp";i:1501252060;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JoãoPaulo21072011Manha.mp3|titles=JoãoPaulo21072011Manha";a:1:{s:9:"timestamp";i:1501252060;}s:120:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena21dejulho2011recuperado.mp3|titles=ClesioPena21dejulho2011";a:1:{s:9:"timestamp";i:1501252060;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima21072011Noite.mp3|titles=GersonLima21072011Noite";a:1:{s:9:"timestamp";i:1501252060;}}'
+  - 'a:4:{s:112:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda21072011Manha.mp3|titles=PedroArruda21072011Manha";a:1:{s:9:"timestamp";i:1501731098;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JoãoPaulo21072011Manha.mp3|titles=JoãoPaulo21072011Manha";a:1:{s:9:"timestamp";i:1501731098;}s:120:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena21dejulho2011recuperado.mp3|titles=ClesioPena21dejulho2011";a:1:{s:9:"timestamp";i:1501731098;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima21072011Noite.mp3|titles=GersonLima21072011Noite";a:1:{s:9:"timestamp";i:1501731098;}}'
 post_date: 2011-07-26 18:00:36
 ---
 Confira as palestras ministradas no dia 21 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP

@@ -2,13 +2,13 @@
 ID: 2059
 post_title: Curso “O Reino Milenar Messiânico”
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >

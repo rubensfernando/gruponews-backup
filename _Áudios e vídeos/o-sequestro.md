@@ -2,13 +2,13 @@
 ID: 1225
 post_title: O sequestro
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/o-sequestro

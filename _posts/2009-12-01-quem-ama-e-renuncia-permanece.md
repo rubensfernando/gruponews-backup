@@ -2,13 +2,13 @@
 ID: 127
 post_title: “Quem ama e renuncia, permanece”
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece-720x650.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

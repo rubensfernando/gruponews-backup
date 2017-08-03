@@ -4,19 +4,18 @@ post_title: >
   Curso de Preparação Profética
   Intensivo 2011
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI-720x307.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/curso-de-preparacao-profetica-intensivo-2011
 published: true
-date_start: ""
 categories:
   - Notícias
 tags:

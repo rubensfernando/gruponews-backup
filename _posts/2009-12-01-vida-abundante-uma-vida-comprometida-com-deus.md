@@ -2,13 +2,13 @@
 ID: 138
 post_title: 'Vida abundante: uma vida comprometida com Deus'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vida_abundante.jpg
 post_excerpt: ""
 layout: post
 permalink: >

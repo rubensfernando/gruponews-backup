@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=4097'
 published: false
-date_start: ""
 categories: ""
 tags: ""
 author: ""

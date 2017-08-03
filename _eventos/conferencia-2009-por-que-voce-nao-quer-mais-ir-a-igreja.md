@@ -2,19 +2,18 @@
 ID: 501
 post_title: 'Conferência 2009 &#8211; Por que você não quer mais ir à igreja?'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009-720x361.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/01/conferencia-2009-720x361.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/conferencia-2009-por-que-voce-nao-quer-mais-ir-a-igreja
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

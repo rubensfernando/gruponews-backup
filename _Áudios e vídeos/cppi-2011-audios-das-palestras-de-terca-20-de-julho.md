@@ -4,13 +4,13 @@ post_title: >
   CPPI 2011 – Áudios das palestras de
   Quarta 20 de Julho
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-20-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
@@ -59,7 +59,7 @@ wpcf-gn_post_imagem_credito:
 wpcf-gn_post_destaques:
   - nao_destaque
 amazonS3_cache:
-  - 'a:4:{s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda20072011Manha.mp3|titles=08PedroArruda20072011Manha";a:1:{s:9:"timestamp";i:1501252060;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre20072011Manha.mp3|titles=JameNobre20072011Manha";a:1:{s:9:"timestamp";i:1501252060;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena2072011Tarde.mp3|titles=ClesioPena2072011Tarde";a:1:{s:9:"timestamp";i:1501252060;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima20072011Noite.mp3|titles=GersonLima20072011Noite";a:1:{s:9:"timestamp";i:1501252060;}}'
+  - 'a:4:{s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda20072011Manha.mp3|titles=08PedroArruda20072011Manha";a:1:{s:9:"timestamp";i:1501755246;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre20072011Manha.mp3|titles=JameNobre20072011Manha";a:1:{s:9:"timestamp";i:1501755246;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena2072011Tarde.mp3|titles=ClesioPena2072011Tarde";a:1:{s:9:"timestamp";i:1501755246;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima20072011Noite.mp3|titles=GersonLima20072011Noite";a:1:{s:9:"timestamp";i:1501755246;}}'
 dsq_thread_id:
   - "5475761267"
 post_date: 2011-07-25 19:35:36

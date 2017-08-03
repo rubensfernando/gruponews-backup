@@ -4,13 +4,13 @@ post_title: >
   Onde estás? Os problemas em fugir de um
   problema
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_ondeestas-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: bases-cristas/vida/onde-estas.html

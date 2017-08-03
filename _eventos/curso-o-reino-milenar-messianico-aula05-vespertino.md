@@ -2,19 +2,18 @@
 ID: 2724
 post_title: 'Curso “O Reino Milenar Messiânico” #aula05 &#8211; Vespertino'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/curso-o-reino-milenar-messianico-aula05-vespertino
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

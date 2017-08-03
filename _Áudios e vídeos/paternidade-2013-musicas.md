@@ -2,13 +2,13 @@
 ID: 3039
 post_title: Músicas
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-1280x483.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-720x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/paternidade-2013-musicas

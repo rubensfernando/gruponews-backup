@@ -2,13 +2,13 @@
 ID: 736
 post_title: Reevangelizando – Aula 2 – Parte 2
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-ReevangelizandoAula2Parte2423-260.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

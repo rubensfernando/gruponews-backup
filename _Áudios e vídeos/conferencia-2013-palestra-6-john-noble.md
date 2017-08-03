@@ -2,13 +2,13 @@
 ID: 3550
 post_title: 'Conferência 2013 &#8211; Palestra 6 &#8211; John Noble'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-1280x503.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-720x503.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-john-noble-720x503.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

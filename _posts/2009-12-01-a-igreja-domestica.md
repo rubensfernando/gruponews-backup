@@ -2,13 +2,13 @@
 ID: 146
 post_title: A Igreja Doméstica
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica-720x550.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica-720x550.jpg
 post_excerpt: ""
 layout: post
 permalink: igreja/a-igreja-domestica.html

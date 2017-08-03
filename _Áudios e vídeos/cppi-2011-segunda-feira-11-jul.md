@@ -2,13 +2,13 @@
 ID: 1647
 post_title: 'CPPI 2011 &#8211; Áudio das palestras de segunda-feira 11 de julho'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-11-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
@@ -55,7 +55,7 @@ dsq_thread_id:
 wpcf-gn_audiovideo_data:
   - "1311206400"
 amazonS3_cache:
-  - 'a:4:{s:105:"//www.gruponews.com.br/wp-content/uploads/2011/07/Christopher-Walker-11072011manha.mp3|titles=Christopher";a:1:{s:9:"timestamp";i:1501393633;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/EduardoOliveira110711manha.mp3|titles=EduardoOliveira110711manha";a:1:{s:9:"timestamp";i:1501393633;}s:102:"//www.gruponews.com.br/wp-content/uploads/2011/07/Abnério-Cabral-11_07_2011_tarde.mp3|titles=Abnério";a:1:{s:9:"timestamp";i:1501393633;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/TonyFelicio1107201Noite.mp3|titles=TonyFelicio1107201Noite";a:1:{s:9:"timestamp";i:1501393633;}}'
+  - 'a:4:{s:105:"//www.gruponews.com.br/wp-content/uploads/2011/07/Christopher-Walker-11072011manha.mp3|titles=Christopher";a:1:{s:9:"timestamp";i:1501657178;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/EduardoOliveira110711manha.mp3|titles=EduardoOliveira110711manha";a:1:{s:9:"timestamp";i:1501657178;}s:102:"//www.gruponews.com.br/wp-content/uploads/2011/07/Abnério-Cabral-11_07_2011_tarde.mp3|titles=Abnério";a:1:{s:9:"timestamp";i:1501657178;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/TonyFelicio1107201Noite.mp3|titles=TonyFelicio1107201Noite";a:1:{s:9:"timestamp";i:1501657178;}}'
 post_date: 2011-07-14 08:00:07
 ---
 Confira as palestras ministradas no dia 11 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

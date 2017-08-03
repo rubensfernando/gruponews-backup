@@ -2,13 +2,13 @@
 ID: 148
 post_title: O Ministério do Espírito Santo
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo-720x650.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/o_ministerio_do_espirito_santo-720x650.jpg
 post_excerpt: ""
 layout: post
 permalink: >

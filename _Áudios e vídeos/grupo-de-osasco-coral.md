@@ -2,13 +2,13 @@
 ID: 598
 post_title: 'Grupo de Osasco &#8211; Coral'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/grupo-de-osasco-coral

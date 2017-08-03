@@ -2,19 +2,18 @@
 ID: 706
 post_title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel-720x300.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel-720x300.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/israel-a-igreja-e-os-ultimos-dias
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

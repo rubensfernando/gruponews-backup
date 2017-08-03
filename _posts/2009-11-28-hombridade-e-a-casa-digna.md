@@ -2,13 +2,13 @@
 ID: 44
 post_title: Hombridade e a Casa Digna
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna-720x600.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna-720x600.jpg
 post_excerpt: ""
 layout: post
 permalink: familia/hombridade-e-a-casa-digna.html

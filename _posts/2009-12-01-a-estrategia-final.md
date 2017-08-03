@@ -2,13 +2,13 @@
 ID: 78
 post_title: A Estratégia Final
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: igreja/a-estrategia-final.html

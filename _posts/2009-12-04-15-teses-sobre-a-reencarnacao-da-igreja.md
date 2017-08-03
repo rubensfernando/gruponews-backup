@@ -4,13 +4,13 @@ post_title: >
   15 teses sobre a reencarnação da
   igreja
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1707x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1707x1080.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x1280.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-1280x1280.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/15_teses_sobre_a_reencarnacao_da_igreja1-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

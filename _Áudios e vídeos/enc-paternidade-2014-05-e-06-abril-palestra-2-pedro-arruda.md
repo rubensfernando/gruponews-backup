@@ -2,13 +2,13 @@
 ID: 3661
 post_title: 'Enc.Paternidade 2014 05 e 06 Abril Palestra 2 &#8211; Pedro Arruda'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios-720x353.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

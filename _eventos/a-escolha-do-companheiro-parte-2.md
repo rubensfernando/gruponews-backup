@@ -2,18 +2,17 @@
 ID: 956
 post_title: A escolha do companheiro – Parte 2
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha-720x307.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/a-escolha-do-companheiro-parte-2
 published: true
-date_start: ""
 categories:
   - Notícias
 tags:

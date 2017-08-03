@@ -2,13 +2,13 @@
 ID: 461
 post_title: 'Vamos Louvar &#8211; Ministério Ômega de Louvor'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/vamos_louvar_omega-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

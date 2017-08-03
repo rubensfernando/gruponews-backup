@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/testemunhos
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

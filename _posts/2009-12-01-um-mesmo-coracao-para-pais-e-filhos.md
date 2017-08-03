@@ -2,13 +2,13 @@
 ID: 135
 post_title: Um mesmo coração para pais e filhos
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

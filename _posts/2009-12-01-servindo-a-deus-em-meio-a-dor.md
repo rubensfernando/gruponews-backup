@@ -2,13 +2,13 @@
 ID: 131
 post_title: Servindo a Deus em meio à dor
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

@@ -2,13 +2,13 @@
 ID: 2080
 post_title: 'A igreja: casa de Deus com céus abertos'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-1000x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-1000x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/jaco-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

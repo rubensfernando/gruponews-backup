@@ -2,13 +2,13 @@
 ID: 3036
 post_title: A Paternidade na minha vida
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/junior.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-1280x483.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-1280x483.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-720x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/a-paternidade-na-minha-vida

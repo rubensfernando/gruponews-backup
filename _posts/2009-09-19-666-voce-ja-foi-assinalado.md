@@ -2,13 +2,13 @@
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado-720x500.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado-720x500.jpg
 post_excerpt: ""
 layout: post
 permalink: >

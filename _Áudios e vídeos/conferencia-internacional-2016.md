@@ -2,13 +2,13 @@
 ID: 4651
 post_title: Conferência Internacional 2016
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/05/GN_BANNER-720x353.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

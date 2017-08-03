@@ -2,13 +2,13 @@
 ID: 4239
 post_title: 'Dons e vocação: Manifestações coletivas da  Luz que, vinda ao mundo, ilumina a todos os homens'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1920x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1920x1080.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x1280.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-1280x1280.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/capa-gruponews-fevereiro-2014-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

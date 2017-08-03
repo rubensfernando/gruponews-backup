@@ -2,13 +2,13 @@
 ID: 639
 post_title: 'Conferência 2008 &#8211; A Igreja do nosso tempo &#8211; Chamada'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/conferencia-2008-chamada

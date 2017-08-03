@@ -2,13 +2,13 @@
 ID: 601
 post_title: Reevangelizando
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: post
 permalink: noticias/reevangelizando.html

@@ -2,13 +2,13 @@
 ID: 1201
 post_title: 'Reevangelização de Ovelhas &#8211; Maurício Bronzatto'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

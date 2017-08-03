@@ -2,18 +2,17 @@
 ID: 2708
 post_title: A Trindade e o Reino de Deus
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/a-trindade-e-o-reino-de-deus
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

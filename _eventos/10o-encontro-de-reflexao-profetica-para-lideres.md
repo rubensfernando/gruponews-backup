@@ -4,19 +4,18 @@ post_title: >
   10º Encontro de reflexão profética
   para líderes
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
-date_start: ""
 categories: ""
 tags:
   - deus

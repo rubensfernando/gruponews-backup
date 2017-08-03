@@ -2,19 +2,18 @@
 ID: 1092
 post_title: 'Cristo O Reino e a Igreja &#8211; Conferência 2010'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_conferencia-2010-720x307.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/cristo-o-reino-e-a-igreja-conferencia-2010
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

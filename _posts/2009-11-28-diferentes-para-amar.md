@@ -2,13 +2,13 @@
 ID: 104
 post_title: Diferentes para Amar
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar-720x450.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar-720x450.jpg
 post_excerpt: ""
 layout: post
 permalink: igreja/diferentes-para-amar.html

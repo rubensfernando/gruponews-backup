@@ -5,13 +5,13 @@ post_title: >
   visto a partir da experiência do
   Ressuscitado
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-1000x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-1000x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/pescador-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

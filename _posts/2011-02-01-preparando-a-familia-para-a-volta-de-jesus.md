@@ -4,13 +4,13 @@ post_title: >
   Preparando a família para a volta de
   Jesus
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/pedro-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >

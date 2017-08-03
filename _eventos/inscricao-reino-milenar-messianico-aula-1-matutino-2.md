@@ -2,19 +2,18 @@
 ID: 2310
 post_title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

@@ -2,13 +2,13 @@
 ID: 1248
 post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/narnia-parte-i.html

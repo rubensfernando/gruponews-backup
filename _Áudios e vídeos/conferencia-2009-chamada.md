@@ -2,13 +2,13 @@
 ID: 650
 post_title: 'Conferência 2009 &#8211; Por que Você não quer mais ir à Igreja? &#8211; Chamada'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141.png
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141-720x540.png
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/vlcsnap-2010-01-23-10h20m44s141-720x540.png
 post_excerpt: ""
 layout: audioevideo
 permalink: audioevideo/conferencia-2009-chamada

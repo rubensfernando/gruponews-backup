@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-de-adolescentes
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

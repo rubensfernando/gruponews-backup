@@ -4,13 +4,13 @@ post_title: >
   A necessidade de ter comunhão com Deus
   nos últimos dias
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-1280x483.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-1280x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-1280x483.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-720x483.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/03/Ricardo-Correia-720x483.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

@@ -2,19 +2,18 @@
 ID: 2618
 post_title: 'Curso “O Reino Milenar Messiânico” #aula03 &#8211; Virtual'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: >
   eventos/curso-o-reino-milenar-messianico-aula03-virtual
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

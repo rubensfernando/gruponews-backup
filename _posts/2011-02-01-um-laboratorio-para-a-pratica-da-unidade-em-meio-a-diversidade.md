@@ -4,13 +4,13 @@ post_title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-1280x492.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-1280x492.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-1280x492.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-1280x492.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-720x492.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/editorial-720x492.jpg
 post_excerpt: ""
 layout: post
 permalink: >

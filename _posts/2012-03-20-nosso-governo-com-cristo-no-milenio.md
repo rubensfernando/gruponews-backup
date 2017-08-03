@@ -2,13 +2,13 @@
 ID: 2187
 post_title: Nosso governo com Cristo no Milênio
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x1080.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-1000x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/capa-janeiro-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

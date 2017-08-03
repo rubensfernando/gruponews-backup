@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=4583'
 published: false
-date_start: ""
 categories:
   - Geral
 tags: ""

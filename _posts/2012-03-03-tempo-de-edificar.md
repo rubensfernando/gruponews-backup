@@ -2,13 +2,13 @@
 ID: 2109
 post_title: Tempo de edificar
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao-720x469.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/02/multidao-720x469.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/tempo-de-edificar.html

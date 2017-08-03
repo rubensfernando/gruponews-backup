@@ -2,13 +2,13 @@
 ID: 4719
 post_title: 'Encontro de Mulheres &#8211; 22 e 23 de Outubro'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista-1000x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista-1000x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista-720x720.jpg
 post_excerpt: ""
 layout: page
 permalink: encontro-de-mulheres-22-e-23-de-outubro

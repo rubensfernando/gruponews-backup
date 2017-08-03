@@ -4,13 +4,13 @@ post_title: >
   CPPI 2011 – Áudios da palestra de
   Sexta 22 de Julho
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-22-720x307.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >
@@ -72,7 +72,7 @@ wpcf-gn_post_imagem_credito:
 wpcf-gn_post_destaques:
   - nao_destaque
 amazonS3_cache:
-  - 'a:3:{s:106:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArrudaSexta22_07.mp3|titles=PedroArrudaSexta22_07";a:1:{s:9:"timestamp";i:1501252060;}s:90:"//www.gruponews.com.br/wp-content/uploads/2011/07/11Joao-Paulo-Sexta-22_07.mp3|titles=Joao";a:1:{s:9:"timestamp";i:1501252060;}s:87:"//www.gruponews.com.br/wp-content/uploads/2011/07/15Gerson-Lima-22_07.mp3|titles=Gerson";a:1:{s:9:"timestamp";i:1501252060;}}'
+  - 'a:3:{s:106:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArrudaSexta22_07.mp3|titles=PedroArrudaSexta22_07";a:1:{s:9:"timestamp";i:1501596832;}s:90:"//www.gruponews.com.br/wp-content/uploads/2011/07/11Joao-Paulo-Sexta-22_07.mp3|titles=Joao";a:1:{s:9:"timestamp";i:1501596832;}s:87:"//www.gruponews.com.br/wp-content/uploads/2011/07/15Gerson-Lima-22_07.mp3|titles=Gerson";a:1:{s:9:"timestamp";i:1501596832;}}'
 post_date: 2011-07-26 18:04:42
 ---
 Confira as palestras ministradas no último dia do Curso de Preparação Profética Intensivo 2011!

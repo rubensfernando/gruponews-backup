@@ -2,13 +2,13 @@
 ID: 4355
 post_title: '&#8220;A Dança da Trindade e a Igreja&#8221; &#8211; Parte 2'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-1280x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-1280x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-1280x1080.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2-720x720.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

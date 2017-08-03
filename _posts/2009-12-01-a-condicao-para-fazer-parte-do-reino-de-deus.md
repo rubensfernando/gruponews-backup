@@ -4,13 +4,13 @@ post_title: >
   A condição para fazer parte do Reino
   de Deus
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus-720x600.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus-720x600.jpg
 post_excerpt: ""
 layout: post
 permalink: >

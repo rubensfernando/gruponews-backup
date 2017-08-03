@@ -4,13 +4,13 @@ post_title: >
   Curso de Preparação Profética Modular
   em Barueri
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/06/cppm-barueri-720x353.jpg
 post_excerpt: ""
 layout: post
 permalink: noticias/cppm-barueri.html

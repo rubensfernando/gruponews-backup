@@ -2,18 +2,17 @@
 ID: 2004
 post_title: '9º Imersão de Verão &#8211; 07 a 15 de Janeiro de 2012'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012-720x320.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/9imersaodeverao
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

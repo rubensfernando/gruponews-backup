@@ -2,13 +2,13 @@
 ID: 129
 post_title: Secularização na igreja
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja-720x550.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja-720x550.jpg
 post_excerpt: ""
 layout: post
 permalink: artigos/secularizacao-na-igreja.html

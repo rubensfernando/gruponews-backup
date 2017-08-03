@@ -2,13 +2,13 @@
 ID: 2505
 post_title: 'Vídeo da #aula01 &#8211; Parte 2 do Curso “O Reino Milenar Messiânico”'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2-720x320.jpg
 post_excerpt: ""
 layout: audioevideo
 permalink: >

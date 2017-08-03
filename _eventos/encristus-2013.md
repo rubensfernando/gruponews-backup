@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encristus-2013
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author:

@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-tematico-2011
 published: true
-date_start: ""
 categories:
   - Geral
 tags:

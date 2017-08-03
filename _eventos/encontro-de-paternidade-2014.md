@@ -9,7 +9,6 @@ post_excerpt: ""
 layout: event
 permalink: eventos/encontro-de-paternidade-2014
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

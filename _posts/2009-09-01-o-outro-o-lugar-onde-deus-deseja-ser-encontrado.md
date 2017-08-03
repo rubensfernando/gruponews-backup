@@ -2,13 +2,13 @@
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-960x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-960x720.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-720x720.jpg
 post_excerpt: ""
 layout: post
 permalink: >

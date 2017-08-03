@@ -12,7 +12,6 @@ layout: event
 permalink: >
   eventos/adocao-de-filhos-base-da-vida-de-oracao
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author: ""

@@ -2,18 +2,17 @@
 ID: 3566
 post_title: Imersão 2014
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner_imersao2014-720x353.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/imersao-2014
 published: true
-date_start: ""
 categories: ""
 tags: ""
 author:

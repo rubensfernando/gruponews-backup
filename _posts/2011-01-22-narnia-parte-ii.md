@@ -2,13 +2,13 @@
 ID: 1271
 post_title: 'Parte II &#8211; A Nárnia que o guarda-roupa esconde'
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2-720x320.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte2-720x320.jpg
 post_excerpt: ""
 layout: post
 permalink: >

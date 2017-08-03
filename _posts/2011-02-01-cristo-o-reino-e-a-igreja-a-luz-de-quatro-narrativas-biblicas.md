@@ -4,13 +4,13 @@ post_title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
 image-xl: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
 image-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
 image-sq-l: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial.jpg
 image-sq-m: >
-  http://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial-720x307.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2011/02/marcial-720x307.jpg
 post_excerpt: ""
 layout: post
 permalink: >
