@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Eventos
+title: Eventos
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/11/q1rncn_gqbk-cody-aulidge-1920x1080.jpg
 image-l: >
