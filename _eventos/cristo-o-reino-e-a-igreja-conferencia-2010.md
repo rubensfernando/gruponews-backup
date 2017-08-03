@@ -14,6 +14,7 @@ layout: event
 permalink: >
   eventos/cristo-o-reino-e-a-igreja-conferencia-2010
 published: true
+event: null
 categories:
   - Geral
 tags:
