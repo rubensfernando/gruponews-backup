@@ -50,9 +50,9 @@ event:
   location_id: "4"
   recurrence_id: null
   event_category_id: null
-  event_attributes: 'a:1:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
+  event_attributes: 'a:2:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";s:14:"slide_template";s:7:"default";}'
   event_date_created: 2017-02-20 11:20:18
-  event_date_modified: 2017-08-07 16:37:13
+  event_date_modified: 2017-08-07 16:58:35
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
