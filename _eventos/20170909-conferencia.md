@@ -1,10 +1,16 @@
 ---
 ID: 4862
-title: Conferência
-image-xl: ""
-image-l: ""
-image-sq-l: ""
-image-sq-m: ""
+title: >
+  Conferência Judaico-Messiânico e
+  Cristã
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1920x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1280x1080.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-720x720.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/conferencia
@@ -14,14 +20,15 @@ event:
   event_slug: conferencia
   event_owner: "2"
   event_status: "1"
-  event_name: Conferência
+  event_name: >
+    Conferência Judaico-Messiânico e
+    Cristã
   event_start_time: 08:00:00
   event_end_time: 15:00:00
   event_start_date: 2017-09-09
   event_end_date: 2017-09-10
   post_content: |
-    O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.
-    
+    <p style="text-align: center;">O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.</p>
     <strong>Preletores:</strong>
     Marcelo Guimarães - Rabino judeu messiânico
     Matheus Zandona - Rabino judeu messiânico
@@ -42,17 +49,15 @@ event:
     Considere o fato de ser um ambiente rural em permanente construção.
     As instalações são modestas com dormitórios coletivos equipados com beliches. Necessário trazer roupa de cama e banho.
     
-    &nbsp;
-    
     <a href="https://www.eventbrite.com.br/e/conferencia-judaico-messianico-e-crista-tickets-36807093006">Clique aqui para fazer a inscrição</a>
   event_rsvp: "0"
   event_spaces: null
   location_id: "4"
   recurrence_id: null
   event_category_id: null
-  event_attributes: 'a:2:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";s:14:"slide_template";s:7:"default";}'
+  event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-02-20 11:20:18
-  event_date_modified: 2017-08-07 17:00:51
+  event_date_modified: 2017-08-07 21:31:49
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
@@ -69,16 +74,16 @@ event:
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
 categories: ""
-tags: ""
+tags:
+  - featured
 author: ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
 slide_template:
   - default
-post_date: 2017-02-20 11:20:18
+wpcf-gn_post_destaques:
+  - destaque_novidade
+post_date: 2017-08-07 11:20:18
 ---
-O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.
-
+<p style="text-align: center;">O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.</p>
 <strong>Preletores:</strong>
 Marcelo Guimarães - Rabino judeu messiânico
 Matheus Zandona - Rabino judeu messiânico
@@ -98,7 +103,5 @@ Irmã Ádola Bowers – Irmandade Evangélica de Maria, de Curitiba
 
 Considere o fato de ser um ambiente rural em permanente construção.
 As instalações são modestas com dormitórios coletivos equipados com beliches. Necessário trazer roupa de cama e banho.
-
-&nbsp;
 
 <a href="https://www.eventbrite.com.br/e/conferencia-judaico-messianico-e-crista-tickets-36807093006">Clique aqui para fazer a inscrição</a>
