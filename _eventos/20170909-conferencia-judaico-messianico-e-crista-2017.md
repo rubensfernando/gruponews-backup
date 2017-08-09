@@ -4,13 +4,13 @@ title: >
   Conferência Judaico-Messiânica e
   Cristã
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1920x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/conferencia-r3-1920x1080.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1280x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/conferencia-r3-1280x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1280x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/conferencia-r3-1280x1080.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/conferencia-r3-720x720.jpg
 post_excerpt: ""
 layout: event
 permalink: >
@@ -57,9 +57,9 @@ event:
   location_id: "4"
   recurrence_id: null
   event_category_id: null
-  event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
+  event_attributes: 'a:2:{s:14:"slide_template";s:0:"";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-02-20 11:20:18
-  event_date_modified: 2017-08-08 23:48:31
+  event_date_modified: 2017-08-09 12:58:47
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
@@ -79,10 +79,10 @@ categories: ""
 tags:
   - featured
 author: ""
-slide_template:
-  - ""
 wpcf-gn_post_destaques:
   - destaque_novidade
+slide_template:
+  - default
 post_date: 2017-08-07 11:20:18
 ---
 <p style="text-align: left;">O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.</p>
