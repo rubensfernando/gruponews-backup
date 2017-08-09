@@ -1,7 +1,7 @@
 ---
 ID: 4862
 title: >
-  Conferência Judaico-Messiânico e
+  Conferência Judaico-Messiânica e
   Cristã
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2017/02/banner-conferencia-r2-1920x1080.jpg
@@ -23,7 +23,7 @@ event:
   event_owner: "2"
   event_status: "1"
   event_name: >
-    Conferência Judaico-Messiânico e
+    Conferência Judaico-Messiânica e
     Cristã
   event_start_time: 08:00:00
   event_end_time: 15:00:00
@@ -80,7 +80,7 @@ tags:
   - featured
 author: ""
 slide_template:
-  - default
+  - ""
 wpcf-gn_post_destaques:
   - destaque_novidade
 post_date: 2017-08-07 11:20:18
