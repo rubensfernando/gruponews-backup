@@ -14,11 +14,12 @@ image-sq-m: >
 post_excerpt: ""
 layout: event
 permalink: >
-  eventos/conferencia-judaico-messianico-e-crista
+  eventos/conferencia-judaico-messianico-e-crista-2017
 published: true
 event:
   event_id: "98"
-  event_slug: conferencia-judaico-messianico-e-crista
+  event_slug: >
+    conferencia-judaico-messianico-e-crista-2017
   event_owner: "2"
   event_status: "1"
   event_name: >
@@ -58,7 +59,7 @@ event:
   event_category_id: null
   event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-02-20 11:20:18
-  event_date_modified: 2017-08-08 23:22:32
+  event_date_modified: 2017-08-08 23:48:31
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
