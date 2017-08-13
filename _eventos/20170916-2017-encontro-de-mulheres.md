@@ -2,13 +2,13 @@
 ID: 4858
 title: Encontro de Mulheres
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/20645266_10154862604818806_9011369117362639052_o-1104x1080.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/encontro-de-mulheres-2017.jpg
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/20645266_10154862604818806_9011369117362639052_o-1104x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/encontro-de-mulheres-2017-1000x720.jpg
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/20645266_10154862604818806_9011369117362639052_o.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/encontro-de-mulheres-2017.jpg
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/02/20645266_10154862604818806_9011369117362639052_o-720x720.jpg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/08/encontro-de-mulheres-2017-720x720.jpg
 post_excerpt: ""
 layout: event
 permalink: eventos/2017-encontro-de-mulheres
@@ -31,7 +31,7 @@ event:
   event_category_id: null
   event_attributes: 'a:1:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-02-20 11:05:59
-  event_date_modified: 2017-08-08 01:04:11
+  event_date_modified: 2017-08-09 12:46:47
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
@@ -53,6 +53,8 @@ tags:
 author: ""
 wpcf-gn_post_destaques:
   - destaque_novidade
+slide_template:
+  - default
 post_date: 2017-08-07 11:05:58
 ---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScj1Xy7wK6SsJI_58B-2KGxZ-ErpGsZXdRxHoKfgFArOTdZDQ/viewform" width="100%" height="550"></iframe>

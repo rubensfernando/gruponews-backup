@@ -50,9 +50,9 @@ event:
 categories: ""
 tags: ""
 author: ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-02-20 11:12:39
 ---

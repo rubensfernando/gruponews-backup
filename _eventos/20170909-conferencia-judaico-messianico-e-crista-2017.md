@@ -79,10 +79,10 @@ categories: ""
 tags:
   - featured
 author: ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-08-07 11:20:18
 ---
 <p style="text-align: left;">O ressurgimento da nação de Israel moderna em 1948 e dos judeus messiânicos em 1967 possibilitou uma compreensão mais apurada da significação da plenitude dos judeus e dos gentios, na composição do corpo de Cristo. Assim como o capítulo 2 do livro de Atos dos Apóstolos iluminou o século XX, o mesmo deve estar ocorrendo com o capítulo 11 da epístola aos Romanos neste século. Se no início da Igreja os judeus acolheram os gentios sem “judaizá-los”, desta vez devemos acolher os judeus sem “gentilizá-los”. Para isso é importante conhecê-los melhor.</p>
