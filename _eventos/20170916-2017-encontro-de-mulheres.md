@@ -29,9 +29,9 @@ event:
   location_id: "4"
   recurrence_id: null
   event_category_id: null
-  event_attributes: 'a:1:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
+  event_attributes: 'a:2:{s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";s:14:"slide_template";s:7:"default";}'
   event_date_created: 2017-02-20 11:05:59
-  event_date_modified: 2017-08-09 12:46:47
+  event_date_modified: 2017-10-01 19:03:33
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
@@ -48,8 +48,7 @@ event:
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
 categories: ""
-tags:
-  - featured
+tags: ""
 author: ""
 wpcf-gn_post_destaques:
   - destaque_novidade
