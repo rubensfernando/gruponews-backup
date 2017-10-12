@@ -47,7 +47,7 @@ event:
   event_category_id: null
   event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-10-11 22:51:59
-  event_date_modified: 2017-10-11 22:55:45
+  event_date_modified: 2017-10-12 07:46:51
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
