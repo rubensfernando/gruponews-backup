@@ -2,13 +2,13 @@
 ID: 4939
 title: 'Encristus Nacional 2017: Unidade, o clamor do coração de Deus!'
 image-xl: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/10/AdobeStock_22554377-1920x1080.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/10/encristus-16-9.png
 image-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/10/AdobeStock_22554377-1280x720.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/10/encristus-16-9.png
 image-sq-l: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/10/AdobeStock_22554377-1280x1280.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/10/encristus-16-9-1280x720.png
 image-sq-m: >
-  https://assets.gruponews.com.br/gruponews/uploads/2017/10/AdobeStock_22554377-720x720.jpeg
+  https://assets.gruponews.com.br/gruponews/uploads/2017/10/encristus-16-9-720x720.png
 post_excerpt: ""
 layout: event
 permalink: >
@@ -47,8 +47,8 @@ event:
   event_category_id: null
   event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-10-11 22:51:59
-  event_date_modified: 2017-10-12 07:46:51
-  recurrence: "0"
+  event_date_modified: 2017-11-21 12:38:39
+  recurrence: null
   recurrence_interval: null
   recurrence_freq: null
   recurrence_byday: null
@@ -58,9 +58,9 @@ event:
   post_id: "4939"
   event_all_day: "1"
   event_private: "0"
-  recurrence_days: "0"
+  recurrence_days: null
   event_rsvp_date: null
-  event_rsvp_time: 00:00:00
+  event_rsvp_time: null
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
 categories: ""
