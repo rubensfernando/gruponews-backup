@@ -1,6 +1,6 @@
 ---
 ID: 4959
-title: Encontro Pré 2018
+title: Encontro de Pré-adolescentes 2018
 image-xl: ""
 image-l: ""
 image-sq-l: ""
