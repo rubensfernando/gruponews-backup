@@ -47,7 +47,7 @@ event:
   event_category_id: null
   event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:17:"destaque_novidade";}'
   event_date_created: 2017-10-11 22:51:59
-  event_date_modified: 2017-11-21 12:38:39
+  event_date_modified: 2018-01-17 10:49:24
   recurrence: null
   recurrence_interval: null
   recurrence_freq: null
@@ -64,8 +64,7 @@ event:
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
 categories: ""
-tags:
-  - featured
+tags: ""
 author: ""
 slide_template:
   - default
