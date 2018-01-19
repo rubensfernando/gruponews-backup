@@ -14,7 +14,7 @@ categories:
   - Igreja nos lares
 tags:
   - Conferência "A igreja do nosso tempo"
-authors:
+author:
   - João A. de Souza Filho
 dsq_thread_id:
   - "2975065981"

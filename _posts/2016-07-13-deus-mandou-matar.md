@@ -13,7 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-authors:
+author:
   - Pablo Massolar
 wpcf-gn_post_destaques:
   - destaque_novidade

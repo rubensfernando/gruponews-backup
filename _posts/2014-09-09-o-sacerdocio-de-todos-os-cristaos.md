@@ -18,7 +18,7 @@ tags:
   - Melquisedeque
   - sacerdócio
   - serviço
-authors:
+author:
   - Pedro Arruda
 wpcf-gn_post_destaques:
   - destaque_novidade

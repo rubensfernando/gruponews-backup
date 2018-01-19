@@ -15,7 +15,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-authors:
+author:
   - Nuno Tovar de Lemos
 aktt_notify_twitter:
   - 'yes'

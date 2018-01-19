@@ -18,7 +18,7 @@ tags:
   - edicao-75
   - paciência
   - perfil
-authors:
+author:
   - Darin Hufford
 wpcf-gn_post_autor:
   - ""

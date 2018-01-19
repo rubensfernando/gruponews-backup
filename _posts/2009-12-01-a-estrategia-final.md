@@ -26,7 +26,7 @@ tags:
   - Louvor
   - Oração
   - Palavra
-authors:
+author:
   - Carlos Araripe
 post_autor:
   - Carlos Araripe

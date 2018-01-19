@@ -13,7 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-authors:
+author:
   - Autor desconhecido
 dsq_thread_id:
   - "4999368109"

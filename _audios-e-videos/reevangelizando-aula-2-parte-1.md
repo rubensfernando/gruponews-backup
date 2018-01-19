@@ -22,7 +22,7 @@ tags:
   - israel
   - Jesus
   - seara
-authors:
+author:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

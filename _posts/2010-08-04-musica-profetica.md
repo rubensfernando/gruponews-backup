@@ -13,7 +13,7 @@ published: true
 categories:
   - Desenvolvendo os dons proféticos
 tags: ""
-authors:
+author:
   - Ezequiel Netto
 dsq_thread_id:
   - "3509026774"

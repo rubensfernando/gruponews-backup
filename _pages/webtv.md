@@ -12,7 +12,7 @@ published: true
 categories:
   - Geral
 tags: ""
-authors:
+author:
   - Equipe GrupoNews
 post_autor:
   - ""

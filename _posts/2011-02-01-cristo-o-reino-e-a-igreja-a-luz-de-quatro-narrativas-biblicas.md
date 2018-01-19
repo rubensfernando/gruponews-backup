@@ -28,7 +28,7 @@ tags:
   - escrituras
   - Igreja
   - Reino
-authors:
+author:
   - Padre Marcial Maçaneiro
 aktt_notify_twitter:
   - 'yes'

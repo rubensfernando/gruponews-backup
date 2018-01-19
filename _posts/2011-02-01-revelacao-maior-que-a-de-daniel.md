@@ -28,7 +28,7 @@ tags:
   - Livro de Daniel
   - o Reino e a Igreja"
   - Reino
-authors:
+author:
   - Harold Walker
 aktt_notify_twitter:
   - 'yes'

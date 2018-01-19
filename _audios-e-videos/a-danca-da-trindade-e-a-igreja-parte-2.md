@@ -18,7 +18,7 @@ categories:
   - Espírito Santo
 tags:
   - trindade
-authors:
+author:
   - Christopher Walker
 wpcf-gn_audiovideo_data:
   - "1428710400"

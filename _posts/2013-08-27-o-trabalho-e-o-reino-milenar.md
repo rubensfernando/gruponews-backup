@@ -18,7 +18,7 @@ tags:
   - Milênio
   - Reino
   - trabalho
-authors:
+author:
   - Ricardo Oliveira
 wpcf-gn_post_autor:
   - Ricardo Oliveira

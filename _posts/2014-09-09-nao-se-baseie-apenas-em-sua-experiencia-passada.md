@@ -17,7 +17,7 @@ categories:
 tags:
   - edicao-49
   - QUEM TEM OUVIDOS PARA OUVIR... OUÇA!
-authors:
+author:
   - Alexandre Rangel
 dsq_thread_id:
   - "3003782932"

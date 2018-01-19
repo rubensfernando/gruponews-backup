@@ -20,7 +20,7 @@ tags:
   - Luz
   - revelação
   - Vida
-authors:
+author:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - Maurício Bronzatto

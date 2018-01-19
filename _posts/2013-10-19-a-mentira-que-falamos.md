@@ -15,7 +15,7 @@ categories:
 tags:
   - autom
   - Mentira
-authors:
+author:
   - Darin Hufford
 wpcf-gn_post_autor:
   - Darin Hufford

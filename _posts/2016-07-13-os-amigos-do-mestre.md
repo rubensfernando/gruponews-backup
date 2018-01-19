@@ -13,7 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-authors:
+author:
   - Pedro Arruda
 dsq_thread_id:
   - "4985074795"

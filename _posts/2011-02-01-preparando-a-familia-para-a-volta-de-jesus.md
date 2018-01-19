@@ -28,7 +28,7 @@ tags:
   - interlocutor
   - o Reino e a Igreja"
   - Reino
-authors:
+author:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

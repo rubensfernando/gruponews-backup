@@ -17,7 +17,7 @@ tags:
   - edicao-79
   - editorial
   - pentecostal
-authors:
+author:
   - Pedro Arruda
 wpcf-gn_post_destaques:
   - destaque_novidade

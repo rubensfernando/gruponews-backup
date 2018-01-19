@@ -28,7 +28,7 @@ tags:
   - Livro
   - narnia
   - O leão a feiticeira e o guarda-roupa
-authors:
+author:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

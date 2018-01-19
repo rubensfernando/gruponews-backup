@@ -17,7 +17,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-authors:
+author:
   - Equipe GrupoNews
 dsq_thread_id:
   - "2861238678"

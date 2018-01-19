@@ -25,7 +25,7 @@ tags:
     Conferência "Cristo, o Reino e a
     Igreja"
   - trindade
-authors:
+author:
   - Gino Iafrancesco
 aktt_notify_twitter:
   - 'yes'

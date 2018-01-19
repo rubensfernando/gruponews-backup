@@ -14,7 +14,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-authors:
+author:
   - Carlos Eduardo Pereira (“Casé”)
 wpcf-gn_post_destaques:
   - destaque_novidade

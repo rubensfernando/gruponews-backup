@@ -14,7 +14,7 @@ categories:
   - Igreja nos lares
 tags:
   - Conferência "A igreja do nosso tempo"
-authors:
+author:
   - Pedro Arruda
 dsq_thread_id:
   - "2973371245"

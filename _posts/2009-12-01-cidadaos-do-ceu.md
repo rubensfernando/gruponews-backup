@@ -23,7 +23,7 @@ tags:
   - Testemunho
   - Valores
   - Vida
-authors:
+author:
   - Valmir Mathiazi
 post_autor:
   - Valmir Mathiazi

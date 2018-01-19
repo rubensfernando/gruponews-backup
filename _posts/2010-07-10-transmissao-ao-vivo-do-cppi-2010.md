@@ -22,7 +22,7 @@ tags:
   - Transmissão
   - tv
   - veja
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

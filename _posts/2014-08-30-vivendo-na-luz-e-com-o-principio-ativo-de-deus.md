@@ -16,7 +16,7 @@ categories:
   - Comunhão
 tags:
   - Conferência "A igreja do nosso tempo"
-authors:
+author:
   - Paulo Manzini
 wpcf-gn_post_destaques:
   - destaque_novidade

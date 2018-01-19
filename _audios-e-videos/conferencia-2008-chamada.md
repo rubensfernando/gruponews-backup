@@ -21,7 +21,7 @@ tags:
   - dois
   - em 2008
   - nessa
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

@@ -48,5 +48,7 @@ tags: ""
 author: ""
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2018-01-01 09:43:14
 ---

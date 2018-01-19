@@ -26,7 +26,7 @@ tags:
   - Nova
   - Transformar
   - Vida
-authors:
+author:
   - Rosane Faria
 post_autor:
   - Rosane Faria

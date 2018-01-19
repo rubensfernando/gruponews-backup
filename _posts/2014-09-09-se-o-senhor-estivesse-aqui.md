@@ -14,7 +14,7 @@ categories:
   - Vida
 tags:
   - edicao-49
-authors:
+author:
   - Paulo Roberto da Silva
 dsq_thread_id:
   - "3004813236"

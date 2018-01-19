@@ -26,7 +26,7 @@ tags:
   - Largo
   - Testemunho
   - Transformação
-authors:
+author:
   - Offini Franco
 post_autor:
   - Offini Franco

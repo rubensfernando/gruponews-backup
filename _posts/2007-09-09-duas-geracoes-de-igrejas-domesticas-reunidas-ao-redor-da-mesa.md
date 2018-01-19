@@ -17,7 +17,7 @@ categories:
 tags:
   - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
   - edicao-49
-authors:
+author:
   - Maurício Bronzatto
 dsq_thread_id:
   - "3013023333"

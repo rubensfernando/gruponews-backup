@@ -13,7 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-49
-authors:
+author:
   - Douglas Castillero
 dsq_thread_id:
   - "3004334434"

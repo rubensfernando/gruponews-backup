@@ -17,7 +17,7 @@ categories:
   - Vida
 tags:
   - Conferência "A igreja do nosso tempo"
-authors:
+author:
   - Ismael de Oliveira
 dsq_thread_id:
   - "2973305773"

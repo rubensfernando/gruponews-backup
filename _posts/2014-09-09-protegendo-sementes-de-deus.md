@@ -13,7 +13,7 @@ categories:
   - Família
 tags:
   - edicao-49
-authors:
+author:
   - Ezequiel Netto
 dsq_thread_id:
   - "3004332915"

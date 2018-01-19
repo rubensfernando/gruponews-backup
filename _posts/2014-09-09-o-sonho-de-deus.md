@@ -16,7 +16,7 @@ tags:
   - Comunhão
   - edicao-49
   - sonho de Deus
-authors:
+author:
   - Moacir Alves Faria
 dsq_thread_id:
   - "3003769819"

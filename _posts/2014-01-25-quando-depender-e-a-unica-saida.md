@@ -20,7 +20,7 @@ tags:
   - depender
   - edicao-76
   - Testemunho
-authors:
+author:
   - Marina Venuto Silva
 wpcf-gn_post_autor:
   - ""

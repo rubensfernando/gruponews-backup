@@ -14,7 +14,7 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-80
-authors:
+author:
   - Darin Hufford
 dsq_thread_id:
   - "3689926615"

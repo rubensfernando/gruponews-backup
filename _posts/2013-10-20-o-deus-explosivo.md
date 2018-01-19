@@ -14,7 +14,7 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-76
-authors:
+author:
   - Darin Hufford
 wpcf-gn_post_autor:
   - ""

@@ -23,7 +23,7 @@ tags:
   - Luz
   - Perdão
   - Segredo
-authors:
+author:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

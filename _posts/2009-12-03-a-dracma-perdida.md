@@ -27,7 +27,7 @@ tags:
   - Perdida
   - Procurar
   - Reino
-authors:
+author:
   - Maurício Bronzatto
 post_autor:
   - Mauricio Bronzatto

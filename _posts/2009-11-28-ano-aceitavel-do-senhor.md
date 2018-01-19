@@ -27,7 +27,7 @@ tags:
   - Restauração
   - Salvação
   - Transformação
-authors:
+author:
   - Cristina Juliani
 post_autor:
   - Cristina Juliani

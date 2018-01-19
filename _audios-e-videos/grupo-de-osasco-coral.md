@@ -20,7 +20,7 @@ tags:
   - festin
   - Osasco
   - veja como
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

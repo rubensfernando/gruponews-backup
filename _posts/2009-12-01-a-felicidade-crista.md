@@ -28,7 +28,7 @@ tags:
   - Sofrimento
   - Trevas
   - Vida
-authors:
+author:
   - Paulo Roberto da Silva
 post_autor:
   - Paulo Roberto da Silva

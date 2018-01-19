@@ -16,7 +16,7 @@ categories:
   - Espírito Santo
 tags:
   - edicao-79
-authors:
+author:
   - Ricardo Oliveira
 wpcf-gn_post_destaques:
   - destaque_novidade

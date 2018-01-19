@@ -26,7 +26,7 @@ tags:
   - Personagem
   - Testamento
   - Versículo
-authors:
+author:
   - Equipe GrupoNews
 post_autor:
   - Equipe Comunicação

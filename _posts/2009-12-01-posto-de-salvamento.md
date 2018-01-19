@@ -27,7 +27,7 @@ tags:
   - Socorro
   - Tripulação
   - Vida
-authors:
+author:
   - Paulo Roberto Silva
 post_autor:
   - Paulo Roberto Silva

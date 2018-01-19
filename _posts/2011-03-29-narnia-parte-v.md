@@ -26,7 +26,7 @@ tags:
   - narnia
   - peregrino
   - viagem
-authors:
+author:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

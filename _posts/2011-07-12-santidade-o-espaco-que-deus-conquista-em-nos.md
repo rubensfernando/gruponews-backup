@@ -17,7 +17,7 @@ published: true
 categories:
   - Jornal GrupoNews
 tags: ""
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

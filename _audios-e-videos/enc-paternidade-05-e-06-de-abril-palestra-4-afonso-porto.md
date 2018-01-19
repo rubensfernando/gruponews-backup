@@ -17,7 +17,7 @@ published: true
 categories: ""
 tags:
   - paternidade
-authors:
+author:
   - Afonso Porto
 wpcf-gn_post_autor:
   - Afonso Porto

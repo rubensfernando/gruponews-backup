@@ -16,7 +16,7 @@ categories:
   - Artigos
 tags:
   - edicao-73
-authors:
+author:
   - Renata Ribeiro Arruda
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

@@ -18,7 +18,7 @@ tags:
   - experiência
   - Milagre
   - presença
-authors:
+author:
   - Pr. Rui Luis Rodrigues
 wpcf-gn_post_autor:
   - ""

@@ -16,7 +16,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-authors:
+author:
   - Willian Diego Pereira
 aktt_notify_twitter:
   - 'yes'

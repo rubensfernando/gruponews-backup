@@ -28,7 +28,7 @@ tags:
   - Perdida
   - Resgate
   - Salvação
-authors:
+author:
   - Maurício Bronzatto
 post_autor:
   - Maurício Bronzatto

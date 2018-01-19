@@ -16,7 +16,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-authors:
+author:
   - Wayne Jacobsen
 aktt_notify_twitter:
   - 'yes'

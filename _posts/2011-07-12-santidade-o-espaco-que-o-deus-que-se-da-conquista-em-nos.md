@@ -14,7 +14,7 @@ categories:
   - Artigos
   - Bases Cristãs
 tags: ""
-authors:
+author:
   - Maurício Bronzatto
 aktt_notify_twitter:
   - 'no'

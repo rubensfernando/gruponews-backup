@@ -19,7 +19,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-authors:
+author:
   - Equipe Grupo
 wpcf-gn_post_autor:
   - Equipe GrupoNews

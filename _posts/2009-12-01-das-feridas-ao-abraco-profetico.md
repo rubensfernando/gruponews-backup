@@ -24,7 +24,7 @@ tags:
   - Situações
   - Unidade
   - Visão
-authors:
+author:
   - Maurício Bronzatto
 post_autor:
   - Maurício Bronzatto

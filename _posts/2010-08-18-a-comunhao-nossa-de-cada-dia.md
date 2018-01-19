@@ -20,7 +20,7 @@ categories:
   - Livros
   - Publicações
 tags: ""
-authors:
+author:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

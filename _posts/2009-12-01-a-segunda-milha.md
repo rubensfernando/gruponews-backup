@@ -22,7 +22,7 @@ tags:
   - Perder
   - Praticar
   - Relacionamento
-authors:
+author:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

@@ -16,7 +16,7 @@ categories:
   - Vida
 tags:
   - Conferência "A igreja do nosso tempo"
-authors:
+author:
   - Gary Fray
 dsq_thread_id:
   - "2972753257"

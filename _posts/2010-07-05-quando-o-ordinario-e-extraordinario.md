@@ -14,7 +14,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-authors:
+author:
   - Daniel Rocha
 wpcf-gn_post_autor:
   - Daniel Rocha

@@ -14,7 +14,7 @@ categories:
 tags:
   - edicao-49
   - testemunhos
-authors:
+author:
   - Adriana Marques
 dsq_thread_id:
   - "3003800352"

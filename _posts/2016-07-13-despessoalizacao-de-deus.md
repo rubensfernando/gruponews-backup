@@ -14,7 +14,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-authors:
+author:
   - Pedro Arruda
 instant_articles_submission_id:
   - "300587643609755"

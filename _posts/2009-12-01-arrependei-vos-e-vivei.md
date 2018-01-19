@@ -23,7 +23,7 @@ tags:
   - Transformação
   - Vergonha
   - Viver
-authors:
+author:
   - Mauricio Pontello
 post_autor:
   - Maurício Pontello

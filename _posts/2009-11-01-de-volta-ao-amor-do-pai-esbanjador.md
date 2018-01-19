@@ -28,7 +28,7 @@ tags:
   - outro
   - Proféticos
   - Vida
-authors:
+author:
   - Equipe GrupoNews
 jornal_linkPDF:
   - >

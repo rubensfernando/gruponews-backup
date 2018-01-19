@@ -15,7 +15,7 @@ categories:
   - Família
   - Igreja nos lares
 tags: ""
-authors:
+author:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

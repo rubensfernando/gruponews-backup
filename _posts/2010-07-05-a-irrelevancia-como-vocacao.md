@@ -13,7 +13,7 @@ published: true
 categories:
   - Vida
 tags: ""
-authors:
+author:
   - Henri Nouwen
 wpcf-gn_post_autor:
   - Henri Nouwen

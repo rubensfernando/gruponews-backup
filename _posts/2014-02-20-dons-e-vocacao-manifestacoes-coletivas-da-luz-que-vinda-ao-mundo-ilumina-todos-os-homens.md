@@ -18,7 +18,7 @@ categories:
   - Jornal GrupoNews
 tags:
   - Dons
-authors:
+author:
   - Maurício Bronzatto
 dsq_thread_id:
   - "3662732307"

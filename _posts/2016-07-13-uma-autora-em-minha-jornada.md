@@ -13,7 +13,7 @@ categories:
   - Geral
 tags:
   - edicao-82
-authors:
+author:
   - Marina Venuto Silva
 instant_articles_submission_id:
   - "300505663618290"

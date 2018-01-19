@@ -27,7 +27,7 @@ tags:
   - menino
   - narnia
   - O cavalo e seu menino
-authors:
+author:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

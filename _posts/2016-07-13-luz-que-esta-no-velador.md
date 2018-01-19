@@ -14,7 +14,7 @@ categories:
   - Espírito Santo
 tags:
   - edicao-82
-authors:
+author:
   - Rosana Coelho Correa de Oliveira
 dsq_thread_id:
   - "4982855872"

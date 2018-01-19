@@ -17,7 +17,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

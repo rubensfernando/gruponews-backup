@@ -14,7 +14,7 @@ categories:
   - Desenvolvendo os dons proféticos
   - Espírito Santo
 tags: ""
-authors:
+author:
   - Ezequiel Netto
 aktt_notify_twitter:
   - 'yes'

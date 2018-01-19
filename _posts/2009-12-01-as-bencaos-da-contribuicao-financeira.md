@@ -32,7 +32,7 @@ tags:
   - Regular
   - Sobra
   - Sustentar
-authors:
+author:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

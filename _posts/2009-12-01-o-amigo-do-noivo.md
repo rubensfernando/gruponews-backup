@@ -23,7 +23,7 @@ tags:
   - Oração
   - Palavra
   - Preparar
-authors:
+author:
   - Clélia Arruda
 post_autor:
   - Clélia Arruda

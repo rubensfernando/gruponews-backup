@@ -29,7 +29,7 @@ tags:
   - Mal
   - Pais
   - Televisão
-authors:
+author:
   - Ivonete Camargo Pegnolazzo
 post_autor:
   - Ivonete Camargo Pegnolazzo

@@ -29,7 +29,7 @@ tags:
   - Simson
   - Wolfgang
   - Wolfgang Simson
-authors:
+author:
   - Wolfgang Simson
 post_autor:
   - Wolfgang Simson

@@ -23,7 +23,7 @@ tags:
   - onde est
   - princ
   - trindade
-authors:
+author:
   - Marina Venuto Silva
 aktt_notify_twitter:
   - 'yes'

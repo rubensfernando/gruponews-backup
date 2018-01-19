@@ -24,7 +24,7 @@ tags:
   - Unidade
   - Visão
   - Vontade
-authors:
+author:
   - Maurício Bronzatto
 post_autor:
   - Mauricio Bronzatto

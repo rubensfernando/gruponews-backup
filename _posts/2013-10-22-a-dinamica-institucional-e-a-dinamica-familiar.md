@@ -20,7 +20,7 @@ tags:
   - Igreja
   - igreja organica
   - Vida
-authors:
+author:
   - Wayne Jacobsen
 wpcf-gn_post_autor:
   - ""

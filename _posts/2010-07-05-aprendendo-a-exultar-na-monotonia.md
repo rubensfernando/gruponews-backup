@@ -14,7 +14,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-authors:
+author:
   - Renata Ribeiro Arruda
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

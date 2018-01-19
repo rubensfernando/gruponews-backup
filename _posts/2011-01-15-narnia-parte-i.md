@@ -26,7 +26,7 @@ tags:
   - mago
   - narnia
   - sobrinho
-authors:
+author:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

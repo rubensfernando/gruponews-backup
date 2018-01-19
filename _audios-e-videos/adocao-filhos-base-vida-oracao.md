@@ -12,7 +12,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-authors:
+author:
   - Pe Marcial Maçaneiro
 wpcf-gn_audiovideo_data:
   - "1377302400"

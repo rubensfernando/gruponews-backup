@@ -27,7 +27,7 @@ tags:
   - Preconceito
   - Transformação
   - Vida
-authors:
+author:
   - Paulo Silva
 post_autor:
   - Paulo Silva

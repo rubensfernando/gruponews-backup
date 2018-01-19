@@ -21,7 +21,7 @@ tags:
   - Governo
   - Nosso
   - suas
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

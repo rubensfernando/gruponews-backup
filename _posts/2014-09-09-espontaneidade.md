@@ -13,7 +13,7 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-49
-authors:
+author:
   - Ricardo Alexandre de Oliveira
 dsq_thread_id:
   - "3005465724"

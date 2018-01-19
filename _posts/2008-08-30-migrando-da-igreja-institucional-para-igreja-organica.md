@@ -23,7 +23,7 @@ tags:
   - igreja institucional
   - igreja organica
   - restauração da palavra
-authors:
+author:
   - Gerson Lima
 dsq_thread_id:
   - "2972952253"

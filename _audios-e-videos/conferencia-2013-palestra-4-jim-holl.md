@@ -20,7 +20,7 @@ tags:
   - liderança
   - orgânica
   - Vida
-authors:
+author:
   - Jim Holl
 wpcf-gn_audiovideo_data:
   - "1384473600"

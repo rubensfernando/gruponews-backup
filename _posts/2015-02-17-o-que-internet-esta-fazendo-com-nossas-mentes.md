@@ -16,7 +16,7 @@ categories:
   - Vida
 tags:
   - edicao-80
-authors:
+author:
   - Nicholas Carr
 wpcf-gn_post_destaques:
   - destaque_novidade

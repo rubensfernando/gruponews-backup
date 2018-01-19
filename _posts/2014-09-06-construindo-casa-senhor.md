@@ -14,7 +14,7 @@ categories:
   - Igreja nos lares
 tags:
   - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-authors:
+author:
   - Rosane Faria
 dsq_thread_id:
   - "3000728214"

@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-authors:
+author:
   - Ricardo Oliveira
 aktt_notify_twitter:
   - 'yes'

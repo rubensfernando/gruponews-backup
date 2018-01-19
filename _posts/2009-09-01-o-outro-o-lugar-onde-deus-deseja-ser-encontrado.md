@@ -28,7 +28,7 @@ tags:
   - novo
   - o outro
   - Proféticos
-authors:
+author:
   - Equipe GrupoNews
 post_autor:
   - Equipe Comunicação

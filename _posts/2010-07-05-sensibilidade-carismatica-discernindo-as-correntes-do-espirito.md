@@ -15,7 +15,7 @@ categories:
   - Desenvolvendo os dons proféticos
   - Espírito Santo
 tags: ""
-authors:
+author:
   - Ezequiel Netto
 wpcf-gn_post_autor:
   - Ezequiel Netto

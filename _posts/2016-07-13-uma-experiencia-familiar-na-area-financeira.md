@@ -16,7 +16,7 @@ categories:
   - Família
 tags:
   - edicao-82
-authors:
+author:
   - Elaine Gidzinski
 wpcf-gn_post_destaques:
   - destaque_novidade

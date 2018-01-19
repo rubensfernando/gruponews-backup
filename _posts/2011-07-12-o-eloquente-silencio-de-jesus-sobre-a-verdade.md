@@ -16,7 +16,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-authors:
+author:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'no'

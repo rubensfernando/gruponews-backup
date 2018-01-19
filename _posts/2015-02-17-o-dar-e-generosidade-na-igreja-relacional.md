@@ -16,7 +16,7 @@ categories:
   - Vivendo como igreja relacional
 tags:
   - edicao-80
-authors:
+author:
   - Wayne Jacobsen
 dsq_thread_id:
   - "3690516870"

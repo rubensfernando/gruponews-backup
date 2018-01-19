@@ -28,7 +28,7 @@ tags:
   - Restauração
   - Transformação
   - Vontade
-authors:
+author:
   - Juarez Gomes
 post_autor:
   - Juarez Gomes

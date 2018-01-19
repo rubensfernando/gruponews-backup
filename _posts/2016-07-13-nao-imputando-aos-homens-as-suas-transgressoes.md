@@ -16,7 +16,7 @@ categories:
   - Unidade
 tags:
   - edicao-82
-authors:
+author:
   - José Carlos Marion
 instant_articles_submission_id:
   - "292595067757988"

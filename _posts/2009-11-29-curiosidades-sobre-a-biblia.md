@@ -28,7 +28,7 @@ tags:
   - Testamento
   - Tradução
   - Versículos
-authors:
+author:
   - Sociedade Bíblica do Brasil
 post_autor:
   - Sociedade Bíblica do Brasil

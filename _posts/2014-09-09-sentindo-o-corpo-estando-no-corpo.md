@@ -15,7 +15,7 @@ categories:
 tags:
   - edicao-79
   - Testemunho
-authors:
+author:
   - Cátia Marquezino Lopes
 wpcf-gn_post_destaques:
   - destaque_novidade

@@ -11,7 +11,7 @@ permalink: audioevideo/horizontalidade-vida-oracao
 published: true
 categories: ""
 tags: ""
-authors:
+author:
   - Pedro Arruda
 wpcf-gn_audiovideo_data:
   - "1377302400"

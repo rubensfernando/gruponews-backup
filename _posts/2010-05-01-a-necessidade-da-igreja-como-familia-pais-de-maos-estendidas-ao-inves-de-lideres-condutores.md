@@ -27,7 +27,7 @@ tags:
   - paternidade
   - profético
   - Salvação
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

@@ -29,7 +29,7 @@ tags:
   - Reconciliação
   - União
   - vítimas
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

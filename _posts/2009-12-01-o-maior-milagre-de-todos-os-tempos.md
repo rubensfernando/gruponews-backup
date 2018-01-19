@@ -24,7 +24,7 @@ tags:
   - Restauração
   - Salvação
   - Vida
-authors:
+author:
   - Carlos Augusto
 post_autor:
   - Carlos Augusto

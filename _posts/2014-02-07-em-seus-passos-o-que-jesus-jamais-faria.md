@@ -21,7 +21,7 @@ tags:
   - errado
   - Jesus
   - passos
-authors:
+author:
   - Pablo Massolar
 wpcf-gn_post_autor:
   - ""

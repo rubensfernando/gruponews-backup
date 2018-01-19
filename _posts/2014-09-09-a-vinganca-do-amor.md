@@ -16,7 +16,7 @@ tags:
   - >
     ESTAS HISTÓRIAS... TU AS INCULCARÁS A
     TEUS FILHOS (cf. Dt 6:6-7)
-authors:
+author:
   - Pe. Léo
 dsq_thread_id:
   - "3003668326"

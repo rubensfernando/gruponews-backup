@@ -25,7 +25,7 @@ tags:
   - Livro
   - narnia
   - prata
-authors:
+author:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

@@ -15,7 +15,7 @@ categories:
 tags:
   - Conferência "A igreja do nosso tempo"
   - Evangelho
-authors:
+author:
   - Harold Walker
 wpcf-gn_post_destaques:
   - destaque_novidade

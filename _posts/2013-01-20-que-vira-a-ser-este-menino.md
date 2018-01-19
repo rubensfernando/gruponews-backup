@@ -13,7 +13,7 @@ categories:
   - Artigos
 tags:
   - edicao-73
-authors:
+author:
   - Pedro Arruda
 wpcf-gn_post_autor:
   - Pedro Arruda

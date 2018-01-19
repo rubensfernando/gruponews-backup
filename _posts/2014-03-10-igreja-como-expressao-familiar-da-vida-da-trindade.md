@@ -16,7 +16,7 @@ categories:
   - Geral
 tags:
   - edicao-75
-authors:
+author:
   - Pedro Arruda
 wpcf-gn_post_autor:
   - ""

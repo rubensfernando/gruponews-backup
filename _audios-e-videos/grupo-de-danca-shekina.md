@@ -19,7 +19,7 @@ tags:
   - festin
   - pelo
   - Shekina
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

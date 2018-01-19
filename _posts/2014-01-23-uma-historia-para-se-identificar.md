@@ -14,7 +14,7 @@ categories:
   - Geral
 tags:
   - deus
-authors:
+author:
   - Renata Ribeiro Arruda
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

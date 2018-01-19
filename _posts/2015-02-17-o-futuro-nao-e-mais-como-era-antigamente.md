@@ -17,7 +17,7 @@ categories:
 tags:
   - edicao-80
   - editorial
-authors:
+author:
   - Maurício Bronzatto
 wpcf-gn_post_destaques:
   - destaque_novidade

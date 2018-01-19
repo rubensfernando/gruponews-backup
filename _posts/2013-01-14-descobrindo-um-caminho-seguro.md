@@ -16,7 +16,7 @@ categories:
 tags:
   - deus
   - mensagem
-authors:
+author:
   - Ezequiel Netto
 wpcf-gn_post_autor:
   - Ezequiel Netto

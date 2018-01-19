@@ -33,7 +33,7 @@ tags:
   - Relacionamento
   - Templo
   - Transformação
-authors:
+author:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda
