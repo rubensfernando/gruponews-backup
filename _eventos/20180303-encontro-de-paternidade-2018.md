@@ -19,15 +19,15 @@ event:
   event_end_time: 23:59:59
   event_start_date: 2018-03-03
   event_end_date: 2018-03-04
-  post_content: null
+  post_content: ""
   event_rsvp: "0"
   event_spaces: null
-  location_id: "0"
+  location_id: "4"
   recurrence_id: null
   event_category_id: null
   event_attributes: null
   event_date_created: 2018-01-14 09:46:26
-  event_date_modified: null
+  event_date_modified: 2018-01-19 10:23:16
   recurrence: null
   recurrence_interval: null
   recurrence_freq: null
@@ -48,5 +48,7 @@ tags: ""
 author: ""
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2018-01-01 09:43:05
 ---
