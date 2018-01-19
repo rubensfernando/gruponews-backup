@@ -27,7 +27,7 @@ event:
   event_category_id: null
   event_attributes: null
   event_date_created: 2018-01-14 09:46:26
-  event_date_modified: 2018-01-19 10:38:36
+  event_date_modified: 2018-01-19 10:40:58
   recurrence: null
   recurrence_interval: null
   recurrence_freq: null
