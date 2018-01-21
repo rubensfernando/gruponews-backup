@@ -27,7 +27,7 @@ event:
   event_category_id: null
   event_attributes: null
   event_date_created: 2018-01-14 09:46:26
-  event_date_modified: 2018-01-19 10:51:10
+  event_date_modified: 2018-01-20 23:48:11
   recurrence: null
   recurrence_interval: null
   recurrence_freq: null
@@ -64,6 +64,8 @@ location:
   blog_id: "0"
   location_status: "1"
   location_private: "0"
+  latitude: "-23.488098"
+  longitude: "-47.386986"
 categories: ""
 tags: ""
 author: ""
