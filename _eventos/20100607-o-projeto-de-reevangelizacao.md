@@ -80,6 +80,8 @@ location:
   blog_id: "0"
   location_status: "1"
   location_private: "0"
+  latitude: "-23.513412"
+  longitude: "-46.879265"
 categories:
   - Notícias
 tags:

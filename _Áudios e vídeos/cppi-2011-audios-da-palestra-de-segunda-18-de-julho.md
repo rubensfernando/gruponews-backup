@@ -58,7 +58,7 @@ wpcf-gn_post_destaques:
 dsq_thread_id:
   - "2802546098"
 amazonS3_cache:
-  - 'a:4:{s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/AngeloBazzo18072011Manha.mp3|titles=AngeloBazzo18072011Manha";a:1:{s:9:"timestamp";i:1516363727;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/ElizaWalker18072011Manha.mp3|titles=ElizaWalker18072011Manha";a:1:{s:9:"timestamp";i:1516363727;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/RomiltonBatista18072011Tarde.mp3|titles=RomiltonBatista18072011Tarde";a:1:{s:9:"timestamp";i:1516363727;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/JonatasWalker18072011Noite.mp3|titles=JonatasWalker18072011Noite";a:1:{s:9:"timestamp";i:1516363727;}}'
+  - 'a:4:{s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/AngeloBazzo18072011Manha.mp3|titles=AngeloBazzo18072011Manha";a:1:{s:9:"timestamp";i:1517834255;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/ElizaWalker18072011Manha.mp3|titles=ElizaWalker18072011Manha";a:1:{s:9:"timestamp";i:1517834255;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/RomiltonBatista18072011Tarde.mp3|titles=RomiltonBatista18072011Tarde";a:1:{s:9:"timestamp";i:1517834255;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/JonatasWalker18072011Noite.mp3|titles=JonatasWalker18072011Noite";a:1:{s:9:"timestamp";i:1517834255;}}'
 post_date: 2011-07-21 12:05:04
 ---
 Confira as palestras ministradas no dia 18 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba.

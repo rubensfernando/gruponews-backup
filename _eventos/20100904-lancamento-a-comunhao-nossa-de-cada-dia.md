@@ -90,6 +90,8 @@ location:
   blog_id: "0"
   location_status: "1"
   location_private: "0"
+  latitude: "-23.495562"
+  longitude: "-46.868668"
 categories:
   - Geral
 tags:

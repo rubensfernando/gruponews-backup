@@ -98,6 +98,8 @@ location:
   blog_id: "0"
   location_status: "1"
   location_private: "0"
+  latitude: "-23.488098"
+  longitude: "-47.386986"
 categories: ""
 tags:
   - deus
