@@ -10,7 +10,7 @@ layout: post
 permalink: ?p=5071
 published: false
 categories:
-  - Geral
+  - Notícias
 tags: ""
 author: ""
 ---
