@@ -1,6 +1,6 @@
 ---
 ID: 5077
-title: teste
+title: E
 image-xl: ""
 image-l: ""
 image-sq-l: ""
@@ -19,7 +19,7 @@ event:
   event_end_time: 00:00:00
   event_start_date: null
   event_end_date: null
-  post_content: null
+  post_content: ""
   event_rsvp: "0"
   event_spaces: null
   location_id: "0"
@@ -27,7 +27,7 @@ event:
   event_category_id: null
   event_attributes: null
   event_date_created: 2018-02-08 10:41:50
-  event_date_modified: null
+  event_date_modified: 2018-02-08 10:42:17
   recurrence: null
   recurrence_interval: null
   recurrence_freq: null
@@ -48,4 +48,6 @@ tags: ""
 author: ""
 slide_template:
   - default
+wpcf-gn_post_destaques:
+  - destaque_novidade
 ---
